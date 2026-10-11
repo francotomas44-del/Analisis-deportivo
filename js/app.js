@@ -6,6 +6,7 @@
   var S = window.AD.store;
   var ST = window.AD.stats;
   var M = window.AD.metrics;
+  var DS = window.AD.dataset;
 
   var lastAnalysis = null; // resultado del último análisis (para guardar)
 
@@ -74,21 +75,49 @@
   }
 
   /* ---------- equipos ---------- */
+  /* Agregados por equipo en una sola pasada (rápido con miles de partidos) */
+  function buildTeamAggregates() {
+    var agg = {};
+    function get(id) { return agg[id] || (agg[id] = { matches: 0, gf: 0, ga: 0, cornerForSum: 0, cornerForN: 0, cardForSum: 0, cardForN: 0 }); }
+    var ms = S.state.matches;
+    for (var i = 0; i < ms.length; i++) {
+      var m = ms[i];
+      var h = get(m.homeId), a = get(m.awayId);
+      h.matches++; a.matches++;
+      h.gf += m.homeGoals; h.ga += m.awayGoals;
+      a.gf += m.awayGoals; a.ga += m.homeGoals;
+      if (typeof m.homeCorners === "number" && typeof m.awayCorners === "number") {
+        h.cornerForSum += m.homeCorners; h.cornerForN++;
+        a.cornerForSum += m.awayCorners; a.cornerForN++;
+      }
+      if (typeof m.homeCards === "number" && typeof m.awayCards === "number") {
+        h.cardForSum += m.homeCards; h.cardForN++;
+        a.cardForSum += m.awayCards; a.cardForN++;
+      }
+    }
+    return agg;
+  }
+
   function renderEquipos() {
     var st = S.state;
     var host = $("tabla-equipos");
     if (!st.teams.length) { host.innerHTML = '<p class="empty">Todavía no cargaste equipos.</p>'; return; }
 
+    var agg = buildTeamAggregates();
     var rows = st.teams.map(function (t) {
-      var s = ST.teamStats(t.id, st.matches, 0);
+      var s = agg[t.id] || { matches: 0 };
+      var gf = s.matches ? (s.gf / s.matches) : 0;
+      var ga = s.matches ? (s.ga / s.matches) : 0;
+      var cf = s.cornerForN ? (s.cornerForSum / s.cornerForN) : null;
+      var kf = s.cardForN ? (s.cardForSum / s.cardForN) : null;
       return "<tr>" +
         "<td><strong>" + esc(t.name) + "</strong><br><span class='muted'>" + esc(t.league || "—") +
         (t.formedYear ? " · fund. " + t.formedYear : "") + "</span></td>" +
         "<td>" + s.matches + "</td>" +
-        "<td>" + (s.matches ? num2(s.goalsForAvg) : "—") + "</td>" +
-        "<td>" + (s.matches ? num2(s.goalsAgainstAvg) : "—") + "</td>" +
-        "<td>" + (s.cornersFor != null ? num2(s.cornersFor) : "—") + "</td>" +
-        "<td>" + (s.cardsFor != null ? num2(s.cardsFor) : "—") + "</td>" +
+        "<td>" + (s.matches ? num2(gf) : "—") + "</td>" +
+        "<td>" + (s.matches ? num2(ga) : "—") + "</td>" +
+        "<td>" + (cf != null ? num2(cf) : "—") + "</td>" +
+        "<td>" + (kf != null ? num2(kf) : "—") + "</td>" +
         '<td><button class="btn btn-mini btn-danger-ghost" data-action="del-team" data-id="' + t.id + '">Eliminar</button></td>' +
         "</tr>";
     }).join("");
@@ -118,15 +147,33 @@
       : "";
   }
 
+  var PARTIDOS_LIMIT = 300; // límite de filas renderizadas (con miles de partidos)
+
   function renderPartidos() {
     var st = S.state;
     var host = $("tabla-partidos");
-    if (!st.matches.length) { host.innerHTML = '<p class="empty">Todavía no registraste partidos.</p>'; return; }
+    var nota = $("partidos-nota");
+    if (!st.matches.length) {
+      host.innerHTML = '<p class="empty">Todavía no registraste partidos.</p>';
+      if (nota) nota.textContent = "";
+      return;
+    }
 
-    var rows = st.matches.slice().sort(function (a, b) {
-      if (a.date === b.date) return 0;
-      return a.date < b.date ? 1 : -1;
-    }).map(function (m) {
+    var f = $("partidos-filtro") && $("partidos-filtro").value
+      ? $("partidos-filtro").value.trim().toLowerCase() : "";
+    var teamName = {};
+    st.teams.forEach(function (t) { teamName[t.id] = (t.name || "").toLowerCase(); });
+
+    var list = st.matches.filter(function (m) {
+      if (!f) return true;
+      var hn = teamName[m.homeId] || "", an = teamName[m.awayId] || "";
+      return hn.indexOf(f) > -1 || an.indexOf(f) > -1 || (m.competition || "").toLowerCase().indexOf(f) > -1;
+    });
+    list.sort(function (a, b) { if (a.date === b.date) return 0; return a.date < b.date ? 1 : -1; });
+
+    var total = list.length;
+    var shown = list.slice(0, PARTIDOS_LIMIT);
+    var rows = shown.map(function (m) {
       var h = S.getTeam(m.homeId), a = S.getTeam(m.awayId);
       var hn = h ? h.name : "?";
       var an = a ? a.name : "?";
@@ -146,6 +193,12 @@
     host.innerHTML = '<div class="table-wrap"><table><thead><tr>' +
       "<th>Fecha</th><th>Local</th><th>Resultado</th><th>Visitante</th><th>Córners</th><th>Tarjetas</th><th></th>" +
       "</tr></thead><tbody>" + rows + "</tbody></table></div>";
+
+    if (nota) {
+      nota.textContent = "Mostrando " + shown.length.toLocaleString("es") + " de " + total.toLocaleString("es") +
+        " partidos" + (f ? " (filtro: «" + f + "»)" : "") +
+        (total > PARTIDOS_LIMIT ? ". Afiná el filtro para ver otros." : ".");
+    }
   }
 
   /* ---------- análisis: motor ---------- */
@@ -346,7 +399,7 @@
         '<p class="muted">Resultados ya ocurridos (categoría A). Cuantos más cruces cargues, más sólida es esta lectura.</p></div>';
     } else {
       h2hPanel = '<div class="panel"><h2>Enfrentamientos directos (historial)</h2>' +
-        '<p class="muted">No hay cruces registrados entre estos equipos en tu base. Importá historial (pestaña <strong>Importar</strong>) para verlo aquí.</p></div>';
+        '<p class="muted">No hay cruces registrados entre estos equipos en la base.</p></div>';
     }
 
     $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + h2hPanel + ctx;
@@ -604,6 +657,46 @@
   }
 
   function setBackupStatus(msg) { var el = $("backup-status"); if (el) el.textContent = msg; }
+  function setBaseStatus(msg) { var el = $("base-status"); if (el) el.textContent = msg; }
+
+  function setOverlay(show, msg, frac) {
+    var ov = $("base-overlay");
+    if (!ov) return;
+    ov.style.display = show ? "flex" : "none";
+    if (msg != null) { var m = $("base-overlay-msg"); if (m) m.textContent = msg; }
+    if (frac != null) { var f = $("base-overlay-fill"); if (f) f.style.width = (Math.max(0, Math.min(1, frac)) * 100).toFixed(1) + "%"; }
+  }
+
+  /* Carga (o recarga) la base histórica integrada. */
+  function loadBase(silent) {
+    if (DS.isLoading()) return Promise.resolve();
+    if (!silent && (S.state.teams.length || S.state.matches.length) &&
+        !confirm("Esto reemplaza los datos actuales por la base histórica completa. ¿Continuar?")) return Promise.resolve();
+
+    var btns = [$("btn-load-base"), $("btn-load-base-home")].filter(function (b) { return !!b; });
+    btns.forEach(function (b) { b.disabled = true; });
+    setOverlay(true, "Preparando…", 0);
+
+    return S.reset().then(function () {
+      return DS.load(function (done, total, matches) {
+        setOverlay(true, "Leyendo " + done + " de " + total + " archivos · " + matches.toLocaleString("es") + " partidos…", done / total);
+      });
+    }).then(function (res) {
+      setOverlay(false);
+      refreshAll();
+      var msg = "Base cargada: " + res.totalTeams.toLocaleString("es") + " equipos/selecciones, " +
+        res.totalComps + " competiciones, " + res.totalMatches.toLocaleString("es") + " partidos.";
+      if (res.filesFailed) msg += " (" + res.filesFailed + " archivos no se pudieron leer)";
+      setBaseStatus(msg);
+      return res;
+    }).catch(function (e) {
+      setOverlay(false);
+      setBaseStatus("No se pudo cargar la base: " + (e && e.message ? e.message : e));
+    }).then(function (x) {
+      btns.forEach(function (b) { b.disabled = false; });
+      return x;
+    });
+  }
 
   /* ---------- acciones globales ---------- */
   function refreshAll() {
@@ -788,16 +881,21 @@
       if (document.visibilityState === "hidden") flush();
     });
 
-    // datos de ejemplo / borrar
-    $("btn-demo").addEventListener("click", function () {
-      if (S.state.teams.length && !confirm("Esto reemplaza tus datos actuales por la liga de ejemplo. ¿Continuar?")) return;
-      S.loadDemo().then(function () { refreshAll(); showView("inicio"); });
+    // base histórica / borrar todo
+    [$("btn-load-base"), $("btn-load-base-home")].forEach(function (b) {
+      if (b) b.addEventListener("click", function () { loadBase(false); });
     });
+
+    // filtro del historial de partidos
+    var pfiltro = $("partidos-filtro");
+    if (pfiltro) pfiltro.addEventListener("input", function () { renderPartidos(); });
+
     $("btn-wipe").addEventListener("click", function () {
       if (!confirm("¿Borrar TODOS los equipos, partidos y predicciones?")) return;
       S.reset();
       resetAnalysis();
       $("resultado-analisis").innerHTML = "";
+      setBaseStatus("");
       refreshAll();
       showView("inicio");
     });
@@ -805,7 +903,14 @@
     document.addEventListener("ad:data-changed", refreshAll);
 
     // carga inicial desde IndexedDB (o localStorage)
-    S.init().then(function () { refreshAll(); updateSaveIndicator(); });
+    S.init().then(function () {
+      refreshAll();
+      updateSaveIndicator();
+      // Primera vez (base vacía): cargar automáticamente la base histórica integrada.
+      if (S.state.matches.length === 0 && S.state.teams.length === 0) {
+        loadBase(true);
+      }
+    });
     showView("inicio");
   }
 

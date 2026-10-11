@@ -338,6 +338,52 @@
     return { added: added, skipped: skipped, teamsAdded: teamsAdded, refereesAdded: refsAdded };
   }
 
+  /* ---------- carga masiva (base histórica) ----------
+     Eficiente: usa índices por nombre en memoria (O(n) en total, no O(n²)).
+     rows: [{date, competition, home, away, homeGoals, awayGoals, externalId}] */
+  function importBulk(rows, source) {
+    var byName = {};
+    state.teams.forEach(function (t) { var k = norm(t.name); if (!(k in byName)) byName[k] = t; });
+    var byComp = {};
+    state.competitions.forEach(function (c) { var k = norm(c.name); if (!(k in byComp)) byComp[k] = c; });
+
+    var added = 0, teamsAdded = 0;
+    for (var i = 0; i < rows.length; i++) {
+      var r = rows[i];
+      if (!r || !r.home || !r.away) continue;
+      if (r.homeGoals == null || r.awayGoals == null) continue;
+      var hk = norm(r.home), ak = norm(r.away);
+      if (!hk || !ak || hk === ak) continue;
+
+      var ht = byName[hk];
+      if (!ht) { ht = { id: uid(), name: String(r.home).trim(), league: r.competition || "", formedYear: null, external: {} }; state.teams.push(ht); byName[hk] = ht; teamsAdded++; }
+      var at = byName[ak];
+      if (!at) { at = { id: uid(), name: String(r.away).trim(), league: r.competition || "", formedYear: null, external: {} }; state.teams.push(at); byName[ak] = at; teamsAdded++; }
+
+      var comp = null;
+      if (r.competition) {
+        var ck = norm(r.competition);
+        comp = byComp[ck];
+        if (!comp) { comp = { id: uid(), name: r.competition, code: "", external: {} }; state.competitions.push(comp); byComp[ck] = comp; }
+      }
+
+      state.matches.push(buildMatch({
+        date: r.date || "",
+        competition: r.competition || "",
+        competitionId: comp ? comp.id : null,
+        homeId: ht.id,
+        awayId: at.id,
+        homeGoals: r.homeGoals,
+        awayGoals: r.awayGoals,
+        source: source || "bulk",
+        externalId: r.externalId != null ? String(r.externalId) : null
+      }));
+      added++;
+    }
+    saveNow();
+    return { added: added, teamsAdded: teamsAdded, teams: state.teams.length, matches: state.matches.length };
+  }
+
   /* ---------- predicciones ---------- */
   function addPrediction(p) {
     var pred = {
@@ -449,6 +495,7 @@
     hasMatchKey: hasMatchKey,
     importMatch: importMatch,
     importMatches: importMatches,
+    importBulk: importBulk,
     replaceState: replaceState,
     getLastSavedAt: function () { return lastSavedAt; },
     setOnSaved: function (fn) { onSavedCb = fn; },

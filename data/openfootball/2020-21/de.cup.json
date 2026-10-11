@@ -1,0 +1,1148 @@
+{
+  "name": "DFB Pokal 2020/21",
+  "matches": [
+    {
+      "round": "Round 1",
+      "date": "2020-09-11",
+      "time": "20:45",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Hertha BSC",
+      "score": {
+        "ht": [
+          3,
+          2
+        ],
+        "ft": [
+          5,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-11",
+      "time": "20:45",
+      "team1": "TSV Havelse",
+      "team2": "1. FSV Mainz 05",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "1. FC Nürnberg",
+      "team2": "RB Leipzig",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "SV Todesfelde",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "TSV 1860 München",
+      "team2": "Eintracht Frankfurt",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "MTV Eintracht Celle",
+      "team2": "FC Augsburg",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "FV Engers 07",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "Union Fürstenwalde",
+      "team2": "VfL Wolfsburg",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "FC Oberneuland",
+      "team2": "Bor. Mönchengladbach",
+      "score": {
+        "ht": [
+          0,
+          5
+        ],
+        "ft": [
+          0,
+          8
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "RSV Meinerzhagen",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "15:30",
+      "team1": "VSG Altglienicke",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "18:30",
+      "team1": "SSV Ulm 1846",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "18:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Fortuna Düsseldorf",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "18:30",
+      "team1": "Karlsruher SC",
+      "team2": "1. FC Union Berlin",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "20:45",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Werder Bremen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "Chemnitzer FC",
+      "team2": "1899 Hoffenheim",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "1. FC Rielasingen-Arlen",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          1,
+          5
+        ],
+        "ft": [
+          1,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "Hansa Rostock",
+      "team2": "VfB Stuttgart",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "TSV Steinbach Haiger",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "SV 07 Elversberg",
+      "team2": "FC St. Pauli",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "Eintracht Norderstedt",
+      "team2": "Bayer Leverkusen",
+      "score": {
+        "ht": [
+          0,
+          6
+        ],
+        "ft": [
+          0,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          1
+        ],
+        "p": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "15:30",
+      "team1": "SC Wiedenbrück",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "18:30",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "18:30",
+      "team1": "Waldhof Mannheim",
+      "team2": "SC Freiburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-13",
+      "time": "18:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-14",
+      "time": "18:30",
+      "team1": "Würzburger Kickers",
+      "team2": "Hannover 96",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-14",
+      "time": "18:30",
+      "team1": "Rot-Weiss Essen",
+      "team2": "Arminia Bielefeld",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-14",
+      "time": "20:45",
+      "team1": "MSV Duisburg",
+      "team2": "Borussia Dortmund",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-14",
+      "time": "18:30",
+      "team1": "Dynamo Dresden",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-10-15",
+      "time": "20:45",
+      "team1": "1. FC Düren",
+      "team2": "Bayern München",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-11-03",
+      "time": "16:30",
+      "team1": "1. FC Schweinfurt 05",
+      "team2": "FC Schalke 04",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "18:30",
+      "team1": "SSV Ulm 1846",
+      "team2": "FC Schalke 04",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "18:30",
+      "team1": "1. FC Köln",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "18:30",
+      "team1": "FC Augsburg",
+      "team2": "RB Leipzig",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "18:30",
+      "team1": "1899 Hoffenheim",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "20:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Borussia Dortmund",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "20:45",
+      "team1": "SV 07 Elversberg",
+      "team2": "Bor. Mönchengladbach",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "20:45",
+      "team1": "Dynamo Dresden",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-22",
+      "time": "20:45",
+      "team1": "1. FC Union Berlin",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-23",
+      "time": "18:30",
+      "team1": "VfL Wolfsburg",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-23",
+      "time": "20:45",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          0,
+          0
+        ],
+        "p": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-23",
+      "time": "20:45",
+      "team1": "VfB Stuttgart",
+      "team2": "SC Freiburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-23",
+      "time": "20:45",
+      "team1": "Hannover 96",
+      "team2": "Werder Bremen",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-23",
+      "time": "20:45",
+      "team1": "1. FSV Mainz 05",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-12-23",
+      "time": "18:30",
+      "team1": "Rot-Weiss Essen",
+      "team2": "Fortuna Düsseldorf",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2021-01-12",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen",
+      "team2": "Eintracht Frankfurt",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2021-01-13",
+      "time": "20:45",
+      "team1": "Holstein Kiel",
+      "team2": "Bayern München",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          6,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-02",
+      "time": "18:30",
+      "team1": "Holstein Kiel",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          1
+        ],
+        "p": [
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-02",
+      "time": "20:45",
+      "team1": "Werder Bremen",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-02",
+      "time": "20:45",
+      "team1": "Borussia Dortmund",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-02",
+      "time": "18:30",
+      "team1": "Rot-Weiss Essen",
+      "team2": "Bayer Leverkusen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-03",
+      "time": "18:30",
+      "team1": "VfL Wolfsburg",
+      "team2": "FC Schalke 04",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-03",
+      "time": "18:30",
+      "team1": "RB Leipzig",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-03",
+      "time": "20:45",
+      "team1": "Jahn Regensburg",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2021-02-03",
+      "time": "20:45",
+      "team1": "VfB Stuttgart",
+      "team2": "Bor. Mönchengladbach",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-03-02",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach",
+      "team2": "Borussia Dortmund",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "RB Leipzig",
+      "team2": "VfL Wolfsburg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-03-03",
+      "time": "18:30",
+      "team1": "Rot-Weiss Essen",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-04-07",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
+      "team2": "Werder Bremen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2021-04-30",
+      "time": "20:30",
+      "team1": "Werder Bremen",
+      "team2": "RB Leipzig",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2021-05-01",
+      "time": "20:30",
+      "team1": "Borussia Dortmund",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          5,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Final",
+      "date": "2021-05-13",
+      "time": "20:45",
+      "team1": "RB Leipzig",
+      "team2": "Borussia Dortmund",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    }
+  ]
+}

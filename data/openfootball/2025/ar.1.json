@@ -1,0 +1,3881 @@
+{
+  "name": "Argentina Primera Division 2025",
+  "matches": [
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-23",
+      "time": "19:00",
+      "team1": "Tigre",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-23",
+      "time": "19:00",
+      "team1": "Godoy Cruz",
+      "team2": "Rosario Central",
+      "score": {
+        "ft": [
+          0,
+          3
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-23",
+      "time": "21:30",
+      "team1": "Newell's Old Boys",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-23",
+      "time": "21:30",
+      "team1": "Defensa y Justicia",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-23",
+      "time": "21:30",
+      "team1": "Lanús",
+      "team2": "Deportivo Riestra",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-24",
+      "time": "17:00",
+      "team1": "Barracas Central",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          1,
+          3
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-24",
+      "time": "19:15",
+      "team1": "Independiente",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-24",
+      "time": "21:00",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-24",
+      "time": "21:30",
+      "team1": "San Martín de San Juan",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-25",
+      "time": "17:00",
+      "team1": "San Lorenzo",
+      "team2": "Talleres de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-25",
+      "time": "19:15",
+      "team1": "Estudiantes",
+      "team2": "Unión de Santa Fe",
+      "score": {
+        "ft": [
+          3,
+          1
+        ],
+        "ht": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-25",
+      "time": "19:15",
+      "team1": "Instituto de Córdoba",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-25",
+      "time": "21:30",
+      "team1": "Platense",
+      "team2": "River Plate",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-26",
+      "time": "19:00",
+      "team1": "Boca Juniors",
+      "team2": "Argentinos Juniors",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 1",
+      "date": "2025-01-26",
+      "time": "21:00",
+      "team1": "Central Córdoba SdE",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-27",
+      "time": "20:00",
+      "team1": "Banfield",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-28",
+      "time": "17:00",
+      "team1": "Deportivo Riestra",
+      "team2": "San Martín de San Juan",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-28",
+      "time": "19:15",
+      "team1": "Rosario Central",
+      "team2": "Lanús",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-28",
+      "time": "19:15",
+      "team1": "Sarmiento de Junín",
+      "team2": "Godoy Cruz",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-28",
+      "time": "21:30",
+      "team1": "Independiente Rivadavia",
+      "team2": "Barracas Central",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-28",
+      "time": "21:30",
+      "team1": "Vélez Sarsfield",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-29",
+      "time": "17:00",
+      "team1": "Talleres de Córdoba",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          2,
+          3
+        ],
+        "ht": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-29",
+      "time": "17:00",
+      "team1": "Gimnasia de La Plata",
+      "team2": "San Lorenzo",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-29",
+      "time": "19:15",
+      "team1": "Huracán",
+      "team2": "Estudiantes",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-29",
+      "time": "19:15",
+      "team1": "Unión de Santa Fe",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-29",
+      "time": "21:30",
+      "team1": "River Plate",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-30",
+      "time": "17:00",
+      "team1": "Aldosivi",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          0,
+          5
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-30",
+      "time": "19:15",
+      "team1": "Racing Club",
+      "team2": "Belgrano de Córdoba",
+      "score": {
+        "ft": [
+          4,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-30",
+      "time": "21:30",
+      "team1": "Argentinos Juniors",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 2",
+      "date": "2025-01-30",
+      "time": "21:30",
+      "team1": "Central Córdoba SdE",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-01",
+      "time": "17:00",
+      "team1": "Barracas Central",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-01",
+      "time": "19:00",
+      "team1": "San Martín de San Juan",
+      "team2": "Rosario Central",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-01",
+      "time": "21:00",
+      "team1": "Lanús",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-02",
+      "time": "17:00",
+      "team1": "San Lorenzo",
+      "team2": "River Plate",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-02",
+      "time": "19:15",
+      "team1": "Boca Juniors",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-02",
+      "time": "19:15",
+      "team1": "Newell's Old Boys",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-02",
+      "time": "21:30",
+      "team1": "Instituto de Córdoba",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-02",
+      "time": "21:30",
+      "team1": "Independiente",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-03",
+      "time": "17:00",
+      "team1": "Defensa y Justicia",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-03",
+      "time": "19:15",
+      "team1": "Tigre",
+      "team2": "Unión de Santa Fe",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-03",
+      "time": "19:15",
+      "team1": "Estudiantes",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-03",
+      "time": "21:30",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          0,
+          3
+        ],
+        "ht": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-03",
+      "time": "21:30",
+      "team1": "Argentinos Juniors",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-02-04",
+      "time": "21:00",
+      "team1": "Atlético Tucumán",
+      "team2": "Deportivo Riestra",
+      "score": {
+        "ft": [
+          0,
+          3
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 3",
+      "date": "2025-03-22",
+      "time": "17:00",
+      "team1": "Godoy Cruz",
+      "team2": "Talleres de Córdoba",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-06",
+      "time": "17:00",
+      "team1": "Aldosivi",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          1,
+          3
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-06",
+      "time": "20:00",
+      "team1": "Sarmiento de Junín",
+      "team2": "San Martín de San Juan",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-07",
+      "time": "17:45",
+      "team1": "Banfield",
+      "team2": "Belgrano de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-07",
+      "time": "20:00",
+      "team1": "Central Córdoba SdE",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-07",
+      "time": "20:00",
+      "team1": "Huracán",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-07",
+      "time": "22:15",
+      "team1": "Independiente Rivadavia",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          2,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-07",
+      "time": "22:15",
+      "team1": "Unión de Santa Fe",
+      "team2": "Argentinos Juniors",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-08",
+      "time": "18:00",
+      "team1": "Vélez Sarsfield",
+      "team2": "San Lorenzo",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-08",
+      "time": "19:30",
+      "team1": "Rosario Central",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          3,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-08",
+      "time": "20:15",
+      "team1": "River Plate",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-08",
+      "time": "22:15",
+      "team1": "Racing Club",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-09",
+      "time": "17:00",
+      "team1": "Platense",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-09",
+      "time": "17:00",
+      "team1": "Deportivo Riestra",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-09",
+      "time": "19:15",
+      "team1": "Gimnasia de La Plata",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 4",
+      "date": "2025-02-09",
+      "time": "21:30",
+      "team1": "Talleres de Córdoba",
+      "team2": "Lanús",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-11",
+      "time": "17:45",
+      "team1": "Barracas Central",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          3,
+          3
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-11",
+      "time": "20:00",
+      "team1": "Boca Juniors",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-11",
+      "time": "20:00",
+      "team1": "Estudiantes",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-11",
+      "time": "22:15",
+      "team1": "Tigre",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-11",
+      "time": "22:15",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-12",
+      "time": "17:00",
+      "team1": "Deportivo Riestra",
+      "team2": "Rosario Central",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-12",
+      "time": "17:45",
+      "team1": "Newell's Old Boys",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-12",
+      "time": "20:00",
+      "team1": "Argentinos Juniors",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-12",
+      "time": "20:00",
+      "team1": "Independiente",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-12",
+      "time": "22:15",
+      "team1": "Godoy Cruz",
+      "team2": "River Plate",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-13",
+      "time": "17:45",
+      "team1": "Lanús",
+      "team2": "Gimnasia de La Plata",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-13",
+      "time": "20:00",
+      "team1": "San Lorenzo",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-13",
+      "time": "20:00",
+      "team1": "San Martín de San Juan",
+      "team2": "Talleres de Córdoba",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-13",
+      "time": "22:15",
+      "team1": "Atlético Tucumán",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          5,
+          0
+        ],
+        "ht": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 5",
+      "date": "2025-02-13",
+      "time": "22:15",
+      "team1": "Unión de Santa Fe",
+      "team2": "Instituto de Córdoba",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-14",
+      "time": "20:00",
+      "team1": "Banfield",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-15",
+      "time": "17:00",
+      "team1": "Defensa y Justicia",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-15",
+      "time": "17:00",
+      "team1": "Aldosivi",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          2,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-15",
+      "time": "19:15",
+      "team1": "Central Córdoba SdE",
+      "team2": "Belgrano de Córdoba",
+      "score": {
+        "ft": [
+          4,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-15",
+      "time": "19:15",
+      "team1": "Independiente Rivadavia",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          1,
+          4
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-15",
+      "time": "21:30",
+      "team1": "Racing Club",
+      "team2": "Argentinos Juniors",
+      "score": {
+        "ft": [
+          2,
+          3
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-16",
+      "time": "17:00",
+      "team1": "Newell's Old Boys",
+      "team2": "Rosario Central",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-16",
+      "time": "19:15",
+      "team1": "River Plate",
+      "team2": "Lanús",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-16",
+      "time": "21:30",
+      "team1": "Huracán",
+      "team2": "Unión de Santa Fe",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-16",
+      "time": "21:30",
+      "team1": "Talleres de Córdoba",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-17",
+      "time": "17:00",
+      "team1": "Sarmiento de Junín",
+      "team2": "Deportivo Riestra",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-17",
+      "time": "17:00",
+      "team1": "Gimnasia de La Plata",
+      "team2": "San Martín de San Juan",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-17",
+      "time": "19:15",
+      "team1": "Platense",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-17",
+      "time": "21:30",
+      "team1": "Vélez Sarsfield",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 6",
+      "date": "2025-02-17",
+      "time": "21:30",
+      "team1": "Instituto de Córdoba",
+      "team2": "San Lorenzo",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-21",
+      "time": "17:00",
+      "team1": "Deportivo Riestra",
+      "team2": "Talleres de Córdoba",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-21",
+      "time": "19:15",
+      "team1": "Estudiantes",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          3,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-21",
+      "time": "19:15",
+      "team1": "Godoy Cruz",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-21",
+      "time": "21:30",
+      "team1": "Lanús",
+      "team2": "Vélez Sarsfield",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-22",
+      "time": "18:00",
+      "team1": "Independiente",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-22",
+      "time": "19:30",
+      "team1": "Boca Juniors",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-22",
+      "time": "21:30",
+      "team1": "San Martín de San Juan",
+      "team2": "River Plate",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-22",
+      "time": "21:45",
+      "team1": "Rosario Central",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-23",
+      "time": "18:00",
+      "team1": "Huracán",
+      "team2": "San Lorenzo",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-23",
+      "time": "21:00",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-23",
+      "time": "21:00",
+      "team1": "Atlético Tucumán",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-24",
+      "time": "17:00",
+      "team1": "Barracas Central",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-24",
+      "time": "19:00",
+      "team1": "Argentinos Juniors",
+      "team2": "Independiente Rivadavia",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-02-24",
+      "time": "21:00",
+      "team1": "Tigre",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 7",
+      "date": "2025-03-20",
+      "time": "21:00",
+      "team1": "Unión de Santa Fe",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-02-28",
+      "time": "20:00",
+      "team1": "Boca Juniors",
+      "team2": "Rosario Central",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-02-28",
+      "time": "22:15",
+      "team1": "Central Córdoba SdE",
+      "team2": "Deportivo Riestra",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-02-28",
+      "time": "22:15",
+      "team1": "San Martín de San Juan",
+      "team2": "Belgrano de Córdoba",
+      "score": {
+        "ft": [
+          3,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-01",
+      "time": "17:00",
+      "team1": "Aldosivi",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          2,
+          2
+        ],
+        "ht": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-01",
+      "time": "19:15",
+      "team1": "River Plate",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-01",
+      "time": "21:30",
+      "team1": "Unión de Santa Fe",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-01",
+      "time": "21:30",
+      "team1": "Talleres de Córdoba",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-02",
+      "time": "17:00",
+      "team1": "Independiente Rivadavia",
+      "team2": "Lanús",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-02",
+      "time": "17:00",
+      "team1": "Argentinos Juniors",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-02",
+      "time": "19:15",
+      "team1": "Vélez Sarsfield",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-03",
+      "time": "17:00",
+      "team1": "Barracas Central",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-03",
+      "time": "19:00",
+      "team1": "San Lorenzo",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          3,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-03",
+      "time": "21:00",
+      "team1": "Atlético Tucumán",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-04",
+      "time": "19:30",
+      "team1": "Banfield",
+      "team2": "Independiente",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 8",
+      "date": "2025-03-04",
+      "time": "20:00",
+      "team1": "Platense",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-07",
+      "time": "19:00",
+      "team1": "Banfield",
+      "team2": "Argentinos Juniors",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-07",
+      "time": "19:00",
+      "team1": "Vélez Sarsfield",
+      "team2": "San Martín de San Juan",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-07",
+      "time": "21:15",
+      "team1": "Central Córdoba SdE",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          0,
+          3
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-08",
+      "time": "17:00",
+      "team1": "San Lorenzo",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-08",
+      "time": "19:15",
+      "team1": "Racing Club",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-08",
+      "time": "21:30",
+      "team1": "Platense",
+      "team2": "Lanús",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-08",
+      "time": "21:30",
+      "team1": "Sarmiento de Junín",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-09",
+      "time": "17:00",
+      "team1": "Defensa y Justicia",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-09",
+      "time": "17:00",
+      "team1": "Aldosivi",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-09",
+      "time": "19:15",
+      "team1": "River Plate",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-09",
+      "time": "21:30",
+      "team1": "Newell's Old Boys",
+      "team2": "Belgrano de Córdoba",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-09",
+      "time": "21:30",
+      "team1": "Instituto de Córdoba",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-10",
+      "time": "19:00",
+      "team1": "Gimnasia de La Plata",
+      "team2": "Deportivo Riestra",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-10",
+      "time": "21:15",
+      "team1": "Independiente Rivadavia",
+      "team2": "Unión de Santa Fe",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 9",
+      "date": "2025-03-10",
+      "time": "21:15",
+      "team1": "Talleres de Córdoba",
+      "team2": "Rosario Central",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-14",
+      "time": "19:00",
+      "team1": "Argentinos Juniors",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-14",
+      "time": "21:00",
+      "team1": "Godoy Cruz",
+      "team2": "San Lorenzo",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-15",
+      "time": "16:00",
+      "team1": "Deportivo Riestra",
+      "team2": "River Plate",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-15",
+      "time": "18:30",
+      "team1": "Estudiantes",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-15",
+      "time": "18:30",
+      "team1": "Rosario Central",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-15",
+      "time": "21:00",
+      "team1": "Huracán",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-15",
+      "time": "21:00",
+      "team1": "Sarmiento de Junín",
+      "team2": "Talleres de Córdoba",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-16",
+      "time": "16:00",
+      "team1": "Independiente",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-16",
+      "time": "18:15",
+      "team1": "Boca Juniors",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          4,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-16",
+      "time": "21:00",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-16",
+      "time": "21:00",
+      "team1": "Lanús",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          4,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-17",
+      "time": "19:00",
+      "team1": "Unión de Santa Fe",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          3,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-17",
+      "time": "19:00",
+      "team1": "Tigre",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-17",
+      "time": "21:15",
+      "team1": "San Martín de San Juan",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 10",
+      "date": "2025-03-17",
+      "time": "21:15",
+      "team1": "Atlético Tucumán",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-27",
+      "time": "15:30",
+      "team1": "Aldosivi",
+      "team2": "Unión de Santa Fe",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-27",
+      "time": "18:00",
+      "team1": "Barracas Central",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-27",
+      "time": "21:00",
+      "team1": "Independiente Rivadavia",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-28",
+      "time": "17:00",
+      "team1": "Defensa y Justicia",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-28",
+      "time": "19:15",
+      "team1": "Banfield",
+      "team2": "Huracán",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-28",
+      "time": "19:15",
+      "team1": "San Lorenzo",
+      "team2": "Lanús",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-28",
+      "time": "21:30",
+      "team1": "Vélez Sarsfield",
+      "team2": "Deportivo Riestra",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-28",
+      "time": "21:30",
+      "team1": "Platense",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-29",
+      "time": "16:30",
+      "team1": "Instituto de Córdoba",
+      "team2": "San Martín de San Juan",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-29",
+      "time": "18:30",
+      "team1": "Central Córdoba SdE",
+      "team2": "Argentinos Juniors",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-29",
+      "time": "18:45",
+      "team1": "Independiente",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          4,
+          0
+        ],
+        "ht": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-29",
+      "time": "21:00",
+      "team1": "River Plate",
+      "team2": "Rosario Central",
+      "score": {
+        "ft": [
+          2,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-30",
+      "time": "15:00",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Talleres de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-30",
+      "time": "16:00",
+      "team1": "Gimnasia de La Plata",
+      "team2": "Sarmiento de Junín",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 11",
+      "date": "2025-03-30",
+      "time": "19:30",
+      "team1": "Newell's Old Boys",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-04",
+      "time": "19:00",
+      "team1": "Estudiantes",
+      "team2": "Belgrano de Córdoba",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-04",
+      "time": "22:00",
+      "team1": "San Martín de San Juan",
+      "team2": "San Lorenzo",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-05",
+      "time": "15:30",
+      "team1": "Rosario Central",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-05",
+      "time": "15:30",
+      "team1": "Godoy Cruz",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-05",
+      "time": "18:00",
+      "team1": "Huracán",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          3,
+          3
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-05",
+      "time": "18:00",
+      "team1": "Talleres de Córdoba",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-05",
+      "time": "20:30",
+      "team1": "Sarmiento de Junín",
+      "team2": "River Plate",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-06",
+      "time": "15:30",
+      "team1": "Unión de Santa Fe",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-06",
+      "time": "15:30",
+      "team1": "Lanús",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-06",
+      "time": "18:00",
+      "team1": "Boca Juniors",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-06",
+      "time": "20:15",
+      "team1": "Racing Club",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          4,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-06",
+      "time": "20:15",
+      "team1": "Argentinos Juniors",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          4,
+          1
+        ],
+        "ht": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-07",
+      "time": "15:30",
+      "team1": "Deportivo Riestra",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-07",
+      "time": "21:00",
+      "team1": "Tigre",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 12",
+      "date": "2025-04-07",
+      "time": "21:00",
+      "team1": "Atlético Tucumán",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          3,
+          2
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-11",
+      "time": "19:00",
+      "team1": "Banfield",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-11",
+      "time": "21:00",
+      "team1": "Newell's Old Boys",
+      "team2": "Argentinos Juniors",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-12",
+      "time": "15:30",
+      "team1": "San Lorenzo",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-12",
+      "time": "18:00",
+      "team1": "Barracas Central",
+      "team2": "Tigre",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-12",
+      "time": "20:30",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          1,
+          3
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-13",
+      "time": "15:30",
+      "team1": "Instituto de Córdoba",
+      "team2": "Deportivo Riestra",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-13",
+      "time": "15:30",
+      "team1": "Gimnasia de La Plata",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-13",
+      "time": "18:00",
+      "team1": "Independiente",
+      "team2": "San Martín de San Juan",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-13",
+      "time": "20:15",
+      "team1": "River Plate",
+      "team2": "Talleres de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-14",
+      "time": "15:30",
+      "team1": "Aldosivi",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          0,
+          2
+        ],
+        "ht": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-14",
+      "time": "18:00",
+      "team1": "Central Córdoba SdE",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-14",
+      "time": "19:00",
+      "team1": "Defensa y Justicia",
+      "team2": "Unión de Santa Fe",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-14",
+      "time": "21:15",
+      "team1": "Vélez Sarsfield",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-14",
+      "time": "21:15",
+      "team1": "Godoy Cruz",
+      "team2": "Lanús",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 13",
+      "date": "2025-04-15",
+      "time": "20:00",
+      "team1": "Platense",
+      "team2": "Rosario Central",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-18",
+      "time": "17:00",
+      "team1": "Gimnasia de La Plata",
+      "team2": "River Plate",
+      "score": {
+        "ft": [
+          0,
+          3
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-18",
+      "time": "19:15",
+      "team1": "Racing Club",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-18",
+      "time": "19:15",
+      "team1": "Talleres de Córdoba",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-18",
+      "time": "21:30",
+      "team1": "Unión de Santa Fe",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-19",
+      "time": "16:15",
+      "team1": "Lanús",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-19",
+      "time": "18:15",
+      "team1": "Huracán",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-19",
+      "time": "20:30",
+      "team1": "Boca Juniors",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-20",
+      "time": "15:30",
+      "team1": "Deportivo Riestra",
+      "team2": "San Lorenzo",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-20",
+      "time": "16:30",
+      "team1": "San Martín de San Juan",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-20",
+      "time": "18:00",
+      "team1": "Sarmiento de Junín",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-20",
+      "time": "20:30",
+      "team1": "Rosario Central",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-22",
+      "time": "19:00",
+      "team1": "Argentinos Juniors",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-22",
+      "time": "19:00",
+      "team1": "Tigre",
+      "team2": "Belgrano de Córdoba",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-22",
+      "time": "21:15",
+      "team1": "Independiente Rivadavia",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 14",
+      "date": "2025-04-30",
+      "time": "21:00",
+      "team1": "Atlético Tucumán",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-26",
+      "time": "15:00",
+      "team1": "Aldosivi",
+      "team2": "Banfield",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-26",
+      "time": "17:00",
+      "team1": "San Lorenzo",
+      "team2": "Rosario Central",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-26",
+      "time": "19:00",
+      "team1": "Belgrano de Córdoba",
+      "team2": "Argentinos Juniors",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-27",
+      "time": "15:30",
+      "team1": "River Plate",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-27",
+      "time": "19:00",
+      "team1": "Instituto de Córdoba",
+      "team2": "Sarmiento de Junín",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-27",
+      "time": "19:00",
+      "team1": "Lanús",
+      "team2": "San Martín de San Juan",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-27",
+      "time": "21:15",
+      "team1": "Independiente",
+      "team2": "Deportivo Riestra",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-28",
+      "time": "15:00",
+      "team1": "Barracas Central",
+      "team2": "Unión de Santa Fe",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-28",
+      "time": "17:15",
+      "team1": "Godoy Cruz",
+      "team2": "Atlético Tucumán",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-28",
+      "time": "19:30",
+      "team1": "Estudiantes",
+      "team2": "Tigre",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-28",
+      "time": "19:30",
+      "team1": "Defensa y Justicia",
+      "team2": "Racing Club",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-28",
+      "time": "21:45",
+      "team1": "Central Córdoba SdE",
+      "team2": "Independiente Rivadavia",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-28",
+      "time": "21:45",
+      "team1": "Vélez Sarsfield",
+      "team2": "Gimnasia de La Plata",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-29",
+      "time": "19:00",
+      "team1": "Newell's Old Boys",
+      "team2": "Huracán",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 15",
+      "date": "2025-04-29",
+      "time": "19:00",
+      "team1": "Platense",
+      "team2": "Talleres de Córdoba",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-02",
+      "time": "15:30",
+      "team1": "Banfield",
+      "team2": "Central Córdoba SdE",
+      "score": {
+        "ft": [
+          3,
+          1
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-02",
+      "time": "15:30",
+      "team1": "Independiente Rivadavia",
+      "team2": "Defensa y Justicia",
+      "score": {
+        "ft": [
+          3,
+          2
+        ],
+        "ht": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-02",
+      "time": "15:30",
+      "team1": "Racing Club",
+      "team2": "Newell's Old Boys",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-02",
+      "time": "15:30",
+      "team1": "Argentinos Juniors",
+      "team2": "Estudiantes",
+      "score": {
+        "ft": [
+          4,
+          0
+        ],
+        "ht": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-02",
+      "time": "18:00",
+      "team1": "Unión de Santa Fe",
+      "team2": "Belgrano de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-03",
+      "time": "16:00",
+      "team1": "Deportivo Riestra",
+      "team2": "Godoy Cruz",
+      "score": {
+        "ft": [
+          3,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-03",
+      "time": "16:00",
+      "team1": "Sarmiento de Junín",
+      "team2": "San Lorenzo",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-03",
+      "time": "16:00",
+      "team1": "Talleres de Córdoba",
+      "team2": "Instituto de Córdoba",
+      "score": {
+        "ft": [
+          1,
+          2
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-03",
+      "time": "18:30",
+      "team1": "Rosario Central",
+      "team2": "Independiente",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-03",
+      "time": "21:00",
+      "team1": "Huracán",
+      "team2": "Barracas Central",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-03",
+      "time": "21:00",
+      "team1": "Atlético Tucumán",
+      "team2": "Lanús",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-04",
+      "time": "15:30",
+      "team1": "Gimnasia de La Plata",
+      "team2": "Platense",
+      "score": {
+        "ft": [
+          1,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-04",
+      "time": "15:30",
+      "team1": "San Martín de San Juan",
+      "team2": "Aldosivi",
+      "score": {
+        "ft": [
+          0,
+          3
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-04",
+      "time": "18:00",
+      "team1": "Tigre",
+      "team2": "Boca Juniors",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "1° Semestre, Matchday 16",
+      "date": "2025-05-04",
+      "time": "20:30",
+      "team1": "River Plate",
+      "team2": "Vélez Sarsfield",
+      "score": {
+        "ft": [
+          4,
+          1
+        ],
+        "ht": [
+          3,
+          1
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1103 @@
+{
+  "name": "ÖFB Cup 2020/21",
+  "matches": [
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "18:00",
+      "team1": "Wolfsberger AC",
+      "team2": "SC Neusiedl/See 1919",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "WSC Hertha",
+      "team2": "FC Admira Wacker",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "ATSV Stadl-Paura",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          7,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "SV Grödig",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "SK Treibach",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "FC Gleisdorf 09",
+      "team2": "SV Ried",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          1
+        ],
+        "p": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "First Vienna FC",
+      "team2": "FC Marchfeld Donauauen",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:00",
+      "team1": "SV Wörgl",
+      "team2": "Union Vöcklamarkt",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "19:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "USK Maximarkt Anif",
+      "score": {
+        "ht": [
+          5,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-28",
+      "time": "20:30",
+      "team1": "Sturm Graz",
+      "team2": "SV Innsbruck",
+      "score": {
+        "ht": [
+          5,
+          0
+        ],
+        "ft": [
+          8,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "17:00",
+      "team1": "ATSV Wolfsberg",
+      "team2": "SKN St. Pölten",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "17:00",
+      "team1": "FC Dornbirn",
+      "team2": "USV Allerheiligen",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "17:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "ASV Draßburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "18:00",
+      "team1": "ASV Schrems",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "18:00",
+      "team1": "Austria Lustenau",
+      "team2": "SV Stripfing/Weiden",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "18:00",
+      "team1": "TuS Bad Gleichenberg",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "19:00",
+      "team1": "WSG Tirol",
+      "team2": "USV St. Anna",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-29",
+      "time": "20:30",
+      "team1": "ASV Siegendorf",
+      "team2": "LASK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-30",
+      "time": "11:15",
+      "team1": "Austria Wien",
+      "team2": "SC Retz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-30",
+      "time": "17:30",
+      "team1": "Rapid Wien",
+      "team2": "TSV St. Johann",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-30",
+      "time": "18:00",
+      "team1": "Grazer AK",
+      "team2": "SV Seekirchen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-30",
+      "time": "19:00",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "SC Team Wiener Linien",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-08-30",
+      "time": "11:00",
+      "team1": "Dornbirner SV",
+      "team2": "TSV Hartberg",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-08",
+      "time": "19:00",
+      "team1": "FC Deutschkreutz",
+      "team2": "1. Wiener Neustädter SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-09",
+      "time": "19:30",
+      "team1": "Wiener Sport-Club",
+      "team2": "SV St. Jakob/Rosental",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-09",
+      "time": "20:00",
+      "team1": "Vorwärts Steyr",
+      "team2": "ASK-BSC Bruck/Leitha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-09",
+      "time": "20:25",
+      "team1": "Schwarz-Weiß Bregenz",
+      "team2": "RB Salzburg",
+      "score": {
+        "ht": [
+          0,
+          8
+        ],
+        "ft": [
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-12",
+      "time": "16:00",
+      "team1": "SV Wallern",
+      "team2": "SVG Reichenau",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-16",
+      "time": "19:00",
+      "team1": "Union Gurten",
+      "team2": "SCR Altach",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-22",
+      "time": "19:30",
+      "team1": "SC Weiz",
+      "team2": "AS Koma Elektra",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 1",
+      "date": "2020-09-30",
+      "time": "19:00",
+      "team1": "SC Schwaz",
+      "team2": "VfB Hohenems",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-16",
+      "time": "18:00",
+      "team1": "FC Admira Wacker",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-16",
+      "time": "18:30",
+      "team1": "WSG Tirol",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-16",
+      "time": "19:00",
+      "team1": "SV Lafnitz",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-16",
+      "time": "19:30",
+      "team1": "SV Horn",
+      "team2": "AS Koma Elektra",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-16",
+      "time": "20:25",
+      "team1": "Wiener Sport-Club",
+      "team2": "Austria Wien",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "14:45",
+      "team1": "SKN St. Pölten",
+      "team2": "RB Salzburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "15:00",
+      "team1": "ASKÖ Gmünd",
+      "team2": "TSV Hartberg",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ],
+        "et": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "15:00",
+      "team1": "VfB Hohenems",
+      "team2": "Sturm Graz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "17:00",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "SV Stripfing/Weiden",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "17:00",
+      "team1": "SCR Altach",
+      "team2": "SV Seekirchen",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          7,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "17:00",
+      "team1": "1. Wiener Neustädter SC",
+      "team2": "Rapid Wien",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "17:00",
+      "team1": "LASK",
+      "team2": "SV Wörgl",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-17",
+      "time": "20:25",
+      "team1": "First Vienna FC",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-10-18",
+      "time": "17:15",
+      "team1": "Wolfsberger AC",
+      "team2": "SV Ried",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          2,
+          2
+        ],
+        "p": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-11-14",
+      "time": "16:00",
+      "team1": "SVG Reichenau",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-11-14",
+      "time": "20:25",
+      "team1": "Floridsdorfer AC",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round 2",
+      "date": "2020-11-14",
+      "time": "15:00",
+      "team1": "USV Allerheiligen",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-11-24",
+      "time": "20:25",
+      "team1": "Sturm Graz",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-11-25",
+      "time": "17:15",
+      "team1": "Austria Wien",
+      "team2": "TSV Hartberg",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-11-25",
+      "time": "20:25",
+      "team1": "First Vienna FC",
+      "team2": "SCR Altach",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-12-15",
+      "time": "18:00",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-12-16",
+      "time": "18:00",
+      "team1": "LASK",
+      "team2": "AS Koma Elektra",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-12-16",
+      "time": "20:30",
+      "team1": "RB Salzburg",
+      "team2": "Rapid Wien",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          6,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2020-12-16",
+      "time": "16:00",
+      "team1": "Wolfsberger AC",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-02-05",
+      "time": "18:00",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Wolfsberger AC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-02-05",
+      "time": "20:30",
+      "team1": "Sturm Graz",
+      "team2": "First Vienna FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-02-06",
+      "time": "17:00",
+      "team1": "RB Salzburg",
+      "team2": "Austria Wien",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2021-02-07",
+      "time": "17:00",
+      "team1": "LASK",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2021-03-03",
+      "time": "21:05",
+      "team1": "Sturm Graz",
+      "team2": "RB Salzburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2021-03-03",
+      "time": "19:00",
+      "team1": "Wolfsberger AC",
+      "team2": "LASK",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Final",
+      "date": "2021-05-01",
+      "time": "20:30",
+      "team1": "LASK",
+      "team2": "RB Salzburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    }
+  ]
+}

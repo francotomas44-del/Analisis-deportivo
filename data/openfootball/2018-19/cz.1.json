@@ -1,0 +1,4642 @@
+{
+  "name": "Czech Republic First League 2018/19",
+  "matches": [
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-20",
+      "time": "18:30",
+      "team1": "FK Dukla Praha",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-21",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-21",
+      "time": "17:00",
+      "team1": "Slovan Liberec",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-21",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-21",
+      "time": "19:00",
+      "team1": "AC Sparta Praha",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-22",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-22",
+      "time": "18:00",
+      "team1": "Sigma Olomouc",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-23",
+      "time": "18:00",
+      "team1": "Baník Ostrava",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-27",
+      "time": "18:30",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-28",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-28",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-28",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-28",
+      "time": "19:00",
+      "team1": "Slavia Praha",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-29",
+      "time": "15:00",
+      "team1": "FK Teplice",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-29",
+      "time": "18:00",
+      "team1": "FK Jablonec",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-07-30",
+      "time": "18:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-03",
+      "time": "18:30",
+      "team1": "Slavia Praha",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-04",
+      "time": "17:00",
+      "team1": "Baník Ostrava",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-04",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-04",
+      "time": "17:00",
+      "team1": "Slovan Liberec",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-04",
+      "time": "19:00",
+      "team1": "Sigma Olomouc",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-05",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-05",
+      "time": "18:00",
+      "team1": "AC Sparta Praha",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-06",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-10",
+      "time": "18:30",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "17:00",
+      "team1": "FK Jablonec",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "19:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-12",
+      "time": "15:00",
+      "team1": "1. FC Slovácko",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-12",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          4
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-13",
+      "time": "18:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-17",
+      "time": "18:30",
+      "team1": "FK Dukla Praha",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-18",
+      "time": "17:00",
+      "team1": "Slovan Liberec",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-18",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-18",
+      "time": "17:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-18",
+      "time": "19:00",
+      "team1": "Slavia Praha",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-19",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-19",
+      "time": "18:00",
+      "team1": "AC Sparta Praha",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-20",
+      "time": "18:00",
+      "team1": "Sigma Olomouc",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-24",
+      "time": "18:30",
+      "team1": "Bohemians Praha 1905",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-25",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-25",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-25",
+      "time": "17:00",
+      "team1": "Baník Ostrava",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-25",
+      "time": "19:00",
+      "team1": "FK Teplice",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-26",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-26",
+      "time": "18:00",
+      "team1": "FK Jablonec",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-08-27",
+      "time": "18:00",
+      "team1": "1. FC Slovácko",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-08-31",
+      "time": "18:30",
+      "team1": "AC Sparta Praha",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-01",
+      "time": "15:00",
+      "team1": "Slovan Liberec",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-01",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-01",
+      "time": "17:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-01",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-01",
+      "time": "19:00",
+      "team1": "Slavia Praha",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-02",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-02",
+      "time": "18:00",
+      "team1": "Sigma Olomouc",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-14",
+      "time": "18:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-15",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-15",
+      "time": "19:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-16",
+      "time": "15:00",
+      "team1": "FK Dukla Praha",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-16",
+      "time": "15:00",
+      "team1": "FK Jablonec",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-16",
+      "time": "15:00",
+      "team1": "FK Teplice",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-16",
+      "time": "18:00",
+      "team1": "1. FC Slovácko",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-17",
+      "time": "18:00",
+      "team1": "Baník Ostrava",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-21",
+      "time": "18:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-22",
+      "time": "15:00",
+      "team1": "Sigma Olomouc",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-22",
+      "time": "17:00",
+      "team1": "MFK Karviná",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-22",
+      "time": "17:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-22",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-22",
+      "time": "19:00",
+      "team1": "AC Sparta Praha",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-23",
+      "time": "18:00",
+      "team1": "Slavia Praha",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-24",
+      "time": "18:00",
+      "team1": "FK Jablonec",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-28",
+      "time": "17:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "MFK Karviná",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-28",
+      "time": "19:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-29",
+      "time": "15:00",
+      "team1": "FK Dukla Praha",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-29",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-29",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-29",
+      "time": "19:00",
+      "team1": "Slovan Liberec",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-30",
+      "time": "15:00",
+      "team1": "Baník Ostrava",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-30",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-05",
+      "time": "18:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "17:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "19:00",
+      "team1": "Sigma Olomouc",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "15:00",
+      "team1": "SFC Opava",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "15:00",
+      "team1": "FK Jablonec",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "18:00",
+      "team1": "Slavia Praha",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-19",
+      "time": "18:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "15:00",
+      "team1": "Sigma Olomouc",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "17:00",
+      "team1": "Baník Ostrava",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-21",
+      "time": "15:00",
+      "team1": "FK Dukla Praha",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-21",
+      "time": "17:00",
+      "team1": "Slovan Liberec",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-22",
+      "time": "18:00",
+      "team1": "AC Sparta Praha",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-26",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "15:00",
+      "team1": "SFC Opava",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-28",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-28",
+      "time": "17:00",
+      "team1": "FK Jablonec",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-29",
+      "time": "18:00",
+      "team1": "Slavia Praha",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-02",
+      "time": "18:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "15:00",
+      "team1": "Baník Ostrava",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "17:00",
+      "team1": "FK Dukla Praha",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          2,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "17:00",
+      "team1": "Sigma Olomouc",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-04",
+      "time": "17:00",
+      "team1": "AC Sparta Praha",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-05",
+      "time": "18:00",
+      "team1": "Slovan Liberec",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-09",
+      "time": "18:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-10",
+      "time": "14:00",
+      "team1": "MFK Karviná",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-10",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-11",
+      "time": "14:00",
+      "team1": "SFC Opava",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-11",
+      "time": "15:00",
+      "team1": "FK Jablonec",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-11",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-11",
+      "time": "15:00",
+      "team1": "FK Teplice",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-11",
+      "time": "17:00",
+      "team1": "Slavia Praha",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-23",
+      "time": "18:00",
+      "team1": "Slovan Liberec",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-23",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-24",
+      "time": "14:00",
+      "team1": "MFK Karviná",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-24",
+      "time": "17:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-24",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-24",
+      "time": "17:00",
+      "team1": "Baník Ostrava",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-25",
+      "time": "15:00",
+      "team1": "Sigma Olomouc",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-25",
+      "time": "17:00",
+      "team1": "AC Sparta Praha",
+      "team2": "FK Jablonec",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-11-30",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-01",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-01",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-02",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-02",
+      "time": "15:00",
+      "team1": "1. FK Příbram",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-02",
+      "time": "17:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-03",
+      "time": "17:00",
+      "team1": "FK Jablonec",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-03",
+      "time": "18:00",
+      "team1": "SFC Opava",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-07",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-07",
+      "time": "18:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-08",
+      "time": "15:00",
+      "team1": "Baník Ostrava",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-08",
+      "time": "15:00",
+      "team1": "Sigma Olomouc",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-08",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-08",
+      "time": "17:00",
+      "team1": "Slavia Praha",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-09",
+      "time": "17:00",
+      "team1": "AC Sparta Praha",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-10",
+      "time": "18:00",
+      "team1": "Slovan Liberec",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-14",
+      "time": "18:00",
+      "team1": "Baník Ostrava",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "15:00",
+      "team1": "1. FC Slovácko",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "15:00",
+      "team1": "FK Teplice",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "15:00",
+      "team1": "SFC Opava",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-16",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-17",
+      "time": "18:00",
+      "team1": "FK Jablonec",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-08",
+      "time": "18:00",
+      "team1": "Sigma Olomouc",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-08",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "15:00",
+      "team1": "Slovan Liberec",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "15:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "17:00",
+      "team1": "Slavia Praha",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-10",
+      "time": "17:00",
+      "team1": "AC Sparta Praha",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-15",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-16",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-16",
+      "time": "15:00",
+      "team1": "1. FK Příbram",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-16",
+      "time": "15:00",
+      "team1": "1. FC Slovácko",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-16",
+      "time": "17:00",
+      "team1": "Baník Ostrava",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-17",
+      "time": "15:00",
+      "team1": "FK Jablonec",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-17",
+      "time": "17:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-18",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-22",
+      "time": "18:00",
+      "team1": "Slovan Liberec",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-23",
+      "time": "15:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-23",
+      "time": "15:00",
+      "team1": "Sigma Olomouc",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-23",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-23",
+      "time": "17:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-24",
+      "time": "17:00",
+      "team1": "AC Sparta Praha",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-25",
+      "time": "18:00",
+      "team1": "SFC Opava",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-25",
+      "time": "18:00",
+      "team1": "Slavia Praha",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-01",
+      "time": "18:00",
+      "team1": "Baník Ostrava",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-02",
+      "time": "15:00",
+      "team1": "FK Dukla Praha",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-02",
+      "time": "15:00",
+      "team1": "1. FK Příbram",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-02",
+      "time": "15:00",
+      "team1": "1. FC Slovácko",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-02",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-02",
+      "time": "17:00",
+      "team1": "Slovan Liberec",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-03",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-03",
+      "time": "15:00",
+      "team1": "FK Teplice",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-08",
+      "time": "18:00",
+      "team1": "FK Jablonec",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "MFK Karviná",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "SFC Opava",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-09",
+      "time": "17:30",
+      "team1": "AC Sparta Praha",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-10",
+      "time": "17:30",
+      "team1": "Slavia Praha",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-11",
+      "time": "18:00",
+      "team1": "Sigma Olomouc",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-15",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-15",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "Baník Ostrava",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-16",
+      "time": "15:00",
+      "team1": "Slovan Liberec",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-16",
+      "time": "15:00",
+      "team1": "1. FC Slovácko",
+      "team2": "FK Jablonec",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-16",
+      "time": "17:30",
+      "team1": "AC Sparta Praha",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-17",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "SFC Opava",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-17",
+      "time": "17:30",
+      "team1": "1. FK Příbram",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-29",
+      "time": "18:00",
+      "team1": "MFK Karviná",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "SFC Opava",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "FK Teplice",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-30",
+      "time": "17:30",
+      "team1": "Slavia Praha",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-31",
+      "time": "15:00",
+      "team1": "FK Jablonec",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-31",
+      "time": "17:30",
+      "team1": "Viktoria Plzeň",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-05",
+      "time": "18:00",
+      "team1": "1. FK Příbram",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-06",
+      "time": "19:00",
+      "team1": "FK Dukla Praha",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-07",
+      "time": "15:30",
+      "team1": "Sigma Olomouc",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-07",
+      "time": "15:30",
+      "team1": "Bohemians Praha 1905",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-07",
+      "time": "15:30",
+      "team1": "Slovan Liberec",
+      "team2": "FK Jablonec",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-07",
+      "time": "15:30",
+      "team1": "Baník Ostrava",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-07",
+      "time": "18:00",
+      "team1": "1. FC Slovácko",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-08",
+      "time": "18:00",
+      "team1": "AC Sparta Praha",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-12",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-13",
+      "time": "15:30",
+      "team1": "1. FC Slovácko",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-13",
+      "time": "15:30",
+      "team1": "SFC Opava",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-13",
+      "time": "15:30",
+      "team1": "MFK Karviná",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-13",
+      "time": "18:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-14",
+      "time": "15:30",
+      "team1": "FK Jablonec",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-14",
+      "time": "18:00",
+      "team1": "Slavia Praha",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-15",
+      "time": "18:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Slavia Praha",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "AC Sparta Praha",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "FK Dukla Praha",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "Baník Ostrava",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "Sigma Olomouc",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-21",
+      "time": "17:00",
+      "team1": "Slovan Liberec",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "Slavia Praha",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "MFK Karviná",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "FK Jablonec",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "FK Teplice",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-27",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 1",
+      "date": "2019-05-03",
+      "time": "18:00",
+      "team1": "FK Dukla Praha",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 1",
+      "date": "2019-05-05",
+      "time": "15:30",
+      "team1": "1. FC Slovácko",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 1",
+      "date": "2019-05-05",
+      "time": "15:30",
+      "team1": "SFC Opava",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 2",
+      "date": "2019-05-11",
+      "time": "15:00",
+      "team1": "1. FK Příbram",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 2",
+      "date": "2019-05-11",
+      "time": "15:00",
+      "team1": "SFC Opava",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 2",
+      "date": "2019-05-11",
+      "time": "15:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 3",
+      "date": "2019-05-14",
+      "time": "17:30",
+      "team1": "MFK Karviná",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 3",
+      "date": "2019-05-14",
+      "time": "17:30",
+      "team1": "Bohemians Praha 1905",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 3",
+      "date": "2019-05-14",
+      "time": "17:30",
+      "team1": "1. FC Slovácko",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 4",
+      "date": "2019-05-18",
+      "time": "17:00",
+      "team1": "MFK Karviná",
+      "team2": "Bohemians Praha 1905",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 4",
+      "date": "2019-05-18",
+      "time": "17:00",
+      "team1": "FK Dukla Praha",
+      "team2": "1. FC Slovácko",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 4",
+      "date": "2019-05-18",
+      "time": "17:00",
+      "team1": "SFC Opava",
+      "team2": "1. FK Příbram",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 5",
+      "date": "2019-05-25",
+      "time": "17:00",
+      "team1": "1. FC Slovácko",
+      "team2": "MFK Karviná",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 5",
+      "date": "2019-05-25",
+      "time": "17:00",
+      "team1": "Bohemians Praha 1905",
+      "team2": "SFC Opava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 5",
+      "date": "2019-05-25",
+      "time": "17:00",
+      "team1": "1. FK Příbram",
+      "team2": "FK Dukla Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Round 1",
+      "date": "2019-05-03",
+      "time": "18:00",
+      "team1": "FK Teplice",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          0,
+          6
+        ],
+        "ft": [
+          0,
+          8
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Round 1",
+      "date": "2019-05-03",
+      "time": "18:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "Sigma Olomouc",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Round 1",
+      "date": "2019-05-12",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "FK Teplice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Round 1",
+      "date": "2019-05-12",
+      "time": "15:00",
+      "team1": "Sigma Olomouc",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Round 2",
+      "date": "2019-05-17",
+      "time": "18:00",
+      "team1": "FC Fastav Zlín",
+      "team2": "FK Mladá Boleslav",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Round 2",
+      "date": "2019-05-24",
+      "time": "18:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "FC Fastav Zlín",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Europa League, Final",
+      "date": "2019-06-01",
+      "time": "15:00",
+      "team1": "FK Mladá Boleslav",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 1",
+      "date": "2019-05-04",
+      "time": "17:30",
+      "team1": "AC Sparta Praha",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 1",
+      "date": "2019-05-04",
+      "time": "20:00",
+      "team1": "Slovan Liberec",
+      "team2": "Slavia Praha",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 1",
+      "date": "2019-05-05",
+      "time": "18:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 2",
+      "date": "2019-05-11",
+      "time": "17:30",
+      "team1": "FK Jablonec",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 2",
+      "date": "2019-05-11",
+      "time": "20:00",
+      "team1": "AC Sparta Praha",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 2",
+      "date": "2019-05-12",
+      "time": "18:00",
+      "team1": "Slavia Praha",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 3",
+      "date": "2019-05-14",
+      "time": "20:00",
+      "team1": "Baník Ostrava",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 3",
+      "date": "2019-05-15",
+      "time": "17:30",
+      "team1": "Viktoria Plzeň",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 3",
+      "date": "2019-05-15",
+      "time": "20:00",
+      "team1": "Slavia Praha",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 4",
+      "date": "2019-05-19",
+      "time": "15:00",
+      "team1": "Baník Ostrava",
+      "team2": "Slavia Praha",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 4",
+      "date": "2019-05-19",
+      "time": "15:00",
+      "team1": "Slovan Liberec",
+      "team2": "Viktoria Plzeň",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 4",
+      "date": "2019-05-19",
+      "time": "15:00",
+      "team1": "AC Sparta Praha",
+      "team2": "FK Jablonec",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 5",
+      "date": "2019-05-26",
+      "time": "15:00",
+      "team1": "Viktoria Plzeň",
+      "team2": "Baník Ostrava",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 5",
+      "date": "2019-05-26",
+      "time": "15:00",
+      "team1": "Slavia Praha",
+      "team2": "AC Sparta Praha",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 5",
+      "date": "2019-05-26",
+      "time": "15:00",
+      "team1": "FK Jablonec",
+      "team2": "Slovan Liberec",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    }
+  ]
+}

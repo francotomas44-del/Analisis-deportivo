@@ -17,7 +17,7 @@
     </div>
     <div class="topbar-actions">
       <span id="save-indicator" class="save-indicator" title="Estado del guardado">Sin guardar</span>
-      <button id="btn-demo" class="btn btn-ghost" type="button">Cargar datos de ejemplo</button>
+      <button id="btn-load-base" class="btn btn-primary" type="button">Cargar base histórica</button>
       <button id="btn-wipe" class="btn btn-danger-ghost" type="button">Borrar todo</button>
     </div>
   </header>
@@ -28,7 +28,6 @@
     <button class="tab is-active" data-view="inicio" type="button">Inicio</button>
     <button class="tab" data-view="equipos" type="button">Equipos</button>
     <button class="tab" data-view="partidos" type="button">Partidos</button>
-    <button class="tab" data-view="importar" type="button">Importar</button>
     <button class="tab" data-view="analisis" type="button">Análisis</button>
     <button class="tab" data-view="predicciones" type="button">Predicciones</button>
     <button class="tab" data-view="evaluacion" type="button">Evaluación</button>
@@ -42,15 +41,24 @@
     <section class="view is-active" id="view-inicio">
       <div class="grid-cards" id="inicio-cards"></div>
       <div class="panel">
+        <h2>Base histórica integrada</h2>
+        <p class="muted">El sistema viene con una base de <strong>resultados históricos reales</strong> de fuentes libres y confiables (<strong>openfootball</strong>, datos de dominio público). Se carga automáticamente la primera vez y queda guardada en este navegador.</p>
+        <p class="muted">Incluye: <strong>Copa Mundial FIFA</strong> (todas las ediciones), <strong>Eurocopa</strong>, <strong>UEFA Champions League</strong>, copas nacionales y las <strong>primeras divisiones</strong> de Inglaterra, España, Alemania, Italia, Francia, Países Bajos, Portugal, Austria, Bélgica, Suiza, Grecia, Turquía, Escocia, Rusia, México, Argentina, Brasil, Chequia, Hungría, China, Japón, Australia, Colombia, Argelia, Egipto y Marruecos (temporadas 2010-11 a 2026-27).</p>
+        <div class="form-actions">
+          <button class="btn btn-primary" id="btn-load-base-home" type="button">Cargar base histórica</button>
+        </div>
+        <p class="muted" id="base-status"></p>
+      </div>
+      <div class="panel">
         <h2>¿Cómo funciona?</h2>
         <ol class="steps">
-          <li><strong>Equipos:</strong> creá los equipos de tu liga o competición.</li>
-          <li><strong>Partidos:</strong> cargá resultados ya jugados (con goles, y opcionalmente córners y tarjetas).</li>
+          <li><strong>Base cargada:</strong> ya tenés equipos, selecciones y partidos históricos disponibles.</li>
+          <li><strong>Partidos:</strong> también podés registrar resultados a mano (con goles, y opcionalmente córners y tarjetas).</li>
           <li><strong>Análisis:</strong> elegí local y visitante y el sistema estima goles esperados y probabilidades.</li>
           <li><strong>Predicciones:</strong> guardá el análisis antes del partido (queda congelado y auditable).</li>
           <li><strong>Evaluación:</strong> al terminar el partido cargá el resultado real y medí la precisión (Brier, Log Loss, MAE, RMSE).</li>
         </ol>
-        <p class="muted">Todos los datos se guardan únicamente en este navegador (localStorage). No se envía nada a ningún servidor.</p>
+        <p class="muted">Todos los datos se guardan únicamente en este navegador (IndexedDB, con respaldo en localStorage). No se envía nada a ningún servidor.</p>
       </div>
       <div class="panel">
         <h2>Principios del sistema</h2>
@@ -133,98 +141,14 @@
       </div>
       <div class="panel">
         <h2>Historial de partidos</h2>
+        <div class="form-row">
+          <label class="field" style="flex:1">
+            <span>Filtrar por equipo o competición</span>
+            <input type="text" id="partidos-filtro" placeholder="Ej: Brazil, Premier League, Copa Mundial FIFA…" />
+          </label>
+        </div>
+        <p class="muted" id="partidos-nota"></p>
         <div id="tabla-partidos"></div>
-      </div>
-    </section>
-
-    <!-- IMPORTAR -->
-    <section class="view" id="view-importar">
-      <div class="panel">
-        <h2>Fuentes integradas (accesibles desde el navegador, sin API key)</h2>
-        <p class="muted">Conectores listos para usar. Cada registro guarda su <strong>fuente</strong>. Se evitan duplicados automáticamente.</p>
-
-        <h3>TheSportsDB</h3>
-        <div class="form-row">
-          <label class="field">
-            <span>ID de liga (ej: 4328 = Premier League)</span>
-            <input type="text" id="imp-tsdb-league" placeholder="4328" />
-          </label>
-          <label class="field">
-            <span>Temporada (opcional, ej: 2023-2024)</span>
-            <input type="text" id="imp-tsdb-season" placeholder="2023-2024" />
-          </label>
-          <button class="btn btn-primary" id="imp-tsdb-run" type="button">Importar equipos + historial</button>
-        </div>
-        <p class="muted">Aporta año de fundación del club, escudos y resultados históricos (incluye árbitro si está disponible).</p>
-
-        <h3>OpenLigaDB</h3>
-        <div class="form-row">
-          <label class="field">
-            <span>Liga (shortcut, ej: bl1 / bl2)</span>
-            <input type="text" id="imp-oldb-league" placeholder="bl1" value="bl1" />
-          </label>
-          <label class="field">
-            <span>Temporada (ej: 2023)</span>
-            <input type="text" id="imp-oldb-season" placeholder="2023" value="2023" />
-          </label>
-          <button class="btn btn-primary" id="imp-oldb-run" type="button">Importar partidos</button>
-        </div>
-
-        <h3>openfootball (Mundiales y ligas desde 1930)</h3>
-        <div class="form-row">
-          <label class="field" style="flex:1">
-            <span>URL del JSON</span>
-            <input type="text" id="imp-oftb-url" value="https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json" />
-          </label>
-          <button class="btn btn-primary" id="imp-oftb-run" type="button">Importar JSON</button>
-        </div>
-      </div>
-
-      <div class="panel">
-        <h2>Importar desde JSON, CSV o URL</h2>
-        <div class="form-row">
-          <label class="field">
-            <span>Fuente (se guarda en cada registro)</span>
-            <input type="text" id="imp-source" placeholder="Ej: Promiedos, El Nine, CSV local" />
-          </label>
-        </div>
-        <div class="form-row" style="margin-top:0.6rem">
-          <label class="field">
-            <span>Subir archivo (.json / .csv)</span>
-            <input type="file" id="imp-file" accept=".json,.csv,text/csv,application/json" />
-          </label>
-          <label class="field" style="flex:1">
-            <span>Descargar desde URL</span>
-            <input type="text" id="imp-url" placeholder="https://…" />
-          </label>
-          <button class="btn btn-secondary" id="imp-url-run" type="button">Descargar</button>
-        </div>
-        <label class="field" style="margin-top:0.6rem">
-          <span>Pegar JSON (o CSV) directamente</span>
-          <textarea id="imp-json" rows="6" placeholder='{"source":"Promiedos","matches":[{"date":"2026-10-10","home":"Boca","away":"River","homeGoals":1,"awayGoals":0,"referee":"..."}]}'></textarea>
-        </label>
-        <div class="form-actions">
-          <button class="btn btn-primary" id="imp-json-run" type="button">Importar pegado</button>
-        </div>
-        <p class="muted">Formatos aceptados: <code>matches</code>, <code>events</code>, <code>data</code>, <code>response</code>, o un arreglo directo. Campos: home/away (o team1/team2, HomeTeam/AwayTeam, strHomeTeam/strAwayTeam), goles, fecha, competición, árbitro, córners y tarjetas.</p>
-      </div>
-
-      <div class="panel">
-        <h2>Promiedos y El Nine</h2>
-        <p class="muted">Ninguna de las dos ofrece API REST pública, por lo que <strong>no se descargan automáticamente</strong>:</p>
-        <ul class="notes">
-          <li class="warn"><strong>Promiedos:</strong> su web es Next.js y los datos vienen de <code>api.promiedos.com.ar</code> (no documentada y que puede bloquear/limitar el acceso).</li>
-          <li class="warn"><strong>El Nine</strong> (<code>elnine.com.ar</code>): detrás de Cloudflare, sin CORS y con <code>robots.txt</code> que prohíbe <code>/api/</code>; no es accesible de forma legítima desde la app.</li>
-        </ul>
-        <p class="muted">Sí podés cargar sus datos de forma legítima: usá <strong>Pegar JSON</strong>, <strong>Subir archivo</strong> o <strong>Descargar desde URL</strong> con datos que hayas obtenido vos, y quedará etiquetado con la fuente correspondiente.</p>
-      </div>
-
-      <div class="panel">
-        <h2>Registro de importación</h2>
-        <div id="imp-log" style="max-height:260px;overflow:auto"></div>
-        <div class="form-actions" style="margin-top:0.6rem">
-          <button class="btn btn-secondary" id="imp-clear" type="button">Limpiar registro</button>
-        </div>
       </div>
     </section>
 
@@ -321,15 +245,13 @@
       </div>
 
       <div class="panel">
-        <h2>APIs accesibles desde el navegador</h2>
-        <p class="muted">Un proyecto full frontend solo puede llamar APIs que envíen cabeceras <strong>CORS</strong>. Verificado en esta app (11/10/2026):</p>
+        <h2>Fuentes de los datos</h2>
+        <p class="muted">La base histórica proviene de <strong>openfootball</strong> (GitHub, datos libres de dominio público), verificada y descargada localmente. No se llama a ninguna API externa en tiempo de uso.</p>
         <ul class="notes">
-          <li><strong>TheSportsDB</strong> — funciona. Equipos, año de fundación, escudos e historial (con árbitro si está disponible).</li>
-          <li><strong>OpenLigaDB</strong> — funciona. Partidos detallados (fútbol alemán), sin clave.</li>
-          <li><strong>openfootball</strong> (GitHub raw) — funciona. Mundiales y ligas desde 1930 (JSON estático).</li>
-          <li class="warn"><strong>football-data.org</strong> — no accesible desde el navegador: su API rechaza las llamadas del navegador (CORS). Requeriría un proxy intermedio, por eso no se ofrece aquí.</li>
+          <li><strong>openfootball</strong> — resultados de Copas del Mundo, Eurocopas, UEFA Champions League, copas nacionales y primeras divisiones (2010-11 a 2026-27).</li>
+          <li class="warn"><strong>football-data.org</strong> — no accesible desde el navegador (CORS); descartado.</li>
         </ul>
-        <p class="muted">Usá la pestaña <strong>Importar</strong> para cargar datos desde las fuentes que sí funcionan.</p>
+        <p class="muted">Para más detalle sobre la recolección y las fuentes, ver <code>docs/apis-datos.md</code> y <code>docs/persistencia.md</code>.</p>
       </div>
 
       <div class="panel">
@@ -349,8 +271,8 @@
       </div>
 
       <div class="panel">
-        <h2>¿Buscás importar archivos o usar conectores?</h2>
-        <p class="muted">Usá la pestaña <strong>Importar</strong>: conectores TheSportsDB / OpenLigaDB / openfootball, archivo CSV/JSON, pegar JSON y descarga por URL.</p>
+        <h2>Recargar la base histórica</h2>
+        <p class="muted">Si necesitás volver a incorporar la base completa (por ejemplo, tras borrar todo), usá el botón <strong>Cargar base histórica</strong> de la barra superior o el de la pestaña <strong>Inicio</strong>. Reemplaza los datos actuales.</p>
       </div>
     </section>
 
@@ -375,6 +297,14 @@
     </section>
   </main>
 
+  <div id="base-overlay" class="overlay" style="display:none">
+    <div class="overlay-card">
+      <h3>Cargando base histórica…</h3>
+      <p class="muted" id="base-overlay-msg">Preparando…</p>
+      <div class="overlay-track"><div class="overlay-fill" id="base-overlay-fill"></div></div>
+    </div>
+  </div>
+
   <footer class="footer">
     <p>Análisis Deportivo · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
   </footer>
@@ -383,7 +313,7 @@
   <script src="js/metrics.js"></script>
   <script src="js/storage.js"></script>
   <script src="js/store.js"></script>
-  <script src="js/import.js"></script>
+  <script src="js/dataset.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

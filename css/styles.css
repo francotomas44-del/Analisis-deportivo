@@ -281,6 +281,39 @@ tbody tr:hover { background: var(--bg-soft); }
 }
 .origin-warning strong { color: var(--warn); }
 
+/* Overlay de carga de la base histórica */
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(8, 11, 16, 0.82);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+.overlay-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  width: min(540px, 90vw);
+  box-shadow: var(--shadow);
+}
+.overlay-card h3 { margin: 0 0 0.4rem; }
+.overlay-track {
+  height: 10px;
+  background: var(--bg-soft);
+  border-radius: 999px;
+  overflow: hidden;
+  margin-top: 0.8rem;
+}
+.overlay-fill {
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, var(--accent-2), var(--accent));
+  transition: width 0.15s ease;
+}
+
 
 #informe-salida {
   white-space: pre-wrap;

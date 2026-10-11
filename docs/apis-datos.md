@@ -4,6 +4,11 @@
 
 Este documento es la base para el **Data Collector** del proyecto (sección 7 del `Readme.md`). Ordena las opciones **gratuitas** para importar datos, con foco en lo que necesita el sistema: resultados históricos, enfrentamientos directos (cruces), equipos/selecciones, competiciones y árbitros.
 
+> **Nota (11/10/2026):** el sistema ya **no tiene pestaña «Importar»**. En su lugar incorpora
+> una **base histórica integrada** de openfootball, cargada automáticamente (ver
+> `docs/base-historica.md`). Este documento se conserva como referencia de fuentes para
+> ampliaciones futuras.
+
 ---
 
 ## 1. Resumen rápido (REST APIs gratuitas)

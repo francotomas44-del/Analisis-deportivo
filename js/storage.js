@@ -99,12 +99,9 @@
   function lsWrite(rec) {
     try {
       var s = JSON.stringify(rec);
-      if (s.length > LS_LIMIT) {
-        // demasiado grande: igual intentamos, pero sin romper si falla
-        try { localStorage.setItem(LS_KEY, s); } catch (e1) { return false; }
-      } else {
-        localStorage.setItem(LS_KEY, s);
-      }
+      // Si es demasiado grande para localStorage, no espejamos (IndexedDB lo guarda igual).
+      if (s.length > LS_LIMIT) return false;
+      localStorage.setItem(LS_KEY, s);
       return true;
     } catch (e) { return false; }
   }
