@@ -1,0 +1,78 @@
+# APIs y fuentes de datos para importar al sistema
+
+> Investigación realizada el 11/10/2026. Los límites de los planes gratuitos cambian: verificá siempre la documentación oficial antes de depender de ellos.
+
+Este documento es la base para el **Data Collector** del proyecto (sección 7 del `Readme.md`). Ordena las opciones **gratuitas** para importar datos, con foco en lo que necesita el sistema: resultados históricos, enfrentamientos directos (cruces), equipos/selecciones, competiciones y árbitros.
+
+---
+
+## 1. Resumen rápido (REST APIs gratuitas)
+
+| Proveedor | Base URL | Auth | Límite gratis | Cobertura | Historia | Árbitros | CORS¹ |
+|---|---|---|---|---|---|---|---|
+| **football-data.org** | `https://api.football-data.org/v4` | Header `X-Auth-Token` | 10 req/min · 12 competiciones | 12 competiciones top (5 grandes ligas + CL + WC + otras) | Temporadas anteriores (`?season=`) | Sí (campo `referees` en el partido) | ❌ **bloqueada** (probado) |
+| **API-Football (api-sports.io)** | `https://v3.football.api-sports.io` | Header `x-apisports-key` | 100 req/día | 1.200+ ligas y copas | Sí, por temporada | Sí (`fixture.referee` + árbitros) | ⚠️ Probable, verificar |
+| **API-Football vía RapidAPI** | `https://api-football-v1.p.rapidapi.com/v3` | `x-rapidapi-key` + host | 100 req/día | Igual que arriba | Igual | Igual | ✅ (RapidAPI habilita navegador) |
+| **OpenLigaDB** | `https://api.openligadb.de` | Ninguna | No publica límite | Solo fútbol alemán | Fases recientes | ❌ | ✅ |
+| **TheSportsDB** | `https://www.thesportsdb.com/api/v1/json/{key}` | Key en la URL (`123` = gratis) | 30 req/min + **tope de resultados por consulta** | 617 ligas (crowd-sourced) | Parcial | ❌ | ✅ |
+| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Solo reciente | ❌ | ✅ |
+
+¹ **CORS** = permite llamar la API directamente desde el navegador (crítico para un proyecto *full frontend*).
+
+### Notas clave por proveedor
+
+- **football-data.org** — JSON limpio y trae **árbitros + head2head**, pero en nuestra prueba (11/10/2026) **no permitió la llamada desde el navegador**: un `fetch` simple a `/v4/competitions` falla por CORS. Es decir, **no sirve para un proyecto 100 % frontend sin un proxy**. Queda como opción solo si agregás un backend mínimo.
+- **API-Football** — la más completa en un solo proveedor (1.200+ ligas, `fixtures/headtohead`, eventos, alineaciones, árbitro por partido). Su límite de **100 req/día** la hace apta para sincronizaciones puntuales, no para uso masivo. (CORS no verificado; probablemente requiere proxy.)
+- **TheSportsDB** — ✅ **funciona desde el navegador**. Útil para equipos, **año de fundación**, escudos e historial. La clave gratuita limita severamente las búsquedas (por ejemplo, `searchteams` gratis solo responde a "Arsenal"), y `lookup_all_teams` devuelve el plantel de una liga.
+- **OpenLigaDB** — ✅ **funciona desde el navegador**, sin API key, pero **solo fútbol alemán**.
+- **openfootball** (GitHub raw) — ✅ **funciona desde el navegador**: JSON estático con Mundiales y ligas desde 1930.
+
+### Resultado de la prueba de conectividad (desde el navegador)
+
+| Endpoint probado | Resultado |
+|---|---|
+| `api.openligadb.de/getavailableleagues` | ✅ HTTP 200 |
+| `thesportsdb.com/api/v1/json/3/lookup_all_teams.php?id=4328` | ✅ HTTP 200 |
+| `raw.githubusercontent.com/openfootball/...` | ✅ HTTP 200 |
+| `api.football-data.org/v4/competitions` | ❌ `Failed to fetch` (CORS) |
+
+---
+
+## 2. Fuentes para historia masiva (no son REST)
+
+Para "cruces históricos" y modelos estadísticos, los datasets abiertos rinden mucho más que las APIs:
+
+| Fuente | Qué aporta | Formato | Notas |
+|---|---|---|---|
+| **openfootball** (`github.com/openfootball`) | Mundiales, Eurocopas y varias ligas históricas | JSON / texto | Dominio público, sin key. Base sin fricción. |
+| **football-data.co.uk** | Décadas de resultados de ligas de clubes **+ cuotas** | CSV | El mejor punto de partida para entrenar el modelo. Sin key. |
+| **Kaggle: "International football results 1872→hoy"** (`martj42`) | Selecciones nacionales desde 1872 | CSV | Lo más cercano a "selecciones desde su nacimiento". Sin key. |
+| **StatsBomb Open Data** (`github.com/statsbomb/open-data`) | Eventos con xG de algunos Mundiales/competiciones | JSON | Datos profundos para features avanzadas. Sin key. |
+| **Club Elo** (`clubelo.com/API`) | Fuerza de equipos (ratings Elo) diaria | JSON | Feature numérico limpio, sin scraping. Sin key. |
+| **FBref / Understat** | xG y estadísticas avanzadas | HTML (scraping) | No es API; scraping frágil y con riesgo de ToS. |
+
+---
+
+## 3. Stack recomendado para este proyecto (full frontend)
+
+1. **Fuente base (equipos, año de fundación, escudos, historial):** `TheSportsDB` — funciona desde el navegador.
+2. **Partidos detallados:** `OpenLigaDB` (fútbol alemán, sin clave) — funciona desde el navegador.
+3. **Historia de Mundiales y ligas desde 1930:** `openfootball` (JSON en GitHub raw) — funciona desde el navegador.
+4. **Historia masiva offline:** CSV de `football-data.co.uk` + dataset de selecciones desde 1872 (importación por archivo).
+5. **Solo con proxy/backend:** `football-data.org` y `API-Football` (verificados como **no utilizables** directamente desde el navegador).
+
+---
+
+## 4. Consideraciones de integración (importante para *full frontend*)
+
+- **CORS:** verificado en la app: `TheSportsDB`, `OpenLigaDB` y `openfootball` (GitHub raw) **sí** funcionan; `football-data.org` **no** (requiere proxy).
+- **Clave expuesta:** en una app 100% frontend, cualquier API key queda visible en el navegador. Para uso local/personal es aceptable; para publicar en internet conviene un proxy mínimo.
+- **Almacenamiento:** `localStorage` (~5 MB) **no alcanza** para historial masivo. El sistema ya usa **IndexedDB** (con respaldo en localStorage).
+- **Etiqueta de uso:** cachear resultados localmente y respetar los límites por minuto/día (cada registro guarda su **fuente** para trazabilidad).
+- **Verificación cruzada:** conviene confirmar marcadores finales con dos fuentes antes de fijarlos como "dato exacto" (categoría A).
+
+---
+
+## 5. Recordatorio honesto
+
+Ninguna API gratuita cubre "todos los partidos y árbitros del mundo desde el nacimiento de cada equipo". La cobertura completa solo existe en proveedores pagos con licencia. El sistema debe registrar **qué fuente, con qué cobertura**, respalda cada dato, y bajar la confianza cuando falten datos — tal como exige el `Readme.md`.

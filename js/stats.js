@@ -299,6 +299,38 @@
     };
   }
 
+  /* Enfrentamientos directos (H2H) entre dos equipos, desde la perspectiva de A */
+  function headToHead(matches, aId, bId) {
+    var list = [];
+    for (var i = 0; i < matches.length; i++) {
+      var m = matches[i];
+      var isAb = (m.homeId === aId && m.awayId === bId);
+      var isBa = (m.homeId === bId && m.awayId === aId);
+      if (isAb || isBa) list.push(m);
+    }
+    list.sort(function (a, b) {
+      if (a.date === b.date) return 0;
+      return a.date < b.date ? 1 : -1;
+    });
+
+    var aWins = 0, draws = 0, bWins = 0, aGoals = 0, bGoals = 0;
+    for (var j = 0; j < list.length; j++) {
+      var mm = list[j];
+      var aHome = mm.homeId === aId;
+      var ga = aHome ? mm.homeGoals : mm.awayGoals;
+      var gb = aHome ? mm.awayGoals : mm.homeGoals;
+      aGoals += ga; bGoals += gb;
+      if (ga > gb) aWins++; else if (ga < gb) bWins++; else draws++;
+    }
+    return {
+      total: list.length,
+      aWins: aWins, draws: draws, bWins: bWins,
+      aGoals: aGoals, bGoals: bGoals,
+      avgTotal: list.length ? (aGoals + bGoals) / list.length : 0,
+      matches: list.slice(0, 10)
+    };
+  }
+
   /* Motor de confianza (0-100) */
   function confidence(ctx) {
     var home = ctx.homeStats, away = ctx.awayStats;
@@ -333,6 +365,7 @@
     derived: derived,
     setPieces: setPieces,
     simulate: simulate,
+    headToHead: headToHead,
     confidence: confidence
   };
 })();

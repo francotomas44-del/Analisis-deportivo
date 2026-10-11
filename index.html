@@ -25,10 +25,12 @@
     <button class="tab is-active" data-view="inicio" type="button">Inicio</button>
     <button class="tab" data-view="equipos" type="button">Equipos</button>
     <button class="tab" data-view="partidos" type="button">Partidos</button>
+    <button class="tab" data-view="importar" type="button">Importar</button>
     <button class="tab" data-view="analisis" type="button">Análisis</button>
     <button class="tab" data-view="predicciones" type="button">Predicciones</button>
     <button class="tab" data-view="evaluacion" type="button">Evaluación</button>
     <button class="tab" data-view="informe" type="button">Informe</button>
+    <button class="tab" data-view="fuentes" type="button">Fuentes</button>
     <button class="tab" data-view="acerca" type="button">Acerca de</button>
   </nav>
 
@@ -132,6 +134,97 @@
       </div>
     </section>
 
+    <!-- IMPORTAR -->
+    <section class="view" id="view-importar">
+      <div class="panel">
+        <h2>Fuentes integradas (accesibles desde el navegador, sin API key)</h2>
+        <p class="muted">Conectores listos para usar. Cada registro guarda su <strong>fuente</strong>. Se evitan duplicados automáticamente.</p>
+
+        <h3>TheSportsDB</h3>
+        <div class="form-row">
+          <label class="field">
+            <span>ID de liga (ej: 4328 = Premier League)</span>
+            <input type="text" id="imp-tsdb-league" placeholder="4328" />
+          </label>
+          <label class="field">
+            <span>Temporada (opcional, ej: 2023-2024)</span>
+            <input type="text" id="imp-tsdb-season" placeholder="2023-2024" />
+          </label>
+          <button class="btn btn-primary" id="imp-tsdb-run" type="button">Importar equipos + historial</button>
+        </div>
+        <p class="muted">Aporta año de fundación del club, escudos y resultados históricos (incluye árbitro si está disponible).</p>
+
+        <h3>OpenLigaDB</h3>
+        <div class="form-row">
+          <label class="field">
+            <span>Liga (shortcut, ej: bl1 / bl2)</span>
+            <input type="text" id="imp-oldb-league" placeholder="bl1" value="bl1" />
+          </label>
+          <label class="field">
+            <span>Temporada (ej: 2023)</span>
+            <input type="text" id="imp-oldb-season" placeholder="2023" value="2023" />
+          </label>
+          <button class="btn btn-primary" id="imp-oldb-run" type="button">Importar partidos</button>
+        </div>
+
+        <h3>openfootball (Mundiales y ligas desde 1930)</h3>
+        <div class="form-row">
+          <label class="field" style="flex:1">
+            <span>URL del JSON</span>
+            <input type="text" id="imp-oftb-url" value="https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json" />
+          </label>
+          <button class="btn btn-primary" id="imp-oftb-run" type="button">Importar JSON</button>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Importar desde JSON, CSV o URL</h2>
+        <div class="form-row">
+          <label class="field">
+            <span>Fuente (se guarda en cada registro)</span>
+            <input type="text" id="imp-source" placeholder="Ej: Promiedos, El Nine, CSV local" />
+          </label>
+        </div>
+        <div class="form-row" style="margin-top:0.6rem">
+          <label class="field">
+            <span>Subir archivo (.json / .csv)</span>
+            <input type="file" id="imp-file" accept=".json,.csv,text/csv,application/json" />
+          </label>
+          <label class="field" style="flex:1">
+            <span>Descargar desde URL</span>
+            <input type="text" id="imp-url" placeholder="https://…" />
+          </label>
+          <button class="btn btn-secondary" id="imp-url-run" type="button">Descargar</button>
+        </div>
+        <label class="field" style="margin-top:0.6rem">
+          <span>Pegar JSON (o CSV) directamente</span>
+          <textarea id="imp-json" rows="6" placeholder='{"source":"Promiedos","matches":[{"date":"2026-10-10","home":"Boca","away":"River","homeGoals":1,"awayGoals":0,"referee":"..."}]}'></textarea>
+        </label>
+        <div class="form-actions">
+          <button class="btn btn-primary" id="imp-json-run" type="button">Importar pegado</button>
+        </div>
+        <p class="muted">Formatos aceptados: <code>matches</code>, <code>events</code>, <code>data</code>, <code>response</code>, o un arreglo directo. Campos: home/away (o team1/team2, HomeTeam/AwayTeam, strHomeTeam/strAwayTeam), goles, fecha, competición, árbitro, córners y tarjetas.</p>
+      </div>
+
+      <div class="panel">
+        <h2>Promiedos y El Nine</h2>
+        <p class="muted">Ninguna de las dos ofrece API REST pública, por lo que <strong>no se descargan automáticamente</strong>:</p>
+        <ul class="notes">
+          <li class="warn"><strong>Promiedos:</strong> su web es Next.js y los datos vienen de <code>api.promiedos.com.ar</code> (no documentada y que puede bloquear/limitar el acceso).</li>
+          <li class="warn"><strong>El Nine</strong> (<code>elnine.com.ar</code>): detrás de Cloudflare, sin CORS y con <code>robots.txt</code> que prohíbe <code>/api/</code>; no es accesible de forma legítima desde la app.</li>
+        </ul>
+        <p class="muted">Sí podés cargar sus datos de forma legítima: usá <strong>Pegar JSON</strong>, <strong>Subir archivo</strong> o <strong>Descargar desde URL</strong> con datos que hayas obtenido vos, y quedará etiquetado con la fuente correspondiente.</p>
+      </div>
+
+      <div class="panel">
+        <h2>Registro de importación</h2>
+        <div id="imp-log" style="max-height:260px;overflow:auto"></div>
+        <div class="form-actions" style="margin-top:0.6rem">
+          <button class="btn btn-secondary" id="imp-clear" type="button">Limpiar registro</button>
+        </div>
+      </div>
+    </section>
+
     <!-- ANALISIS -->
     <section class="view" id="view-analisis">
       <div class="panel">
@@ -216,6 +309,38 @@
       <div class="panel print-area" id="informe-salida"></div>
     </section>
 
+    <!-- FUENTES -->
+    <section class="view" id="view-fuentes">
+      <div class="panel">
+        <h2>Resumen de datos cargados</h2>
+        <div class="grid-cards" id="fuentes-resumen"></div>
+        <p class="muted">Persistencia en <strong>IndexedDB</strong> (con respaldo en localStorage). Ver <code>docs/apis-datos.md</code> para el detalle de fuentes y límites.</p>
+      </div>
+
+      <div class="panel">
+        <h2>APIs accesibles desde el navegador</h2>
+        <p class="muted">Un proyecto full frontend solo puede llamar APIs que envíen cabeceras <strong>CORS</strong>. Verificado en esta app (11/10/2026):</p>
+        <ul class="notes">
+          <li><strong>TheSportsDB</strong> — funciona. Equipos, año de fundación, escudos e historial (con árbitro si está disponible).</li>
+          <li><strong>OpenLigaDB</strong> — funciona. Partidos detallados (fútbol alemán), sin clave.</li>
+          <li><strong>openfootball</strong> (GitHub raw) — funciona. Mundiales y ligas desde 1930 (JSON estático).</li>
+          <li class="warn"><strong>football-data.org</strong> — no accesible desde el navegador: su API rechaza las llamadas del navegador (CORS). Requeriría un proxy intermedio, por eso no se ofrece aquí.</li>
+        </ul>
+        <p class="muted">Usá la pestaña <strong>Importar</strong> para cargar datos desde las fuentes que sí funcionan.</p>
+      </div>
+
+      <div class="panel">
+        <h2>Exportar datos</h2>
+        <p class="muted">Descargá todo el contenido actual (equipos, competiciones, árbitros, partidos y predicciones) en un archivo JSON.</p>
+        <button class="btn btn-secondary" id="btn-export" type="button">Descargar JSON</button>
+      </div>
+
+      <div class="panel">
+        <h2>¿Buscás importar archivos o usar conectores?</h2>
+        <p class="muted">Usá la pestaña <strong>Importar</strong>: conectores TheSportsDB / OpenLigaDB / openfootball, archivo CSV/JSON, pegar JSON y descarga por URL.</p>
+      </div>
+    </section>
+
     <!-- ACERCA -->
     <section class="view" id="view-acerca">
       <div class="panel">
@@ -243,7 +368,9 @@
 
   <script src="js/stats.js"></script>
   <script src="js/metrics.js"></script>
+  <script src="js/storage.js"></script>
   <script src="js/store.js"></script>
+  <script src="js/import.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

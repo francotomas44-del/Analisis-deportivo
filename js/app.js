@@ -82,7 +82,8 @@
     var rows = st.teams.map(function (t) {
       var s = ST.teamStats(t.id, st.matches, 0);
       return "<tr>" +
-        "<td><strong>" + esc(t.name) + "</strong><br><span class='muted'>" + esc(t.league || "—") + "</span></td>" +
+        "<td><strong>" + esc(t.name) + "</strong><br><span class='muted'>" + esc(t.league || "—") +
+        (t.formedYear ? " · fund. " + t.formedYear : "") + "</span></td>" +
         "<td>" + s.matches + "</td>" +
         "<td>" + (s.matches ? num2(s.goalsForAvg) : "—") + "</td>" +
         "<td>" + (s.matches ? num2(s.goalsAgainstAvg) : "—") + "</td>" +
@@ -173,6 +174,7 @@
     var d = ST.derived(matrix, lh, la);
     var sp = ST.setPieces(hs, as, base);
     var sim = ST.simulate(lh, la, 10000, { redCardProb: 0.06 });
+    var h2h = ST.headToHead(matches, cfg.homeId, cfg.awayId);
 
     var conf = ST.confidence({
       homeStats: hs, awayStats: as,
@@ -191,6 +193,8 @@
     if (!sp.cards.hasData) notes.push({ warn: true, text: "Sin datos de tarjetas: se usan valores de referencia de la liga." });
     if (!cfg.lineups) notes.push({ warn: false, text: "Alineaciones no confirmadas: la confianza es menor." });
     if (matches.length < 10) notes.push({ warn: true, text: "Pocos partidos en la liga (" + matches.length + "): los promedios base son frágiles." });
+    if (h2h.total) notes.push({ warn: false, text: "Cruces directos registrados: " + h2h.total + " (" + h2h.aWins + " para " + (home ? home.name : "el local") + ", " + h2h.draws + " empates, " + h2h.bWins + " para " + (away ? away.name : "el visitante") + ")." });
+    else notes.push({ warn: true, text: "Sin cruces directos registrados entre estos equipos: el historial de enfrentamientos no aporta información." });
 
     return {
       input: {
@@ -218,6 +222,7 @@
       awayStats: as,
       baseline: base,
       confidence: conf,
+      headToHead: h2h,
       adjustments: adjustments,
       notes: notes
     };
@@ -317,7 +322,34 @@
     }
     ctx += "</div>";
 
-    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + ctx;
+    // enfrentamientos directos
+    var h2h = r.headToHead;
+    var h2hPanel;
+    if (h2h && h2h.total) {
+      var h2hRows = h2h.matches.map(function (mm) {
+        var hh = S.getTeam(mm.homeId), aa = S.getTeam(mm.awayId);
+        return "<tr><td>" + esc(mm.date || "—") + "</td><td>" + esc(hh ? hh.name : "?") +
+          "</td><td><strong>" + mm.homeGoals + " - " + mm.awayGoals + "</strong></td><td>" + esc(aa ? aa.name : "?") +
+          "</td><td>" + esc(mm.competition || "") + "</td></tr>";
+      }).join("");
+      h2hPanel = '<div class="panel"><h2>Enfrentamientos directos (historial)</h2>' +
+        '<div class="kv">' +
+        kv("Partidos totales", h2h.total) +
+        kv("Victorias " + hn, h2h.aWins) +
+        kv("Empates", h2h.draws) +
+        kv("Victorias " + an, h2h.bWins) +
+        kv("Goles " + hn + " / " + an, h2h.aGoals + " / " + h2h.bGoals) +
+        kv("Promedio de goles", num2(h2h.avgTotal)) +
+        "</div>" +
+        '<div class="table-wrap"><table><thead><tr><th>Fecha</th><th>Local</th><th>Resultado</th><th>Visitante</th><th>Competición</th></tr></thead><tbody>' +
+        h2hRows + "</tbody></table></div>" +
+        '<p class="muted">Resultados ya ocurridos (categoría A). Cuantos más cruces cargues, más sólida es esta lectura.</p></div>';
+    } else {
+      h2hPanel = '<div class="panel"><h2>Enfrentamientos directos (historial)</h2>' +
+        '<p class="muted">No hay cruces registrados entre estos equipos en tu base. Importá historial (pestaña <strong>Importar</strong>) para verlo aquí.</p></div>';
+    }
+
+    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + h2hPanel + ctx;
   }
 
   function statRow(k, a, b) {
@@ -539,6 +571,25 @@
     return L.join("\n");
   }
 
+  /* ---------- fuentes / API ---------- */
+  function renderFuentes() {
+    var st = S.state;
+    var host = $("fuentes-resumen");
+    if (!host) return;
+    var closed = st.predictions.filter(function (p) { return p.result; }).length;
+    var cards = [
+      { n: st.teams.length, l: "Equipos" },
+      { n: st.competitions.length, l: "Competiciones" },
+      { n: st.referees.length, l: "Árbitros" },
+      { n: st.matches.length, l: "Partidos" },
+      { n: st.predictions.length, l: "Predicciones" },
+      { n: closed, l: "Predicciones evaluadas" }
+    ];
+    host.innerHTML = cards.map(function (c) {
+      return '<div class="stat-card"><div class="num">' + c.n + '</div><div class="lbl">' + c.l + "</div></div>";
+    }).join("");
+  }
+
   /* ---------- acciones globales ---------- */
   function refreshAll() {
     renderInicio();
@@ -548,6 +599,7 @@
     renderPredicciones();
     renderEvaluacion();
     renderInformeSelect();
+    renderFuentes();
   }
 
   function resetAnalysis() {
@@ -558,8 +610,6 @@
 
   /* ---------- init ---------- */
   function init() {
-    S.load();
-
     // tabs
     $("tabs").addEventListener("click", function (e) {
       var t = e.target.closest(".tab");
@@ -660,12 +710,22 @@
       }
     });
 
+    // ---- Fuentes / export ----
+    $("btn-export").addEventListener("click", function () {
+      var blob = new Blob([JSON.stringify(S.state, null, 2)], { type: "application/json" });
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement("a");
+      a.href = url;
+      a.download = "analisis-deportivo-" + today() + ".json";
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 0);
+    });
+
     // datos de ejemplo / borrar
     $("btn-demo").addEventListener("click", function () {
       if (S.state.teams.length && !confirm("Esto reemplaza tus datos actuales por la liga de ejemplo. ¿Continuar?")) return;
-      S.loadDemo();
-      refreshAll();
-      showView("inicio");
+      S.loadDemo().then(function () { refreshAll(); showView("inicio"); });
     });
     $("btn-wipe").addEventListener("click", function () {
       if (!confirm("¿Borrar TODOS los equipos, partidos y predicciones?")) return;
@@ -676,7 +736,10 @@
       showView("inicio");
     });
 
-    refreshAll();
+    document.addEventListener("ad:data-changed", refreshAll);
+
+    // carga inicial desde IndexedDB (o localStorage)
+    S.init().then(function () { refreshAll(); });
     showView("inicio");
   }
 
