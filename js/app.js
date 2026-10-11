@@ -7,6 +7,7 @@
   var ST = window.AD.stats;
   var M = window.AD.metrics;
   var DS = window.AD.dataset;
+  var BT = window.AD.backtest;
 
   var lastAnalysis = null; // resultado del último análisis (para guardar)
 
@@ -536,6 +537,142 @@
     return o === "home" ? "Local" : o === "away" ? "Visitante" : "Empate";
   }
 
+  /* ---------- backtesting ---------- */
+  var btStop = false;
+
+  function fillBacktestComp() {
+    var sel = $("bt-comp");
+    if (!sel) return;
+    var prev = sel.value;
+    var comps = S.state.competitions.slice().sort(function (a, b) {
+      return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
+    });
+    sel.innerHTML = '<option value="">Todas</option>' + comps.map(function (c) {
+      return '<option value="' + esc(c.name) + '">' + esc(c.name) + "</option>";
+    }).join("");
+    if (prev) sel.value = prev;
+
+    // rango de fechas sugerido
+    var from = $("bt-from"), to = $("bt-to");
+    if (from && to && S.state.matches.length) {
+      var minD = "", maxD = "";
+      for (var i = 0; i < S.state.matches.length; i++) {
+        var d = S.state.matches[i].date || "";
+        if (!d) continue;
+        if (!minD || d < minD) minD = d;
+        if (!maxD || d > maxD) maxD = d;
+      }
+      if (minD) { from.setAttribute("min", minD); from.setAttribute("max", maxD); }
+      if (maxD) { to.setAttribute("min", minD); to.setAttribute("max", maxD); }
+    }
+  }
+
+  function runBacktest() {
+    if (!BT) return;
+    var comp = $("bt-comp").value;
+    var from = $("bt-from").value;
+    var to = $("bt-to").value;
+    var minHistory = parseInt($("bt-minhistory").value, 10);
+    if (isNaN(minHistory)) minHistory = 5;
+    var recency = (parseInt($("bt-recency").value, 10) || 0) / 100;
+    var max = parseInt($("bt-max").value, 10);
+    if (isNaN(max)) max = 0;
+
+    btStop = false;
+    $("btn-bt-run").disabled = true;
+    $("btn-bt-stop").disabled = false;
+    $("bt-status").textContent = "Procesando…";
+    setOverlay(true, "Ejecutando backtesting…", "Preparando el recorrido cronológico…", 0);
+
+    BT.run({
+      competition: comp, from: from, to: to,
+      recency: recency, minHistory: minHistory, max: max,
+      shouldStop: function () { return btStop; }
+    }, function (done, total, agg) {
+      var frac = total ? done / total : 0;
+      setOverlay(true, "Ejecutando backtesting…",
+        "Evaluados " + done.toLocaleString("es") + " de " + total.toLocaleString("es") + " partidos…", frac);
+    }).then(function (res) {
+      setOverlay(false);
+      $("btn-bt-run").disabled = false;
+      $("btn-bt-stop").disabled = true;
+      renderBacktest(res);
+    }).catch(function (e) {
+      setOverlay(false);
+      $("btn-bt-run").disabled = false;
+      $("btn-bt-stop").disabled = true;
+      $("bt-status").textContent = "Error: " + (e && e.message ? e.message : e);
+    });
+  }
+
+  function renderBacktest(res) {
+    if (!res || !res.count) {
+      $("bt-metricas").innerHTML = '<p class="empty">No hay partidos evaluables con los filtros elegidos' +
+        (res && res.skippedLowHistory ? " (" + res.skippedLowHistory.toLocaleString("es") + " descartados por historial insuficiente)." : ".") + "</p>";
+      $("bt-baseline").textContent = "";
+      $("bt-calibracion").innerHTML = "";
+      $("bt-detalle").innerHTML = "";
+      $("bt-detalle-nota").textContent = "";
+      $("bt-status").textContent = "Sin resultados.";
+      return;
+    }
+
+    var n = res.count;
+    $("bt-status").textContent = "Backtesting completado · " + n.toLocaleString("es") + " partidos evaluados.";
+
+    var cards = [
+      { n: n.toLocaleString("es"), l: "Partidos evaluados" },
+      { n: (res.accuracy * 100).toFixed(1) + "%", l: "Aciertos 1X2" },
+      { n: res.brier.toFixed(3), l: "Brier (menor mejor)" },
+      { n: res.logloss.toFixed(3), l: "Log Loss (menor mejor)" },
+      { n: res.maeTotal.toFixed(2), l: "MAE goles totales" },
+      { n: res.rmseTotal.toFixed(2), l: "RMSE goles totales" }
+    ];
+    $("bt-metricas").innerHTML = cards.map(function (c) {
+      return '<div class="stat-card"><div class="num">' + c.n + '</div><div class="lbl">' + c.l + "</div></div>";
+    }).join("");
+
+    var b = res.baseline;
+    var txt = "Evaluados " + n.toLocaleString("es") + " de " + res.pool.toLocaleString("es") + " partidos del conjunto filtrado.";
+    if (res.skippedLowHistory) txt += " Descartados por historial insuficiente: " + res.skippedLowHistory.toLocaleString("es") + ".";
+    if (res.stopped) txt += " (detenido por el usuario: resultados parciales).";
+    if (b) {
+      txt += " Referencia — «climatología del período»: acierto de «siempre gana el local» " + (b.homeAccuracy * 100).toFixed(1) +
+        "%, Brier " + b.climatologyBrier.toFixed(3) + ", Log Loss " + b.climatologyLogLoss.toFixed(3) + ".";
+      txt += " Distribución real: local " + (b.rates.home * 100).toFixed(1) + "% / empate " + (b.rates.draw * 100).toFixed(1) +
+        "% / visitante " + (b.rates.away * 100).toFixed(1) + "%.";
+    }
+    txt += " Cálculo: " + (res.elapsedMs / 1000).toFixed(1) + " s.";
+    $("bt-baseline").textContent = txt;
+
+    // calibración
+    var calRows = res.calibration.map(function (r) {
+      return "<tr><td>" + r.rango + "</td><td>" + r.n.toLocaleString("es") + "</td><td>" +
+        (r.probMedia != null ? pct(r.probMedia) : "—") + "</td><td>" +
+        (r.frecObs != null ? pct(r.frecObs) : "—") + "</td></tr>";
+    }).join("");
+    $("bt-calibracion").innerHTML = '<div class="table-wrap"><table><thead><tr>' +
+      "<th>Confianza</th><th>N</th><th>Prob. media</th><th>Frec. observada</th>" +
+      "</tr></thead><tbody>" + calRows + "</tbody></table></div>";
+
+    // detalle (muestra)
+    $("bt-detalle-nota").textContent = "Muestra de " + res.detail.length.toLocaleString("es") + " partido(s).";
+    var dRows = res.detail.map(function (x) {
+      return "<tr>" +
+        "<td>" + esc(x.date) + "<br><span class='muted'>" + esc(x.competition) + "</span></td>" +
+        "<td>" + esc(x.home) + " <strong>" + x.hg + " - " + x.ag + "</strong> " + esc(x.away) + "</td>" +
+        "<td>" + outcomeName(x.predicted) + "</td>" +
+        "<td>" + outcomeName(x.actual) + "</td>" +
+        "<td>" + (x.hit ? '<span class="badge ok">Sí</span>' : '<span class="badge fail">No</span>') + "</td>" +
+        "<td>" + x.brier.toFixed(3) + "</td>" +
+        "<td>" + x.expTotal.toFixed(2) + " / " + x.actTotal + "</td>" +
+        "</tr>";
+    }).join("");
+    $("bt-detalle").innerHTML = '<div class="table-wrap"><table><thead><tr>' +
+      "<th>Fecha</th><th>Partido</th><th>Predicho</th><th>Real</th><th>Acierto</th><th>Brier</th><th>Goles esp./real</th>" +
+      "</tr></thead><tbody>" + dRows + "</tbody></table></div>";
+  }
+
   /* ---------- informe ---------- */
   function renderInformeSelect() {
     var st = S.state;
@@ -659,10 +796,12 @@
   function setBackupStatus(msg) { var el = $("backup-status"); if (el) el.textContent = msg; }
   function setBaseStatus(msg) { var el = $("base-status"); if (el) el.textContent = msg; }
 
-  function setOverlay(show, msg, frac) {
+  function setOverlay(show, title, msg, frac) {
     var ov = $("base-overlay");
     if (!ov) return;
     ov.style.display = show ? "flex" : "none";
+    var t = $("base-overlay-title");
+    if (t && title != null) t.textContent = title;
     if (msg != null) { var m = $("base-overlay-msg"); if (m) m.textContent = msg; }
     if (frac != null) { var f = $("base-overlay-fill"); if (f) f.style.width = (Math.max(0, Math.min(1, frac)) * 100).toFixed(1) + "%"; }
   }
@@ -675,11 +814,11 @@
 
     var btns = [$("btn-load-base"), $("btn-load-base-home")].filter(function (b) { return !!b; });
     btns.forEach(function (b) { b.disabled = true; });
-    setOverlay(true, "Preparando…", 0);
+    setOverlay(true, "Cargando base histórica…", "Preparando…", 0);
 
     return S.reset().then(function () {
       return DS.load(function (done, total, matches) {
-        setOverlay(true, "Leyendo " + done + " de " + total + " archivos · " + matches.toLocaleString("es") + " partidos…", done / total);
+        setOverlay(true, "Cargando base histórica…", "Leyendo " + done + " de " + total + " archivos · " + matches.toLocaleString("es") + " partidos…", done / total);
       });
     }).then(function (res) {
       setOverlay(false);
@@ -706,6 +845,7 @@
     renderPartidos();
     renderPredicciones();
     renderEvaluacion();
+    fillBacktestComp();
     renderInformeSelect();
     renderFuentes();
   }
@@ -889,6 +1029,12 @@
     // filtro del historial de partidos
     var pfiltro = $("partidos-filtro");
     if (pfiltro) pfiltro.addEventListener("input", function () { renderPartidos(); });
+
+    // backtesting
+    if ($("btn-bt-run")) $("btn-bt-run").addEventListener("click", runBacktest);
+    if ($("btn-bt-stop")) $("btn-bt-stop").addEventListener("click", function () { btStop = true; $("bt-status").textContent = "Deteniendo…"; });
+    var btr = $("bt-recency");
+    if (btr) btr.addEventListener("input", function () { $("bt-recency-out").textContent = (btr.value || 0) + "%"; });
 
     $("btn-wipe").addEventListener("click", function () {
       if (!confirm("¿Borrar TODOS los equipos, partidos y predicciones?")) return;

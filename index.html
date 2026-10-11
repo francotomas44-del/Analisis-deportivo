@@ -31,6 +31,7 @@
     <button class="tab" data-view="analisis" type="button">Análisis</button>
     <button class="tab" data-view="predicciones" type="button">Predicciones</button>
     <button class="tab" data-view="evaluacion" type="button">Evaluación</button>
+    <button class="tab" data-view="backtesting" type="button">Backtesting</button>
     <button class="tab" data-view="informe" type="button">Informe</button>
     <button class="tab" data-view="fuentes" type="button">Fuentes</button>
     <button class="tab" data-view="acerca" type="button">Acerca de</button>
@@ -219,6 +220,63 @@
       </div>
     </section>
 
+    <!-- BACKTESTING -->
+    <section class="view" id="view-backtesting">
+      <div class="panel">
+        <h2>Backtesting del modelo</h2>
+        <p class="muted">Evalúa las predicciones del sistema sobre partidos <strong>ya jugados</strong>, usando para cada partido <strong>solo la información anterior a su fecha</strong> (walk-forward, sin mirar el futuro ni hacer trampa con el resultado). Mide qué tan bien calibrado está el modelo sobre una muestra amplia; no garantiza resultados individuales.</p>
+        <div class="form-grid">
+          <label class="field">
+            <span>Competición</span>
+            <select id="bt-comp"><option value="">Todas</option></select>
+          </label>
+          <label class="field">
+            <span>Desde (opcional)</span>
+            <input type="date" id="bt-from" />
+          </label>
+          <label class="field">
+            <span>Hasta (opcional)</span>
+            <input type="date" id="bt-to" />
+          </label>
+          <label class="field">
+            <span>Historial mínimo por equipo (partidos)</span>
+            <input type="number" id="bt-minhistory" min="0" max="40" value="5" />
+          </label>
+          <label class="field">
+            <span>Peso de partidos recientes: <output id="bt-recency-out">0%</output></span>
+            <input type="range" id="bt-recency" min="0" max="100" value="0" />
+          </label>
+          <label class="field">
+            <span>Máximo de partidos a evaluar (0 = todos)</span>
+            <input type="number" id="bt-max" min="0" value="0" />
+          </label>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn-primary" id="btn-bt-run" type="button">Ejecutar backtesting</button>
+          <button class="btn btn-secondary" id="btn-bt-stop" type="button" disabled>Detener</button>
+        </div>
+        <p class="muted" id="bt-status"></p>
+      </div>
+
+      <div class="panel">
+        <h2>Resultados globales</h2>
+        <div id="bt-metricas" class="grid-cards"></div>
+        <p class="muted" id="bt-baseline"></p>
+      </div>
+
+      <div class="panel">
+        <h2>Calibración</h2>
+        <p class="muted">Compara la probabilidad que el modelo asigna al resultado que considera más probable con la frecuencia real de acierto. Cuanto más cerca estén <em>prob. media</em> y <em>frec. observada</em>, mejor calibrado.</p>
+        <div id="bt-calibracion"></div>
+      </div>
+
+      <div class="panel">
+        <h2>Detalle (muestra)</h2>
+        <p class="muted" id="bt-detalle-nota"></p>
+        <div id="bt-detalle"></div>
+      </div>
+    </section>
+
     <!-- INFORME -->
     <section class="view" id="view-informe">
       <div class="panel">
@@ -283,6 +341,8 @@
         <p>Esta aplicación implementa, del lado del cliente, los principios descritos en el <code>Readme.md</code> del proyecto: evidencia antes que intuición, probabilidad antes que certeza, trazabilidad y honestidad estadística.</p>
         <h3>Modelo estadístico</h3>
         <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas usan medias históricas por equipo.</p>
+        <h3>Backtesting</h3>
+        <p>La pestaña <strong>Backtesting</strong> evalúa el modelo sobre partidos ya jugados con <em>walk-forward</em>: para cada partido sólo usa la información anterior a su fecha (sin look-ahead). Reporta aciertos, Brier, Log Loss, error de goles y calibración, y los compara con una referencia ingenua (climatología del período). Los resultados no son una garantía: miden el desempeño agregado del modelo.</p>
         <h3>Clasificación de resultados (según el README)</h3>
         <ul>
           <li><strong>A. Datos exactos:</strong> resultados y estadísticas ya ocurridas.</li>
@@ -299,7 +359,7 @@
 
   <div id="base-overlay" class="overlay" style="display:none">
     <div class="overlay-card">
-      <h3>Cargando base histórica…</h3>
+      <h3 id="base-overlay-title">Cargando base histórica…</h3>
       <p class="muted" id="base-overlay-msg">Preparando…</p>
       <div class="overlay-track"><div class="overlay-fill" id="base-overlay-fill"></div></div>
     </div>
@@ -314,6 +374,7 @@
   <script src="js/storage.js"></script>
   <script src="js/store.js"></script>
   <script src="js/dataset.js"></script>
+  <script src="js/backtest.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>
