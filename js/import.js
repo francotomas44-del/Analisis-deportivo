@@ -157,6 +157,7 @@
     } else {
       log("Fuente <strong>" + source + "</strong>: " + res.matchesAdded + " partidos y " + res.teamsAdded + " equipos nuevos. Omitidos: " + res.skipped + ".", "ok");
     }
+    try { S.saveNow(); } catch (e) {} // asegurar el guardado antes de avisar
     document.dispatchEvent(new Event("ad:data-changed"));
   }
 

@@ -16,10 +16,13 @@
       </div>
     </div>
     <div class="topbar-actions">
+      <span id="save-indicator" class="save-indicator" title="Estado del guardado">Sin guardar</span>
       <button id="btn-demo" class="btn btn-ghost" type="button">Cargar datos de ejemplo</button>
       <button id="btn-wipe" class="btn btn-danger-ghost" type="button">Borrar todo</button>
     </div>
   </header>
+
+  <div id="origin-warning" class="origin-warning" style="display:none"></div>
 
   <nav class="tabs" id="tabs">
     <button class="tab is-active" data-view="inicio" type="button">Inicio</button>
@@ -330,9 +333,19 @@
       </div>
 
       <div class="panel">
-        <h2>Exportar datos</h2>
-        <p class="muted">Descargá todo el contenido actual (equipos, competiciones, árbitros, partidos y predicciones) en un archivo JSON.</p>
-        <button class="btn btn-secondary" id="btn-export" type="button">Descargar JSON</button>
+        <h2>Copia de seguridad y guardado</h2>
+        <p class="muted">Tus datos se guardan solos en este navegador (<strong>IndexedDB</strong> + respaldo en <strong>localStorage</strong>) y se conservan al recargar. Aun así conviene tener una copia: descargala y, si algún día abrís la app desde <strong>otra dirección u otro navegador</strong>, restáurala acá.</p>
+        <div class="form-actions">
+          <button class="btn btn-primary" id="btn-export" type="button">Descargar copia (JSON)</button>
+          <button class="btn btn-secondary" id="btn-save-now" type="button">Guardar ahora</button>
+        </div>
+        <div class="form-row" style="margin-top:0.8rem">
+          <label class="field" style="flex:1">
+            <span>Restaurar copia (archivo JSON exportado antes)</span>
+            <input type="file" id="restore-file" accept=".json,application/json" />
+          </label>
+        </div>
+        <p class="muted" id="backup-status"></p>
       </div>
 
       <div class="panel">

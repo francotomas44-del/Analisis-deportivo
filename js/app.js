@@ -590,6 +590,21 @@
     }).join("");
   }
 
+  function fmtTime(d) { return d.toLocaleTimeString(); }
+
+  function updateSaveIndicator() {
+    var el = $("save-indicator");
+    if (!el) return;
+    var hasData = S.state.teams.length || S.state.matches.length;
+    var d = S.getLastSavedAt();
+    el.classList.remove("dirty");
+    if (!hasData && !d) { el.classList.remove("ok"); el.textContent = "Sin datos"; return; }
+    el.classList.add("ok");
+    el.textContent = d ? ("Guardado \u2713 " + fmtTime(d)) : "Guardado \u2713";
+  }
+
+  function setBackupStatus(msg) { var el = $("backup-status"); if (el) el.textContent = msg; }
+
   /* ---------- acciones globales ---------- */
   function refreshAll() {
     renderInicio();
@@ -610,6 +625,18 @@
 
   /* ---------- init ---------- */
   function init() {
+    // Aviso de origen: file:// no es confiable para el guardado interno
+    if (location.protocol === "file:") {
+      var w = $("origin-warning");
+      if (w) {
+        w.style.display = "block";
+        w.innerHTML = "<strong>Atención:</strong> abriste la app como archivo local (<code>file://</code>). " +
+          "En muchas configuraciones el navegador bloquea el guardado interno, por lo que los datos podrían NO conservarse al recargar. " +
+          "Para que se guarden siempre: ejecutá <code>iniciar-servidor.bat</code> y usá siempre <code>http://localhost:8766/</code>. " +
+          "Además, descargá una copia de seguridad en la pestaña <strong>Fuentes</strong>.";
+      }
+    }
+
     // tabs
     $("tabs").addEventListener("click", function (e) {
       var t = e.target.closest(".tab");
@@ -711,6 +738,8 @@
     });
 
     // ---- Fuentes / export ----
+    S.setOnSaved(updateSaveIndicator);
+
     $("btn-export").addEventListener("click", function () {
       var blob = new Blob([JSON.stringify(S.state, null, 2)], { type: "application/json" });
       var url = URL.createObjectURL(blob);
@@ -720,6 +749,43 @@
       document.body.appendChild(a);
       a.click();
       setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 0);
+      setBackupStatus("Copia descargada. Guardala en un lugar seguro.");
+    });
+
+    $("btn-save-now").addEventListener("click", function () {
+      S.saveNow().then(function () { setBackupStatus("Guardado manualmente a las " + fmtTime(new Date()) + "."); });
+    });
+
+    $("restore-file").addEventListener("change", function () {
+      var f = this.files && this.files[0];
+      if (!f) return;
+      var reader = new FileReader();
+      reader.onload = function () {
+        var data;
+        try { data = JSON.parse(String(reader.result)); }
+        catch (e) { setBackupStatus("Archivo inválido: " + e.message); return; }
+        if (!data || (!Array.isArray(data.teams) && !Array.isArray(data.matches))) {
+          setBackupStatus("El archivo no parece una copia de este sistema."); return;
+        }
+        if (!confirm("Esto reemplaza los datos actuales por los de la copia. ¿Continuar?")) return;
+        S.replaceState(data).then(function () {
+          resetAnalysis();
+          $("resultado-analisis").innerHTML = "";
+          refreshAll();
+          setBackupStatus("Copia restaurada: " + S.state.teams.length + " equipos y " + S.state.matches.length + " partidos.");
+        });
+      };
+      reader.onerror = function () { setBackupStatus("No se pudo leer el archivo."); };
+      reader.readAsText(f);
+      this.value = "";
+    });
+
+    // Volcado al cerrar/ocultar la pestaña para no perder lo pendiente.
+    function flush() { try { S.saveNow(); } catch (e) {} }
+    window.addEventListener("beforeunload", flush);
+    window.addEventListener("pagehide", flush);
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState === "hidden") flush();
     });
 
     // datos de ejemplo / borrar
@@ -739,7 +805,7 @@
     document.addEventListener("ad:data-changed", refreshAll);
 
     // carga inicial desde IndexedDB (o localStorage)
-    S.init().then(function () { refreshAll(); });
+    S.init().then(function () { refreshAll(); updateSaveIndicator(); });
     showView("inicio");
   }
 

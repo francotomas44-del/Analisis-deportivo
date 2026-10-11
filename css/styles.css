@@ -254,6 +254,34 @@ tbody tr:hover { background: var(--bg-soft); }
 
 .footer { text-align: center; color: var(--muted); font-size: 0.8rem; padding: 1.5rem 1rem 2.5rem; }
 
+/* Estado de guardado */
+.save-indicator {
+  font-size: 0.78rem;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.3rem 0.7rem;
+  white-space: nowrap;
+  transition: color .2s, border-color .2s;
+}
+.save-indicator.ok { color: var(--accent); border-color: rgba(61,220,151,0.4); }
+.save-indicator.dirty { color: var(--warn); border-color: rgba(255,209,102,0.4); }
+
+/* Aviso de origen */
+.origin-warning {
+  margin: 0.8rem auto 0;
+  max-width: 1180px;
+  padding: 0.7rem 1rem;
+  border: 1px solid rgba(255,209,102,0.5);
+  background: rgba(255,209,102,0.08);
+  color: var(--warn);
+  border-radius: 12px;
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+.origin-warning strong { color: var(--warn); }
+
+
 #informe-salida {
   white-space: pre-wrap;
   font-family: "Cascadia Code", Consolas, "Courier New", monospace;

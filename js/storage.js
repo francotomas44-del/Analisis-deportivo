@@ -1,6 +1,14 @@
-/* storage.js — persistencia con IndexedDB + respaldo en localStorage
+/* storage.js — persistencia robusta (IndexedDB + localStorage) y respaldo
    Namespace global: window.AD.storage
-   IndexedDB permite guardar historial grande (localStorage ~5 MB es insuficiente). */
+
+   Estrategia:
+   - Se guarda SIEMPRE en los dos lugares cuando es posible:
+       * IndexedDB  -> historial grande (localStorage ~5 MB es poco).
+       * localStorage -> respaldo que funciona incluso en orígenes donde
+         IndexedDB está bloqueado (p. ej. páginas abiertas como file://).
+   - Cada guardado lleva una marca de tiempo (savedAt) y al cargar se elige
+     la copia MÁS RECIENTE de las dos, para no perder datos por diferencias
+     entre IndexedDB y localStorage. */
 (function () {
   "use strict";
 
@@ -9,10 +17,12 @@
   var DB_NAME = "analisisDeportivo";
   var STORE = "kv";
   var RKEY = "state";
-  var LS_KEY = "analisisDeportivo:v1";
-  var LS_BACKUP_LIMIT = 2000000; // 2 MB: solo espejamos si entra en localStorage
+  var LS_KEY = "analisisDeportivo:state";
+  var LS_LEGACY = "analisisDeportivo:v1"; // clave de versiones anteriores
+  var LS_LIMIT = 4500000; // ~4.5 MB: más que esto puede fallar el espejo
 
   var dbPromise = null;
+  var lastLoadedAt = null;
 
   function openDB() {
     if (dbPromise) return dbPromise;
@@ -64,54 +74,91 @@
     });
   }
 
-  function lsGet() {
-    try {
-      var raw = localStorage.getItem(LS_KEY);
-      return raw ? JSON.parse(raw) : null;
-    } catch (e) { return null; }
+  /* ---- formato del registro guardado: { savedAt, data } ---- */
+  function wrap(state) { return { savedAt: Date.now(), data: state }; }
+  function unwrap(rec) {
+    if (!rec) return null;
+    if (rec.data && typeof rec.savedAt === "number") return rec.data;
+    return rec; // compatibilidad con datos guardados sin envoltorio
+  }
+  function recTime(rec) {
+    if (rec && typeof rec.savedAt === "number") return rec.savedAt;
+    return 0;
   }
 
-  function lsPut(state) {
+  function lsReadRaw() {
     try {
-      var s = JSON.stringify(state);
-      if (s.length < LS_BACKUP_LIMIT) localStorage.setItem(LS_KEY, s);
-      else localStorage.removeItem(LS_KEY); // demasiado grande: no espejar
-    } catch (e) { /* ignora cuota */ }
+      var a = localStorage.getItem(LS_KEY);
+      if (a) return JSON.parse(a);
+      var b = localStorage.getItem(LS_LEGACY);
+      if (b) return JSON.parse(b);
+    } catch (e) {}
+    return null;
   }
 
-  /* Carga el estado persistido (IndexedDB primero, luego localStorage). */
+  function lsWrite(rec) {
+    try {
+      var s = JSON.stringify(rec);
+      if (s.length > LS_LIMIT) {
+        // demasiado grande: igual intentamos, pero sin romper si falla
+        try { localStorage.setItem(LS_KEY, s); } catch (e1) { return false; }
+      } else {
+        localStorage.setItem(LS_KEY, s);
+      }
+      return true;
+    } catch (e) { return false; }
+  }
+
+  /* Carga el estado persistido eligiendo la copia más reciente. */
   function load() {
+    lastLoadedAt = null;
     return openDB().then(function (db) {
-      if (!db) return lsGet();
-      return idbGet(db).then(function (val) {
-        if (val) return val;
-        var ls = lsGet();
-        if (ls) return idbPut(db, ls).then(function () { return ls; });
-        return null;
+      var pIdb = db ? idbGet(db) : Promise.resolve(null);
+      return pIdb.then(function (idbRec) {
+        var lsRec = lsReadRaw();
+        var idbVal = unwrap(idbRec);
+        var lsVal = unwrap(lsRec);
+        if (!idbVal && !lsVal) return null;
+
+        var chosen, chosenRec;
+        if (idbVal && lsVal) {
+          if (recTime(idbRec) >= recTime(lsRec)) { chosen = idbVal; chosenRec = idbRec; }
+          else { chosen = lsVal; chosenRec = lsRec; }
+        } else if (idbVal) { chosen = idbVal; chosenRec = idbRec; }
+        else { chosen = lsVal; chosenRec = lsRec; }
+
+        // Si lo elegido vino de localStorage y hay IndexedDB, migrarlo.
+        if (db && chosenRec === lsRec && recTime(lsRec) > recTime(idbRec)) {
+          idbPut(db, wrap(chosen));
+        }
+        // Limpia la clave heredada una vez migrada.
+        try { if (lsRec && localStorage.getItem(LS_LEGACY)) localStorage.removeItem(LS_LEGACY); } catch (e) {}
+        lastLoadedAt = recTime(chosenRec) || null;
+        return chosen;
       });
     });
   }
 
-  /* Guarda el estado completo. Devuelve una promesa. */
+  /* Guarda el estado en ambos almacenes. Devuelve una promesa. */
   function save(state) {
+    var rec = wrap(state);
+    lsWrite(rec);
     return openDB().then(function (db) {
-      lsPut(state); // respaldo (si entra)
       if (!db) return false;
-      return idbPut(db, state);
+      return idbPut(db, rec);
     });
   }
 
   function clear() {
-    try { localStorage.removeItem(LS_KEY); } catch (e) {}
-    return openDB().then(function (db) {
-      return db ? idbClear(db) : true;
-    });
+    try { localStorage.removeItem(LS_KEY); localStorage.removeItem(LS_LEGACY); } catch (e) {}
+    return openDB().then(function (db) { return db ? idbClear(db) : true; });
   }
 
   window.AD.storage = {
     load: load,
     save: save,
     clear: clear,
-    available: function () { return !!window.indexedDB; }
+    hasIndexedDB: function () { return !!window.indexedDB; },
+    lastLoadedAt: function () { return lastLoadedAt; }
   };
 })();

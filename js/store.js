@@ -15,6 +15,17 @@
   };
 
   var saveTimer = null;
+  var lastSavedAt = null;
+  var onSavedCb = null;
+
+  function markSaved() {
+    lastSavedAt = new Date();
+    if (typeof onSavedCb === "function") { try { onSavedCb(lastSavedAt); } catch (e) {} }
+  }
+
+  function persist() {
+    return window.AD.storage.save(state).then(function (ok) { markSaved(); return ok; });
+  }
 
   function uid() {
     if (window.crypto && crypto.randomUUID) return crypto.randomUUID();
@@ -35,6 +46,9 @@
         state.matches = Array.isArray(data.matches) ? data.matches : [];
         state.predictions = Array.isArray(data.predictions) ? data.predictions : [];
       }
+      // refleja en el indicador la fecha del último guardado encontrado
+      var loadedAt = window.AD.storage.lastLoadedAt ? window.AD.storage.lastLoadedAt() : null;
+      if (loadedAt) lastSavedAt = new Date(loadedAt);
       // normaliza campos por compatibilidad
       state.teams.forEach(function (t) {
         if (!t.external) t.external = {};
@@ -49,13 +63,13 @@
     if (saveTimer) clearTimeout(saveTimer);
     saveTimer = setTimeout(function () {
       saveTimer = null;
-      window.AD.storage.save(state);
+      persist();
     }, 150);
   }
 
   function saveNow() {
     if (saveTimer) { clearTimeout(saveTimer); saveTimer = null; }
-    return window.AD.storage.save(state);
+    return persist();
   }
 
   function reset() {
@@ -64,6 +78,21 @@
     state.referees = [];
     state.matches = [];
     state.predictions = [];
+    return saveNow();
+  }
+
+  /* Reemplaza todo el contenido (para restaurar una copia de seguridad). */
+  function replaceState(data) {
+    if (!data || typeof data !== "object") return Promise.resolve(false);
+    state.teams = Array.isArray(data.teams) ? data.teams : [];
+    state.competitions = Array.isArray(data.competitions) ? data.competitions : [];
+    state.referees = Array.isArray(data.referees) ? data.referees : [];
+    state.matches = Array.isArray(data.matches) ? data.matches : [];
+    state.predictions = Array.isArray(data.predictions) ? data.predictions : [];
+    state.teams.forEach(function (t) {
+      if (!t.external) t.external = {};
+      if (t.formedYear === undefined) t.formedYear = null;
+    });
     return saveNow();
   }
 
@@ -420,6 +449,9 @@
     hasMatchKey: hasMatchKey,
     importMatch: importMatch,
     importMatches: importMatches,
+    replaceState: replaceState,
+    getLastSavedAt: function () { return lastSavedAt; },
+    setOnSaved: function (fn) { onSavedCb = fn; },
     addPrediction: addPrediction,
     closePrediction: closePrediction,
     removePrediction: removePrediction,
