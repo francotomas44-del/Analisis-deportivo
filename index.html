@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Análisis Deportivo</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-icon">&#9917;</span>
+      <div>
+        <h1>Análisis Deportivo</h1>
+        <p class="brand-sub">Sistema probabilístico de análisis futbolístico · 100% en tu navegador</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <button id="btn-demo" class="btn btn-ghost" type="button">Cargar datos de ejemplo</button>
+      <button id="btn-wipe" class="btn btn-danger-ghost" type="button">Borrar todo</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab is-active" data-view="inicio" type="button">Inicio</button>
+    <button class="tab" data-view="equipos" type="button">Equipos</button>
+    <button class="tab" data-view="partidos" type="button">Partidos</button>
+    <button class="tab" data-view="analisis" type="button">Análisis</button>
+    <button class="tab" data-view="predicciones" type="button">Predicciones</button>
+    <button class="tab" data-view="evaluacion" type="button">Evaluación</button>
+    <button class="tab" data-view="informe" type="button">Informe</button>
+    <button class="tab" data-view="acerca" type="button">Acerca de</button>
+  </nav>
+
+  <main id="main">
+    <!-- INICIO -->
+    <section class="view is-active" id="view-inicio">
+      <div class="grid-cards" id="inicio-cards"></div>
+      <div class="panel">
+        <h2>¿Cómo funciona?</h2>
+        <ol class="steps">
+          <li><strong>Equipos:</strong> creá los equipos de tu liga o competición.</li>
+          <li><strong>Partidos:</strong> cargá resultados ya jugados (con goles, y opcionalmente córners y tarjetas).</li>
+          <li><strong>Análisis:</strong> elegí local y visitante y el sistema estima goles esperados y probabilidades.</li>
+          <li><strong>Predicciones:</strong> guardá el análisis antes del partido (queda congelado y auditable).</li>
+          <li><strong>Evaluación:</strong> al terminar el partido cargá el resultado real y medí la precisión (Brier, Log Loss, MAE, RMSE).</li>
+        </ol>
+        <p class="muted">Todos los datos se guardan únicamente en este navegador (localStorage). No se envía nada a ningún servidor.</p>
+      </div>
+      <div class="panel">
+        <h2>Principios del sistema</h2>
+        <div class="chips" id="inicio-principios"></div>
+      </div>
+    </section>
+
+    <!-- EQUIPOS -->
+    <section class="view" id="view-equipos">
+      <div class="panel">
+        <h2>Nuevo equipo</h2>
+        <form id="form-equipo" class="form-row">
+          <label class="field">
+            <span>Nombre del equipo</span>
+            <input type="text" id="equipo-nombre" placeholder="Ej: Rojo FC" required />
+          </label>
+          <label class="field">
+            <span>País / liga (opcional)</span>
+            <input type="text" id="equipo-liga" placeholder="Ej: Liga Demo" />
+          </label>
+          <button class="btn btn-primary" type="submit">Agregar equipo</button>
+        </form>
+      </div>
+      <div class="panel">
+        <h2>Equipos cargados</h2>
+        <div id="tabla-equipos"></div>
+      </div>
+    </section>
+
+    <!-- PARTIDOS -->
+    <section class="view" id="view-partidos">
+      <div class="panel">
+        <h2>Registrar resultado de un partido</h2>
+        <form id="form-partido" class="form-grid">
+          <label class="field">
+            <span>Fecha</span>
+            <input type="date" id="partido-fecha" />
+          </label>
+          <label class="field">
+            <span>Competición (opcional)</span>
+            <input type="text" id="partido-comp" placeholder="Ej: Liga Demo" />
+          </label>
+          <label class="field">
+            <span>Equipo local</span>
+            <select id="partido-local"></select>
+          </label>
+          <label class="field">
+            <span>Equipo visitante</span>
+            <select id="partido-visitante"></select>
+          </label>
+          <label class="field">
+            <span>Goles local</span>
+            <input type="number" id="partido-gl" min="0" max="20" value="0" />
+          </label>
+          <label class="field">
+            <span>Goles visitante</span>
+            <input type="number" id="partido-gv" min="0" max="20" value="0" />
+          </label>
+          <label class="field">
+            <span>Córners local (opcional)</span>
+            <input type="number" id="partido-cl" min="0" max="40" placeholder="—" />
+          </label>
+          <label class="field">
+            <span>Córners visitante (opcional)</span>
+            <input type="number" id="partido-cv" min="0" max="40" placeholder="—" />
+          </label>
+          <label class="field">
+            <span>Tarjetas local (opcional)</span>
+            <input type="number" id="partido-tl" min="0" max="20" placeholder="—" />
+          </label>
+          <label class="field">
+            <span>Tarjetas visitante (opcional)</span>
+            <input type="number" id="partido-tv" min="0" max="20" placeholder="—" />
+          </label>
+          <div class="form-actions">
+            <button class="btn btn-primary" type="submit">Guardar partido</button>
+          </div>
+        </form>
+        <p class="muted" id="partido-hint"></p>
+      </div>
+      <div class="panel">
+        <h2>Historial de partidos</h2>
+        <div id="tabla-partidos"></div>
+      </div>
+    </section>
+
+    <!-- ANALISIS -->
+    <section class="view" id="view-analisis">
+      <div class="panel">
+        <h2>Configurar análisis</h2>
+        <div class="form-grid">
+          <label class="field">
+            <span>Equipo local</span>
+            <select id="an-local"></select>
+          </label>
+          <label class="field">
+            <span>Equipo visitante</span>
+            <select id="an-visitante"></select>
+          </label>
+          <label class="field">
+            <span>Fecha del partido (opcional)</span>
+            <input type="datetime-local" id="an-kickoff" />
+          </label>
+          <label class="field">
+            <span>Descanso local (días)</span>
+            <input type="number" id="an-descanso-local" min="0" max="30" value="4" />
+          </label>
+          <label class="field">
+            <span>Descanso visitante (días)</span>
+            <input type="number" id="an-descanso-visitante" min="0" max="30" value="4" />
+          </label>
+          <label class="field">
+            <span>Énfasis en forma reciente (<span id="an-forma-val">0</span>%)</span>
+            <input type="range" id="an-forma" min="0" max="100" value="35" />
+          </label>
+        </div>
+        <div class="check-row">
+          <label class="check"><input type="checkbox" id="an-alineaciones" /> Alineaciones confirmadas</label>
+          <label class="check"><input type="checkbox" id="an-bajas-local" /> Bajas importantes local</label>
+          <label class="check"><input type="checkbox" id="an-bajas-visitante" /> Bajas importantes visitante</label>
+          <label class="check"><input type="checkbox" id="an-meteo" /> Clima adverso previsto</label>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn-primary" id="btn-analizar" type="button">Analizar partido</button>
+          <button class="btn btn-secondary" id="btn-guardar-pred" type="button" disabled>Guardar predicción</button>
+        </div>
+        <p class="muted" id="analisis-hint"></p>
+      </div>
+      <div id="resultado-analisis"></div>
+    </section>
+
+    <!-- PREDICCIONES -->
+    <section class="view" id="view-predicciones">
+      <div class="panel">
+        <h2>Predicciones registradas</h2>
+        <p class="muted">Cada predicción queda congelada al guardarse. Cargá el resultado real para habilitar la evaluación.</p>
+        <div id="tabla-predicciones"></div>
+      </div>
+    </section>
+
+    <!-- EVALUACION -->
+    <section class="view" id="view-evaluacion">
+      <div class="panel">
+        <h2>Métricas globales</h2>
+        <p class="muted">Se calculan sobre predicciones cerradas (con resultado real cargado).</p>
+        <div id="metricas-globales"></div>
+      </div>
+      <div class="panel">
+        <h2>Detalle por predicción</h2>
+        <div id="tabla-evaluacion"></div>
+      </div>
+    </section>
+
+    <!-- INFORME -->
+    <section class="view" id="view-informe">
+      <div class="panel">
+        <h2>Generar informe</h2>
+        <div class="form-row">
+          <label class="field">
+            <span>Predicción</span>
+            <select id="informe-select"></select>
+          </label>
+          <button class="btn btn-primary" id="btn-informe" type="button">Generar</button>
+          <button class="btn btn-secondary" id="btn-informe-copiar" type="button" disabled>Copiar</button>
+          <button class="btn btn-secondary" id="btn-informe-imprimir" type="button" disabled>Imprimir / PDF</button>
+        </div>
+      </div>
+      <div class="panel print-area" id="informe-salida"></div>
+    </section>
+
+    <!-- ACERCA -->
+    <section class="view" id="view-acerca">
+      <div class="panel">
+        <h2>Acerca del sistema</h2>
+        <p>Esta aplicación implementa, del lado del cliente, los principios descritos en el <code>Readme.md</code> del proyecto: evidencia antes que intuición, probabilidad antes que certeza, trazabilidad y honestidad estadística.</p>
+        <h3>Modelo estadístico</h3>
+        <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas usan medias históricas por equipo.</p>
+        <h3>Clasificación de resultados (según el README)</h3>
+        <ul>
+          <li><strong>A. Datos exactos:</strong> resultados y estadísticas ya ocurridas.</li>
+          <li><strong>B. Estimaciones cuantitativas:</strong> goles esperados, córners y tarjetas estimados.</li>
+          <li><strong>C. Predicciones probabilísticas:</strong> 1X2, más/menos, ambos marcan.</li>
+          <li><strong>D. Escenarios condicionales:</strong> simulación de Monte Carlo.</li>
+        </ul>
+        <h3>Límites</h3>
+        <p>Ningún modelo puede garantizar un resultado exacto. Un modelo bien calibrado puede fallar en partidos individuales. La fiabilidad se demuestra sobre muestras amplias, no en un partido aislado.</p>
+        <p class="muted">Esta app no genera estadísticas ni resultados: sólo procesa los datos que vos cargás.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Análisis Deportivo · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
+  </footer>
+
+  <script src="js/stats.js"></script>
+  <script src="js/metrics.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
