@@ -51,6 +51,29 @@
 
   function compName(code) { return LEAGUES[code] || code; }
 
+  /* Convierte el JSON de openfootball en partidos SIN resultado (fixtures futuros).
+     Son los que todavía no se jugaron: no tienen "score". Se usan para la portada
+     "Hoy" (próximos partidos + pronóstico), sin inventar datos. */
+  function convertFixtures(payload, comp) {
+    var arr = payload && payload.matches;
+    if (!Array.isArray(arr)) return [];
+    var out = [];
+    for (var i = 0; i < arr.length; i++) {
+      var m = arr[i];
+      if (!m || !m.team1 || !m.team2) continue;
+      var played = (m.score && Array.isArray(m.score.ft)) || Array.isArray(m.score);
+      if (played) continue;
+      out.push({
+        date: m.date || "",
+        time: m.time || "",
+        competition: comp,
+        home: String(m.team1).trim(),
+        away: String(m.team2).trim()
+      });
+    }
+    return out;
+  }
+
   /* Convierte el JSON de openfootball a filas del modelo del sistema */
   function convert(payload, comp) {
     var arr = payload && payload.matches;
@@ -129,8 +152,60 @@
       .catch(function (e) { loading = false; throw e; });
   }
 
+  /* Próximos partidos (fixtures sin resultado) de la temporada en curso.
+     Carga liviana: lee solo los archivos de las temporadas recientes (no las 207).
+     No persiste nada: es para la portada "Hoy". */
+  var upcomingCache = null;
+
+  function loadUpcoming(opts) {
+    opts = opts || {};
+    if (upcomingCache && !opts.force) return Promise.resolve(upcomingCache);
+
+    return fetch(MANIFEST, { cache: "force-cache" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("No se encontró data/manifest.json (HTTP " + r.status + ").");
+        return r.json();
+      })
+      .then(function (manifest) {
+        if (!Array.isArray(manifest) || !manifest.length) return [];
+        var today = new Date().toISOString().slice(0, 10);
+        var entries = manifest.filter(function (e) {
+          if (!e || typeof e.path !== "string") return false;
+          return e.path.indexOf("2026-27/") === 0 || e.path.indexOf("2026/") === 0;
+        });
+
+        var fixtures = [];
+        var chain = Promise.resolve();
+        entries.forEach(function (entry) {
+          chain = chain.then(function () {
+            return fetch(BASE + "openfootball/" + entry.path, { cache: "force-cache" })
+              .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+              .then(function (p) {
+                var f = convertFixtures(p, compName(entry.code));
+                for (var i = 0; i < f.length; i++) {
+                  if (f[i].date >= today) fixtures.push(f[i]);
+                }
+              })
+              .catch(function () {});
+          });
+        });
+
+        return chain.then(function () {
+          fixtures.sort(function (a, b) {
+            if (a.date !== b.date) return a.date < b.date ? -1 : 1;
+            return (a.time || "99:99") < (b.time || "99:99") ? -1 : 1;
+          });
+          upcomingCache = fixtures;
+          return fixtures;
+        });
+      });
+  }
+
   window.AD.dataset = {
     load: load,
+    loadUpcoming: loadUpcoming,
+    convert: convert,
+    convertFixtures: convertFixtures,
     compName: compName,
     leagues: LEAGUES,
     isLoading: function () { return loading; }

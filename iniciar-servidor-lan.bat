@@ -1,10 +1,10 @@
 @echo off
 chcp 65001 >nul
-title Futbolunaki - Servidor para red (WiFi)
+title Futbolityx - Servidor para red (WiFi)
 cd /d "%~dp0"
 
 echo =========================================================
-echo    Futbolunaki - servidor para tu red WiFi / local
+echo    Futbolityx - servidor para tu red WiFi / local
 echo =========================================================
 echo.
 echo  Deja esta ventana ABIERTA mientras tus amigos usan la app.

@@ -3,22 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Futbolunaki</title>
+    <title>Futbolityx — Pronósticos de fútbol, claros y honestos</title>
+  <meta name="description" content="Pronósticos y probabilidades de fútbol calculados 100% en tu navegador. Sin registro, gratis y con estadística honesta." />
+  <meta name="theme-color" content="#070c15" />
+  <meta property="og:title" content="Futbolityx — Pronósticos de fútbol" />
+  <meta property="og:description" content="Probabilidades 1X2, goles esperados y marcador más probable. Gratis y sin registro." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="img/icon-512.png" />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="img/logo.png?v=2" type="image/png" />
-  <link rel="stylesheet" href="css/styles.css?v=6" />
+  <link rel="apple-touch-icon" href="img/icon-192.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="css/styles.css?v=7" />
+  <link rel="stylesheet" href="css/v2.css?v=2" />
 </head>
 <body>
   <header class="topbar">
     <div class="brand">
-      <img class="brand-logo" src="img/logo.png?v=2" alt="Futbolunaki" width="48" height="48" />
+      <img class="brand-logo" src="img/logo.png?v=2" alt="Futbolityx" width="48" height="48" />
       <div>
-        <h1>Futbolunaki</h1>
-        <p class="brand-sub">Sistema probabilístico de análisis futbolístico · 100% en tu navegador</p>
+        <h1>Futbolityx</h1>
+        <p class="brand-sub">Pronósticos de fútbol, claros y honestos</p>
       </div>
     </div>
     <div class="topbar-actions">
       <span id="save-indicator" class="save-indicator" title="Estado del guardado">Sin guardar</span>
-      <button id="btn-load-base" class="btn btn-primary" type="button">Cargar base histórica</button>
+      <button id="btn-mode" class="btn btn-ghost btn-mini" type="button" aria-pressed="false">Modo avanzado</button>
+      <button id="btn-load-base" class="btn btn-ghost" type="button">Recargar datos</button>
       <button id="btn-wipe" class="btn btn-danger-ghost" type="button">Borrar todo</button>
     </div>
   </header>
@@ -26,58 +37,22 @@
   <div id="origin-warning" class="origin-warning" style="display:none"></div>
 
   <nav class="tabs" id="tabs">
-    <button class="tab is-active" data-view="inicio" type="button">Inicio</button>
-    <button class="tab" data-view="equipos" type="button">Equipos</button>
+    <button class="tab is-active" data-view="hoy" type="button">Hoy</button>
+    <button class="tab" data-view="analisis" type="button">Analizar</button>
+    <button class="tab" data-view="predicciones" type="button">Mis predicciones</button>
     <button class="tab" data-view="partidos" type="button">Partidos</button>
-    <button class="tab" data-view="analisis" type="button">Análisis</button>
-    <button class="tab" data-view="predicciones" type="button">Predicciones</button>
-    <button class="tab" data-view="evaluacion" type="button">Evaluación</button>
-    <button class="tab" data-view="backtesting" type="button">Backtesting</button>
-    <button class="tab" data-view="informe" type="button">Informe</button>
-    <button class="tab" data-view="fuentes" type="button">Fuentes</button>
+    <button class="tab" data-view="equipos" type="button">Equipos</button>
+    <button class="tab" data-view="evaluacion" type="button" data-adv="1">Evaluación</button>
+    <button class="tab" data-view="backtesting" type="button" data-adv="1">Rendimiento</button>
+    <button class="tab" data-view="informe" type="button" data-adv="1">Informe</button>
+    <button class="tab" data-view="fuentes" type="button" data-adv="1">Datos</button>
     <button class="tab" data-view="acerca" type="button">Acerca de</button>
   </nav>
 
   <main id="main">
-    <!-- INICIO -->
-    <section class="view is-active" id="view-inicio">
-      <section class="hero">
-        <span class="hero-pill">&#9917; Modelo probabilístico · walk-forward</span>
-        <h2 class="hero-title">Analizá cualquier partido con estadística honesta</h2>
-        <p class="hero-sub">Goles esperados, probabilidades 1X2, marcadores más probables y escenarios &mdash; calculados 100% en tu navegador, sin inventar datos.</p>
-        <div class="hero-actions">
-          <button class="btn btn-primary" type="button" data-goto="analisis">Analizar un partido</button>
-          <button class="btn btn-ghost" type="button" data-goto="backtesting">Ver el backtesting</button>
-        </div>
-        <div class="hero-orb" aria-hidden="true"></div>
-      </section>
-      <div class="grid-cards" id="inicio-cards"></div>
-      <div class="panels-grid">
-      <div class="panel">
-        <h2>Base histórica integrada</h2>
-        <p class="muted">El sistema viene con una base de <strong>resultados históricos reales</strong> de fuentes libres y confiables (<strong>openfootball</strong>, datos de dominio público). Se carga automáticamente la primera vez y queda guardada en este navegador.</p>
-        <p class="muted">Incluye: <strong>Copa Mundial FIFA</strong> (todas las ediciones), <strong>Eurocopa</strong>, <strong>UEFA Champions League</strong>, copas nacionales y las <strong>primeras divisiones</strong> de Inglaterra, España, Alemania, Italia, Francia, Países Bajos, Portugal, Austria, Bélgica, Suiza, Grecia, Turquía, Escocia, Rusia, México, Argentina, Brasil, Chequia, Hungría, China, Japón, Australia, Colombia, Argelia, Egipto y Marruecos (temporadas 2010-11 a 2026-27).</p>
-        <div class="form-actions">
-          <button class="btn btn-primary" id="btn-load-base-home" type="button">Cargar base histórica</button>
-        </div>
-        <p class="muted" id="base-status"></p>
-      </div>
-      <div class="panel">
-        <h2>¿Cómo funciona?</h2>
-        <ol class="steps">
-          <li><strong>Base cargada:</strong> ya tenés equipos, selecciones y partidos históricos disponibles.</li>
-          <li><strong>Partidos:</strong> también podés registrar resultados a mano (con goles, y opcionalmente córners y tarjetas).</li>
-          <li><strong>Análisis:</strong> elegí local y visitante y el sistema estima goles esperados y probabilidades.</li>
-          <li><strong>Predicciones:</strong> guardá el análisis antes del partido (queda congelado y auditable).</li>
-          <li><strong>Evaluación:</strong> al terminar el partido cargá el resultado real y medí la precisión (Brier, Log Loss, MAE, RMSE).</li>
-        </ol>
-        <p class="muted">Todos los datos se guardan únicamente en este navegador (IndexedDB, con respaldo en localStorage). No se envía nada a ningún servidor.</p>
-      </div>
-      <div class="panel">
-        <h2>Principios del sistema</h2>
-        <div class="chips" id="inicio-principios"></div>
-      </div>
-      </div>
+    <!-- HOY (portada amistosa) -->
+    <section class="view is-active" id="view-hoy">
+      <div id="hoy-root"></div>
     </section>
 
     <!-- EQUIPOS -->
@@ -225,7 +200,7 @@
     </section>
 
     <!-- EVALUACION -->
-    <section class="view" id="view-evaluacion">
+    <section class="view" id="view-evaluacion" data-adv="1">
       <div class="panel">
         <h2>Métricas globales</h2>
         <p class="muted">Se calculan sobre predicciones cerradas (con resultado real cargado).</p>
@@ -238,7 +213,7 @@
     </section>
 
     <!-- BACKTESTING -->
-    <section class="view" id="view-backtesting">
+    <section class="view" id="view-backtesting" data-adv="1">
       <div class="panel">
         <h2>Backtesting del modelo</h2>
         <p class="muted">Evalúa las predicciones del sistema sobre partidos <strong>ya jugados</strong>, usando para cada partido <strong>solo la información anterior a su fecha</strong> (walk-forward, sin mirar el futuro ni hacer trampa con el resultado). Mide qué tan bien calibrado está el modelo sobre una muestra amplia; no garantiza resultados individuales.</p>
@@ -315,7 +290,7 @@
     </section>
 
     <!-- INFORME -->
-    <section class="view" id="view-informe">
+    <section class="view" id="view-informe" data-adv="1">
       <div class="panel">
         <h2>Generar informe</h2>
         <div class="form-row">
@@ -332,7 +307,7 @@
     </section>
 
     <!-- FUENTES -->
-    <section class="view" id="view-fuentes">
+    <section class="view" id="view-fuentes" data-adv="1">
       <div class="panel">
         <h2>Resumen de datos cargados</h2>
         <div class="grid-cards" id="fuentes-resumen"></div>
@@ -396,7 +371,7 @@
       <div class="panel" id="aviso-legal">
         <h2>Aviso legal y privacidad</h2>
         <h3>Naturaleza del contenido</h3>
-        <p>Futbolunaki es una herramienta <strong>informativa y estadística</strong>. Genera <strong>estimaciones probabilísticas</strong>, no hechos ni garantías. Un modelo bien calibrado puede fallar en partidos individuales. No prometemos predicciones infalibles.</p>
+        <p>Futbolityx es una herramienta <strong>informativa y estadística</strong>. Genera <strong>estimaciones probabilísticas</strong>, no hechos ni garantías. Un modelo bien calibrado puede fallar en partidos individuales. No prometemos predicciones infalibles.</p>
         <h3>Sin asesoramiento de apuestas</h3>
         <p>Esta app <strong>no es un servicio de apuestas</strong>: no procesa pagos ni apuestas, no muestra cuotas de casas de apuestas y no ofrece consejos de apuestas. Si decidís usar la información con fines de apuestas, es tu entera responsabilidad: debe ser <strong>legal en tu país</strong> y debés ser <strong>mayor de 18 años</strong>. Apostar conlleva riesgo de pérdida y puede generar adicción; si lo necesitás, buscá ayuda profesional.</p>
         <h3>Privacidad</h3>
@@ -404,7 +379,7 @@
         <h3>Datos y fuentes</h3>
         <p>La base histórica proviene de <strong>openfootball</strong>, dedicada al <strong>dominio público</strong> (&laquo;use as you please with no restrictions whatsoever&raquo;). Los nombres de equipos, ligas y competiciones se usan de forma <strong>nominativa</strong> (son hechos) y no implican afiliación ni respaldo. Esta app <strong>no</strong> usa escudos ni logos oficiales. Ver <code>docs/atribuciones.md</code>.</p>
         <h3>Licencia</h3>
-        <p>El código de Futbolunaki se distribuye bajo licencia <strong>MIT</strong> (ver <code>LICENSE</code>). Los datos de terceros conservan su licencia original.</p>
+        <p>El código de Futbolityx se distribuye bajo licencia <strong>MIT</strong> (ver <code>LICENSE</code>). Los datos de terceros conservan su licencia original.</p>
         <p class="muted">Este aviso es orientativo y no constituye asesoramiento legal.</p>
       </div>
     </section>
@@ -419,7 +394,7 @@
   </div>
 
   <footer class="footer">
-    <p><strong>Futbolunaki</strong> · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
+    <p><strong>Futbolityx</strong> · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
     <p class="footer-legal">
       Herramienta informativa y estadística; <strong>no constituye consejo de apuestas</strong> ni garantiza resultados.
       Datos históricos: <strong>openfootball</strong> (dominio público). No recolectamos datos personales: todo queda en tu navegador.
@@ -435,8 +410,9 @@
   <script src="js/metrics.js?v=5"></script>
   <script src="js/storage.js?v=7"></script>
   <script src="js/store.js?v=5"></script>
-  <script src="js/dataset.js?v=5"></script>
+  <script src="js/dataset.js?v=6"></script>
   <script src="js/backtest.js?v=5"></script>
-  <script src="js/app.js?v=5"></script>
+  <script src="js/app.js?v=7"></script>
+  <script src="js/v2.js?v=2"></script>
 </body>
 </html>

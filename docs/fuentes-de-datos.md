@@ -1,6 +1,6 @@
 # Fuentes de datos e integración
 
-Este documento lista las fuentes de datos del proyecto **Futbolunaki**, cuáles
+Este documento lista las fuentes de datos del proyecto **Futbolityx**, cuáles
 ya están integradas en la app y cuáles requieren una **API key**.
 
 > Recordatorio: la app es 100% frontend. Una llamada funciona directo desde el

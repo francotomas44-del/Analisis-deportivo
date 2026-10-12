@@ -1,4 +1,4 @@
-# Servidor LAN de Futbolunaki - sirve la app a tu red WiFi/local.
+# Servidor LAN de Futbolityx - sirve la app a tu red WiFi/local.
 # Usa TcpListener (socket crudo) en 0.0.0.0 para poder escuchar en la red
 # SIN permisos de administrador (HttpListener no lo permite fuera de localhost).
 #
@@ -31,7 +31,7 @@ try {
     Select-Object -ExpandProperty IPAddress
 } catch {}
 
-Write-Host "Futbolunaki - servidor de red (WiFi/LAN)"
+Write-Host "Futbolityx - servidor de red (WiFi/LAN)"
 Write-Host "En esta PC:            http://localhost:$Port/"
 foreach ($ip in $ip) { Write-Host "Para tus amigos (misma red):  http://${ip}:$Port/" }
 Write-Host "Carpeta: $Root"

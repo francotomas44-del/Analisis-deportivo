@@ -1,8 +1,8 @@
-# ⚽ Futbolunaki
+# ⚽ Futbolityx
 
 ## 1. Descripción del proyecto
 
-**Futbolunaki** es un proyecto orientado al desarrollo de un sistema integral de análisis futbolístico, diseñado para estudiar partidos, evaluar el rendimiento de los equipos y estimar posibles escenarios mediante el procesamiento de datos estadísticos, información contextual, acontecimientos recientes y variables de incertidumbre.
+**Futbolityx** es un proyecto orientado al desarrollo de un sistema integral de análisis futbolístico, diseñado para estudiar partidos, evaluar el rendimiento de los equipos y estimar posibles escenarios mediante el procesamiento de datos estadísticos, información contextual, acontecimientos recientes y variables de incertidumbre.
 
 El sistema tendrá como objetivo analizar cualquier partido de fútbol para generar resultados fundamentados, cuantificables y verificables, diferenciando entre datos conocidos, estimaciones estadísticas y acontecimientos que no pueden predecirse con certeza.
 

@@ -44,12 +44,14 @@
     }
     var v = $("view-" + name);
     if (v) v.classList.add("is-active");
+    if (name === "hoy" && window.AD.v2) { try { window.AD.v2.onShowView(); } catch (e) {} }
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  /* ---------- inicio ---------- */
+  /* ---------- inicio (vista heredada; la nueva portada "Hoy" vive en v2.js) ---------- */
   function renderInicio() {
     var st = S.state;
+    if (!$("inicio-cards") || !$("inicio-principios")) return;
     var closed = st.predictions.filter(function (p) { return p.result; }).length;
     var cards = [
       { n: st.teams.length, l: "Equipos" },
@@ -1002,6 +1004,7 @@
     fillBacktestComp();
     renderInformeSelect();
     renderFuentes();
+    if (window.AD.v2) { try { window.AD.v2.onDataChanged(); } catch (e) {} }
   }
 
   function resetAnalysis() {
@@ -1152,7 +1155,7 @@
       var url = URL.createObjectURL(blob);
       var a = document.createElement("a");
       a.href = url;
-      a.download = "futbolunaki-" + today() + ".json";
+      a.download = "futbolityx-" + today() + ".json";
       document.body.appendChild(a);
       a.click();
       setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 0);
@@ -1218,7 +1221,7 @@
       $("resultado-analisis").innerHTML = "";
       setBaseStatus("");
       refreshAll();
-      showView("inicio");
+      showView("hoy");
     });
 
     document.addEventListener("ad:data-changed", refreshAll);
@@ -1234,7 +1237,7 @@
         loadBase(true);
       }
     });
-    showView("inicio");
+    showView("hoy");
   }
 
   document.addEventListener("DOMContentLoaded", init);

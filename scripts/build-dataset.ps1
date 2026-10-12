@@ -28,7 +28,7 @@ $apiBase = "https://api.github.com/repos/"
 
 function Get-Tree([string]$repo) {
   $url = $apiBase + $repo + "/git/trees/master?recursive=1"
-  $r = Invoke-RestMethod -Uri $url -Headers @{ "User-Agent" = "futbolunaki" }
+  $r = Invoke-RestMethod -Uri $url -Headers @{ "User-Agent" = "futbolityx" }
   return $r.tree | Where-Object { $_.type -eq "blob" }
 }
 

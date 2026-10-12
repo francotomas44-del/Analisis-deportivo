@@ -1,7 +1,7 @@
 # Atribuciones y licencias de datos
 
 Este documento detalla el **origen**, la **licencia** y las **atribuciones** de los
-datos que usa Futbolunaki, para que su uso (personal o público) sea trazable y
+datos que usa Futbolityx, para que su uso (personal o público) sea trazable y
 respetuoso de las condiciones de cada fuente.
 
 > Regla del proyecto: **no inventar datos**. Cada dato debe poder rastrearse hasta
@@ -33,7 +33,7 @@ alguno.
 
 ## 2. Fuentes opcionales (importación manual)
 
-Futbolunaki **no** llama a estas fuentes automáticamente ni incluye sus claves:
+Futbolityx **no** llama a estas fuentes automáticamente ni incluye sus claves:
 solo permite que el usuario importe datos que ya posee o descarga, respetando los
 términos de cada proveedor.
 
@@ -49,7 +49,7 @@ cada fuente (límites de peticiones, atribución, prohibición de uso comercial,
 
 ## 3. Código del proyecto
 
-El código de Futbolunaki se distribuye bajo **licencia MIT** (ver [`LICENSE`](../LICENSE)).
+El código de Futbolityx se distribuye bajo **licencia MIT** (ver [`LICENSE`](../LICENSE)).
 No cubre los datos de terceros listados arriba.
 
 ---

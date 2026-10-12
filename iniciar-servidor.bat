@@ -3,7 +3,7 @@ chcp 65001 >nul
 cd /d "%~dp0"
 
 echo ============================================================
-echo   Futbolunaki - inicio del servidor local
+echo   Futbolityx - inicio del servidor local
 echo ============================================================
 echo.
 echo   La app quedara en:  http://localhost:8766/
@@ -14,7 +14,7 @@ echo   Se abrira una ventana minimizada con el servidor.
 echo   Para detenerlo, cerra esa ventana.
 echo.
 
-start "Futbolunaki - Servidor" /min powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0servidor.ps1" -Port 8766
+start "Futbolityx - Servidor" /min powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0servidor.ps1" -Port 8766
 
 timeout /t 2 /nobreak >nul
 start "" http://localhost:8766/
