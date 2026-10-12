@@ -20,7 +20,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 
 ## Cómo verla
 
-- Público: **https://francotomas44-del.github.io/Futbolunaki/** (GitHub Pages, desde `main`).
+- Público: **https://francotomas44-del.github.io/Futbolityx/** (GitHub Pages, desde `main`).
 - Local: **http://localhost:8766/** (o el servidor LAN).
 - La primera vez carga la base histórica (~14 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
@@ -55,7 +55,7 @@ En `js/v2.js`:
 var BRAND = {
   name: "Futbolityx",
   claim: "Pronósticos de fútbol, claros y honestos",
-  url: "https://francotomas44-del.github.io/Futbolunaki/"
+  url: "https://francotomas44-del.github.io/Futbolityx/"
 };
 ```
 

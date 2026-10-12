@@ -17,7 +17,7 @@
   var BRAND = {
     name: "Futbolityx",
     claim: "Pronósticos de fútbol, claros y honestos",
-    url: "https://francotomas44-del.github.io/Futbolunaki/"
+    url: "https://francotomas44-del.github.io/Futbolityx/"
   };
 
   var OLD_NAME = "Futbolunaki"; // nombre anterior, para reemplazar el texto visible
