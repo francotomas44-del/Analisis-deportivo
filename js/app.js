@@ -229,6 +229,12 @@
 
     var matrix = ST.scoreMatrix(lh, la);
     var d = ST.derived(matrix, lh, la);
+    // Ensamble con Elo (idéntico al del backtesting): ajusta las probabilidades 1X2.
+    var eloUsed = !!(ST.config.elo && ST.config.elo.weight > 0);
+    if (eloUsed) {
+      var ratings = ST.eloRatings(matches);
+      d.markets = ST.blendElo(d.markets, ratings[cfg.homeId], ratings[cfg.awayId]);
+    }
     var sp = ST.setPieces(hs, as, base);
     var sim = ST.simulate(lh, la, 10000, { redCardProb: 0.06 });
     var h2h = ST.headToHead(matches, cfg.homeId, cfg.awayId);
@@ -249,6 +255,10 @@
     if (perComp) {
       notes.push({ warn: false, text: "Localía ajustada por la competición «" + cfg.competition + "» (" + base.matches.toLocaleString("es") +
         " partidos de esa competición): casa " + num2(base.homeGoals) + " goles, visita " + num2(base.awayGoals) + "." });
+    }
+    if (eloUsed) {
+      notes.push({ warn: false, text: "Resultado final (1X2): ensamble del modelo de goles con un rating Elo (peso " +
+        Math.round(ST.config.elo.weight * 100) + "%). Los demás mercados derivan del modelo de goles." });
     }
     if (!sp.corners.hasData) notes.push({ warn: true, text: "Sin datos de córners: se usan valores de referencia de la liga." });
     if (!sp.cards.hasData) notes.push({ warn: true, text: "Sin datos de tarjetas: se usan valores de referencia de la liga." });
@@ -646,6 +656,7 @@
     var txt = "Modelo: suavizado k=" + (op.smoothing != null ? op.smoothing : "—") +
       ", temperatura=" + (op.temperature != null ? op.temperature : "—") +
       ", ρ (Dixon-Coles)=" + (op.rho != null ? op.rho : "—") +
+      (op.eloWeight > 0 ? ", ensamble Elo " + Math.round(op.eloWeight * 100) + "% (K=" + op.eloK + ", hfa=" + op.eloHfa + ", nu=" + op.eloNu + ")" : "") +
       (op.compHomeAdv ? ", localía por competición" : "") +
       (op.unifyTeams ? ", nombres de equipos unificados" : "") + ". ";
     txt += "Evaluados " + n.toLocaleString("es") + " de " + res.pool.toLocaleString("es") + " partidos del conjunto filtrado.";

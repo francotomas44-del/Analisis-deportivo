@@ -60,13 +60,17 @@ historial de un club real.
 
 ## Parámetros del modelo y calibración
 
-El motor tiene tres parámetros, todos **calibrados con este mismo backtesting** (no elegidos a ojo):
+El motor tiene varios parámetros, todos **calibrados con este mismo backtesting** (no elegidos a ojo):
 
 | Parámetro | Valor por defecto | Qué controla |
 | --- | --- | --- |
 | `smoothing` (k) | **12** | Suavizado hacia la media. Mayor = menos extremo (más regularizado). |
 | `temperature` | **1,06** | Aplana las probabilidades 1X2 para corregir sobreconfianza. |
 | `rho` (Dixon-Coles) | **−0,03** | Correlación en marcadores bajos (más empates 0-0/1-1, menos 1-0/0-1). |
+| `elo.weight` | **0,55** | Peso del rating Elo en el ensamble del 1X2 (0 = sólo modelo de goles). |
+| `elo.K` | **25** | Factor de actualización del Elo. |
+| `elo.hfa` | **70** | Ventaja de localía en puntos Elo. |
+| `elo.nu` | **0,7** | Parámetro de empates del modelo Davidson. |
 
 Están en `AD.stats.config` y se pueden variar desde la consola del navegador para experimentar.
 
@@ -81,31 +85,58 @@ Hallazgos:
 - El **suavizado `k`** es el factor más importante: pasar de k=5 a k=12 mejora Brier, Log Loss y aciertos.
 - La **temperatura** aporta un poco más (corrige la sobreconfianza).
 - **Dixon-Coles** apenas cambia las métricas (los empates ya estaban bien calibrados: 24,5 % predicho vs 25,0 % real).
-- **Atenuar la ventaja de localía** ayuda a los aciertos pero no al Brier; no se aplicó por defecto.
+- La **localía** se probó de varias formas (ajuste global y por competición); ninguna sube los aciertos de
+  forma clara y el ajuste por competición quedó apagado por defecto (ver los experimentos medidos más abajo).
 - **Ponderar por recencia** (más peso a partidos recientes) **empeora** el resultado: conviene usar todo el historial.
+
+### Ensamble con Elo (adoptado, oct 2026)
+
+El modelo de goles usa **sólo los goles** de cada partido. Para subir los aciertos se probó un **segundo
+modelo** independiente: un **rating Elo** walk-forward (resultado 1/0,5/0, `K=25`, ventaja de localía
+`hfa=70`), convertido a 1X2 con el modelo **Davidson** (que admite empates, `nu=0,7`). La probabilidad final
+1X2 es la **mezcla** `(1−w)·goles + w·Elo`, con `w=0,55`.
+
+Medido (walk-forward completo y por mitades):
+
+| Corrida | Aciertos solo-goles → ensamble | Brier → | Log Loss → |
+| --- | --- | --- | --- |
+| Completa (45.849) | 51,03 → **51,83 %** | 0,5977 → **0,5932** | 1,0006 → **0,9944** |
+| 1ª mitad (22.467) | 51,64 → **52,26 %** | 0,5945 → **0,5912** | 0,9957 → **0,9916** |
+| 2ª mitad (22.239) | 50,51 → **51,16 %** | 0,6019 → **0,5976** | 1,0068 → **1,0008** |
+
+El ensamble mejora **a la vez** aciertos y calibración, y supera a cada modelo por separado (Elo solo:
+51,64 % / 0,5975 / 1,0011). La ganancia se sostiene en ambas mitades, así que se adoptó por defecto. En el
+Análisis el 1X2 se ensambla igual; los demás mercados (goles, marcadores, córners, tarjetas) siguen
+derivándose del modelo de goles.
+
+Comprobación previa: el modelo de goles está **casi perfectamente calibrado por clase** (media
+local/empate/visita = 0,441/0,250/0,309 frente a 0,444/0,250/0,306 reales) y "empujar" el empate **no** sube
+los aciertos (β=1 → 51,03 %; cualquier β>1 lo baja). Es decir: predecir pocos empates es correcto, y para
+acertar más había que mejorar las probabilidades, no la regla de decisión.
 
 ## Resultados de referencia (dataset incluido, openfootball)
 
 Corrida completa (todas las competiciones, historial mínimo 5, sin ponderación por recencia):
 
-| Métrica | Modelo calibrado | Modelo inicial | Referencia (climatología) |
+| Métrica | Modelo actual (goles + Elo) | Modelo solo goles | Referencia (climatología) |
 | --- | --- | --- | --- |
 | Partidos evaluados | 45.849 de 49.193 | 45.849 | — |
-| Aciertos 1X2 | **51,0 %** | 50,8 % | 44,4 % (siempre local) |
-| Brier | **0,598** | 0,600 | 0,647 |
-| Log Loss | **1,001** | 1,006 | 1,069 |
-| MAE goles totales | 1,33 | 1,35 | — |
+| Aciertos 1X2 | **51,8 %** | 51,0 % | 44,4 % (siempre local) |
+| Brier | **0,593** | 0,598 | 0,647 |
+| Log Loss | **0,994** | 1,001 | 1,069 |
+| MAE goles totales | 1,33 | 1,33 | — |
 
-La mejora se sostiene en **ambas mitades temporales** (p. ej. Brier 0,5946 → en la primera mitad y 0,6008 en la
-segunda, siempre por debajo del modelo inicial en esa misma mitad). La magnitud es modesta y honesta: no
-"inventa" precisión, sólo reduce el error de forma medible.
+La mejora se sostiene en **ambas mitades temporales** (p. ej. el ensamble da 52,26 % y Brier 0,5912 en la
+primera mitad, y 51,16 % y Brier 0,5976 en la segunda). La magnitud es modesta y honesta: no "inventa"
+precisión, sólo reduce el error de forma medible. El MAE de goles no cambia porque el ensamble ajusta el
+1X2, no la distribución de goles (que sigue siendo Poisson).
 
 ## Experimentos medidos y no adoptados (oct 2026)
 
-Con el objetivo de **subir la tasa de aciertos** se implementaron, midieron y validaron dos mejoras
-candidatas. Ninguna sube los aciertos, así que **quedaron apagadas por defecto** (flags experimentales en
-`AD.stats.config`, ambos en `false`: `compHomeAdv` y `unifyTeams`) y disponibles para experimentar desde la
-consola del navegador.
+Con el objetivo de **subir la tasa de aciertos** se exploraron varias mejoras. El **ensamble con Elo** (sección
+anterior) sí funciona y **se adoptó**; las **dos** de abajo no suben los aciertos, así que **quedaron apagadas
+por defecto** (flags experimentales en `AD.stats.config`, ambos en `false`: `compHomeAdv` y `unifyTeams`) y
+disponibles para experimentar desde la consola del navegador.
 
 ### 1) Unificar nombres de equipos
 

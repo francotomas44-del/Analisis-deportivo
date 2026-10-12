@@ -12,7 +12,10 @@
      temperature: escalado de las probabilidades 1X2 (1 = sin cambios, >1 = menos confiado).
      smoothing: constante k de suavizado hacia la media (mayor = más regularizado).
      compHomeAdv: localía por competición (0 = off, usar la global). */
-  var config = { rho: -0.03, temperature: 1.06, smoothing: 12, compHomeAdv: false, unifyTeams: false };
+  var config = { rho: -0.03, temperature: 1.06, smoothing: 12, compHomeAdv: false, unifyTeams: false,
+    // Segundo modelo (rating Elo) ensamblado con el de goles. Medido y adoptado por subir aciertos
+    // y mejorar Brier/LogLoss (ver docs/backtesting.md). weight = 0 lo desactiva.
+    elo: { weight: 0.55, K: 25, hfa: 70, nu: 0.7 } };
 
   var K_COMP = 30; // shrink de la localía por competición hacia la global: w = n/(n+K_COMP)
 
@@ -75,6 +78,59 @@
       awayGoals: w * (ag / n) + (1 - w) * glob.awayGoals,
       matches: n
     };
+  }
+
+  /* ---------- rating Elo (segundo modelo, ensamblado con el de goles) ----------
+     Se acumula partido a partido en orden cronológico: R = 1500 + K·(resultado − esperado).
+     hfa = ventaja de localía en puntos Elo; el resultado se codifica 1/0.5/0 (V/E/D). */
+  function eloRatings(matches, params) {
+    params = params || config.elo || {};
+    var K = params.K != null ? params.K : 25;
+    var hfa = params.hfa != null ? params.hfa : 70;
+    var r = {};
+    var list = matches.slice().sort(function (a, b) {
+      var da = a.date || "", db = b.date || "";
+      return da < db ? -1 : da > db ? 1 : 0;
+    });
+    for (var i = 0; i < list.length; i++) {
+      var m = list[i];
+      var rh = r[m.homeId] != null ? r[m.homeId] : 1500;
+      var ra = r[m.awayId] != null ? r[m.awayId] : 1500;
+      var eH = 1 / (1 + Math.pow(10, -((rh + hfa) - ra) / 400));
+      var sH = m.homeGoals > m.awayGoals ? 1 : (m.homeGoals === m.awayGoals ? 0.5 : 0);
+      r[m.homeId] = rh + K * (sH - eH);
+      r[m.awayId] = ra + K * ((1 - sH) - (1 - eH));
+    }
+    return r;
+  }
+
+  /* Probabilidades 1X2 del Elo con el modelo Davidson (admite empates) */
+  function eloOneXTwo(ratingHome, ratingAway, params) {
+    params = params || config.elo || {};
+    var hfa = params.hfa != null ? params.hfa : 70;
+    var nu = params.nu != null ? params.nu : 0.7;
+    var rh = ratingHome != null ? ratingHome : 1500;
+    var ra = ratingAway != null ? ratingAway : 1500;
+    var x = Math.pow(10, ((rh + hfa) - ra) / 400);
+    var sq = Math.sqrt(x);
+    var den = x + 1 + nu * sq;
+    return { homeWin: x / den, draw: nu * sq / den, awayWin: 1 / den };
+  }
+
+  /* Combina el 1X2 del modelo de goles con el del Elo (peso del Elo = w) */
+  function blendElo(markets, ratingHome, ratingAway, params) {
+    params = params || config.elo || {};
+    var w = clamp(params.weight != null ? params.weight : 0, 0, 1);
+    if (!w) return markets;
+    var e = eloOneXTwo(ratingHome, ratingAway, params);
+    var h = (1 - w) * markets.homeWin + w * e.homeWin;
+    var d = (1 - w) * markets.draw + w * e.draw;
+    var a = (1 - w) * markets.awayWin + w * e.awayWin;
+    var s = h + d + a;
+    var out = {};
+    for (var k in markets) if (markets.hasOwnProperty(k)) out[k] = markets[k];
+    out.homeWin = h / s; out.draw = d / s; out.awayWin = a / s;
+    return out;
   }
 
   /* Estadísticas de un equipo a partir de sus partidos.
@@ -421,6 +477,9 @@
     poissonPmf: poissonPmf,
     leagueBaselines: leagueBaselines,
     competitionBaseline: competitionBaseline,
+    eloRatings: eloRatings,
+    eloOneXTwo: eloOneXTwo,
+    blendElo: blendElo,
     teamStats: teamStats,
     expectedGoals: expectedGoals,
     scoreMatrix: scoreMatrix,

@@ -68,6 +68,17 @@
       if (!c) { c = acc.comp[m.competition] = { n: 0, hg: 0, ag: 0 }; }
       c.n++; c.hg += m.homeGoals; c.ag += m.awayGoals;
     }
+
+    // Elo walk-forward (segundo modelo candidato). Solo si está habilitado.
+    if (acc.elo) {
+      var R = acc.elo.r;
+      var rh = R[m.homeId] != null ? R[m.homeId] : 1500;
+      var ra = R[m.awayId] != null ? R[m.awayId] : 1500;
+      var eHome = 1 / (1 + Math.pow(10, -((rh + acc.elo.hfa) - ra) / 400));
+      var sHome = m.homeGoals > m.awayGoals ? 1 : (m.homeGoals === m.awayGoals ? 0.5 : 0);
+      R[m.homeId] = rh + acc.elo.K * (sHome - eHome);
+      R[m.awayId] = ra + acc.elo.K * ((1 - sHome) - (1 - eHome));
+    }
   }
 
   function statsFor(acc, id) {
@@ -239,6 +250,23 @@
     var probs = applyTemperature({ homeWin: o.homeWin, draw: o.draw, awayWin: o.awayWin }, temperature);
     var expTotal = o.expectedTotal;
 
+    // Ensamble con Elo (Bradley-Terry-Davidson): mezcla de las probabilidades 1X2.
+    if (acc.elo) {
+      var R = acc.elo.r;
+      var rh = R[m.homeId] != null ? R[m.homeId] : 1500;
+      var ra = R[m.awayId] != null ? R[m.awayId] : 1500;
+      var x = Math.pow(10, ((rh + acc.elo.hfa) - ra) / 400);
+      var sq = Math.sqrt(x);
+      var den = x + 1 + acc.elo.nu * sq;
+      var eh = x / den, ed = acc.elo.nu * sq / den, ea = 1 / den;
+      var w = acc.elo.weight;
+      var bh = (1 - w) * probs.homeWin + w * eh;
+      var bd = (1 - w) * probs.draw + w * ed;
+      var ba = (1 - w) * probs.awayWin + w * ea;
+      var bs = bh + bd + ba;
+      probs = { homeWin: bh / bs, draw: bd / bs, awayWin: ba / bs };
+    }
+
     var actual = M.outcomeFromScore(m.homeGoals, m.awayGoals);
     var b = M.brier1x2(probs, actual);
     var ll = M.logLoss1x2(probs, actual);
@@ -265,6 +293,12 @@
     cal[bi].hitSum += (predicted === actual) ? 1 : 0;
 
     if (agg.focusSet) recordFocus(agg, m, lh, la, b, ll, predicted, actual);
+
+    // diagnóstico opcional: guarda [pLocal, pEmpate, pVisita, resultado real] por partido
+    if (agg.probs) {
+      agg.probs.push(probs.homeWin, probs.draw, probs.awayWin,
+        actual === "home" ? 0 : actual === "draw" ? 1 : 2);
+    }
 
     if (detail.length < detailLimit) {
       detail.push({
@@ -308,6 +342,7 @@
       }),
       baseline: null,
       detail: o.detail,
+      probs: o.agg.probs || null,
       elapsedMs: o.elapsedMs
     };
 
@@ -400,6 +435,12 @@
     var unifyTeams = opts.unifyTeams != null ? !!opts.unifyTeams : !!(SC.unifyTeams);
     var compHomeAdv = opts.compHomeAdv != null ? !!opts.compHomeAdv : !!(SC.compHomeAdv);
     var compK = compHomeAdv ? (window.AD.stats.K_COMP || 30) : 0;
+    var eloCfg = SC.elo || {};
+    var eloWeight = opts.eloWeight != null ? +opts.eloWeight : (eloCfg.weight != null ? +eloCfg.weight : 0);
+    var eloK = opts.eloK != null ? +opts.eloK : (eloCfg.K != null ? +eloCfg.K : 25);
+    var eloHfa = opts.eloHfa != null ? +opts.eloHfa : (eloCfg.hfa != null ? +eloCfg.hfa : 70);
+    var eloNu = opts.eloNu != null ? +opts.eloNu : (eloCfg.nu != null ? +eloCfg.nu : 0.7);
+    var collectProbs = !!opts.collectProbs;
     var CHUNK = 4000;
 
     // 1) Filtrar y ordenar cronológicamente (solo partidos con marcador).
@@ -444,6 +485,9 @@
 
     return new Promise(function (resolve) {
       var acc = newAccum();
+      if (eloWeight > 0) {
+        acc.elo = { r: {}, K: eloK, hfa: eloHfa, nu: eloNu, weight: clamp(eloWeight, 0, 1) };
+      }
       var committed = 0;
       var idx = 0; // recorre desde 0 para construir la historia; solo evalúa desde startIdx
       var bins = 10;
@@ -455,6 +499,7 @@
         actHome: 0, actDraw: 0, actAway: 0,
         predHome: 0, predDraw: 0, predAway: 0,
         skipped: 0,
+        probs: collectProbs ? [] : null,
         focusSet: null, pairA: null, pairB: null,
         byTeam: {},
         h2h: { n: 0, hits: 0, sumBrier: 0, expFor: 0, actFor: 0, expAgainst: 0, actAgainst: 0, aWins: 0, draws: 0, bWins: 0, matches: [] }
@@ -465,7 +510,7 @@
         if (focusTeams.length === 2) { agg.pairA = focusTeams[0]; agg.pairB = focusTeams[1]; }
       }
       var detail = [];
-      var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max, rho: rho, temperature: temperature, smoothing: SC.smoothing || 12, compHomeAdv: compHomeAdv, unifyTeams: unifyTeams, unifyDropped: droppedByUnify };
+      var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max, rho: rho, temperature: temperature, smoothing: SC.smoothing || 12, compHomeAdv: compHomeAdv, unifyTeams: unifyTeams, unifyDropped: droppedByUnify, eloWeight: acc.elo ? acc.elo.weight : 0, eloK: acc.elo ? acc.elo.K : null, eloHfa: acc.elo ? acc.elo.hfa : null, eloNu: acc.elo ? acc.elo.nu : null };
       var t0 = Date.now();
 
       function finish(stopped) {
