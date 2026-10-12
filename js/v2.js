@@ -321,11 +321,23 @@
     "gimnasia la plata": "Gimnasia de La Plata",
     "instituto (córdoba)": "Instituto de Córdoba",
     "sarmiento (junín)": "Sarmiento de Junín",
-    "talleres (córdoba)": "Talleres de Córdoba"
+    "talleres (córdoba)": "Talleres de Córdoba",
+    "unión (santa fe)": "Unión de Santa Fe"
   };
   function resolveTeamName(name) {
     var k = String(name == null ? "" : name).trim().toLowerCase();
     return ESPN_ALIAS[k] || name;
+  }
+
+  /* Nombre a mostrar en pantalla (ESPN -> nombre completo del club, cuando
+     ESPN usa una forma abreviada). No afecta la búsqueda en la base. */
+  var DISPLAY_NAME = {
+    "gimnasia (mendoza)": "Gimnasia y Esgrima de Mendoza"
+  };
+  function dispName(name) {
+    if (name == null) return "";
+    var k = String(name).trim().toLowerCase();
+    return DISPLAY_NAME[k] || String(name);
   }
 
   function parseArLive(payload) {
@@ -363,6 +375,62 @@
     return out;
   }
 
+  /* Partidos ya jugados de la liga argentina (misma fuente ESPN). Se usan para
+     dar historial real a TODOS los equipos actuales, incluidos los que no
+     están en la base openfootball (p. ej. Gimnasia y Esgrima de Mendoza).
+     Mismos nombres de competición que la base, para que el motor los agrupe. */
+  function parseArResults(payload) {
+    var evs = payload && payload.events;
+    if (!Array.isArray(evs)) return [];
+    var out = [];
+    for (var i = 0; i < evs.length; i++) {
+      var ev = evs[i];
+      var st = ev.status && ev.status.type ? ev.status.type.name : "";
+      if (st !== "STATUS_FULL_TIME") continue; /* solo partidos terminados */
+      var comp = ev.competitions && ev.competitions[0];
+      if (!comp || !Array.isArray(comp.competitors)) continue;
+      var home = "", away = "", hg = null, ag = null;
+      for (var j = 0; j < comp.competitors.length; j++) {
+        var c = comp.competitors[j];
+        var nm = resolveTeamName(c.team && c.team.displayName);
+        var sc = c.score != null ? Number(c.score) : NaN;
+        if (c.homeAway === "home") { home = nm; hg = sc; }
+        else if (c.homeAway === "away") { away = nm; ag = sc; }
+      }
+      if (!home || !away || !isFinite(hg) || !isFinite(ag)) continue;
+      var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(ev.date || ""));
+      if (!m) continue;
+      out.push({
+        date: m[1] + "-" + m[2] + "-" + m[3],
+        competition: "Liga Profesional (Argentina)",
+        home: String(home),
+        away: String(away),
+        homeGoals: hg,
+        awayGoals: ag,
+        externalId: ev.id != null ? "espn:" + ev.id : null
+      });
+    }
+    return out;
+  }
+
+  var arResultsImported = false;
+  function importArResultRows(rows) {
+    if (arResultsImported || !rows || !rows.length) return 0;
+    arResultsImported = true;
+    var seen = {};
+    var ms = S.state.matches;
+    for (var i = 0; i < ms.length; i++) { if (ms[i].externalId != null) seen[ms[i].externalId] = true; }
+    var fresh = rows.filter(function (r) { return !(r.externalId && seen[r.externalId]); });
+    if (!fresh.length) return 0;
+    var res = S.importBulk(fresh, "espn-arg");
+    ctx = null; /* cambió la base: se reconstruye el contexto de pronóstico */
+    if (res && res.added) {
+      try { document.dispatchEvent(new CustomEvent("ad:data-changed")); } catch (e) {}
+    }
+    return res && res.added ? res.added : 0;
+  }
+  function importArResults(payload) { return importArResultRows(parseArResults(payload)); }
+
   var arLivePromise = null;
   function loadArLive(force) {
     if (arLivePromise && !force) return arLivePromise;
@@ -371,6 +439,7 @@
     try { var raw = localStorage.getItem(AR_LIVE_CACHE_KEY); if (raw) cached = JSON.parse(raw); } catch (e) { cached = null; }
     function fromCache() {
       var fx = (cached && Array.isArray(cached.fixtures)) ? cached.fixtures : [];
+      try { importArResultRows(cached && cached.results); } catch (e) {} /* por si el guardado no traía el historial */
       var today = new Date().toISOString().slice(0, 10);
       return fx.filter(function (f) { return f && f.date >= today; });
     }
@@ -384,7 +453,10 @@
       .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
       .then(function (p) {
         var fx = parseArLive(p);
-        try { localStorage.setItem(AR_LIVE_CACHE_KEY, JSON.stringify({ ts: Date.now(), fixtures: fx })); } catch (e) {}
+        try { importArResults(p); } catch (e) {} /* historial real de la liga argentina */
+        var results = [];
+        try { results = parseArResults(p); } catch (e) {}
+        try { localStorage.setItem(AR_LIVE_CACHE_KEY, JSON.stringify({ ts: Date.now(), fixtures: fx, results: results })); } catch (e) {}
         return fx;
       })
       .catch(function () { arLivePromise = null; return fromCache(); });
@@ -628,10 +700,10 @@
       '<span class="fx-when">' + esc(when) + "</span></div>";
 
     var teams = '<div class="fx-teams">' +
-      '<div class="fx-team home"><span class="fx-name">' + esc(f.home) + "</span>" +
+      '<div class="fx-team home"><span class="fx-name">' + esc(dispName(f.home)) + "</span>" +
         (p ? '<span class="fx-tag">' + pct1(p.hw) + "%</span>" : "") + "</div>" +
       '<div class="fx-vs">VS</div>' +
-      '<div class="fx-team away"><span class="fx-name">' + esc(f.away) + "</span>" +
+      '<div class="fx-team away"><span class="fx-name">' + esc(dispName(f.away)) + "</span>" +
         (p ? '<span class="fx-tag">' + pct1(p.aw) + "%</span>" : "") + "</div>" +
       "</div>";
 
@@ -644,7 +716,7 @@
       var top = p.top && p.top[0] ? (p.top[0].h + " - " + p.top[0].a) : "—";
       var topP = p.top && p.top[0] ? pct1(p.top[0].p) + "%" : "";
       var fav = favorite(p);
-      var favLabel = fav === "home" ? "Gana " + f.home : fav === "away" ? "Gana " + f.away : "Empate";
+      var favLabel = fav === "home" ? "Gana " + dispName(f.home) : fav === "away" ? "Gana " + dispName(f.away) : "Empate";
 
       body =
         '<div class="prob-bar">' +
@@ -696,7 +768,7 @@
   /* ===== Compartir ============================================ */
   function buildShareText(it) {
     var f = it.f, p = it.p;
-    var lines = [BRAND.name + " · " + f.home + " vs " + f.away];
+    var lines = [BRAND.name + " · " + dispName(f.home) + " vs " + dispName(f.away)];
     lines.push(f.competition);
     lines.push("Cuándo: " + whenText(f) + " (hora " + tzLabel() + ")");
     if (p) {
@@ -733,7 +805,7 @@
       if (file && navigator.canShare && navigator.canShare({ files: [file] })) {
         navigator.share({ files: [file], text: text, title: BRAND.name }).catch(function () {});
       } else if (navigator.share) {
-        navigator.share({ title: BRAND.name + ": " + it.f.home + " vs " + it.f.away, text: text, url: BRAND.url })
+        navigator.share({ title: BRAND.name + ": " + dispName(it.f.home) + " vs " + dispName(it.f.away), text: text, url: BRAND.url })
           .catch(function () {});
       } else {
         copyText(text);
@@ -746,7 +818,7 @@
       var url = URL.createObjectURL(blob);
       var a = document.createElement("a");
       a.href = url;
-      a.download = "pronostico-" + slug(it.f.home) + "-vs-" + slug(it.f.away) + ".png";
+      a.download = "pronostico-" + slug(dispName(it.f.home)) + "-vs-" + slug(dispName(it.f.away)) + ".png";
       document.body.appendChild(a); a.click();
       setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 0);
       toast("Imagen descargada.");
@@ -824,11 +896,11 @@
     x.fillText("hora " + tzLabel() + " · " + gmtLabel(), W / 2, 388);
 
     x.fillStyle = "#ffffff";
-    fitText(x, f.home, W / 2, 480, 78, 920, "bold");
+    fitText(x, dispName(f.home), W / 2, 480, 78, 920, "bold");
     x.fillStyle = "#8da3c0"; x.font = "40px system-ui, sans-serif"; x.textAlign = "center";
     x.fillText("vs", W / 2, 545);
     x.fillStyle = "#ffffff";
-    fitText(x, f.away, W / 2, 635, 78, 920, "bold");
+    fitText(x, dispName(f.away), W / 2, 635, 78, 920, "bold");
 
     var bx = 90, bw = W - 180, by = 720, bh = 92;
     if (p) {
@@ -920,7 +992,8 @@
     renderHoy: renderHoy,
     toggleMode: toggleMode,
     applyMode: applyMode,
-    brand: BRAND
+    brand: BRAND,
+    teamDisplayName: dispName
   };
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);

@@ -9,7 +9,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 |---|---|---|
 | **Portada** | Texto sobre "estadística honesta" | **"Hoy": próximos partidos con pronóstico 1X2** |
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
-| **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | Próximos partidos **en vivo desde ESPN**, con la misma tarjeta y pronóstico (se puede desactivar) |
+| **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | Próximos partidos **y resultados** de la temporada **desde ESPN**, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |
 | **Horarios** | Hora local de la sede, sin contexto | **Convertidos a la hora del país del usuario**; se elige el país (por defecto se detecta solo) |
@@ -26,19 +26,32 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 - La primera vez carga la base histórica (~14 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
 
-## Liga Argentina en vivo
+## Liga Argentina (ESPN)
 
 La base de openfootball no incluye la temporada **2026** de la Liga Profesional
-Argentina. Para que igual aparezca en la portada, **Hoy** trae sus próximos
-partidos desde la **API pública de ESPN** (gratis, sin clave, con CORS):
+Argentina ni a todos sus equipos actuales. Para que igual aparezca en la portada
+y tenga historial real, **Hoy** usa la **API pública de ESPN** (gratis, sin clave,
+con CORS):
 
-- Una sola petición al abrir la portada; la respuesta se guarda en caché unas
-  horas (y sirve sin internet con lo último descargado).
+- Una sola petición al abrir la portada (calendario completo de la temporada); la
+  respuesta se guarda en caché unas horas (y sirve sin internet con lo último
+  descargado).
+- De esa respuesta se usan los partidos **por jugar** (portada) y los **ya
+  terminados** (historial), de modo que **todos** los equipos actuales —incluidos
+  los que no están en openfootball, como **Gimnasia y Esgrima de Mendoza**— tengan
+  historial y probabilidades. Nunca se inventan datos.
 - Los nombres de equipo de ESPN se mapean a los de la base (`ESPN_ALIAS` en
-  `js/v2.js`) para reutilizar el historial; los equipos sin historial se muestran
-  como **"Sin historial suficiente"** (nunca se inventan datos).
+  `js/v2.js`) para reutilizar el historial; el nombre visible se corrige con
+  `DISPLAY_NAME` (ESPN dice "Gimnasia (Mendoza)" → se muestra **"Gimnasia y
+  Esgrima de Mendoza"**). Los equipos sin datos siguen mostrando
+  **"Sin historial suficiente"**.
 - Se muestra la fuente en pantalla y se puede **desactivar** con la casilla
   "Liga Argentina (en vivo)". Ver [`atribuciones.md`](atribuciones.md).
+
+> **olé.com.ar** se evaluó como base para las ligas argentinas, pero sus datos los
+> sirve *LilaX* (`ole.lilax.io`) por JavaScript y **no son accesibles desde el
+> navegador** (bloqueo CORS; el HTML no trae los datos). No es viable en una app
+> 100 % frontend, por lo que se usa ESPN.
 
 ## Horarios por país
 

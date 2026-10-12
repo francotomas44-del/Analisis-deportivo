@@ -31,21 +31,33 @@ Los nombres de equipos, competiciones y ligas son **hechos** y se usan de forma
 oficiales de clubes, ligas o federaciones, y no implica afiliación ni respaldo
 alguno.
 
-## 2. Fuente en vivo: Liga Profesional Argentina (ESPN)
+## 2. Liga Profesional Argentina (ESPN)
 
 La base histórica de openfootball **no** incluye la temporada 2026 de la Liga
-Profesional Argentina; por eso la portada **"Hoy"** trae sus próximos partidos
-desde la API pública de **ESPN**:
+Profesional Argentina ni a todos sus equipos actuales (por ejemplo, Gimnasia y
+Esgrima de Mendoza). Para cubrirla sin inventar datos, la portada **"Hoy"** usa
+la API pública de **ESPN**:
 
 - **Fuente:** `https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard`
-- **Qué se pide:** solo el calendario (fechas, equipos y horario) de los partidos
-  que faltan jugar. La petición es **anónima** (no envía datos del usuario) y se
-  hace al abrir la portada; la respuesta se cachea unas horas en el navegador.
+- **Qué se pide:** el calendario completo de la temporada (una sola petición,
+  `dates=2026&limit=1000`). De ahí se usan:
+  - los partidos **por jugar** para armar la portada "Hoy"; y
+  - los partidos **ya terminados** ("results") para que **todos los equipos
+    actuales** tengan historial real y se puedan calcular probabilidades.
+- La petición es **anónima** (no envía datos del usuario) y se hace al abrir la
+  portada; la respuesta se cachea unas horas en el navegador.
 - **Condiciones:** datos y términos de **ESPN**. Se usan de forma **nominativa**
-  (solo nombres de equipos y horarios) y se **muestra la fuente** en pantalla.
-  Es un dato "en vivo": si ESPN no responde, la portada sigue funcionando con lo
-  último guardado y con la base local.
+  (solo nombres de equipos, horarios y resultados) y se **muestra la fuente** en
+  pantalla. Es un dato "en vivo": si ESPN no responde, la portada y el historial
+  siguen funcionando con lo último guardado y con la base local.
 - **Cómo desactivarla:** casilla "Liga Argentina (en vivo)" en la portada.
+
+> Nota: **olé.com.ar** se evaluó como fuente para las ligas argentinas, pero sus
+> datos los sirve su proveedor *LilaX* (`ole.lilax.io`) mediante JavaScript y
+> **no son accesibles desde el navegador** (bloqueo CORS y sin datos en el HTML);
+> por eso no puede usarse en una app 100 % frontend. Se eligió ESPN, que sí es
+> accesible de forma directa. Se usa el nombre completo **"Gimnasia y Esgrima de
+> Mendoza"** en pantalla.
 
 ## 3. Fuentes opcionales (importación manual)
 

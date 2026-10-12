@@ -20,7 +20,7 @@ Este documento es la base para el **Data Collector** del proyecto (sección 7 de
 | **API-Football vía RapidAPI** | `https://api-football-v1.p.rapidapi.com/v3` | `x-rapidapi-key` + host | 100 req/día | Igual que arriba | Igual | Igual | ✅ (RapidAPI habilita navegador) |
 | **OpenLigaDB** | `https://api.openligadb.de` | Ninguna | No publica límite | Solo fútbol alemán | Fases recientes | ❌ | ✅ |
 | **TheSportsDB** | `https://www.thesportsdb.com/api/v1/json/{key}` | Key en la URL (`123` = gratis) | 30 req/min + **tope de resultados por consulta** | 617 ligas (crowd-sourced) | Parcial | ❌ | ✅ |
-| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Solo reciente | ❌ | ✅ |
+| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Solo reciente | ❌ | ✅ **(usado para la Liga Argentina: próximos partidos + resultados 2026)** |
 
 ¹ **CORS** = permite llamar la API directamente desde el navegador (crítico para un proyecto *full frontend*).
 

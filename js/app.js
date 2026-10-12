@@ -114,7 +114,7 @@
       var cf = s.cornerForN ? (s.cornerForSum / s.cornerForN) : null;
       var kf = s.cardForN ? (s.cardForSum / s.cardForN) : null;
       return "<tr>" +
-        "<td><strong>" + esc(t.name) + "</strong><br><span class='muted'>" + esc(t.league || "—") +
+        "<td><strong>" + esc(window.AD.v2 && window.AD.v2.teamDisplayName ? window.AD.v2.teamDisplayName(t.name) : t.name) + "</strong><br><span class='muted'>" + esc(t.league || "—") +
         (t.formedYear ? " · fund. " + t.formedYear : "") + "</span></td>" +
         "<td>" + s.matches + "</td>" +
         "<td>" + (s.matches ? num2(gf) : "—") + "</td>" +
@@ -134,7 +134,8 @@
   function fillTeamSelects() {
     var st = S.state;
     var opts = '<option value="">— elegí —</option>' + st.teams.map(function (t) {
-      return '<option value="' + t.id + '">' + esc(t.name) + "</option>";
+      var nm = (window.AD.v2 && window.AD.v2.teamDisplayName) ? window.AD.v2.teamDisplayName(t.name) : t.name;
+      return '<option value="' + t.id + '">' + esc(nm) + "</option>";
     }).join("");
 
     ["partido-local", "partido-visitante", "an-local", "an-visitante", "bt-team-a", "bt-team-b"].forEach(function (id) {

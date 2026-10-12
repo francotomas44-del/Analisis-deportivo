@@ -17,7 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930** y ligas europeas, con goles y estadios | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (en vivo) | No | — | ✅ `*` | Próximos partidos de la **Liga Profesional Argentina** (2026) para la portada "Hoy" | No |
+| **ESPN** (Liga Argentina) | No | — | ✅ `*` | Próximos partidos **y resultados** de la Liga Profesional Argentina (2026) | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -26,18 +26,24 @@ En la app están en la pestaña **Importar**:
 - openfootball: cualquier URL de JSON de `github.com/openfootball/...`
 - CSV de football-data.co.uk: se descarga el archivo y se sube con **"Subir archivo"**.
 
-### Fuente en vivo de la portada "Hoy" (automática)
+### Liga Profesional Argentina (automática, portada "Hoy")
 
 La base de openfootball **no** incluye la temporada 2026 de la Liga Profesional
-Argentina, así que la portada **"Hoy"** trae sus **próximos partidos** desde la
-API pública de **ESPN**:
+Argentina ni a todos los equipos actuales (p. ej. Gimnasia y Esgrima de Mendoza),
+así que la portada **"Hoy"** usa la API pública de **ESPN**:
 
 - Endpoint: `site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=2026&limit=1000`
-  (solo se piden fechas, equipos y horarios de partidos por jugar; la respuesta
-  se cachea unas horas en el navegador).
+  (una sola petición que devuelve la temporada; la respuesta se cachea unas horas
+  en el navegador).
+- De esa respuesta se toman:
+  - los partidos **por jugar** (fechas, equipos y horarios) para la portada; y
+  - los partidos **terminados**, que se agregan al historial para que **todos los
+    equipos actuales** (incluidos los que no están en openfootball, como
+    Gimnasia y Esgrima de Mendoza) tengan datos reales y se les pueda calcular
+    probabilidades.
 - Se muestra la fuente en pantalla y se puede **desactivar** con la casilla
-  "Liga Argentina (en vivo)" de la portada. Si ESPN no responde, la portada sigue
-  funcionando con lo último guardado y con el resto de la base local.
+  "Liga Argentina (en vivo)" de la portada. Si ESPN no responde, la portada y el
+  historial siguen funcionando con lo último guardado y con el resto de la base local.
 - Condiciones de uso: **ESPN**.
 
 ---
@@ -65,6 +71,7 @@ Para uso personal/local, alcanza con incluirla en la petición.
 | Fuente | Situación | Motivo |
 |---|---|---|
 | **Promiedos** (`promiedos.com.ar`) | No integrable automáticamente | Web Next.js; los datos vienen de `api.promiedos.com.ar`, **no documentada** y que bloquea/limita el acceso automatizado |
+| **Olé** (`ole.com.ar`) | No integrable | Sus estadísticas las sirve su proveedor *LilaX* (`ole.lilax.io`) por JavaScript; **sin CORS** y sin datos en el HTML → imposible desde una app 100 % frontend |
 | **El Nine** (`elnine.com.ar`) | No integrable | Detrás de **Cloudflare** (`403`), **sin CORS** y `robots.txt` que **prohíbe `/api/`** |
 
 En ambos casos los datos se pueden cargar de forma **legítima y manual** con
