@@ -12,6 +12,7 @@ lo que ya funcionaba. `main` queda intacto; esto es una prueba para "ver cómo q
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |
+| **Horarios** | Hora local de la sede, sin contexto | **Convertidos a la hora del país del usuario**; se elige el país (por defecto se detecta solo) |
 | **Visual** | Tablas | **Tarjetas** con barra de probabilidad 1X2 y semáforo de confianza |
 | **Compartir** | Nada | Botón **Compartir** (texto/imagen) + **tarjeta PNG** descargable |
 | **Móvil / PWA** | Solo escritorio | Estilos móviles + **instalable** (manifest + service worker) |
@@ -23,6 +24,18 @@ lo que ya funcionaba. `main` queda intacto; esto es una prueba para "ver cómo q
 - Local: **http://localhost:8766/** (o el servidor LAN).
 - La primera vez carga la base histórica (~14 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
+
+## Horarios por país
+
+Los partidos de **Hoy** se muestran con la hora convertida a la zona horaria del usuario.
+
+- El selector **🌐** de la barra superior permite elegir el país. Por defecto usa la zona del
+  navegador ("Automático").
+- La base openfootball trae la hora **local de la sede**. Para las ligas de un solo país se usa la
+  zona de ese país (mapa `VENUE_TZ` en `js/v2.js`). Los partidos que ya traen offset explícito
+  (p. ej. `"20:00 UTC-4"` del Mundial) se convierten con ese dato exacto.
+- El subtítulo de la portada indica la zona activa (ej. `horarios en Argentina (GMT-03:00)`).
+- La elección se guarda en el navegador (`localStorage`, junto al modo simple/avanzado).
 
 ## Cómo está hecho (sin dependencias nuevas)
 

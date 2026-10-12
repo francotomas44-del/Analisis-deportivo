@@ -47,22 +47,191 @@
   }
   function pct1(x) { return String(Math.round(100 * (x || 0))); }
   function pad2(n) { return (n < 10 ? "0" : "") + n; }
-  function localToday() {
-    var d = new Date();
-    return d.getFullYear() + "-" + pad2(d.getMonth() + 1) + "-" + pad2(d.getDate());
+  /* ===== Zonas horarias ========================================
+     La base openfootball indica la hora LOCAL del partido. Para las
+     ligas cuyos equipos están en un solo país usamos la zona horaria de
+     ese país (VENUE_TZ) para pasar la hora local a un instante UTC.
+     Los partidos que ya traen offset explícito (ej. "20:00 UTC-4") se
+     convierten con ese dato exacto. El usuario elige su país (o deja
+     "Automático", que usa la zona horaria de su navegador). */
+  var VENUE_TZ = {
+    "en.1": "Europe/London", "sco.1": "Europe/London",
+    "es.1": "Europe/Madrid", "de.1": "Europe/Berlin", "it.1": "Europe/Rome",
+    "fr.1": "Europe/Paris", "nl.1": "Europe/Amsterdam", "pt.1": "Europe/Lisbon",
+    "at.1": "Europe/Vienna", "be.1": "Europe/Brussels", "ch.1": "Europe/Zurich",
+    "gr.1": "Europe/Athens", "tr.1": "Europe/Istanbul", "ru.1": "Europe/Moscow",
+    "mx.1": "America/Mexico_City", "ar.1": "America/Argentina/Buenos_Aires",
+    "br.1": "America/Sao_Paulo", "cz.1": "Europe/Prague", "hu.1": "Europe/Budapest",
+    "cn.1": "Asia/Shanghai", "jp.1": "Asia/Tokyo", "au.1": "Australia/Sydney",
+    "co.1": "America/Bogota", "dz.1": "Africa/Algiers", "eg.1": "Africa/Cairo",
+    "ma.1": "Africa/Casablanca"
+  };
+
+  var COUNTRIES = [
+    { code: "AR", name: "Argentina", flag: "🇦🇷", tz: "America/Argentina/Buenos_Aires" },
+    { code: "UY", name: "Uruguay", flag: "🇺🇾", tz: "America/Montevideo" },
+    { code: "CL", name: "Chile", flag: "🇨🇱", tz: "America/Santiago" },
+    { code: "PY", name: "Paraguay", flag: "🇵🇾", tz: "America/Asuncion" },
+    { code: "BO", name: "Bolivia", flag: "🇧🇴", tz: "America/La_Paz" },
+    { code: "PE", name: "Perú", flag: "🇵🇪", tz: "America/Lima" },
+    { code: "CO", name: "Colombia", flag: "🇨🇴", tz: "America/Bogota" },
+    { code: "EC", name: "Ecuador", flag: "🇪🇨", tz: "America/Guayaquil" },
+    { code: "VE", name: "Venezuela", flag: "🇻🇪", tz: "America/Caracas" },
+    { code: "MX", name: "México", flag: "🇲🇽", tz: "America/Mexico_City" },
+    { code: "US", name: "Estados Unidos (Este)", flag: "🇺🇸", tz: "America/New_York" },
+    { code: "BR", name: "Brasil", flag: "🇧🇷", tz: "America/Sao_Paulo" },
+    { code: "ES", name: "España", flag: "🇪🇸", tz: "Europe/Madrid" },
+    { code: "PT", name: "Portugal", flag: "🇵🇹", tz: "Europe/Lisbon" },
+    { code: "GB", name: "Reino Unido", flag: "🇬🇧", tz: "Europe/London" },
+    { code: "FR", name: "Francia", flag: "🇫🇷", tz: "Europe/Paris" },
+    { code: "DE", name: "Alemania", flag: "🇩🇪", tz: "Europe/Berlin" },
+    { code: "IT", name: "Italia", flag: "🇮🇹", tz: "Europe/Rome" },
+    { code: "NL", name: "Países Bajos", flag: "🇳🇱", tz: "Europe/Amsterdam" },
+    { code: "BE", name: "Bélgica", flag: "🇧🇪", tz: "Europe/Brussels" },
+    { code: "CH", name: "Suiza", flag: "🇨🇭", tz: "Europe/Zurich" },
+    { code: "AT", name: "Austria", flag: "🇦🇹", tz: "Europe/Vienna" },
+    { code: "GR", name: "Grecia", flag: "🇬🇷", tz: "Europe/Athens" },
+    { code: "TR", name: "Turquía", flag: "🇹🇷", tz: "Europe/Istanbul" },
+    { code: "RU", name: "Rusia", flag: "🇷🇺", tz: "Europe/Moscow" },
+    { code: "CZ", name: "Chequia", flag: "🇨🇿", tz: "Europe/Prague" },
+    { code: "HU", name: "Hungría", flag: "🇭🇺", tz: "Europe/Budapest" },
+    { code: "JP", name: "Japón", flag: "🇯🇵", tz: "Asia/Tokyo" },
+    { code: "CN", name: "China", flag: "🇨🇳", tz: "Asia/Shanghai" },
+    { code: "AU", name: "Australia (Sídney)", flag: "🇦🇺", tz: "Australia/Sydney" },
+    { code: "EG", name: "Egipto", flag: "🇪🇬", tz: "Africa/Cairo" },
+    { code: "MA", name: "Marruecos", flag: "🇲🇦", tz: "Africa/Casablanca" },
+    { code: "DZ", name: "Argelia", flag: "🇩🇿", tz: "Africa/Algiers" }
+  ];
+
+  var WEEKDAYS = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
+
+  function detectTz() {
+    try { return Intl.DateTimeFormat().resolvedOptions().timeZone || null; } catch (e) { return null; }
   }
-  function addDays(n) {
-    var d = new Date();
-    d.setDate(d.getDate() + n);
-    return d.getFullYear() + "-" + pad2(d.getMonth() + 1) + "-" + pad2(d.getDate());
+  var detectedTz = detectTz() || "UTC";
+
+  function countryByCode(code) {
+    for (var i = 0; i < COUNTRIES.length; i++) if (COUNTRIES[i].code === code) return COUNTRIES[i];
+    return null;
+  }
+  function currentTz() {
+    var c = prefs.country ? countryByCode(prefs.country) : null;
+    return c ? c.tz : detectedTz;
+  }
+  function tzLabel() {
+    var c = prefs.country ? countryByCode(prefs.country) : null;
+    return c ? c.name : detectedTz;
+  }
+
+  var dtfCache = {};
+  function partsInTz(ms, tz) {
+    tz = tz || currentTz();
+    var f = dtfCache[tz];
+    if (f === undefined) {
+      try {
+        f = new Intl.DateTimeFormat("en-GB", {
+          timeZone: tz, hour12: false,
+          year: "numeric", month: "2-digit", day: "2-digit",
+          hour: "2-digit", minute: "2-digit", second: "2-digit"
+        });
+      } catch (e) { f = null; }
+      dtfCache[tz] = f;
+    }
+    if (!f) {
+      var d = new Date(ms);
+      return { year: String(d.getFullYear()), month: pad2(d.getMonth() + 1), day: pad2(d.getDate()),
+        hour: pad2(d.getHours()), minute: pad2(d.getMinutes()), second: pad2(d.getSeconds()) };
+    }
+    var parts = f.formatToParts(new Date(ms));
+    var o = {};
+    for (var i = 0; i < parts.length; i++) if (parts[i].type !== "literal") o[parts[i].type] = parts[i].value;
+    var h = parseInt(o.hour, 10); if (h === 24) h = 0;
+    o.hour = pad2(h);
+    return o;
+  }
+  function dateKeyInTz(ms, tz) {
+    var p = partsInTz(ms, tz);
+    return p.year + "-" + p.month + "-" + p.day;
+  }
+  function timeInTz(ms, tz) {
+    var p = partsInTz(ms, tz);
+    return p.hour + ":" + p.minute;
+  }
+  function tzOffsetMs(tz, ts) {
+    var p = partsInTz(ts, tz);
+    return Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute, +p.second) -
+      Math.floor(ts / 1000) * 1000;
+  }
+  function zonedTimeToUtc(y, mo, da, hh, mm, tz) {
+    var guess = Date.UTC(y, mo - 1, da, hh, mm);
+    var o1 = tzOffsetMs(tz, guess);
+    var ts = guess - o1;
+    var o2 = tzOffsetMs(tz, ts);
+    return o2 !== o1 ? guess - o2 : ts;
+  }
+  function gmtLabel(tz) {
+    var off = Math.round(tzOffsetMs(tz || currentTz(), Date.now()) / 60000);
+    var a = Math.abs(off);
+    return "GMT" + (off < 0 ? "-" : "+") + pad2(Math.floor(a / 60)) + ":" + pad2(a % 60);
+  }
+
+  /* Instante (ms) del partido. exact=false => no se pudo ubicar la zona
+     de la sede (se muestra la hora local tal cual, sin convertir).
+     Se memoriza por partido (no depende de la zona elegida por el usuario). */
+  function kickoff(f) {
+    if (f && f._ko && f._kdate === f.date && f._ktime === f.time) return f._ko;
+    var res = computeKickoff(f);
+    if (f) { f._ko = res; f._kdate = f.date; f._ktime = f.time; }
+    return res;
+  }
+  function computeKickoff(f) {
+    var t = (f && f.time) ? String(f.time) : "";
+    var m = /(\d{1,2}):(\d{2})(?:\s*UTC([+-]?\d{1,2})(?::?(\d{2}))?)?/.exec(t);
+    if (!f || !f.date || !m) return { ms: null, hasTime: false };
+    var ymd = f.date.split("-");
+    var y = +ymd[0], mo = +ymd[1], da = +ymd[2];
+    if (!y || !mo || !da) return { ms: null, hasTime: false };
+    var hh = +m[1], mi = +m[2];
+    if (m[3] !== undefined && m[3] !== "") {
+      var oh = parseInt(m[3], 10), om = m[4] ? parseInt(m[4], 10) : 0;
+      var sign = oh < 0 ? -1 : 1;
+      var offMin = sign * (Math.abs(oh) * 60 + om);
+      return { ms: Date.UTC(y, mo - 1, da, hh, mi) - offMin * 60000, hasTime: true, exact: true };
+    }
+    var venue = VENUE_TZ[f.code];
+    if (venue) return { ms: zonedTimeToUtc(y, mo, da, hh, mi, venue), hasTime: true, exact: true };
+    return { ms: null, hasTime: true, exact: false };
+  }
+
+  /* Etiquetas de "Hoy / Mañana / Ayer" según la zona elegida. */
+  var _todayKey = null, _tomKey = null, _yesKey = null;
+  function refreshDayKeys() {
+    var now = Date.now();
+    _todayKey = dateKeyInTz(now);
+    _tomKey = dateKeyInTz(now + 86400000);
+    _yesKey = dateKeyInTz(now - 86400000);
   }
   function dayLabel(dateStr) {
-    if (dateStr === localToday()) return "Hoy";
-    if (dateStr === addDays(1)) return "Mañana";
+    if (!_todayKey) refreshDayKeys();
+    if (dateStr === _todayKey) return "Hoy";
+    if (dateStr === _tomKey) return "Mañana";
+    if (dateStr === _yesKey) return "Ayer";
     var d = new Date(dateStr + "T12:00:00");
     if (isNaN(d.getTime())) return dateStr;
-    var wd = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"][d.getDay()];
-    return wd + " " + d.getDate() + "/" + (d.getMonth() + 1);
+    return WEEKDAYS[d.getDay()] + " " + d.getDate() + "/" + (d.getMonth() + 1);
+  }
+
+  /* Texto de fecha/hora del partido, ya en la zona del usuario. */
+  function whenText(f) {
+    var k = kickoff(f);
+    if (k.ms) return dayLabel(dateKeyInTz(k.ms)) + " · " + timeInTz(k.ms);
+    if (k.hasTime) return dayLabel(f.date) + " · " + f.time + " (hora local)";
+    return dayLabel(f.date) + " · hora por confirmar";
+  }
+  /* Clave de agrupación por día (en la zona del usuario). */
+  function groupKey(f) {
+    var k = kickoff(f);
+    return k.ms ? dateKeyInTz(k.ms) : f.date;
   }
   function slug(s) {
     return String(s).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
@@ -278,22 +447,38 @@
 
     var filter = cache.filter || "";
     var filtered = filter ? fixtures.filter(function (f) { return f.competition === filter; }) : fixtures;
-    var shown = filtered.slice(0, MAX_CARDS);
+
+    refreshDayKeys();
+
+    /* Ordena por el instante real (ya convertido a la zona del usuario) y
+       agrupa por día en esa misma zona. */
+    var decorated = filtered.map(function (f) {
+      var k = kickoff(f);
+      return { f: f, ms: k.ms, key: groupKey(f) };
+    });
+    decorated.sort(function (a, b) {
+      var av = a.ms != null ? a.ms : Date.parse(a.f.date + "T12:00:00");
+      var bv = b.ms != null ? b.ms : Date.parse(b.f.date + "T12:00:00");
+      if (av !== bv) return av - bv;
+      return a.f.competition < b.f.competition ? -1 : 1;
+    });
+    var shown = decorated.slice(0, MAX_CARDS);
 
     if (!ctx) ctx = buildContext();
 
-    var items = shown.map(function (f) {
+    var items = shown.map(function (d) {
+      var f = d.f;
       var ht = S.getTeamByName(f.home), at = S.getTeamByName(f.away);
       var p = null;
       if (ht && at) { try { p = predict(ht.id, at.id, f.competition); } catch (e) { p = null; } }
-      return { f: f, ht: ht, at: at, p: p };
+      return { f: f, ht: ht, at: at, p: p, key: d.key };
     });
 
     if (sub) {
       sub.textContent = filtered.length.toLocaleString("es") +
         (filtered.length === 1 ? " próximo partido" : " próximos partidos") +
         (filtered.length > MAX_CARDS ? " · mostrando los primeros " + MAX_CARDS : "") +
-        " · ordenados por fecha";
+        " · horarios en " + tzLabel() + " (" + gmtLabel() + ")";
     }
 
     var parts = [];
@@ -302,9 +487,9 @@
 
     var lastDay = null;
     items.forEach(function (it, i) {
-      if (it.f.date !== lastDay) {
-        lastDay = it.f.date;
-        parts.push('<div class="day-sep"><span>' + esc(dayLabel(it.f.date)) + "</span><i></i></div>");
+      if (it.key !== lastDay) {
+        lastDay = it.key;
+        parts.push('<div class="day-sep"><span>' + esc(dayLabel(it.key)) + "</span><i></i></div>");
       }
       parts.push(cardHTML(it, i));
     });
@@ -324,7 +509,7 @@
 
   function cardHTML(it, i) {
     var f = it.f, p = it.p;
-    var when = dayLabel(f.date) + (f.time ? " · " + f.time : "");
+    var when = whenText(f);
 
     var head = '<div class="fx-top"><span class="fx-comp">' + esc(f.competition) + "</span>" +
       '<span class="fx-when">' + esc(when) + "</span></div>";
@@ -399,7 +584,8 @@
   function buildShareText(it) {
     var f = it.f, p = it.p;
     var lines = [BRAND.name + " · " + f.home + " vs " + f.away];
-    lines.push(f.competition + (f.date ? " · " + f.date : "") + (f.time ? " " + f.time : ""));
+    lines.push(f.competition);
+    lines.push("Cuándo: " + whenText(f) + " (hora " + tzLabel() + ")");
     if (p) {
       lines.push("Local " + pct1(p.hw) + "% · Empate " + pct1(p.dr) + "% · Visita " + pct1(p.aw) + "%");
       if (p.top && p.top[0]) lines.push("Marcador más probable: " + p.top[0].h + "-" + p.top[0].a);
@@ -520,7 +706,9 @@
     x.fillStyle = "#cfe0f5"; x.font = "34px system-ui, sans-serif";
     x.fillText(f.competition, W / 2, 300);
     x.fillStyle = "#8da3c0"; x.font = "30px system-ui, sans-serif";
-    x.fillText(dayLabel(f.date) + (f.time ? " · " + f.time : ""), W / 2, 350);
+    x.fillText(whenText(f), W / 2, 350);
+    x.fillStyle = "#6b7f99"; x.font = "25px system-ui, sans-serif";
+    x.fillText("hora " + tzLabel() + " · " + gmtLabel(), W / 2, 388);
 
     x.fillStyle = "#ffffff";
     fitText(x, f.home, W / 2, 480, 78, 920, "bold");
@@ -583,10 +771,31 @@
     navigator.serviceWorker.register("sw.js").catch(function () { /* ignora */ });
   }
 
+  /* ===== Selector de país / zona horaria ====================== */
+  function buildCountrySelect() {
+    var sel = $("sel-country");
+    if (!sel) return;
+    var opts = ['<option value="">🌐 Automático · ' + esc(detectedTz) + "</option>"];
+    COUNTRIES.forEach(function (c) {
+      opts.push('<option value="' + c.code + '">' + c.flag + " " + esc(c.name) + "</option>");
+    });
+    sel.innerHTML = opts.join("");
+    sel.value = prefs.country || "";
+    sel.addEventListener("change", function () {
+      prefs.country = sel.value;
+      savePrefs();
+      refreshDayKeys();
+      toast("Horarios en hora de " + tzLabel() + " (" + gmtLabel() + ").");
+      if (isActive()) renderHoy();
+    });
+  }
+
   /* ===== init ================================================= */
   function init() {
     applyBrand();
     applyMode();
+    refreshDayKeys();
+    buildCountrySelect();
     var btn = $("btn-mode");
     if (btn) btn.addEventListener("click", toggleMode);
     registerSW();

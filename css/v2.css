@@ -15,6 +15,30 @@ body.simple [data-adv] { display: none !important; }
   box-shadow: 0 0 0 1px rgba(34, 227, 154, 0.25) inset;
 }
 
+/* ---------- Selector de país / zona horaria ---------- */
+.tz-pick {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.3rem 0.6rem 0.3rem 0.72rem;
+  background: rgba(255, 255, 255, 0.03);
+}
+.tz-pick:hover { border-color: rgba(255, 255, 255, 0.2); }
+.tz-pick select {
+  background: transparent;
+  border: 0;
+  color: var(--text);
+  font: inherit;
+  font-size: 0.78rem;
+  padding: 0;
+  max-width: 11rem;
+  color-scheme: dark;
+  cursor: pointer;
+}
+.tz-pick select:focus-visible { outline: 2px solid var(--accent-2); outline-offset: 2px; border-radius: 6px; }
+
 /* ---------- Portada "Hoy" ---------- */
 .hoy-head {
   display: flex;

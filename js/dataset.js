@@ -54,7 +54,7 @@
   /* Convierte el JSON de openfootball en partidos SIN resultado (fixtures futuros).
      Son los que todavía no se jugaron: no tienen "score". Se usan para la portada
      "Hoy" (próximos partidos + pronóstico), sin inventar datos. */
-  function convertFixtures(payload, comp) {
+  function convertFixtures(payload, comp, code) {
     var arr = payload && payload.matches;
     if (!Array.isArray(arr)) return [];
     var out = [];
@@ -67,6 +67,7 @@
         date: m.date || "",
         time: m.time || "",
         competition: comp,
+        code: code || "",
         home: String(m.team1).trim(),
         away: String(m.team2).trim()
       });
@@ -181,7 +182,7 @@
             return fetch(BASE + "openfootball/" + entry.path, { cache: "force-cache" })
               .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
               .then(function (p) {
-                var f = convertFixtures(p, compName(entry.code));
+                var f = convertFixtures(p, compName(entry.code), entry.code);
                 for (var i = 0; i < f.length; i++) {
                   if (f[i].date >= today) fixtures.push(f[i]);
                 }
