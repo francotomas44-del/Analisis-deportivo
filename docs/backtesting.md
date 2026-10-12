@@ -100,6 +100,54 @@ La mejora se sostiene en **ambas mitades temporales** (p. ej. Brier 0,5946 → e
 segunda, siempre por debajo del modelo inicial en esa misma mitad). La magnitud es modesta y honesta: no
 "inventa" precisión, sólo reduce el error de forma medible.
 
+## Experimentos medidos y no adoptados (oct 2026)
+
+Con el objetivo de **subir la tasa de aciertos** se implementaron, midieron y validaron dos mejoras
+candidatas. Ninguna sube los aciertos, así que **quedaron apagadas por defecto** (flags experimentales en
+`AD.stats.config`, ambos en `false`: `compHomeAdv` y `unifyTeams`) y disponibles para experimentar desde la
+consola del navegador.
+
+### 1) Unificar nombres de equipos
+
+Cada variante de nombre de un mismo club (p. ej. *Real Madrid*, *Real Madrid CF*, *Real Madrid (ESP)*) se
+guarda con su propio id y fragmenta su historial: 24.478 de 49.193 partidos (49,8 %) involucran al menos una
+variante. Se implementó `store.canonicalName` / `store.canonicalMap` / `store.unifyTeams` y la opción
+`unifyTeams` del backtesting (remapea los ids en memoria, sin tocar los datos persistidos).
+
+- Se auditaron los **91 grupos** de fusión: todos son el mismo club, sin falsos positivos.
+- Con más historia por club se evalúan 245 partidos adicionales (menos descartes por historial mínimo).
+- Pero el remapeo **no mejora las métricas**: al mezclar competiciones en la fuerza del club (p. ej. forma en
+  Champions vs doméstica) empeora un poco incluso sobre el **mismo conjunto evaluado** (`minHistory=0`):
+
+| minHistory=0 (49.193) | Aciertos | Brier | Log Loss |
+| --- | --- | --- | --- |
+| Datos actuales | **50,70 %** | **0,5998** | **1,0036** |
+| Con unificación | 50,48 % | 0,6015 | 1,0061 |
+
+La fragmentación no era la causa del error, y unificar sin re-calibrar `smoothing`/`temperature` —que se
+habían ajustado sobre el dato fragmentado— penaliza. Por eso no se adoptó por defecto.
+
+### 2) Localía por competición
+
+La ventaja de localía global (+13 p.p. de victorias locales) no aplica igual a todas las competiciones:
+Brasileirão +22,4 p.p., LaLiga +17,5, Bundesliga austríaca +9,4, Eurocopa ≈ 0 (sede neutral) y DFB-Pokal
+**−30 p.p.** (el "local" habitualmente es el débil). Se implementó un promedio por competición contraído
+hacia la media global (shrink `k=30`): `stats.competitionBaseline` + opción `compHomeAdv` del backtesting.
+El Análisis tiene ahora un selector "Competición (opcional)" que sólo modifica la localía cuando el flag
+está activo.
+
+Medido (walk-forward completo y por mitades):
+
+| Corrida | Aciertos base→localía×comp | Brier base→localía×comp | Log Loss base→localía×comp | MAE base→localía×comp |
+| --- | --- | --- | --- | --- |
+| Completa (45.849) | 51,03 → 51,01 % | 0,5977 → **0,5972** | 1,0006 → **0,9999** | 1,334 → **1,330** |
+| 1ª mitad (22.467) | 51,64 → 51,64 % | 0,5945 → **0,5942** | 0,9957 → **0,9953** | 1,337 → **1,334** |
+| 2ª mitad (22.239) | 50,51 → 50,44 % | 0,6019 → **0,6012** | 1,0068 → **1,0056** | 1,334 → **1,327** |
+
+Mejora la **calibración** (Brier, Log Loss, MAE) de forma consistente en ambas mitades, pero **no sube los
+aciertos 1X2**, que era el objetivo buscado. Quedó apagada por defecto (flag `compHomeAdv`), documentada y
+lista para activarse si se prefiere priorizar calibración sobre aciertos exactos.
+
 ## Límites (honestidad estadística)
 
 - El modelo **supera** a la referencia ingenua y quedó mejor calibrado tras el ajuste, aunque en el tramo alto
@@ -107,7 +155,8 @@ segunda, siempre por debajo del modelo inicial en esa misma mitad). La magnitud 
 - En torneos de sede neutral (p. ej. Mundiales) el modelo sigue aplicando ventaja de localía al equipo
   nominalmente "local", por lo que **sobreestima las victorias locales**.
 - Los datos de openfootball no distinguen sede neutral, y las variantes de nombre de equipo entre
-  competiciones no se unifican; ambas cosas afectan a los números.
+  competiciones no se unifican; ambas cosas afectan a los números (los dos experimentos se midieron y no
+  se adoptaron, ver la sección anterior).
 - El desempeño agregado no garantiza ningún partido individual.
 - La calibración se hizo sobre el mismo dataset incluido; con datos nuevos (otras ligas, otras fechas) los
   valores óptimos podrían cambiar. Conviene re-ejecutar el backtesting al ampliar la base.

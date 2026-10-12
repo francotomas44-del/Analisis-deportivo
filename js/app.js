@@ -206,7 +206,10 @@
   function computeAnalysis(cfg) {
     var matches = S.state.matches;
     var home = S.getTeam(cfg.homeId), away = S.getTeam(cfg.awayId);
-    var base = ST.leagueBaselines(matches);
+    // Localía: si el usuario indicó una competición y la localía por competición está
+    // activa, se usa esa base; si no, la global (comportamiento clásico).
+    var perComp = !!(ST.config.compHomeAdv && cfg.competition);
+    var base = perComp ? ST.competitionBaseline(matches, cfg.competition) : ST.leagueBaselines(matches);
     var hs = ST.teamStats(cfg.homeId, matches, cfg.recency);
     var as = ST.teamStats(cfg.awayId, matches, cfg.recency);
 
@@ -243,6 +246,10 @@
     var notes = [];
     if (hs.matches < 4) notes.push({ warn: true, text: "El local tiene pocos partidos registrados (" + hs.matches + "): estimación poco fiable." });
     if (as.matches < 4) notes.push({ warn: true, text: "El visitante tiene pocos partidos registrados (" + as.matches + "): estimación poco fiable." });
+    if (perComp) {
+      notes.push({ warn: false, text: "Localía ajustada por la competición «" + cfg.competition + "» (" + base.matches.toLocaleString("es") +
+        " partidos de esa competición): casa " + num2(base.homeGoals) + " goles, visita " + num2(base.awayGoals) + "." });
+    }
     if (!sp.corners.hasData) notes.push({ warn: true, text: "Sin datos de córners: se usan valores de referencia de la liga." });
     if (!sp.cards.hasData) notes.push({ warn: true, text: "Sin datos de tarjetas: se usan valores de referencia de la liga." });
     if (!cfg.lineups) notes.push({ warn: false, text: "Alineaciones no confirmadas: la confianza es menor." });
@@ -255,6 +262,7 @@
         homeId: cfg.homeId, awayId: cfg.awayId,
         homeName: home ? home.name : "Local", awayName: away ? away.name : "Visitante",
         kickoff: cfg.kickoff || "",
+        competition: cfg.competition || "",
         restHome: cfg.restHome, restAway: cfg.restAway,
         recency: cfg.recency, lineups: cfg.lineups,
         homeBajas: cfg.homeBajas, awayBajas: cfg.awayBajas, meteo: cfg.meteo,
@@ -637,7 +645,9 @@
     var op = res.options || {};
     var txt = "Modelo: suavizado k=" + (op.smoothing != null ? op.smoothing : "—") +
       ", temperatura=" + (op.temperature != null ? op.temperature : "—") +
-      ", ρ (Dixon-Coles)=" + (op.rho != null ? op.rho : "—") + ". ";
+      ", ρ (Dixon-Coles)=" + (op.rho != null ? op.rho : "—") +
+      (op.compHomeAdv ? ", localía por competición" : "") +
+      (op.unifyTeams ? ", nombres de equipos unificados" : "") + ". ";
     txt += "Evaluados " + n.toLocaleString("es") + " de " + res.pool.toLocaleString("es") + " partidos del conjunto filtrado.";
     if (res.skippedLowHistory) txt += " Descartados por historial insuficiente: " + res.skippedLowHistory.toLocaleString("es") + ".";
     if (res.stopped) txt += " (detenido por el usuario: resultados parciales).";
@@ -816,6 +826,7 @@
     L.push("=========================================");
     L.push("Partido: " + p.homeName + " (local) vs " + p.awayName + " (visitante)");
     L.push("Fecha del partido: " + (p.kickoff || "no especificada"));
+    if (p.input && p.input.competition) L.push("Competición: " + p.input.competition);
     L.push("Predicción registrada: " + new Date(p.createdAt).toLocaleString());
     L.push("");
     L.push("1. DATOS EXACTOS CONOCIDOS (categoría A)");
@@ -930,10 +941,18 @@
       });
     }).then(function (res) {
       setOverlay(false);
-      refreshAll();
-      var msg = "Base cargada: " + res.totalTeams.toLocaleString("es") + " equipos/selecciones, " +
-        res.totalComps + " competiciones, " + res.totalMatches.toLocaleString("es") + " partidos.";
+      var msg;
+      if (ST.config.unifyTeams) {
+        var un = S.unifyTeams({ dedupe: true }) || {};
+        msg = "Base cargada: " + S.state.teams.length.toLocaleString("es") + " equipos/selecciones, " +
+          res.totalComps + " competiciones, " + S.state.matches.length.toLocaleString("es") + " partidos.";
+        if (un.merged) msg += " Variantes de nombres unificadas: " + un.merged + ".";
+      } else {
+        msg = "Base cargada: " + res.totalTeams.toLocaleString("es") + " equipos/selecciones, " +
+          res.totalComps + " competiciones, " + res.totalMatches.toLocaleString("es") + " partidos.";
+      }
       if (res.filesFailed) msg += " (" + res.filesFailed + " archivos no se pudieron leer)";
+      refreshAll();
       setBaseStatus(msg);
       return res;
     }).catch(function (e) {
@@ -945,11 +964,27 @@
     });
   }
 
+  function fillAnCompetencia() {
+    var sel = $("an-competencia");
+    if (!sel) return;
+    var prev = sel.value;
+    var names = {};
+    S.state.competitions.forEach(function (c) { if (c.name) names[c.name] = true; });
+    var list = Object.keys(names).sort(function (a, b) {
+      var la = a.toLowerCase(), lb = b.toLowerCase();
+      return la < lb ? -1 : la > lb ? 1 : 0;
+    });
+    sel.innerHTML = '<option value="">— sin especificar (localía global) —</option>' +
+      list.map(function (n) { return '<option value="' + esc(n) + '">' + esc(n) + "</option>"; }).join("");
+    if (prev) sel.value = prev;
+  }
+
   /* ---------- acciones globales ---------- */
   function refreshAll() {
     renderInicio();
     renderEquipos();
     fillTeamSelects();
+    fillAnCompetencia();
     renderPartidos();
     renderPredicciones();
     renderEvaluacion();
@@ -1021,7 +1056,7 @@
       $("an-forma-val").textContent = this.value;
       resetAnalysis();
     });
-    ["an-local", "an-visitante", "an-kickoff", "an-descanso-local", "an-descanso-visitante",
+    ["an-local", "an-visitante", "an-competencia", "an-kickoff", "an-descanso-local", "an-descanso-visitante",
       "an-alineaciones", "an-bajas-local", "an-bajas-visitante", "an-meteo"].forEach(function (id) {
       var el = $(id);
       if (el) el.addEventListener("change", resetAnalysis);
@@ -1035,6 +1070,7 @@
       lastAnalysis = computeAnalysis({
         homeId: hl, awayId: av,
         kickoff: $("an-kickoff").value,
+        competition: $("an-competencia") ? $("an-competencia").value : "",
         restHome: Number($("an-descanso-local").value) || 0,
         restAway: Number($("an-descanso-visitante").value) || 0,
         recency: Number($("an-forma").value) / 100,
@@ -1159,6 +1195,8 @@
 
     // carga inicial desde IndexedDB (o localStorage)
     S.init().then(function () {
+      // Migración (tras la validación): fusiona variantes de nombre del mismo club.
+      if (ST.config.unifyTeams && S.state.matches.length) S.unifyTeams({ dedupe: true });
       refreshAll();
       updateSaveIndicator();
       // Primera vez (base vacía): cargar automáticamente la base histórica integrada.

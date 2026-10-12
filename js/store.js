@@ -36,6 +36,89 @@
     return String(s == null ? "" : s).trim().toLowerCase();
   }
 
+  /* ---------- nombres de equipo "canónicos" ----------
+     Variantes del mismo club (p. ej. "Bayern München (GER)", "FC Bayern München",
+     "Bayern München") se guardaban cada una con su propio id, fragmentando el
+     historial del club. canonicalName() colapsa esas variantes a una misma clave;
+     canonicalMap() y unifyTeams() la usan para agrupar/fusionar. */
+  var TEAM_TOKENS = ["fc", "cf", "ac", "sad", "sdc", "cc", "club", "calcio",
+    "football", "futebol", "clube", "utd", "recreativo"];
+
+  function canonicalName(name) {
+    var s = String(name == null ? "" : name).toLowerCase();
+    s = s.replace(/\s*\([^)]*\)\s*/g, " ");                // quita "(ESP)", "(AUT)", "(GER)"...
+    s = s.replace(/(^|[\s.])f\.?c\.?($|[\s.])/g, " ");     // f.c. / fc
+    s = s.replace(/(^|[\s.])c\.?f\.?($|[\s.])/g, " ");     // c.f. / cf
+    s = s.replace(/(^|[\s.])a\.?c\.?($|[\s.])/g, " ");     // a.c. / ac
+    s = s.replace(/[.·]/g, " ");                           // puntos restantes
+    var parts = s.split(/\s+/);
+    var out = [];
+    for (var i = 0; i < parts.length; i++) {
+      var p = parts[i];
+      if (p && TEAM_TOKENS.indexOf(p) === -1) out.push(p);
+    }
+    return out.join(" ").replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+  }
+
+  /* Mapa id -> id canónico. Solo incluye variantes duplicadas; no muta nada. */
+  function canonicalMap() {
+    var map = {}, groups = {};
+    state.teams.forEach(function (t) {
+      var k = canonicalName(t.name);
+      if (!k) return;
+      (groups[k] = groups[k] || []).push(t);
+    });
+    Object.keys(groups).forEach(function (k) {
+      var g = groups[k];
+      if (g.length < 2) return;
+      var best = g[0];
+      // prefiere el nombre sin paréntesis ("Bayern München" sobre "FC Bayern München (GER)")
+      for (var i = 0; i < g.length; i++) {
+        if (g[i].name.indexOf("(") === -1) { best = g[i]; break; }
+      }
+      for (var j = 0; j < g.length; j++) {
+        if (g[j].id !== best.id) map[g[j].id] = best.id;
+      }
+    });
+    return map;
+  }
+
+  /* Fusiona físicamente las variantes duplicadas (migración). Idempotente:
+     en la segunda llamada canonicalMap() devuelve {} y no cambia nada. */
+  function unifyTeams(opts) {
+    opts = opts || {};
+    var map = canonicalMap();
+    var idsToRemove = {};
+    Object.keys(map).forEach(function (id) { idsToRemove[id] = true; });
+    var merged = Object.keys(map).length;
+    if (!merged) {
+      return { merged: 0, removedMatches: 0, teamsAfter: state.teams.length, matchesAfter: state.matches.length };
+    }
+
+    var seen = {};
+    var before = state.matches.length;
+    state.matches = state.matches.filter(function (m) {
+      var hid = map[m.homeId] || m.homeId;
+      var aid = map[m.awayId] || m.awayId;
+      m.homeId = hid; m.awayId = aid;
+      if (hid === aid) return false;                 // mismo club en ambas puntas (no debería ocurrir)
+      var key = (m.date || "") + "|" + hid + "|" + aid;
+      if (opts.dedupe && seen[key]) return false;    // partido duplicado tras la fusión
+      seen[key] = true;
+      return true;
+    });
+    var removedMatches = before - state.matches.length;
+
+    state.predictions.forEach(function (p) {
+      if (map[p.homeId]) p.homeId = map[p.homeId];
+      if (map[p.awayId]) p.awayId = map[p.awayId];
+    });
+    state.teams = state.teams.filter(function (t) { return !idsToRemove[t.id]; });
+
+    saveNow();
+    return { merged: merged, removedMatches: removedMatches, teamsAfter: state.teams.length, matchesAfter: state.matches.length };
+  }
+
   /* ---------- carga / guardado ---------- */
   function init() {
     return window.AD.storage.load().then(function (data) {
@@ -482,6 +565,9 @@
     getTeam: getTeam,
     getTeamByName: getTeamByName,
     findTeamByName: findTeamByName,
+    canonicalName: canonicalName,
+    canonicalMap: canonicalMap,
+    unifyTeams: unifyTeams,
     getCompetition: getCompetition,
     getReferee: getReferee,
     ensureTeam: ensureTeam,

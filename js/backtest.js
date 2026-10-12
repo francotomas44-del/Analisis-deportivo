@@ -24,7 +24,7 @@
 
   /* ---------- acumuladores incrementales ---------- */
   function newAccum() {
-    return { byTeam: {}, homeGoalsSum: 0, awayGoalsSum: 0, n: 0 };
+    return { byTeam: {}, homeGoalsSum: 0, awayGoalsSum: 0, n: 0, comp: {} };
   }
 
   function teamSlot(acc, id) {
@@ -61,6 +61,13 @@
     acc.homeGoalsSum += m.homeGoals;
     acc.awayGoalsSum += m.awayGoals;
     acc.n++;
+
+    // acumuladores por competición (solo para la localía; pesos = conteos crudos)
+    if (m.competition) {
+      var c = acc.comp[m.competition];
+      if (!c) { c = acc.comp[m.competition] = { n: 0, hg: 0, ag: 0 }; }
+      c.n++; c.hg += m.homeGoals; c.ag += m.awayGoals;
+    }
   }
 
   function statsFor(acc, id) {
@@ -89,13 +96,22 @@
     };
   }
 
-  function baseFor(acc) {
+  function baseFor(acc, competition, kComp) {
     var lh = acc.n ? acc.homeGoalsSum / acc.n : 1.5;
     var la = acc.n ? acc.awayGoalsSum / acc.n : 1.15;
-    return {
+    var glob = {
       homeGoals: lh < 0.2 ? 1.5 : lh,
       awayGoals: la < 0.2 ? 1.15 : la,
       matches: acc.n
+    };
+    if (!competition || !kComp || kComp <= 0) return glob;
+    var c = acc.comp[competition];
+    if (!c || c.n < 2) return glob;
+    var w = c.n / (c.n + kComp);
+    return {
+      homeGoals: w * (c.hg / c.n) + (1 - w) * glob.homeGoals,
+      awayGoals: w * (c.ag / c.n) + (1 - w) * glob.awayGoals,
+      matches: c.n
     };
   }
 
@@ -207,7 +223,7 @@
   }
 
   /* Evalúa UN partido con el estado acumulado (historia previa). */
-  function evaluateOne(m, acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature) {
+  function evaluateOne(m, acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature, compK) {
     var ST = window.AD.stats;
     var M = window.AD.metrics;
     var S = window.AD.store;
@@ -216,7 +232,7 @@
     var as = statsFor(acc, m.awayId);
     if (hs.matches < minHistory || as.matches < minHistory) { agg.skipped++; return; }
 
-    var base = baseFor(acc);
+    var base = baseFor(acc, m.competition, compK);
     var eg = ST.expectedGoals(hs, as, base);
     var lh = eg.home, la = eg.away;
     var o = oneXTwo(lh, la, rho);
@@ -381,6 +397,9 @@
     var max = opts.max || 0;
     var detailLimit = opts.detailLimit || 400;
     var focusTeams = (opts.focusTeams && opts.focusTeams.length) ? opts.focusTeams.slice(0, 4) : null;
+    var unifyTeams = opts.unifyTeams != null ? !!opts.unifyTeams : !!(SC.unifyTeams);
+    var compHomeAdv = opts.compHomeAdv != null ? !!opts.compHomeAdv : !!(SC.compHomeAdv);
+    var compK = compHomeAdv ? (window.AD.stats.K_COMP || 30) : 0;
     var CHUNK = 4000;
 
     // 1) Filtrar y ordenar cronológicamente (solo partidos con marcador).
@@ -398,6 +417,26 @@
       var da = a.date || "", db = b.date || "";
       return da < db ? -1 : da > db ? 1 : 0;
     });
+
+    // unificación de nombres en memoria (A/B): remapea los ids de equipos a su
+    // variante canónica sin tocar los datos persistidos.
+    var droppedByUnify = 0;
+    if (unifyTeams) {
+      var cm = S.canonicalMap ? S.canonicalMap() : {};
+      var ms2 = [];
+      for (var i = 0; i < ms.length; i++) {
+        var mm = ms[i];
+        var hid = cm[mm.homeId] || mm.homeId;
+        var aid = cm[mm.awayId] || mm.awayId;
+        if (hid === aid) { droppedByUnify++; continue; }
+        ms2.push({
+          date: mm.date, competition: mm.competition,
+          homeId: hid, awayId: aid,
+          homeGoals: mm.homeGoals, awayGoals: mm.awayGoals
+        });
+      }
+      ms = ms2;
+    }
 
     var n = ms.length;
     var startIdx = 0;
@@ -426,7 +465,7 @@
         if (focusTeams.length === 2) { agg.pairA = focusTeams[0]; agg.pairB = focusTeams[1]; }
       }
       var detail = [];
-      var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max, rho: rho, temperature: temperature, smoothing: SC.smoothing || 12 };
+      var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max, rho: rho, temperature: temperature, smoothing: SC.smoothing || 12, compHomeAdv: compHomeAdv, unifyTeams: unifyTeams, unifyDropped: droppedByUnify };
       var t0 = Date.now();
 
       function finish(stopped) {
@@ -446,7 +485,7 @@
             committed++;
           }
           if (idx >= startIdx) {
-            evaluateOne(ms[idx], acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature);
+            evaluateOne(ms[idx], acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature, compK);
           }
           idx++;
           processed++;

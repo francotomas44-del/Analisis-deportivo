@@ -10,8 +10,11 @@
   /* Parámetros del modelo (calibrados con el backtesting, ver docs/backtesting.md).
      rho: correlación Dixon-Coles en marcadores bajos (0 = desactivada).
      temperature: escalado de las probabilidades 1X2 (1 = sin cambios, >1 = menos confiado).
-     smoothing: constante k de suavizado hacia la media (mayor = más regularizado). */
-  var config = { rho: -0.03, temperature: 1.06, smoothing: 12 };
+     smoothing: constante k de suavizado hacia la media (mayor = más regularizado).
+     compHomeAdv: localía por competición (0 = off, usar la global). */
+  var config = { rho: -0.03, temperature: 1.06, smoothing: 12, compHomeAdv: false, unifyTeams: false };
+
+  var K_COMP = 30; // shrink de la localía por competición hacia la global: w = n/(n+K_COMP)
 
   function clamp(x, lo, hi) {
     return Math.max(lo, Math.min(hi, x));
@@ -51,6 +54,26 @@
       homeGoals: lh < 0.2 ? 1.5 : lh,
       awayGoals: la < 0.2 ? 1.15 : la,
       matches: matches.length
+    };
+  }
+
+  /* Localía por competición: promedio de goles de local/visitante solo dentro de la
+     competición elegida, contraído hacia la media global (shrink w = n/(n+K_COMP)).
+     Con pocos partidos de esa competición se parece a la global (evita sobreajuste). */
+  function competitionBaseline(matches, competition) {
+    var glob = leagueBaselines(matches);
+    if (!competition) return glob;
+    var n = 0, hg = 0, ag = 0;
+    for (var i = 0; i < matches.length; i++) {
+      var m = matches[i];
+      if (m.competition === competition) { n++; hg += m.homeGoals; ag += m.awayGoals; }
+    }
+    if (n < 2) return glob;
+    var w = n / (n + K_COMP);
+    return {
+      homeGoals: w * (hg / n) + (1 - w) * glob.homeGoals,
+      awayGoals: w * (ag / n) + (1 - w) * glob.awayGoals,
+      matches: n
     };
   }
 
@@ -392,10 +415,12 @@
   window.AD.stats = {
     MAX_GOALS: MAX_GOALS,
     config: config,
+    K_COMP: K_COMP,
     clamp: clamp,
     mean: mean,
     poissonPmf: poissonPmf,
     leagueBaselines: leagueBaselines,
+    competitionBaseline: competitionBaseline,
     teamStats: teamStats,
     expectedGoals: expectedGoals,
     scoreMatrix: scoreMatrix,
