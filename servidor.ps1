@@ -17,7 +17,7 @@ try {
   exit 1
 }
 
-Write-Host "Analisis Deportivo - servidor local"
+Write-Host "Futbolunaki - servidor local"
 Write-Host "URL:  http://localhost:$Port/"
 Write-Host "Carpeta: $Root"
 Write-Host "Deja esta ventana abierta mientras usas la app. Cerrala para detener el servidor."

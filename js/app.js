@@ -30,8 +30,8 @@
       '<span class="bar-val">' + pct(p) + '</span></div>';
   }
 
-  function card(title, inner) {
-    return '<div class="market"><div class="title">' + esc(title) + '</div>' + inner + '</div>';
+  function card(title, inner, extraClass) {
+    return '<div class="market' + (extraClass ? " " + extraClass : "") + '"><div class="title">' + esc(title) + '</div>' + inner + '</div>';
   }
 
   /* ---------- navegación ---------- */
@@ -324,7 +324,7 @@
     var market =
       '<div class="panel"><h2>Probabilidades principales</h2><div class="market-grid">' +
       card("Resultado final (1X2)",
-        barRow(hn + " (1)", m.homeWin) + barRow("Empate (X)", m.draw) + barRow(an + " (2)", m.awayWin)) +
+        barRow(hn + " (1)", m.homeWin) + barRow("Empate (X)", m.draw) + barRow(an + " (2)", m.awayWin), "market--wide") +
       card("Más / menos goles",
         barRow("Más 2.5", m.over25) + barRow("Menos 2.5", m.under25)) +
       card("Ambos marcan",
@@ -1012,6 +1012,19 @@
 
   /* ---------- init ---------- */
   function init() {
+    // La barra superior puede partirse en dos filas según el ancho:
+    // exponemos su altura para que las pestañas queden pegadas justo debajo.
+    function syncTopbarHeight() {
+      var tb = document.querySelector(".topbar");
+      if (tb) document.documentElement.style.setProperty("--topbar-h", tb.offsetHeight + "px");
+    }
+    syncTopbarHeight();
+    if (window.ResizeObserver) {
+      new ResizeObserver(syncTopbarHeight).observe(document.querySelector(".topbar"));
+    } else {
+      window.addEventListener("resize", syncTopbarHeight);
+    }
+
     // Aviso de origen: file:// no es confiable para el guardado interno
     if (location.protocol === "file:") {
       var w = $("origin-warning");
@@ -1028,6 +1041,12 @@
     $("tabs").addEventListener("click", function (e) {
       var t = e.target.closest(".tab");
       if (t) showView(t.getAttribute("data-view"));
+    });
+
+    // botones que navegan a una vista (p. ej. acciones del hero)
+    document.addEventListener("click", function (e) {
+      var g = e.target.closest("[data-goto]");
+      if (g) showView(g.getAttribute("data-goto"));
     });
 
     // equipos
@@ -1133,7 +1152,7 @@
       var url = URL.createObjectURL(blob);
       var a = document.createElement("a");
       a.href = url;
-      a.download = "analisis-deportivo-" + today() + ".json";
+      a.download = "futbolunaki-" + today() + ".json";
       document.body.appendChild(a);
       a.click();
       setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 0);

@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Análisis Deportivo</title>
-  <link rel="stylesheet" href="css/styles.css" />
+  <title>Futbolunaki</title>
+  <link rel="icon" href="img/logo.png?v=2" type="image/png" />
+  <link rel="stylesheet" href="css/styles.css?v=5" />
 </head>
 <body>
   <header class="topbar">
     <div class="brand">
-      <span class="brand-icon">&#9917;</span>
+      <img class="brand-logo" src="img/logo.png?v=2" alt="Futbolunaki" width="48" height="48" />
       <div>
-        <h1>Análisis Deportivo</h1>
+        <h1>Futbolunaki</h1>
         <p class="brand-sub">Sistema probabilístico de análisis futbolístico · 100% en tu navegador</p>
       </div>
     </div>
@@ -40,7 +41,18 @@
   <main id="main">
     <!-- INICIO -->
     <section class="view is-active" id="view-inicio">
+      <section class="hero">
+        <span class="hero-pill">&#9917; Modelo probabilístico · walk-forward</span>
+        <h2 class="hero-title">Analizá cualquier partido con estadística honesta</h2>
+        <p class="hero-sub">Goles esperados, probabilidades 1X2, marcadores más probables y escenarios &mdash; calculados 100% en tu navegador, sin inventar datos.</p>
+        <div class="hero-actions">
+          <button class="btn btn-primary" type="button" data-goto="analisis">Analizar un partido</button>
+          <button class="btn btn-ghost" type="button" data-goto="backtesting">Ver el backtesting</button>
+        </div>
+        <div class="hero-orb" aria-hidden="true"></div>
+      </section>
       <div class="grid-cards" id="inicio-cards"></div>
+      <div class="panels-grid">
       <div class="panel">
         <h2>Base histórica integrada</h2>
         <p class="muted">El sistema viene con una base de <strong>resultados históricos reales</strong> de fuentes libres y confiables (<strong>openfootball</strong>, datos de dominio público). Se carga automáticamente la primera vez y queda guardada en este navegador.</p>
@@ -64,6 +76,7 @@
       <div class="panel">
         <h2>Principios del sistema</h2>
         <div class="chips" id="inicio-principios"></div>
+      </div>
       </div>
     </section>
 
@@ -390,7 +403,7 @@
   </div>
 
   <footer class="footer">
-    <p>Análisis Deportivo · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
+    <p>Futbolunaki · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
   </footer>
 
   <script src="js/stats.js"></script>
@@ -399,6 +412,6 @@
   <script src="js/store.js"></script>
   <script src="js/dataset.js"></script>
   <script src="js/backtest.js"></script>
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=4"></script>
 </body>
 </html>
