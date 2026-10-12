@@ -1,3 +1,6 @@
+# Herramientas locales (binarios grandes, ej: cloudflared.exe)
+tools/
+
 # Sistema operativo
 Thumbs.db
 ehthumbs.db
