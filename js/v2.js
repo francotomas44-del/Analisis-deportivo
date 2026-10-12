@@ -444,7 +444,10 @@
       return fx.filter(function (f) { return f && f.date >= today; });
     }
 
-    if (!force && cached && (Date.now() - (cached.ts || 0)) < AR_LIVE_TTL) {
+    /* La caché solo se reutiliza si ya incluye los resultados (formato nuevo).
+       Las cachés viejas (solo partidos por jugar) se ignoran para poder importar
+       el historial una vez. */
+    if (!force && cached && Array.isArray(cached.results) && (Date.now() - (cached.ts || 0)) < AR_LIVE_TTL) {
       arLivePromise = Promise.resolve(fromCache());
       return arLivePromise;
     }
