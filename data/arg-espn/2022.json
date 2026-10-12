@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:635640",
                         "date":  "2022-06-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:635641",
                         "date":  "2022-06-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:635642",
                         "date":  "2022-06-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:635643",
                         "date":  "2022-06-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:635645",
                         "date":  "2022-06-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:635644",
                         "date":  "2022-06-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:635646",
                         "date":  "2022-06-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:635648",
                         "date":  "2022-06-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:635647",
                         "date":  "2022-06-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:635649",
                         "date":  "2022-06-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:635650",
                         "date":  "2022-06-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:635651",
                         "date":  "2022-06-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "River Plate",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:635652",
                         "date":  "2022-06-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:635653",
                         "date":  "2022-06-07",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:635279",
                         "date":  "2022-06-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:635284",
                         "date":  "2022-06-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Patronato",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:635288",
                         "date":  "2022-06-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:635280",
                         "date":  "2022-06-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:635282",
                         "date":  "2022-06-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:635281",
                         "date":  "2022-06-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:635287",
                         "date":  "2022-06-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:635276",
                         "date":  "2022-06-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:635277",
                         "date":  "2022-06-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:635278",
                         "date":  "2022-06-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:635285",
                         "date":  "2022-06-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:635283",
                         "date":  "2022-06-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Racing Club",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:635289",
                         "date":  "2022-06-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Platense",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:635286",
                         "date":  "2022-06-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:635293",
                         "date":  "2022-06-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:635297",
                         "date":  "2022-06-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:635292",
                         "date":  "2022-06-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:635299",
                         "date":  "2022-06-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Huracán",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:635298",
                         "date":  "2022-06-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:635302",
                         "date":  "2022-06-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:635291",
                         "date":  "2022-06-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Lanús",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:635303",
                         "date":  "2022-06-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:635300",
                         "date":  "2022-06-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:635301",
                         "date":  "2022-06-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:635290",
                         "date":  "2022-06-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:635294",
                         "date":  "2022-06-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:635296",
                         "date":  "2022-06-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:635295",
                         "date":  "2022-06-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:635316",
                         "date":  "2022-06-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:635307",
                         "date":  "2022-06-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Patronato",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:635306",
                         "date":  "2022-06-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:635311",
                         "date":  "2022-06-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:635309",
                         "date":  "2022-06-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:635305",
                         "date":  "2022-06-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:635315",
                         "date":  "2022-06-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:635312",
                         "date":  "2022-06-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:635313",
                         "date":  "2022-06-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:635310",
                         "date":  "2022-06-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:635317",
                         "date":  "2022-06-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:635308",
                         "date":  "2022-06-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:635304",
                         "date":  "2022-06-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Platense",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:635314",
                         "date":  "2022-06-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:635326",
                         "date":  "2022-06-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:635321",
                         "date":  "2022-06-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:635327",
                         "date":  "2022-06-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:635329",
                         "date":  "2022-06-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:635323",
                         "date":  "2022-06-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:635328",
                         "date":  "2022-06-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:635330",
                         "date":  "2022-06-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:635320",
                         "date":  "2022-06-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:635322",
                         "date":  "2022-06-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:635318",
                         "date":  "2022-06-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:635319",
                         "date":  "2022-06-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:635324",
                         "date":  "2022-06-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:635331",
                         "date":  "2022-06-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Independiente",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:635325",
                         "date":  "2022-06-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:635340",
                         "date":  "2022-07-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:635341",
                         "date":  "2022-07-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:635333",
                         "date":  "2022-07-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:635345",
                         "date":  "2022-07-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:635338",
                         "date":  "2022-07-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:635339",
                         "date":  "2022-07-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:635332",
                         "date":  "2022-07-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:635342",
                         "date":  "2022-07-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:635334",
                         "date":  "2022-07-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Racing Club",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:635337",
                         "date":  "2022-07-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:635343",
                         "date":  "2022-07-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:635344",
                         "date":  "2022-07-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:635335",
                         "date":  "2022-07-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Patronato",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:635336",
                         "date":  "2022-07-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Platense",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:635347",
                         "date":  "2022-07-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:635351",
                         "date":  "2022-07-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:635346",
                         "date":  "2022-07-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:635356",
                         "date":  "2022-07-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:635350",
                         "date":  "2022-07-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:635359",
                         "date":  "2022-07-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:635353",
                         "date":  "2022-07-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:635349",
                         "date":  "2022-07-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:635357",
                         "date":  "2022-07-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:635352",
                         "date":  "2022-07-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Huracán",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:635348",
                         "date":  "2022-07-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:635355",
                         "date":  "2022-07-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:635354",
                         "date":  "2022-07-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:635358",
                         "date":  "2022-07-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:635370",
                         "date":  "2022-07-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Patronato",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:635365",
                         "date":  "2022-07-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:635360",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:635361",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Platense",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:635372",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:635369",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:635367",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:635366",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:635371",
                         "date":  "2022-07-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:635368",
                         "date":  "2022-07-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Lanús",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:635363",
                         "date":  "2022-07-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:635373",
                         "date":  "2022-07-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:635364",
                         "date":  "2022-07-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:635362",
                         "date":  "2022-07-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:635385",
                         "date":  "2022-07-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:635379",
                         "date":  "2022-07-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:635386",
                         "date":  "2022-07-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:635378",
                         "date":  "2022-07-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:635374",
                         "date":  "2022-07-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:635375",
                         "date":  "2022-07-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:635387",
                         "date":  "2022-07-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Tigre",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:635384",
                         "date":  "2022-07-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Independiente",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:635383",
                         "date":  "2022-07-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:635382",
                         "date":  "2022-07-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:635381",
                         "date":  "2022-07-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:635376",
                         "date":  "2022-07-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:635380",
                         "date":  "2022-07-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:635377",
                         "date":  "2022-07-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:635390",
                         "date":  "2022-07-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:635399",
                         "date":  "2022-07-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:635401",
                         "date":  "2022-07-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:635391",
                         "date":  "2022-07-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Platense",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:635394",
                         "date":  "2022-07-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "River Plate",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:635400",
                         "date":  "2022-07-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:635398",
                         "date":  "2022-07-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:635389",
                         "date":  "2022-07-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:635396",
                         "date":  "2022-07-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:635388",
                         "date":  "2022-07-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:635392",
                         "date":  "2022-07-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:635393",
                         "date":  "2022-07-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:635395",
                         "date":  "2022-07-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:635397",
                         "date":  "2022-07-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Patronato",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:635407",
                         "date":  "2022-07-29",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:635402",
                         "date":  "2022-07-30",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:635406",
                         "date":  "2022-07-30",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:635403",
                         "date":  "2022-07-30",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:635415",
                         "date":  "2022-07-30",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:635409",
                         "date":  "2022-07-31",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:635411",
                         "date":  "2022-07-31",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:635412",
                         "date":  "2022-07-31",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:635410",
                         "date":  "2022-07-31",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:635413",
                         "date":  "2022-07-31",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:635405",
                         "date":  "2022-08-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:635414",
                         "date":  "2022-08-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:635404",
                         "date":  "2022-08-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:635425",
                         "date":  "2022-08-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:635429",
                         "date":  "2022-08-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Patronato",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:635421",
                         "date":  "2022-08-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Lanús",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:635417",
                         "date":  "2022-08-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:635428",
                         "date":  "2022-08-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:635420",
                         "date":  "2022-08-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:635418",
                         "date":  "2022-08-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:635427",
                         "date":  "2022-08-07",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Platense",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:635416",
                         "date":  "2022-08-07",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Huracán",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:635422",
                         "date":  "2022-08-07",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:635424",
                         "date":  "2022-08-07",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:635423",
                         "date":  "2022-08-07",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:635426",
                         "date":  "2022-08-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:635419",
                         "date":  "2022-08-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:635438",
                         "date":  "2022-08-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:635442",
                         "date":  "2022-08-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:635441",
                         "date":  "2022-08-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:635437",
                         "date":  "2022-08-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:635434",
                         "date":  "2022-08-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Banfield",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:635435",
                         "date":  "2022-08-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:635440",
                         "date":  "2022-08-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Tigre",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:635431",
                         "date":  "2022-08-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:635443",
                         "date":  "2022-08-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:635432",
                         "date":  "2022-08-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:635436",
                         "date":  "2022-08-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:635430",
                         "date":  "2022-08-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:635439",
                         "date":  "2022-08-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:635433",
                         "date":  "2022-08-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:635450",
                         "date":  "2022-08-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:635454",
                         "date":  "2022-08-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:635453",
                         "date":  "2022-08-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Platense",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:635451",
                         "date":  "2022-08-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Huracán",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:635452",
                         "date":  "2022-08-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:635456",
                         "date":  "2022-08-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:635446",
                         "date":  "2022-08-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:635449",
                         "date":  "2022-08-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:635448",
                         "date":  "2022-08-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:635444",
                         "date":  "2022-08-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:635455",
                         "date":  "2022-08-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Patronato",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:635457",
                         "date":  "2022-08-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:635445",
                         "date":  "2022-08-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:635447",
                         "date":  "2022-08-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:635459",
                         "date":  "2022-08-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:635467",
                         "date":  "2022-08-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:635466",
                         "date":  "2022-08-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:635468",
                         "date":  "2022-08-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:635462",
                         "date":  "2022-08-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:635471",
                         "date":  "2022-08-21",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:635470",
                         "date":  "2022-08-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:635461",
                         "date":  "2022-08-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:635463",
                         "date":  "2022-08-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:635464",
                         "date":  "2022-08-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:635460",
                         "date":  "2022-08-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:635465",
                         "date":  "2022-08-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:635458",
                         "date":  "2022-08-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:635469",
                         "date":  "2022-08-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:635480",
                         "date":  "2022-08-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Lanús",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:635484",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Huracán",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:635476",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:635483",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:635477",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:635472",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Platense",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:635474",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:635473",
                         "date":  "2022-08-27",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "River Plate",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:635482",
                         "date":  "2022-08-28",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:635475",
                         "date":  "2022-08-28",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:635485",
                         "date":  "2022-08-28",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:635481",
                         "date":  "2022-08-28",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:635479",
                         "date":  "2022-08-28",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Patronato",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:635478",
                         "date":  "2022-08-28",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:635499",
                         "date":  "2022-09-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:635491",
                         "date":  "2022-09-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:635486",
                         "date":  "2022-09-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:635498",
                         "date":  "2022-09-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:635492",
                         "date":  "2022-09-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:635488",
                         "date":  "2022-09-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:635494",
                         "date":  "2022-09-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:635490",
                         "date":  "2022-09-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:635489",
                         "date":  "2022-09-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:635496",
                         "date":  "2022-09-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:635487",
                         "date":  "2022-09-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:635495",
                         "date":  "2022-09-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:635493",
                         "date":  "2022-09-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:635497",
                         "date":  "2022-09-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Banfield",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:635505",
                         "date":  "2022-09-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:635512",
                         "date":  "2022-09-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:635513",
                         "date":  "2022-09-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:635509",
                         "date":  "2022-09-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:635503",
                         "date":  "2022-09-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Platense",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:635506",
                         "date":  "2022-09-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:635500",
                         "date":  "2022-09-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:635507",
                         "date":  "2022-09-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:635502",
                         "date":  "2022-09-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:635510",
                         "date":  "2022-09-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:635511",
                         "date":  "2022-09-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:635504",
                         "date":  "2022-09-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:635508",
                         "date":  "2022-09-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:635501",
                         "date":  "2022-09-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:635517",
                         "date":  "2022-09-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:635524",
                         "date":  "2022-09-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Tigre",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:635523",
                         "date":  "2022-09-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:635521",
                         "date":  "2022-09-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:635520",
                         "date":  "2022-09-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Patronato",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:635514",
                         "date":  "2022-09-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:635527",
                         "date":  "2022-09-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:635519",
                         "date":  "2022-09-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:635522",
                         "date":  "2022-09-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:635526",
                         "date":  "2022-09-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:635518",
                         "date":  "2022-09-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:635515",
                         "date":  "2022-09-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:635525",
                         "date":  "2022-09-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:635538",
                         "date":  "2022-09-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:635541",
                         "date":  "2022-09-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:635529",
                         "date":  "2022-09-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:635531",
                         "date":  "2022-09-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:635539",
                         "date":  "2022-09-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:635532",
                         "date":  "2022-09-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:635530",
                         "date":  "2022-09-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:635540",
                         "date":  "2022-09-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:635537",
                         "date":  "2022-09-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:635534",
                         "date":  "2022-09-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:635528",
                         "date":  "2022-09-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:635535",
                         "date":  "2022-09-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:635533",
                         "date":  "2022-09-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:635536",
                         "date":  "2022-09-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:635553",
                         "date":  "2022-09-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:635554",
                         "date":  "2022-09-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Banfield",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:635551",
                         "date":  "2022-09-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Patronato",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:635546",
                         "date":  "2022-09-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:635542",
                         "date":  "2022-09-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:635544",
                         "date":  "2022-09-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:635555",
                         "date":  "2022-09-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:635552",
                         "date":  "2022-09-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Tigre",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:635545",
                         "date":  "2022-09-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Platense",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:635543",
                         "date":  "2022-09-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:635549",
                         "date":  "2022-09-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:635547",
                         "date":  "2022-09-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:635548",
                         "date":  "2022-09-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:635550",
                         "date":  "2022-09-26",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:635565",
                         "date":  "2022-09-29",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:635569",
                         "date":  "2022-09-30",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:635556",
                         "date":  "2022-09-30",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:635559",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:635562",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:635563",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:635560",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:635558",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:635566",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:635567",
                         "date":  "2022-10-01",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Independiente",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:635561",
                         "date":  "2022-10-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:635564",
                         "date":  "2022-10-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:635557",
                         "date":  "2022-10-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:635568",
                         "date":  "2022-10-02",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:635571",
                         "date":  "2022-10-03",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:635582",
                         "date":  "2022-10-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:635577",
                         "date":  "2022-10-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:635573",
                         "date":  "2022-10-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:635570",
                         "date":  "2022-10-04",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Tigre",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:635583",
                         "date":  "2022-10-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:635580",
                         "date":  "2022-10-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Patronato",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:635581",
                         "date":  "2022-10-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Platense",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:635579",
                         "date":  "2022-10-05",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:635575",
                         "date":  "2022-10-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:635572",
                         "date":  "2022-10-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:635576",
                         "date":  "2022-10-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:635574",
                         "date":  "2022-10-06",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:635597",
                         "date":  "2022-10-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:635589",
                         "date":  "2022-10-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:635586",
                         "date":  "2022-10-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:635592",
                         "date":  "2022-10-08",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:635587",
                         "date":  "2022-10-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:635585",
                         "date":  "2022-10-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:635588",
                         "date":  "2022-10-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:635596",
                         "date":  "2022-10-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:635593",
                         "date":  "2022-10-09",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "River Plate",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:635584",
                         "date":  "2022-10-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:635590",
                         "date":  "2022-10-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:635594",
                         "date":  "2022-10-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:635591",
                         "date":  "2022-10-10",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:635595",
                         "date":  "2022-10-11",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:635598",
                         "date":  "2022-10-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Banfield",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:635606",
                         "date":  "2022-10-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:635599",
                         "date":  "2022-10-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:635603",
                         "date":  "2022-10-12",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:635600",
                         "date":  "2022-10-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Platense",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:635604",
                         "date":  "2022-10-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:635605",
                         "date":  "2022-10-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:635602",
                         "date":  "2022-10-13",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Patronato",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:635609",
                         "date":  "2022-10-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:635601",
                         "date":  "2022-10-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:635608",
                         "date":  "2022-10-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:635607",
                         "date":  "2022-10-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:635611",
                         "date":  "2022-10-14",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:635610",
                         "date":  "2022-10-15",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:635618",
                         "date":  "2022-10-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:635614",
                         "date":  "2022-10-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:635624",
                         "date":  "2022-10-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Patronato",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:635612",
                         "date":  "2022-10-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:635615",
                         "date":  "2022-10-16",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:635619",
                         "date":  "2022-10-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:635623",
                         "date":  "2022-10-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:635617",
                         "date":  "2022-10-17",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:635620",
                         "date":  "2022-10-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:635616",
                         "date":  "2022-10-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:635622",
                         "date":  "2022-10-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:635613",
                         "date":  "2022-10-18",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:635621",
                         "date":  "2022-10-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Tigre",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:635625",
                         "date":  "2022-10-19",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Platense",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:635408",
                         "date":  "2022-10-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:635578",
                         "date":  "2022-10-20",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:635632",
                         "date":  "2022-10-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:635630",
                         "date":  "2022-10-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:635631",
                         "date":  "2022-10-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:635636",
                         "date":  "2022-10-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:635626",
                         "date":  "2022-10-22",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:635627",
                         "date":  "2022-10-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:635637",
                         "date":  "2022-10-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:635629",
                         "date":  "2022-10-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:635639",
                         "date":  "2022-10-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Huracán",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:635634",
                         "date":  "2022-10-23",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:635628",
                         "date":  "2022-10-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:635635",
                         "date":  "2022-10-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:635638",
                         "date":  "2022-10-24",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:635516",
                         "date":  "2022-10-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:635633",
                         "date":  "2022-10-25",
+                        "competition":  "Liga Profesional 2022 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Lanús",
                         "score":  {

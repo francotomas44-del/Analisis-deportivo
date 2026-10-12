@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:694182",
                         "date":  "2024-05-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:694171",
                         "date":  "2024-05-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:694180",
                         "date":  "2024-05-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Platense",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:694177",
                         "date":  "2024-05-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:694176",
                         "date":  "2024-05-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:694178",
                         "date":  "2024-05-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:694181",
                         "date":  "2024-05-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:694174",
                         "date":  "2024-05-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:694183",
                         "date":  "2024-05-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:694173",
                         "date":  "2024-05-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:694179",
                         "date":  "2024-05-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:694172",
                         "date":  "2024-05-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:694175",
                         "date":  "2024-05-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:694184",
                         "date":  "2024-05-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:694190",
                         "date":  "2024-05-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:694194",
                         "date":  "2024-05-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:694188",
                         "date":  "2024-05-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:694191",
                         "date":  "2024-05-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:694186",
                         "date":  "2024-05-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:694192",
                         "date":  "2024-05-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Independiente",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:694185",
                         "date":  "2024-05-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:694197",
                         "date":  "2024-05-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:694187",
                         "date":  "2024-05-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:694189",
                         "date":  "2024-05-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:694196",
                         "date":  "2024-05-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:694193",
                         "date":  "2024-05-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:694195",
                         "date":  "2024-05-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:694198",
                         "date":  "2024-05-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:694203",
                         "date":  "2024-05-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:694205",
                         "date":  "2024-05-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:694201",
                         "date":  "2024-05-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:694208",
                         "date":  "2024-05-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:694199",
                         "date":  "2024-05-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:694209",
                         "date":  "2024-05-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:694202",
                         "date":  "2024-05-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:694206",
                         "date":  "2024-05-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:694210",
                         "date":  "2024-05-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:694204",
                         "date":  "2024-05-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:694207",
                         "date":  "2024-05-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:694211",
                         "date":  "2024-05-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:694200",
                         "date":  "2024-05-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Platense",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:694222",
                         "date":  "2024-06-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:694215",
                         "date":  "2024-06-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:694226",
                         "date":  "2024-06-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:694221",
                         "date":  "2024-06-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:694216",
                         "date":  "2024-06-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:694224",
                         "date":  "2024-06-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:694220",
                         "date":  "2024-06-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:694223",
                         "date":  "2024-06-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:694225",
                         "date":  "2024-06-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:694217",
                         "date":  "2024-06-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Independiente",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:694218",
                         "date":  "2024-06-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:694214",
                         "date":  "2024-06-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:694213",
                         "date":  "2024-06-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:694219",
                         "date":  "2024-06-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:694232",
                         "date":  "2024-06-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:694227",
                         "date":  "2024-06-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:694231",
                         "date":  "2024-06-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:694233",
                         "date":  "2024-06-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:694230",
                         "date":  "2024-06-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "River Plate",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:694237",
                         "date":  "2024-06-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:694239",
                         "date":  "2024-06-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:694235",
                         "date":  "2024-06-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:694236",
                         "date":  "2024-06-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:694229",
                         "date":  "2024-06-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:694238",
                         "date":  "2024-06-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:694234",
                         "date":  "2024-06-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:694240",
                         "date":  "2024-06-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:694228",
                         "date":  "2024-06-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:694241",
                         "date":  "2024-07-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:694248",
                         "date":  "2024-07-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:694249",
                         "date":  "2024-07-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:694243",
                         "date":  "2024-07-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:694244",
                         "date":  "2024-07-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:694252",
                         "date":  "2024-07-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:694253",
                         "date":  "2024-07-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:694250",
                         "date":  "2024-07-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:694242",
                         "date":  "2024-07-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:694251",
                         "date":  "2024-07-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:694245",
                         "date":  "2024-07-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Platense",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:694247",
                         "date":  "2024-07-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:694246",
                         "date":  "2024-07-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:694254",
                         "date":  "2024-07-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:694257",
                         "date":  "2024-07-23",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:694258",
                         "date":  "2024-07-23",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:694263",
                         "date":  "2024-07-23",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:694261",
                         "date":  "2024-07-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:694266",
                         "date":  "2024-07-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:694265",
                         "date":  "2024-07-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:694259",
                         "date":  "2024-07-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:694260",
                         "date":  "2024-07-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:694262",
                         "date":  "2024-07-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:694264",
                         "date":  "2024-07-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:694255",
                         "date":  "2024-07-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:694267",
                         "date":  "2024-07-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:694276",
                         "date":  "2024-07-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Independiente",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:694275",
                         "date":  "2024-07-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:694280",
                         "date":  "2024-07-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:694270",
                         "date":  "2024-07-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:694282",
                         "date":  "2024-07-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:694278",
                         "date":  "2024-07-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:694279",
                         "date":  "2024-07-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:694277",
                         "date":  "2024-07-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:694271",
                         "date":  "2024-07-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:694274",
                         "date":  "2024-07-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Platense",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:694273",
                         "date":  "2024-07-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:694281",
                         "date":  "2024-07-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:694269",
                         "date":  "2024-07-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:694272",
                         "date":  "2024-07-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:694268",
                         "date":  "2024-07-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:694256",
                         "date":  "2024-07-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:694287",
                         "date":  "2024-08-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:694294",
                         "date":  "2024-08-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:694296",
                         "date":  "2024-08-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:694284",
                         "date":  "2024-08-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:694289",
                         "date":  "2024-08-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:694295",
                         "date":  "2024-08-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:694285",
                         "date":  "2024-08-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:694283",
                         "date":  "2024-08-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:694291",
                         "date":  "2024-08-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:694290",
                         "date":  "2024-08-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:694288",
                         "date":  "2024-08-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:694292",
                         "date":  "2024-08-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:694293",
                         "date":  "2024-08-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:694286",
                         "date":  "2024-08-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Banfield",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:694304",
                         "date":  "2024-08-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:694309",
                         "date":  "2024-08-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Lanús",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:694306",
                         "date":  "2024-08-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:694307",
                         "date":  "2024-08-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:694298",
                         "date":  "2024-08-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:694301",
                         "date":  "2024-08-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:694300",
                         "date":  "2024-08-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:694310",
                         "date":  "2024-08-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:694299",
                         "date":  "2024-08-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Huracán",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:694308",
                         "date":  "2024-08-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:694297",
                         "date":  "2024-08-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:694305",
                         "date":  "2024-08-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:694303",
                         "date":  "2024-08-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:694302",
                         "date":  "2024-08-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:694317",
                         "date":  "2024-08-16",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:694316",
                         "date":  "2024-08-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:694315",
                         "date":  "2024-08-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:694314",
                         "date":  "2024-08-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:694323",
                         "date":  "2024-08-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:694319",
                         "date":  "2024-08-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:694320",
                         "date":  "2024-08-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:694312",
                         "date":  "2024-08-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:694311",
                         "date":  "2024-08-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:694318",
                         "date":  "2024-08-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Tigre",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:694321",
                         "date":  "2024-08-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:694322",
                         "date":  "2024-08-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:694313",
                         "date":  "2024-08-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:694324",
                         "date":  "2024-08-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Banfield",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:694337",
                         "date":  "2024-08-23",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Platense",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:694331",
                         "date":  "2024-08-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:694329",
                         "date":  "2024-08-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:694336",
                         "date":  "2024-08-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:694330",
                         "date":  "2024-08-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:694335",
                         "date":  "2024-08-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:694338",
                         "date":  "2024-08-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:694334",
                         "date":  "2024-08-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:694333",
                         "date":  "2024-08-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:694328",
                         "date":  "2024-08-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:694326",
                         "date":  "2024-08-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Banfield",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:694327",
                         "date":  "2024-08-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:694332",
                         "date":  "2024-08-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:694325",
                         "date":  "2024-08-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:694341",
                         "date":  "2024-08-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Lanús",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:694339",
                         "date":  "2024-08-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:694348",
                         "date":  "2024-08-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:694343",
                         "date":  "2024-08-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:694340",
                         "date":  "2024-08-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:694352",
                         "date":  "2024-08-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:694349",
                         "date":  "2024-09-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:694345",
                         "date":  "2024-09-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Tigre",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:694342",
                         "date":  "2024-09-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:694344",
                         "date":  "2024-09-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:694351",
                         "date":  "2024-09-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:694350",
                         "date":  "2024-09-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:694347",
                         "date":  "2024-09-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:694346",
                         "date":  "2024-09-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:694361",
                         "date":  "2024-09-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Huracán",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:694362",
                         "date":  "2024-09-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:694357",
                         "date":  "2024-09-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:694355",
                         "date":  "2024-09-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:694353",
                         "date":  "2024-09-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:694356",
                         "date":  "2024-09-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:694363",
                         "date":  "2024-09-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:694366",
                         "date":  "2024-09-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:694360",
                         "date":  "2024-09-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Platense",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:694359",
                         "date":  "2024-09-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:694354",
                         "date":  "2024-09-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:694365",
                         "date":  "2024-09-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:694364",
                         "date":  "2024-09-16",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:694358",
                         "date":  "2024-09-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:694371",
                         "date":  "2024-09-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:694379",
                         "date":  "2024-09-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:694369",
                         "date":  "2024-09-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:694374",
                         "date":  "2024-09-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:694375",
                         "date":  "2024-09-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:694370",
                         "date":  "2024-09-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:694372",
                         "date":  "2024-09-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Lanús",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:694373",
                         "date":  "2024-09-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:694378",
                         "date":  "2024-09-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:694367",
                         "date":  "2024-09-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:694376",
                         "date":  "2024-09-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:694377",
                         "date":  "2024-09-23",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:694368",
                         "date":  "2024-09-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:694380",
                         "date":  "2024-09-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:694384",
                         "date":  "2024-09-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:694394",
                         "date":  "2024-09-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:694392",
                         "date":  "2024-09-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:694385",
                         "date":  "2024-09-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:694386",
                         "date":  "2024-09-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Huracán",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:694382",
                         "date":  "2024-09-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:694383",
                         "date":  "2024-09-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:694390",
                         "date":  "2024-09-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:694393",
                         "date":  "2024-09-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:694381",
                         "date":  "2024-09-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:694389",
                         "date":  "2024-10-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Platense",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:694387",
                         "date":  "2024-10-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:694388",
                         "date":  "2024-10-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:694391",
                         "date":  "2024-10-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:694407",
                         "date":  "2024-10-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:694401",
                         "date":  "2024-10-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:694408",
                         "date":  "2024-10-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:694400",
                         "date":  "2024-10-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:694404",
                         "date":  "2024-10-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:694403",
                         "date":  "2024-10-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:694402",
                         "date":  "2024-10-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:694406",
                         "date":  "2024-10-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:694405",
                         "date":  "2024-10-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "River Plate",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:694398",
                         "date":  "2024-10-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:694397",
                         "date":  "2024-10-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:694396",
                         "date":  "2024-10-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:694399",
                         "date":  "2024-10-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:694395",
                         "date":  "2024-10-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Tigre",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:694212",
                         "date":  "2024-10-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:694412",
                         "date":  "2024-10-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:694420",
                         "date":  "2024-10-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:694411",
                         "date":  "2024-10-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:694415",
                         "date":  "2024-10-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:694417",
                         "date":  "2024-10-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:694410",
                         "date":  "2024-10-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:694416",
                         "date":  "2024-10-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:694421",
                         "date":  "2024-10-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:694422",
                         "date":  "2024-10-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:694409",
                         "date":  "2024-10-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:694413",
                         "date":  "2024-10-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:694418",
                         "date":  "2024-10-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:694414",
                         "date":  "2024-10-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:694419",
                         "date":  "2024-10-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:694425",
                         "date":  "2024-10-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:694427",
                         "date":  "2024-10-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "River Plate",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:694432",
                         "date":  "2024-10-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:694433",
                         "date":  "2024-10-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:694430",
                         "date":  "2024-10-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:694435",
                         "date":  "2024-10-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:694431",
                         "date":  "2024-10-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:694434",
                         "date":  "2024-10-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:694424",
                         "date":  "2024-10-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:694426",
                         "date":  "2024-10-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:694423",
                         "date":  "2024-10-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Lanús",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:694429",
                         "date":  "2024-10-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Tigre",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:694428",
                         "date":  "2024-10-28",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:694436",
                         "date":  "2024-10-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:694441",
                         "date":  "2024-10-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:694448",
                         "date":  "2024-10-31",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:694442",
                         "date":  "2024-11-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:694447",
                         "date":  "2024-11-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:694439",
                         "date":  "2024-11-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:694443",
                         "date":  "2024-11-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:694450",
                         "date":  "2024-11-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:694437",
                         "date":  "2024-11-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:694440",
                         "date":  "2024-11-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:694446",
                         "date":  "2024-11-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:694438",
                         "date":  "2024-11-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:694449",
                         "date":  "2024-11-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Platense",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:694445",
                         "date":  "2024-11-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:694444",
                         "date":  "2024-11-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:694451",
                         "date":  "2024-11-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:694458",
                         "date":  "2024-11-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:694456",
                         "date":  "2024-11-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:694462",
                         "date":  "2024-11-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:694457",
                         "date":  "2024-11-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:694460",
                         "date":  "2024-11-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Huracán",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:694453",
                         "date":  "2024-11-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:694452",
                         "date":  "2024-11-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:694454",
                         "date":  "2024-11-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:694459",
                         "date":  "2024-11-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:694463",
                         "date":  "2024-11-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:694455",
                         "date":  "2024-11-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:694461",
                         "date":  "2024-11-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:694464",
                         "date":  "2024-11-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:694478",
                         "date":  "2024-11-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:694469",
                         "date":  "2024-11-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:694475",
                         "date":  "2024-11-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:694471",
                         "date":  "2024-11-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:694467",
                         "date":  "2024-11-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:694474",
                         "date":  "2024-11-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:694470",
                         "date":  "2024-11-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:694473",
                         "date":  "2024-11-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:694476",
                         "date":  "2024-11-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:694468",
                         "date":  "2024-11-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:694472",
                         "date":  "2024-11-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Platense",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:694477",
                         "date":  "2024-11-11",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:694465",
                         "date":  "2024-11-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:694466",
                         "date":  "2024-11-12",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:694490",
                         "date":  "2024-11-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:694480",
                         "date":  "2024-11-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:694483",
                         "date":  "2024-11-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:694489",
                         "date":  "2024-11-18",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:694479",
                         "date":  "2024-11-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Huracán",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:694487",
                         "date":  "2024-11-19",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:694488",
                         "date":  "2024-11-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:694484",
                         "date":  "2024-11-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:694486",
                         "date":  "2024-11-20",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:694482",
                         "date":  "2024-11-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:694481",
                         "date":  "2024-11-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:694492",
                         "date":  "2024-11-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:694491",
                         "date":  "2024-11-21",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:694485",
                         "date":  "2024-11-22",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "River Plate",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:694503",
                         "date":  "2024-11-23",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:694497",
                         "date":  "2024-11-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:694494",
                         "date":  "2024-11-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Banfield",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:694495",
                         "date":  "2024-11-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:694496",
                         "date":  "2024-11-24",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:694498",
                         "date":  "2024-11-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:694493",
                         "date":  "2024-11-25",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:694505",
                         "date":  "2024-11-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:694506",
                         "date":  "2024-11-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:694499",
                         "date":  "2024-11-26",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:694502",
                         "date":  "2024-11-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Platense",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:694504",
                         "date":  "2024-11-27",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:694518",
                         "date":  "2024-11-29",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:694512",
                         "date":  "2024-11-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:694508",
                         "date":  "2024-11-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:694517",
                         "date":  "2024-11-30",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:694511",
                         "date":  "2024-12-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:694515",
                         "date":  "2024-12-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:694513",
                         "date":  "2024-12-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:694520",
                         "date":  "2024-12-01",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:694510",
                         "date":  "2024-12-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:694509",
                         "date":  "2024-12-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:694516",
                         "date":  "2024-12-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:694519",
                         "date":  "2024-12-02",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Huracán",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:694514",
                         "date":  "2024-12-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:694507",
                         "date":  "2024-12-03",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:694500",
                         "date":  "2024-12-04",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:694501",
                         "date":  "2024-12-05",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:694524",
                         "date":  "2024-12-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:694532",
                         "date":  "2024-12-06",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:694529",
                         "date":  "2024-12-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:694534",
                         "date":  "2024-12-07",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:694523",
                         "date":  "2024-12-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:694525",
                         "date":  "2024-12-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:694526",
                         "date":  "2024-12-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:694531",
                         "date":  "2024-12-08",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:694530",
                         "date":  "2024-12-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:694533",
                         "date":  "2024-12-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:694521",
                         "date":  "2024-12-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:694522",
                         "date":  "2024-12-09",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:694527",
                         "date":  "2024-12-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Platense",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:694528",
                         "date":  "2024-12-10",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:694537",
                         "date":  "2024-12-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:694540",
                         "date":  "2024-12-13",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:694536",
                         "date":  "2024-12-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:694546",
                         "date":  "2024-12-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:694542",
                         "date":  "2024-12-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:694545",
                         "date":  "2024-12-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:694538",
                         "date":  "2024-12-14",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:694544",
                         "date":  "2024-12-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:694539",
                         "date":  "2024-12-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:694543",
                         "date":  "2024-12-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:694541",
                         "date":  "2024-12-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:694547",
                         "date":  "2024-12-15",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:694535",
                         "date":  "2024-12-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:694548",
                         "date":  "2024-12-17",
+                        "competition":  "Liga Profesional 2024 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Deportivo Riestra",
                         "score":  {

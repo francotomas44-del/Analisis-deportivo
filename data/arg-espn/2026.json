@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:762774",
                         "date":  "2026-01-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:762776",
                         "date":  "2026-01-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:762788",
                         "date":  "2026-01-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Platense",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:762779",
                         "date":  "2026-01-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:762783",
                         "date":  "2026-01-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:762785",
                         "date":  "2026-01-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:762781",
                         "date":  "2026-01-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:762782",
                         "date":  "2026-01-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:762786",
                         "date":  "2026-01-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:762777",
                         "date":  "2026-01-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:762780",
                         "date":  "2026-01-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:762784",
                         "date":  "2026-01-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:762778",
                         "date":  "2026-01-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:762775",
                         "date":  "2026-01-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:762787",
                         "date":  "2026-01-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:762799",
                         "date":  "2026-01-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:762802",
                         "date":  "2026-01-27",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:762795",
                         "date":  "2026-01-27",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:762796",
                         "date":  "2026-01-27",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:762803",
                         "date":  "2026-01-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:762798",
                         "date":  "2026-01-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:762789",
                         "date":  "2026-01-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:762800",
                         "date":  "2026-01-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:762801",
                         "date":  "2026-01-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:762794",
                         "date":  "2026-01-29",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:762792",
                         "date":  "2026-01-29",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:762791",
                         "date":  "2026-01-29",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Tigre",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:762797",
                         "date":  "2026-01-29",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:762793",
                         "date":  "2026-01-30",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:762790",
                         "date":  "2026-01-30",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Banfield",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:762815",
                         "date":  "2026-01-31",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:762811",
                         "date":  "2026-01-31",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:762818",
                         "date":  "2026-02-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Huracán",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:762805",
                         "date":  "2026-02-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:762807",
                         "date":  "2026-02-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:762808",
                         "date":  "2026-02-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:762814",
                         "date":  "2026-02-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:762810",
                         "date":  "2026-02-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:762809",
                         "date":  "2026-02-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:762817",
                         "date":  "2026-02-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:762804",
                         "date":  "2026-02-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:762816",
                         "date":  "2026-02-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:762806",
                         "date":  "2026-02-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:762812",
                         "date":  "2026-02-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:762813",
                         "date":  "2026-02-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:762822",
                         "date":  "2026-02-07",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:762819",
                         "date":  "2026-02-07",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:762830",
                         "date":  "2026-02-07",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:762831",
                         "date":  "2026-02-07",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:762821",
                         "date":  "2026-02-08",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:762828",
                         "date":  "2026-02-08",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:762829",
                         "date":  "2026-02-08",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Independiente",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:762832",
                         "date":  "2026-02-08",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:762826",
                         "date":  "2026-02-08",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:762825",
                         "date":  "2026-02-09",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:762833",
                         "date":  "2026-02-09",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:762820",
                         "date":  "2026-02-09",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:762824",
                         "date":  "2026-02-09",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:762827",
                         "date":  "2026-02-09",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:762823",
                         "date":  "2026-02-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:762847",
                         "date":  "2026-02-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:762834",
                         "date":  "2026-02-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:762842",
                         "date":  "2026-02-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:762838",
                         "date":  "2026-02-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:762848",
                         "date":  "2026-02-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:762836",
                         "date":  "2026-02-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:762841",
                         "date":  "2026-02-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:762846",
                         "date":  "2026-02-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:762835",
                         "date":  "2026-02-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:762843",
                         "date":  "2026-02-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:762840",
                         "date":  "2026-02-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:762837",
                         "date":  "2026-02-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Platense",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:762844",
                         "date":  "2026-02-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:762845",
                         "date":  "2026-02-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:762839",
                         "date":  "2026-02-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:762853",
                         "date":  "2026-02-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:762855",
                         "date":  "2026-02-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:762851",
                         "date":  "2026-02-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:762858",
                         "date":  "2026-02-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:762856",
                         "date":  "2026-02-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:762860",
                         "date":  "2026-02-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:762857",
                         "date":  "2026-02-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Independiente",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:762859",
                         "date":  "2026-02-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:762863",
                         "date":  "2026-02-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:762854",
                         "date":  "2026-02-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Huracán",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:762852",
                         "date":  "2026-02-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Tigre",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:762861",
                         "date":  "2026-02-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:762862",
                         "date":  "2026-02-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:762850",
                         "date":  "2026-02-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:762865",
                         "date":  "2026-02-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:762868",
                         "date":  "2026-02-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:762874",
                         "date":  "2026-02-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:762873",
                         "date":  "2026-02-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:762877",
                         "date":  "2026-02-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Independiente",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:762872",
                         "date":  "2026-02-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:762876",
                         "date":  "2026-02-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:762864",
                         "date":  "2026-02-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:762870",
                         "date":  "2026-02-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:762866",
                         "date":  "2026-02-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:762869",
                         "date":  "2026-02-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:762875",
                         "date":  "2026-02-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Huracán",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:762867",
                         "date":  "2026-02-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:762882",
                         "date":  "2026-02-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:762887",
                         "date":  "2026-02-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:762892",
                         "date":  "2026-03-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:762890",
                         "date":  "2026-03-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:762879",
                         "date":  "2026-03-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:762889",
                         "date":  "2026-03-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:762883",
                         "date":  "2026-03-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Lanús",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:762893",
                         "date":  "2026-03-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:762884",
                         "date":  "2026-03-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Platense",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:762885",
                         "date":  "2026-03-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:762881",
                         "date":  "2026-03-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:762888",
                         "date":  "2026-03-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "River Plate",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:762891",
                         "date":  "2026-03-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:762886",
                         "date":  "2026-03-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:762880",
                         "date":  "2026-03-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:762878",
                         "date":  "2026-03-05",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:762918",
                         "date":  "2026-03-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:762914",
                         "date":  "2026-03-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:762920",
                         "date":  "2026-03-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Platense",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:762921",
                         "date":  "2026-03-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:762909",
                         "date":  "2026-03-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:762911",
                         "date":  "2026-03-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:762912",
                         "date":  "2026-03-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:762923",
                         "date":  "2026-03-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:762919",
                         "date":  "2026-03-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:762913",
                         "date":  "2026-03-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:762910",
                         "date":  "2026-03-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:762915",
                         "date":  "2026-03-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:762922",
                         "date":  "2026-03-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:762917",
                         "date":  "2026-03-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:762916",
                         "date":  "2026-03-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:762932",
                         "date":  "2026-03-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:762935",
                         "date":  "2026-03-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:762928",
                         "date":  "2026-03-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:762926",
                         "date":  "2026-03-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:762934",
                         "date":  "2026-03-15",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:762937",
                         "date":  "2026-03-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:762938",
                         "date":  "2026-03-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:762924",
                         "date":  "2026-03-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Huracán",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:762925",
                         "date":  "2026-03-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:762936",
                         "date":  "2026-03-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:762933",
                         "date":  "2026-03-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:762930",
                         "date":  "2026-03-17",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:762931",
                         "date":  "2026-03-17",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:762927",
                         "date":  "2026-03-18",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:762929",
                         "date":  "2026-03-18",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:762940",
                         "date":  "2026-03-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:762941",
                         "date":  "2026-03-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:762953",
                         "date":  "2026-03-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:762944",
                         "date":  "2026-03-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:762951",
                         "date":  "2026-03-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:762949",
                         "date":  "2026-03-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:762942",
                         "date":  "2026-03-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:762952",
                         "date":  "2026-03-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:762946",
                         "date":  "2026-03-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "River Plate",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:762943",
                         "date":  "2026-03-22",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:762939",
                         "date":  "2026-03-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Platense",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:762950",
                         "date":  "2026-03-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:762947",
                         "date":  "2026-03-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:762948",
                         "date":  "2026-03-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:762945",
                         "date":  "2026-03-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:762849",
                         "date":  "2026-03-27",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:762871",
                         "date":  "2026-03-31",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:762959",
                         "date":  "2026-04-01",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Platense",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:762955",
                         "date":  "2026-04-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:762964",
                         "date":  "2026-04-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:762963",
                         "date":  "2026-04-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:762956",
                         "date":  "2026-04-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:762965",
                         "date":  "2026-04-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:762962",
                         "date":  "2026-04-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:762967",
                         "date":  "2026-04-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:762957",
                         "date":  "2026-04-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:762961",
                         "date":  "2026-04-05",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:762968",
                         "date":  "2026-04-05",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:762960",
                         "date":  "2026-04-05",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:762954",
                         "date":  "2026-04-05",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:762966",
                         "date":  "2026-04-06",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:762958",
                         "date":  "2026-04-07",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:762969",
                         "date":  "2026-04-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:762972",
                         "date":  "2026-04-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:762980",
                         "date":  "2026-04-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:762981",
                         "date":  "2026-04-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:762970",
                         "date":  "2026-04-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:762973",
                         "date":  "2026-04-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:762978",
                         "date":  "2026-04-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:762977",
                         "date":  "2026-04-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:762982",
                         "date":  "2026-04-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Tigre",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:762983",
                         "date":  "2026-04-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:762976",
                         "date":  "2026-04-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:762971",
                         "date":  "2026-04-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:762975",
                         "date":  "2026-04-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:762979",
                         "date":  "2026-04-13",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:762974",
                         "date":  "2026-04-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:762984",
                         "date":  "2026-04-17",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:762991",
                         "date":  "2026-04-18",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:762994",
                         "date":  "2026-04-18",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:762993",
                         "date":  "2026-04-18",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:762987",
                         "date":  "2026-04-19",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:762986",
                         "date":  "2026-04-19",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:762995",
                         "date":  "2026-04-19",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:762996",
                         "date":  "2026-04-19",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:762998",
                         "date":  "2026-04-19",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:762989",
                         "date":  "2026-04-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:762988",
                         "date":  "2026-04-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:762990",
                         "date":  "2026-04-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Platense",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:762997",
                         "date":  "2026-04-20",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:762992",
                         "date":  "2026-04-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Lanús",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:762985",
                         "date":  "2026-04-21",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:763011",
                         "date":  "2026-04-23",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:763010",
                         "date":  "2026-04-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Independiente",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:763009",
                         "date":  "2026-04-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:763005",
                         "date":  "2026-04-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:763012",
                         "date":  "2026-04-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:763013",
                         "date":  "2026-04-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:763008",
                         "date":  "2026-04-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:763002",
                         "date":  "2026-04-25",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Tigre",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:763001",
                         "date":  "2026-04-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:763006",
                         "date":  "2026-04-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:763000",
                         "date":  "2026-04-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:763004",
                         "date":  "2026-04-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:762999",
                         "date":  "2026-04-26",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Banfield",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:763003",
                         "date":  "2026-04-27",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:763007",
                         "date":  "2026-04-28",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:762905",
                         "date":  "2026-05-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:762896",
                         "date":  "2026-05-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:762907",
                         "date":  "2026-05-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:762901",
                         "date":  "2026-05-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:762902",
                         "date":  "2026-05-02",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:762897",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:762904",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:762906",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:762894",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:762898",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:762900",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:762899",
                         "date":  "2026-05-03",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:762895",
                         "date":  "2026-05-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:762903",
                         "date":  "2026-05-04",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:762908",
                         "date":  "2026-05-05",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:401871432",
                         "date":  "2026-05-09",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:401871433",
                         "date":  "2026-05-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:401871435",
                         "date":  "2026-05-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:401871431",
                         "date":  "2026-05-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:401871434",
                         "date":  "2026-05-10",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:401871436",
                         "date":  "2026-05-11",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:401872290",
                         "date":  "2026-05-12",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:401872546",
                         "date":  "2026-05-14",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:401872650",
                         "date":  "2026-05-16",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:401873392",
                         "date":  "2026-05-24",
+                        "competition":  "Torneo Apertura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:401841435",
                         "date":  "2026-07-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:401841437",
                         "date":  "2026-07-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:401841448",
                         "date":  "2026-07-24",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:401841444",
                         "date":  "2026-07-24",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:401841439",
                         "date":  "2026-07-24",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:401841436",
                         "date":  "2026-07-24",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:401841443",
                         "date":  "2026-07-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Banfield",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:401841440",
                         "date":  "2026-07-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:401841446",
                         "date":  "2026-07-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Tigre",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:401841441",
                         "date":  "2026-07-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:401841438",
                         "date":  "2026-07-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:401841442",
                         "date":  "2026-07-26",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:401841434",
                         "date":  "2026-07-26",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:401841445",
                         "date":  "2026-07-26",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:401841447",
                         "date":  "2026-07-26",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:401841462",
                         "date":  "2026-07-28",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:401841452",
                         "date":  "2026-07-28",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:401841449",
                         "date":  "2026-07-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:401841453",
                         "date":  "2026-07-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:401841461",
                         "date":  "2026-07-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:401841458",
                         "date":  "2026-07-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:401841457",
                         "date":  "2026-07-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:401841454",
                         "date":  "2026-07-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:401841455",
                         "date":  "2026-07-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Huracán",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:401841451",
                         "date":  "2026-07-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:401841459",
                         "date":  "2026-07-31",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:401841456",
                         "date":  "2026-07-31",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:401841466",
                         "date":  "2026-08-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Banfield",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:401841464",
                         "date":  "2026-08-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:401841469",
                         "date":  "2026-08-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:401841478",
                         "date":  "2026-08-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:401841475",
                         "date":  "2026-08-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:401841470",
                         "date":  "2026-08-02",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:401841467",
                         "date":  "2026-08-02",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:401841473",
                         "date":  "2026-08-02",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:401841476",
                         "date":  "2026-08-02",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:401841472",
                         "date":  "2026-08-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:401841477",
                         "date":  "2026-08-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:401841474",
                         "date":  "2026-08-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:401841465",
                         "date":  "2026-08-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:401841468",
                         "date":  "2026-08-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:401841471",
                         "date":  "2026-08-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:401841460",
                         "date":  "2026-08-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:401841463",
                         "date":  "2026-08-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:401841450",
                         "date":  "2026-08-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:401841491",
                         "date":  "2026-08-07",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:401841493",
                         "date":  "2026-08-08",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:401841484",
                         "date":  "2026-08-08",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:401841480",
                         "date":  "2026-08-08",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:401841488",
                         "date":  "2026-08-08",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "River Plate",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:401841482",
                         "date":  "2026-08-08",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:401841486",
                         "date":  "2026-08-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Platense",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:401841492",
                         "date":  "2026-08-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:401841490",
                         "date":  "2026-08-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:401841481",
                         "date":  "2026-08-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:401841479",
                         "date":  "2026-08-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:401841485",
                         "date":  "2026-08-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:401841483",
                         "date":  "2026-08-10",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:401841487",
                         "date":  "2026-08-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:401841489",
                         "date":  "2026-08-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:401841504",
                         "date":  "2026-08-14",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:401841494",
                         "date":  "2026-08-15",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Tigre",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:401841502",
                         "date":  "2026-08-15",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:401841499",
                         "date":  "2026-08-15",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:401841496",
                         "date":  "2026-08-15",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:401841506",
                         "date":  "2026-08-15",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:401841505",
                         "date":  "2026-08-16",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:401841501",
                         "date":  "2026-08-16",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Huracán",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:401841503",
                         "date":  "2026-08-16",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:401841508",
                         "date":  "2026-08-16",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:401841497",
                         "date":  "2026-08-16",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:401841498",
                         "date":  "2026-08-17",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:401841507",
                         "date":  "2026-08-17",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:401841495",
                         "date":  "2026-08-17",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:401841500",
                         "date":  "2026-08-18",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:401841522",
                         "date":  "2026-08-21",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:401841511",
                         "date":  "2026-08-21",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:401841523",
                         "date":  "2026-08-22",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:401841512",
                         "date":  "2026-08-22",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:401841514",
                         "date":  "2026-08-22",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:401841513",
                         "date":  "2026-08-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:401841516",
                         "date":  "2026-08-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:401841509",
                         "date":  "2026-08-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Platense",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:401841519",
                         "date":  "2026-08-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:401841510",
                         "date":  "2026-08-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:401841518",
                         "date":  "2026-08-23",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:401841517",
                         "date":  "2026-08-24",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:401841521",
                         "date":  "2026-08-24",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:401841515",
                         "date":  "2026-08-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:401841520",
                         "date":  "2026-08-25",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:401841525",
                         "date":  "2026-08-28",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:401841527",
                         "date":  "2026-08-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:401841529",
                         "date":  "2026-08-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:401841535",
                         "date":  "2026-08-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:401841531",
                         "date":  "2026-08-29",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:401841538",
                         "date":  "2026-08-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:401841536",
                         "date":  "2026-08-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:401841526",
                         "date":  "2026-08-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:401841524",
                         "date":  "2026-08-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:401841532",
                         "date":  "2026-08-30",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:401841533",
                         "date":  "2026-08-31",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:401841528",
                         "date":  "2026-08-31",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Platense",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:401841530",
                         "date":  "2026-08-31",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:401841534",
                         "date":  "2026-09-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:401841537",
                         "date":  "2026-09-01",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:401841541",
                         "date":  "2026-09-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:401841543",
                         "date":  "2026-09-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Huracán",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:401841547",
                         "date":  "2026-09-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:401841545",
                         "date":  "2026-09-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Banfield",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:401841553",
                         "date":  "2026-09-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Tigre",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:401841539",
                         "date":  "2026-09-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:401841551",
                         "date":  "2026-09-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:401841540",
                         "date":  "2026-09-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:401841550",
                         "date":  "2026-09-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:401841542",
                         "date":  "2026-09-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Independiente",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:401841546",
                         "date":  "2026-09-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:401841549",
                         "date":  "2026-09-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:401841548",
                         "date":  "2026-09-07",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:401841544",
                         "date":  "2026-09-07",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:401841552",
                         "date":  "2026-09-08",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:401841565",
                         "date":  "2026-09-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:401841556",
                         "date":  "2026-09-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:401841557",
                         "date":  "2026-09-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:401841554",
                         "date":  "2026-09-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Platense",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:401841567",
                         "date":  "2026-09-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:401841559",
                         "date":  "2026-09-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "River Plate",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:401841563",
                         "date":  "2026-09-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:401841564",
                         "date":  "2026-09-13",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:401841562",
                         "date":  "2026-09-13",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:401841560",
                         "date":  "2026-09-13",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:401841568",
                         "date":  "2026-09-13",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:401841561",
                         "date":  "2026-09-14",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4591,6 +4973,7 @@
                     {
                         "id":  "espn:401841558",
                         "date":  "2026-09-14",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4603,6 +4986,7 @@
                     {
                         "id":  "espn:401841555",
                         "date":  "2026-09-14",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Lanús",
                         "score":  {
@@ -4615,6 +4999,7 @@
                     {
                         "id":  "espn:401841566",
                         "date":  "2026-09-15",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -4627,6 +5012,7 @@
                     {
                         "id":  "espn:401841572",
                         "date":  "2026-09-18",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4639,6 +5025,7 @@
                     {
                         "id":  "espn:401841580",
                         "date":  "2026-09-19",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4651,6 +5038,7 @@
                     {
                         "id":  "espn:401841574",
                         "date":  "2026-09-19",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia (Mendoza)",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -4663,6 +5051,7 @@
                     {
                         "id":  "espn:401841573",
                         "date":  "2026-09-19",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -4675,6 +5064,7 @@
                     {
                         "id":  "espn:401841576",
                         "date":  "2026-09-19",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -4687,6 +5077,7 @@
                     {
                         "id":  "espn:401841579",
                         "date":  "2026-09-19",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Huracán",
                         "score":  {
@@ -4699,6 +5090,7 @@
                     {
                         "id":  "espn:401841575",
                         "date":  "2026-09-20",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4711,6 +5103,7 @@
                     {
                         "id":  "espn:401841577",
                         "date":  "2026-09-20",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4723,6 +5116,7 @@
                     {
                         "id":  "espn:401841581",
                         "date":  "2026-09-20",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4735,6 +5129,7 @@
                     {
                         "id":  "espn:401841578",
                         "date":  "2026-09-20",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4747,6 +5142,7 @@
                     {
                         "id":  "espn:401841571",
                         "date":  "2026-09-20",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -4759,6 +5155,7 @@
                     {
                         "id":  "espn:401841570",
                         "date":  "2026-09-21",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -4771,6 +5168,7 @@
                     {
                         "id":  "espn:401841569",
                         "date":  "2026-09-21",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4783,6 +5181,7 @@
                     {
                         "id":  "espn:401841583",
                         "date":  "2026-09-21",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -4795,6 +5194,7 @@
                     {
                         "id":  "espn:401841582",
                         "date":  "2026-09-22",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4807,6 +5207,7 @@
                     {
                         "id":  "espn:401841588",
                         "date":  "2026-10-02",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -4819,6 +5220,7 @@
                     {
                         "id":  "espn:401841594",
                         "date":  "2026-10-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4831,6 +5233,7 @@
                     {
                         "id":  "espn:401841587",
                         "date":  "2026-10-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4843,6 +5246,7 @@
                     {
                         "id":  "espn:401841593",
                         "date":  "2026-10-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4855,6 +5259,7 @@
                     {
                         "id":  "espn:401841596",
                         "date":  "2026-10-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4867,6 +5272,7 @@
                     {
                         "id":  "espn:401841586",
                         "date":  "2026-10-03",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -4879,6 +5285,7 @@
                     {
                         "id":  "espn:401841589",
                         "date":  "2026-10-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4891,6 +5298,7 @@
                     {
                         "id":  "espn:401841584",
                         "date":  "2026-10-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4903,6 +5311,7 @@
                     {
                         "id":  "espn:401841597",
                         "date":  "2026-10-04",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -4915,6 +5324,7 @@
                     {
                         "id":  "espn:401841591",
                         "date":  "2026-10-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes de Río Cuarto",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4927,6 +5337,7 @@
                     {
                         "id":  "espn:401841592",
                         "date":  "2026-10-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4939,6 +5350,7 @@
                     {
                         "id":  "espn:401841590",
                         "date":  "2026-10-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia (Mendoza)",
                         "score":  {
@@ -4951,6 +5363,7 @@
                     {
                         "id":  "espn:401841585",
                         "date":  "2026-10-05",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Platense",
                         "score":  {
@@ -4963,6 +5376,7 @@
                     {
                         "id":  "espn:401841595",
                         "date":  "2026-10-06",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4975,6 +5389,7 @@
                     {
                         "id":  "espn:401841612",
                         "date":  "2026-10-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4987,6 +5402,7 @@
                     {
                         "id":  "espn:401841609",
                         "date":  "2026-10-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4999,6 +5415,7 @@
                     {
                         "id":  "espn:401841607",
                         "date":  "2026-10-09",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -5011,6 +5428,7 @@
                     {
                         "id":  "espn:401841613",
                         "date":  "2026-10-10",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -5023,6 +5441,7 @@
                     {
                         "id":  "espn:401841611",
                         "date":  "2026-10-10",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -5035,6 +5454,7 @@
                     {
                         "id":  "espn:401841610",
                         "date":  "2026-10-10",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -5047,6 +5467,7 @@
                     {
                         "id":  "espn:401841599",
                         "date":  "2026-10-10",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -5059,6 +5480,7 @@
                     {
                         "id":  "espn:401841603",
                         "date":  "2026-10-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes de Río Cuarto",
                         "score":  {
@@ -5071,6 +5493,7 @@
                     {
                         "id":  "espn:401841601",
                         "date":  "2026-10-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -5083,6 +5506,7 @@
                     {
                         "id":  "espn:401841605",
                         "date":  "2026-10-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -5095,6 +5519,7 @@
                     {
                         "id":  "espn:401841602",
                         "date":  "2026-10-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -5107,6 +5532,7 @@
                     {
                         "id":  "espn:401841604",
                         "date":  "2026-10-11",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -5119,11 +5545,25 @@
                     {
                         "id":  "espn:401841600",
                         "date":  "2026-10-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
                                       "ft":  [
                                                  0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841606",
+                        "date":  "2026-10-12",
+                        "competition":  "Torneo Clausura 2026 (Argentina)",
+                        "team1":  "Lanús",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
                                                  0
                                              ]
                                   }

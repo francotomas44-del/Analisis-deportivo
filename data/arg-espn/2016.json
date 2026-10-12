@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:440584",
                         "date":  "2016-02-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:440581",
                         "date":  "2016-02-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:440585",
                         "date":  "2016-02-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:440588",
                         "date":  "2016-02-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Olimpo",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:440592",
                         "date":  "2016-02-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:440591",
                         "date":  "2016-02-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:440587",
                         "date":  "2016-02-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:440583",
                         "date":  "2016-02-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:440593",
                         "date":  "2016-02-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:440582",
                         "date":  "2016-02-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:440580",
                         "date":  "2016-02-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:440590",
                         "date":  "2016-02-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:440586",
                         "date":  "2016-02-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:440589",
                         "date":  "2016-02-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Quilmes",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:440594",
                         "date":  "2016-02-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:440567",
                         "date":  "2016-02-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:440579",
                         "date":  "2016-02-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Temperley",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:440568",
                         "date":  "2016-02-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:440569",
                         "date":  "2016-02-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:440565",
                         "date":  "2016-02-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:440571",
                         "date":  "2016-02-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:440578",
                         "date":  "2016-02-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:440577",
                         "date":  "2016-02-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:440574",
                         "date":  "2016-02-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:440570",
                         "date":  "2016-02-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:440573",
                         "date":  "2016-02-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:440575",
                         "date":  "2016-02-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Patronato",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:440566",
                         "date":  "2016-02-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:440576",
                         "date":  "2016-02-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:440558",
                         "date":  "2016-02-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:440561",
                         "date":  "2016-02-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:440564",
                         "date":  "2016-02-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:440552",
                         "date":  "2016-02-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:440559",
                         "date":  "2016-02-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:440560",
                         "date":  "2016-02-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:440551",
                         "date":  "2016-02-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:440554",
                         "date":  "2016-02-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:440555",
                         "date":  "2016-02-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:440562",
                         "date":  "2016-02-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Tigre",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:440553",
                         "date":  "2016-02-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:440557",
                         "date":  "2016-02-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Lanús",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:440563",
                         "date":  "2016-02-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:440556",
                         "date":  "2016-02-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:440549",
                         "date":  "2016-02-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:440542",
                         "date":  "2016-02-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Olimpo",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:440541",
                         "date":  "2016-02-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:440536",
                         "date":  "2016-02-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:440538",
                         "date":  "2016-02-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:440537",
                         "date":  "2016-02-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:440544",
                         "date":  "2016-02-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:440545",
                         "date":  "2016-02-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:440543",
                         "date":  "2016-02-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Patronato",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:440547",
                         "date":  "2016-02-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:440546",
                         "date":  "2016-02-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:440548",
                         "date":  "2016-02-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Temperley",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:440539",
                         "date":  "2016-02-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:440535",
                         "date":  "2016-02-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:440534",
                         "date":  "2016-02-26",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:440528",
                         "date":  "2016-02-27",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:440521",
                         "date":  "2016-02-27",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:440530",
                         "date":  "2016-02-27",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Quilmes",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:440520",
                         "date":  "2016-02-27",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:440532",
                         "date":  "2016-02-27",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:440524",
                         "date":  "2016-02-28",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:440531",
                         "date":  "2016-02-28",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:440523",
                         "date":  "2016-02-28",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:440522",
                         "date":  "2016-02-28",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:440525",
                         "date":  "2016-02-28",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:440529",
                         "date":  "2016-02-29",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Lanús",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:440527",
                         "date":  "2016-02-29",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:440526",
                         "date":  "2016-03-01",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:440533",
                         "date":  "2016-03-01",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Tigre",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:440512",
                         "date":  "2016-03-04",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:440509",
                         "date":  "2016-03-04",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:440519",
                         "date":  "2016-03-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:440511",
                         "date":  "2016-03-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:440516",
                         "date":  "2016-03-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:440510",
                         "date":  "2016-03-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:440517",
                         "date":  "2016-03-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:440515",
                         "date":  "2016-03-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:440508",
                         "date":  "2016-03-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:440507",
                         "date":  "2016-03-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:440506",
                         "date":  "2016-03-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:440518",
                         "date":  "2016-03-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Temperley",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:440514",
                         "date":  "2016-03-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:440505",
                         "date":  "2016-03-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:440513",
                         "date":  "2016-03-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Patronato",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:440499",
                         "date":  "2016-03-11",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:440493",
                         "date":  "2016-03-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:440498",
                         "date":  "2016-03-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Huracán",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:440494",
                         "date":  "2016-03-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:440495",
                         "date":  "2016-03-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:440503",
                         "date":  "2016-03-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Tigre",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:440492",
                         "date":  "2016-03-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:440491",
                         "date":  "2016-03-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:440496",
                         "date":  "2016-03-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:440502",
                         "date":  "2016-03-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:440490",
                         "date":  "2016-03-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:440501",
                         "date":  "2016-03-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:440497",
                         "date":  "2016-03-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:440504",
                         "date":  "2016-03-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:440572",
                         "date":  "2016-03-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:440485",
                         "date":  "2016-03-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:440479",
                         "date":  "2016-03-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:440478",
                         "date":  "2016-03-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:440489",
                         "date":  "2016-03-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:440488",
                         "date":  "2016-03-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:440475",
                         "date":  "2016-03-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:440481",
                         "date":  "2016-03-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:440482",
                         "date":  "2016-03-19",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Patronato",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:440484",
                         "date":  "2016-03-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:440476",
                         "date":  "2016-03-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:440487",
                         "date":  "2016-03-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Temperley",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:440477",
                         "date":  "2016-03-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:440486",
                         "date":  "2016-03-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:440483",
                         "date":  "2016-03-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:440480",
                         "date":  "2016-03-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:440550",
                         "date":  "2016-03-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:440500",
                         "date":  "2016-03-27",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:440540",
                         "date":  "2016-03-29",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:440469",
                         "date":  "2016-04-01",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Huracán",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:440473",
                         "date":  "2016-04-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:440467",
                         "date":  "2016-04-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:440474",
                         "date":  "2016-04-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:440463",
                         "date":  "2016-04-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:440466",
                         "date":  "2016-04-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:440472",
                         "date":  "2016-04-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "River Plate",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:440460",
                         "date":  "2016-04-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:440464",
                         "date":  "2016-04-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:440461",
                         "date":  "2016-04-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:440462",
                         "date":  "2016-04-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:440468",
                         "date":  "2016-04-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:440465",
                         "date":  "2016-04-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:440471",
                         "date":  "2016-04-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:440470",
                         "date":  "2016-04-05",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:440452",
                         "date":  "2016-04-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Patronato",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:440454",
                         "date":  "2016-04-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:440455",
                         "date":  "2016-04-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:440457",
                         "date":  "2016-04-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Temperley",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:440456",
                         "date":  "2016-04-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:440451",
                         "date":  "2016-04-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:440449",
                         "date":  "2016-04-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:440450",
                         "date":  "2016-04-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:440453",
                         "date":  "2016-04-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:440459",
                         "date":  "2016-04-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:440448",
                         "date":  "2016-04-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:440447",
                         "date":  "2016-04-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:440458",
                         "date":  "2016-04-11",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:440445",
                         "date":  "2016-04-11",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:440446",
                         "date":  "2016-04-12",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:440436",
                         "date":  "2016-04-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:440439",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:440432",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:440437",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:440440",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Huracán",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:440430",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:440444",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:440431",
                         "date":  "2016-04-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:440443",
                         "date":  "2016-04-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:440438",
                         "date":  "2016-04-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:440441",
                         "date":  "2016-04-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:440435",
                         "date":  "2016-04-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:440442",
                         "date":  "2016-04-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "River Plate",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:440433",
                         "date":  "2016-04-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Banfield",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:440434",
                         "date":  "2016-04-18",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:440424",
                         "date":  "2016-04-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Patronato",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:440415",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:440416",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:440420",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:440421",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:440423",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:440427",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:440418",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:440422",
                         "date":  "2016-04-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:440426",
                         "date":  "2016-04-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:440425",
                         "date":  "2016-04-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:440419",
                         "date":  "2016-04-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:440417",
                         "date":  "2016-04-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:440428",
                         "date":  "2016-04-25",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:440429",
                         "date":  "2016-04-26",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Temperley",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:440413",
                         "date":  "2016-04-29",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:440406",
                         "date":  "2016-04-29",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:440407",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:440401",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:440410",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:440408",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:440414",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:440400",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:440409",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:440411",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:440403",
                         "date":  "2016-04-30",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:440404",
                         "date":  "2016-05-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:440405",
                         "date":  "2016-05-02",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Lanús",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:440402",
                         "date":  "2016-05-03",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:440412",
                         "date":  "2016-05-04",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:440386",
                         "date":  "2016-05-06",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:440393",
                         "date":  "2016-05-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:440391",
                         "date":  "2016-05-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:440398",
                         "date":  "2016-05-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Temperley",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:440390",
                         "date":  "2016-05-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:440396",
                         "date":  "2016-05-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:440392",
                         "date":  "2016-05-07",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:440397",
                         "date":  "2016-05-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:440385",
                         "date":  "2016-05-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:440388",
                         "date":  "2016-05-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:440394",
                         "date":  "2016-05-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:440399",
                         "date":  "2016-05-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Tigre",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:440389",
                         "date":  "2016-05-08",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:440387",
                         "date":  "2016-05-09",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Banfield",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:440395",
                         "date":  "2016-05-10",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Patronato",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:440383",
                         "date":  "2016-05-13",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:440381",
                         "date":  "2016-05-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:440379",
                         "date":  "2016-05-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:440380",
                         "date":  "2016-05-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:440372",
                         "date":  "2016-05-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:440374",
                         "date":  "2016-05-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:440370",
                         "date":  "2016-05-14",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:440375",
                         "date":  "2016-05-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:440382",
                         "date":  "2016-05-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Tigre",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:440376",
                         "date":  "2016-05-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:440371",
                         "date":  "2016-05-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:440378",
                         "date":  "2016-05-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:440373",
                         "date":  "2016-05-15",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:440377",
                         "date":  "2016-05-16",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:440384",
                         "date":  "2016-05-17",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:440366",
                         "date":  "2016-05-20",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:440355",
                         "date":  "2016-05-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:440356",
                         "date":  "2016-05-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:440368",
                         "date":  "2016-05-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:440369",
                         "date":  "2016-05-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Temperley",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:440359",
                         "date":  "2016-05-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Independiente",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:440365",
                         "date":  "2016-05-21",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Patronato",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:440358",
                         "date":  "2016-05-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:440363",
                         "date":  "2016-05-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:440361",
                         "date":  "2016-05-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:440357",
                         "date":  "2016-05-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:440362",
                         "date":  "2016-05-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:440364",
                         "date":  "2016-05-22",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Huracán",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:440367",
                         "date":  "2016-05-23",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:440360",
                         "date":  "2016-05-24",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:448823",
                         "date":  "2016-05-28",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:448810",
                         "date":  "2016-05-29",
+                        "competition":  "Campeonato de Primera División 2016 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:462904",
                         "date":  "2016-08-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:462912",
                         "date":  "2016-08-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Huracán",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:462918",
                         "date":  "2016-08-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:462910",
                         "date":  "2016-08-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:462917",
                         "date":  "2016-08-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:462905",
                         "date":  "2016-08-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:462916",
                         "date":  "2016-08-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:462911",
                         "date":  "2016-08-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:462913",
                         "date":  "2016-08-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:462908",
                         "date":  "2016-08-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:462914",
                         "date":  "2016-08-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:462906",
                         "date":  "2016-08-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:462907",
                         "date":  "2016-08-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:462909",
                         "date":  "2016-08-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:462915",
                         "date":  "2016-08-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Patronato",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:462893",
                         "date":  "2016-09-09",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:462896",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:462895",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Lanús",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:462892",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:462897",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:462889",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:462900",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:462894",
                         "date":  "2016-09-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:462903",
                         "date":  "2016-09-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:462899",
                         "date":  "2016-09-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:462901",
                         "date":  "2016-09-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:462891",
                         "date":  "2016-09-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:462898",
                         "date":  "2016-09-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:462890",
                         "date":  "2016-09-12",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:462902",
                         "date":  "2016-09-13",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Temperley",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:462886",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:462887",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:462888",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:462884",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Patronato",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:462876",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Banfield",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:462878",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Independiente",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:462882",
                         "date":  "2016-09-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:462880",
                         "date":  "2016-09-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:462874",
                         "date":  "2016-09-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:462883",
                         "date":  "2016-09-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:462877",
                         "date":  "2016-09-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:462885",
                         "date":  "2016-09-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:462879",
                         "date":  "2016-09-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:462881",
                         "date":  "2016-09-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:462875",
                         "date":  "2016-09-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:462865",
                         "date":  "2016-09-24",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:462860",
                         "date":  "2016-09-24",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:462869",
                         "date":  "2016-09-24",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:462867",
                         "date":  "2016-09-24",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:462873",
                         "date":  "2016-09-24",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Tigre",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:462871",
                         "date":  "2016-09-24",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:462872",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Temperley",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:462862",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:462861",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:462870",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:462866",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:462859",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:462868",
                         "date":  "2016-09-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "River Plate",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:462864",
                         "date":  "2016-09-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:462863",
                         "date":  "2016-09-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:462853",
                         "date":  "2016-09-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:462857",
                         "date":  "2016-10-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:462844",
                         "date":  "2016-10-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:462856",
                         "date":  "2016-10-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:462852",
                         "date":  "2016-10-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:462854",
                         "date":  "2016-10-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Patronato",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:462858",
                         "date":  "2016-10-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:462845",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:467626",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:462849",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:462855",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:462848",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:462847",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:462846",
                         "date":  "2016-10-02",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:462850",
                         "date":  "2016-10-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Huracán",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:462831",
                         "date":  "2016-10-14",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Banfield",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:462829",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:462832",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:462836",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:462842",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Temperley",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:462838",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:462841",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:462830",
                         "date":  "2016-10-15",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:462834",
                         "date":  "2016-10-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:462840",
                         "date":  "2016-10-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:462843",
                         "date":  "2016-10-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Tigre",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:462833",
                         "date":  "2016-10-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:462839",
                         "date":  "2016-10-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:462837",
                         "date":  "2016-10-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "River Plate",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:462835",
                         "date":  "2016-10-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:462824",
                         "date":  "2016-10-21",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:462819",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:462822",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Lanús",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:462816",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:462818",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Independiente",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:462825",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Patronato",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:462814",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:462815",
                         "date":  "2016-10-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:462821",
                         "date":  "2016-10-23",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:462828",
                         "date":  "2016-10-23",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:462823",
                         "date":  "2016-10-23",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:462827",
                         "date":  "2016-10-23",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:462820",
                         "date":  "2016-10-23",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:462817",
                         "date":  "2016-10-23",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:462826",
                         "date":  "2016-10-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:462800",
                         "date":  "2016-10-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:462801",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Banfield",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:462811",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:462804",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:462812",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Temperley",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:462803",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:462807",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:462805",
                         "date":  "2016-10-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:462813",
                         "date":  "2016-10-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:462799",
                         "date":  "2016-10-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:462808",
                         "date":  "2016-10-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:462802",
                         "date":  "2016-10-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:462806",
                         "date":  "2016-10-30",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:462809",
                         "date":  "2016-10-31",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:462810",
                         "date":  "2016-11-01",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:462795",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:462791",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:462790",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:462793",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Lanús",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:462784",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:462794",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:462798",
                         "date":  "2016-11-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:462785",
                         "date":  "2016-11-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:462792",
                         "date":  "2016-11-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:462786",
                         "date":  "2016-11-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:462796",
                         "date":  "2016-11-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Patronato",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:462788",
                         "date":  "2016-11-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:462787",
                         "date":  "2016-11-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:462789",
                         "date":  "2016-11-07",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:462797",
                         "date":  "2016-11-09",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:462773",
                         "date":  "2016-11-13",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:462771",
                         "date":  "2016-11-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:462772",
                         "date":  "2016-11-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:462783",
                         "date":  "2016-11-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Tigre",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:462770",
                         "date":  "2016-11-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4591,6 +4973,7 @@
                     {
                         "id":  "espn:462782",
                         "date":  "2016-11-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Temperley",
                         "score":  {
@@ -4603,6 +4986,7 @@
                     {
                         "id":  "espn:462775",
                         "date":  "2016-11-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4615,6 +4999,7 @@
                     {
                         "id":  "espn:462780",
                         "date":  "2016-11-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4627,6 +5012,7 @@
                     {
                         "id":  "espn:462778",
                         "date":  "2016-11-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4639,6 +5025,7 @@
                     {
                         "id":  "espn:462769",
                         "date":  "2016-11-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4651,6 +5038,7 @@
                     {
                         "id":  "espn:462777",
                         "date":  "2016-11-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4663,6 +5051,7 @@
                     {
                         "id":  "espn:462781",
                         "date":  "2016-11-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4675,6 +5064,7 @@
                     {
                         "id":  "espn:462776",
                         "date":  "2016-11-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -4687,6 +5077,7 @@
                     {
                         "id":  "espn:462774",
                         "date":  "2016-11-21",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4699,6 +5090,7 @@
                     {
                         "id":  "espn:462779",
                         "date":  "2016-11-22",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4711,6 +5103,7 @@
                     {
                         "id":  "espn:462762",
                         "date":  "2016-11-25",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Lanús",
                         "score":  {
@@ -4723,6 +5116,7 @@
                     {
                         "id":  "espn:462754",
                         "date":  "2016-11-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4735,6 +5129,7 @@
                     {
                         "id":  "espn:462763",
                         "date":  "2016-11-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4747,6 +5142,7 @@
                     {
                         "id":  "espn:462766",
                         "date":  "2016-11-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4759,6 +5155,7 @@
                     {
                         "id":  "espn:462759",
                         "date":  "2016-11-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4771,6 +5168,7 @@
                     {
                         "id":  "espn:462756",
                         "date":  "2016-11-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4783,6 +5181,7 @@
                     {
                         "id":  "espn:462764",
                         "date":  "2016-11-26",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4795,6 +5194,7 @@
                     {
                         "id":  "espn:462768",
                         "date":  "2016-11-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4807,6 +5207,7 @@
                     {
                         "id":  "espn:462761",
                         "date":  "2016-11-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Huracán",
                         "score":  {
@@ -4819,6 +5220,7 @@
                     {
                         "id":  "espn:462760",
                         "date":  "2016-11-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4831,6 +5233,7 @@
                     {
                         "id":  "espn:462757",
                         "date":  "2016-11-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4843,6 +5246,7 @@
                     {
                         "id":  "espn:462758",
                         "date":  "2016-11-27",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -4855,6 +5259,7 @@
                     {
                         "id":  "espn:462765",
                         "date":  "2016-11-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Patronato",
                         "score":  {
@@ -4867,6 +5272,7 @@
                     {
                         "id":  "espn:462767",
                         "date":  "2016-11-28",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4879,6 +5285,7 @@
                     {
                         "id":  "espn:462755",
                         "date":  "2016-11-29",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4891,6 +5298,7 @@
                     {
                         "id":  "espn:462750",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4903,6 +5311,7 @@
                     {
                         "id":  "espn:462742",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4915,6 +5324,7 @@
                     {
                         "id":  "espn:462743",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4927,6 +5337,7 @@
                     {
                         "id":  "espn:462741",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -4939,6 +5350,7 @@
                     {
                         "id":  "espn:462739",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4951,6 +5363,7 @@
                     {
                         "id":  "espn:462740",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4963,6 +5376,7 @@
                     {
                         "id":  "espn:462748",
                         "date":  "2016-12-03",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4975,6 +5389,7 @@
                     {
                         "id":  "espn:462751",
                         "date":  "2016-12-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4987,6 +5402,7 @@
                     {
                         "id":  "espn:462747",
                         "date":  "2016-12-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4999,6 +5415,7 @@
                     {
                         "id":  "espn:462745",
                         "date":  "2016-12-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -5011,6 +5428,7 @@
                     {
                         "id":  "espn:462753",
                         "date":  "2016-12-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -5023,6 +5441,7 @@
                     {
                         "id":  "espn:462752",
                         "date":  "2016-12-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Temperley",
                         "score":  {
@@ -5035,6 +5454,7 @@
                     {
                         "id":  "espn:462746",
                         "date":  "2016-12-04",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -5047,6 +5467,7 @@
                     {
                         "id":  "espn:462749",
                         "date":  "2016-12-05",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -5059,6 +5480,7 @@
                     {
                         "id":  "espn:462744",
                         "date":  "2016-12-06",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -5071,6 +5493,7 @@
                     {
                         "id":  "espn:462735",
                         "date":  "2016-12-09",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Patronato",
                         "score":  {
@@ -5083,6 +5506,7 @@
                     {
                         "id":  "espn:462737",
                         "date":  "2016-12-09",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Tigre",
                         "score":  {
@@ -5095,6 +5519,7 @@
                     {
                         "id":  "espn:462730",
                         "date":  "2016-12-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Temperley",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -5107,6 +5532,7 @@
                     {
                         "id":  "espn:462738",
                         "date":  "2016-12-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -5119,6 +5545,7 @@
                     {
                         "id":  "espn:462733",
                         "date":  "2016-12-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -5131,6 +5558,7 @@
                     {
                         "id":  "espn:462725",
                         "date":  "2016-12-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -5143,6 +5571,7 @@
                     {
                         "id":  "espn:462726",
                         "date":  "2016-12-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -5155,6 +5584,7 @@
                     {
                         "id":  "espn:462734",
                         "date":  "2016-12-10",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Olimpo",
                         "score":  {
@@ -5167,6 +5597,7 @@
                     {
                         "id":  "espn:462727",
                         "date":  "2016-12-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -5179,6 +5610,7 @@
                     {
                         "id":  "espn:462731",
                         "date":  "2016-12-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -5191,6 +5623,7 @@
                     {
                         "id":  "espn:462729",
                         "date":  "2016-12-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -5203,6 +5636,7 @@
                     {
                         "id":  "espn:462728",
                         "date":  "2016-12-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -5215,6 +5649,7 @@
                     {
                         "id":  "espn:462732",
                         "date":  "2016-12-11",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -5227,6 +5662,7 @@
                     {
                         "id":  "espn:462736",
                         "date":  "2016-12-12",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Quilmes",
                         "score":  {
@@ -5239,6 +5675,7 @@
                     {
                         "id":  "espn:462724",
                         "date":  "2016-12-13",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -5251,6 +5688,7 @@
                     {
                         "id":  "espn:462721",
                         "date":  "2016-12-16",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -5263,6 +5701,7 @@
                     {
                         "id":  "espn:462714",
                         "date":  "2016-12-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -5275,6 +5714,7 @@
                     {
                         "id":  "espn:462713",
                         "date":  "2016-12-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -5287,6 +5727,7 @@
                     {
                         "id":  "espn:462709",
                         "date":  "2016-12-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -5299,6 +5740,7 @@
                     {
                         "id":  "espn:462716",
                         "date":  "2016-12-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -5311,6 +5753,7 @@
                     {
                         "id":  "espn:462715",
                         "date":  "2016-12-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Patronato",
                         "score":  {
@@ -5323,6 +5766,7 @@
                     {
                         "id":  "espn:462711",
                         "date":  "2016-12-17",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -5335,6 +5779,7 @@
                     {
                         "id":  "espn:462718",
                         "date":  "2016-12-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -5347,6 +5792,7 @@
                     {
                         "id":  "espn:462719",
                         "date":  "2016-12-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -5359,6 +5805,7 @@
                     {
                         "id":  "espn:462723",
                         "date":  "2016-12-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -5371,6 +5818,7 @@
                     {
                         "id":  "espn:462712",
                         "date":  "2016-12-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -5383,6 +5831,7 @@
                     {
                         "id":  "espn:462720",
                         "date":  "2016-12-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -5395,6 +5844,7 @@
                     {
                         "id":  "espn:462717",
                         "date":  "2016-12-18",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "River Plate",
                         "score":  {
@@ -5407,6 +5857,7 @@
                     {
                         "id":  "espn:462722",
                         "date":  "2016-12-19",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Temperley",
                         "score":  {
@@ -5419,6 +5870,7 @@
                     {
                         "id":  "espn:462710",
                         "date":  "2016-12-20",
+                        "competition":  "Campeonato de Primera División 20162017 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Atlético Tucumán",
                         "score":  {

@@ -423,7 +423,9 @@
 
   /* ---------- carga masiva (base histórica) ----------
      Eficiente: usa índices por nombre en memoria (O(n) en total, no O(n²)).
-     rows: [{date, competition, home, away, homeGoals, awayGoals, externalId}] */
+     rows: [{date, competition, league, home, away, homeGoals, awayGoals, externalId}]
+     `competition` es el torneo del partido; `league` (opcional) es la liga a la
+     que se asigna el equipo nuevo (por defecto, la competición). */
   function importBulk(rows, source) {
     var byName = {};
     state.teams.forEach(function (t) { var k = norm(t.name); if (!(k in byName)) byName[k] = t; });
@@ -438,10 +440,11 @@
       var hk = norm(r.home), ak = norm(r.away);
       if (!hk || !ak || hk === ak) continue;
 
+      var lg = r.league || r.competition || "";
       var ht = byName[hk];
-      if (!ht) { ht = { id: uid(), name: String(r.home).trim(), league: r.competition || "", formedYear: null, external: {} }; state.teams.push(ht); byName[hk] = ht; teamsAdded++; }
+      if (!ht) { ht = { id: uid(), name: String(r.home).trim(), league: lg, formedYear: null, external: {} }; state.teams.push(ht); byName[hk] = ht; teamsAdded++; }
       var at = byName[ak];
-      if (!at) { at = { id: uid(), name: String(r.away).trim(), league: r.competition || "", formedYear: null, external: {} }; state.teams.push(at); byName[ak] = at; teamsAdded++; }
+      if (!at) { at = { id: uid(), name: String(r.away).trim(), league: lg, formedYear: null, external: {} }; state.teams.push(at); byName[ak] = at; teamsAdded++; }
 
       var comp = null;
       if (r.competition) {

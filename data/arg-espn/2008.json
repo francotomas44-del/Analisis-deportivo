@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:235436",
                         "date":  "2008-02-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:235434",
                         "date":  "2008-02-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:235437",
                         "date":  "2008-02-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:235429",
                         "date":  "2008-02-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:235432",
                         "date":  "2008-02-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:235433",
                         "date":  "2008-02-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Olimpo",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:235430",
                         "date":  "2008-02-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:235438",
                         "date":  "2008-02-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:235431",
                         "date":  "2008-02-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Huracán",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:235435",
                         "date":  "2008-02-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:235440",
                         "date":  "2008-02-15",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:235442",
                         "date":  "2008-02-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:235446",
                         "date":  "2008-02-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:235439",
                         "date":  "2008-02-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:235443",
                         "date":  "2008-02-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:235445",
                         "date":  "2008-02-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Tigre",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:235441",
                         "date":  "2008-02-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:235444",
                         "date":  "2008-02-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Lanús",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:235448",
                         "date":  "2008-02-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:235447",
                         "date":  "2008-02-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:235456",
                         "date":  "2008-02-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:235452",
                         "date":  "2008-02-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:235455",
                         "date":  "2008-02-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:235449",
                         "date":  "2008-02-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:235454",
                         "date":  "2008-02-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:235450",
                         "date":  "2008-02-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:235451",
                         "date":  "2008-02-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:235457",
                         "date":  "2008-02-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:235453",
                         "date":  "2008-02-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Olimpo",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:235458",
                         "date":  "2008-02-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:235466",
                         "date":  "2008-02-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:235462",
                         "date":  "2008-03-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:235465",
                         "date":  "2008-03-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:235461",
                         "date":  "2008-03-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:235467",
                         "date":  "2008-03-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:235464",
                         "date":  "2008-03-02",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Lanús",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:235459",
                         "date":  "2008-03-02",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:235460",
                         "date":  "2008-03-02",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:235468",
                         "date":  "2008-03-02",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:235477",
                         "date":  "2008-03-07",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:235472",
                         "date":  "2008-03-07",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:235474",
                         "date":  "2008-03-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:235471",
                         "date":  "2008-03-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:235469",
                         "date":  "2008-03-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:235473",
                         "date":  "2008-03-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Olimpo",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:235476",
                         "date":  "2008-03-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:235470",
                         "date":  "2008-03-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:235475",
                         "date":  "2008-03-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:235478",
                         "date":  "2008-03-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:235486",
                         "date":  "2008-03-14",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:235483",
                         "date":  "2008-03-15",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:235485",
                         "date":  "2008-03-15",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:235487",
                         "date":  "2008-03-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:235479",
                         "date":  "2008-03-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:235480",
                         "date":  "2008-03-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:235488",
                         "date":  "2008-03-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:235482",
                         "date":  "2008-03-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:235463",
                         "date":  "2008-03-19",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:235497",
                         "date":  "2008-03-21",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:235495",
                         "date":  "2008-03-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:235494",
                         "date":  "2008-03-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:235493",
                         "date":  "2008-03-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:235489",
                         "date":  "2008-03-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:235498",
                         "date":  "2008-03-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:235492",
                         "date":  "2008-03-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:235491",
                         "date":  "2008-03-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:235490",
                         "date":  "2008-03-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Independiente",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:235496",
                         "date":  "2008-03-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:235503",
                         "date":  "2008-03-28",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:235499",
                         "date":  "2008-03-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:235501",
                         "date":  "2008-03-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:235507",
                         "date":  "2008-03-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:235506",
                         "date":  "2008-03-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:235504",
                         "date":  "2008-03-30",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:235500",
                         "date":  "2008-03-30",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:235505",
                         "date":  "2008-03-30",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:235502",
                         "date":  "2008-03-30",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:235508",
                         "date":  "2008-03-30",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:235510",
                         "date":  "2008-04-04",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:235511",
                         "date":  "2008-04-05",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Huracán",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:235509",
                         "date":  "2008-04-05",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:235516",
                         "date":  "2008-04-05",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:235514",
                         "date":  "2008-04-05",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:235512",
                         "date":  "2008-04-06",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:235515",
                         "date":  "2008-04-06",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:235513",
                         "date":  "2008-04-06",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:235518",
                         "date":  "2008-04-06",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:235517",
                         "date":  "2008-04-06",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:235524",
                         "date":  "2008-04-11",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:235527",
                         "date":  "2008-04-12",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:235521",
                         "date":  "2008-04-12",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:235519",
                         "date":  "2008-04-12",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:235520",
                         "date":  "2008-04-12",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Independiente",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:235526",
                         "date":  "2008-04-13",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:235525",
                         "date":  "2008-04-13",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:235528",
                         "date":  "2008-04-13",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:235522",
                         "date":  "2008-04-13",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:235523",
                         "date":  "2008-04-13",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:235534",
                         "date":  "2008-04-18",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:235533",
                         "date":  "2008-04-19",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:235535",
                         "date":  "2008-04-19",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:235536",
                         "date":  "2008-04-19",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:235530",
                         "date":  "2008-04-20",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:235537",
                         "date":  "2008-04-20",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:235531",
                         "date":  "2008-04-20",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:235538",
                         "date":  "2008-04-20",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:235532",
                         "date":  "2008-04-20",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:235529",
                         "date":  "2008-04-20",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:235481",
                         "date":  "2008-04-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:235484",
                         "date":  "2008-04-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Lanús",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:223407",
                         "date":  "2008-04-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:235546",
                         "date":  "2008-04-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:235541",
                         "date":  "2008-04-26",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:235545",
                         "date":  "2008-04-26",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:235540",
                         "date":  "2008-04-26",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Independiente",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:235542",
                         "date":  "2008-04-26",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:235544",
                         "date":  "2008-04-27",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:235547",
                         "date":  "2008-04-27",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:235548",
                         "date":  "2008-04-27",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:235543",
                         "date":  "2008-04-27",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:235539",
                         "date":  "2008-04-27",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:235552",
                         "date":  "2008-05-02",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:235555",
                         "date":  "2008-05-03",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:235554",
                         "date":  "2008-05-03",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:235556",
                         "date":  "2008-05-03",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:235553",
                         "date":  "2008-05-03",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:235549",
                         "date":  "2008-05-04",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:235558",
                         "date":  "2008-05-04",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:235550",
                         "date":  "2008-05-04",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:235557",
                         "date":  "2008-05-04",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:235551",
                         "date":  "2008-05-04",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:235565",
                         "date":  "2008-05-09",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Tigre",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:235562",
                         "date":  "2008-05-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:235563",
                         "date":  "2008-05-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:235564",
                         "date":  "2008-05-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Lanús",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:235566",
                         "date":  "2008-05-10",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:235567",
                         "date":  "2008-05-11",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:235568",
                         "date":  "2008-05-11",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:235559",
                         "date":  "2008-05-11",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:235561",
                         "date":  "2008-05-11",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Huracán",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:235560",
                         "date":  "2008-05-11",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:235576",
                         "date":  "2008-05-16",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:235573",
                         "date":  "2008-05-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:235571",
                         "date":  "2008-05-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:235569",
                         "date":  "2008-05-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:235570",
                         "date":  "2008-05-17",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:235572",
                         "date":  "2008-05-18",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:235577",
                         "date":  "2008-05-18",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:235578",
                         "date":  "2008-05-18",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:235575",
                         "date":  "2008-05-18",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:235574",
                         "date":  "2008-05-18",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Lanús",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:235587",
                         "date":  "2008-05-23",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:235585",
                         "date":  "2008-05-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Tigre",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:235581",
                         "date":  "2008-05-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Huracán",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:235584",
                         "date":  "2008-05-24",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Banfield",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:235579",
                         "date":  "2008-05-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:235586",
                         "date":  "2008-05-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:235588",
                         "date":  "2008-05-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:235580",
                         "date":  "2008-05-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:235582",
                         "date":  "2008-05-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:235583",
                         "date":  "2008-05-26",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:235595",
                         "date":  "2008-05-30",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:235594",
                         "date":  "2008-05-31",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:235590",
                         "date":  "2008-05-31",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:235593",
                         "date":  "2008-05-31",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:235596",
                         "date":  "2008-06-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:235598",
                         "date":  "2008-06-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:235589",
                         "date":  "2008-06-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:235591",
                         "date":  "2008-06-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:235597",
                         "date":  "2008-06-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:235592",
                         "date":  "2008-06-01",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:235599",
                         "date":  "2008-06-06",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:235605",
                         "date":  "2008-06-07",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:235601",
                         "date":  "2008-06-07",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:235606",
                         "date":  "2008-06-07",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:235607",
                         "date":  "2008-06-07",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:235604",
                         "date":  "2008-06-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:235600",
                         "date":  "2008-06-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:235602",
                         "date":  "2008-06-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:235603",
                         "date":  "2008-06-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:235608",
                         "date":  "2008-06-08",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:235616",
                         "date":  "2008-06-21",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:235614",
                         "date":  "2008-06-21",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:235613",
                         "date":  "2008-06-21",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:235611",
                         "date":  "2008-06-21",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:235612",
                         "date":  "2008-06-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:235618",
                         "date":  "2008-06-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:235610",
                         "date":  "2008-06-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:235617",
                         "date":  "2008-06-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:235609",
                         "date":  "2008-06-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:235615",
                         "date":  "2008-06-22",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:241772",
                         "date":  "2008-06-25",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:241770",
                         "date":  "2008-06-26",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:241771",
                         "date":  "2008-06-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:241773",
                         "date":  "2008-06-29",
+                        "competition":  "Torneo Clausura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:245934",
                         "date":  "2008-08-08",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Huracán",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:245936",
                         "date":  "2008-08-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:245942",
                         "date":  "2008-08-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:245940",
                         "date":  "2008-08-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:245939",
                         "date":  "2008-08-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:245943",
                         "date":  "2008-08-10",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:245938",
                         "date":  "2008-08-10",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:245937",
                         "date":  "2008-08-10",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:245935",
                         "date":  "2008-08-10",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:245941",
                         "date":  "2008-08-10",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:245946",
                         "date":  "2008-08-15",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:245952",
                         "date":  "2008-08-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:245953",
                         "date":  "2008-08-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:245948",
                         "date":  "2008-08-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:245944",
                         "date":  "2008-08-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:245945",
                         "date":  "2008-08-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:245950",
                         "date":  "2008-08-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:245947",
                         "date":  "2008-08-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:245951",
                         "date":  "2008-08-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:245959",
                         "date":  "2008-08-22",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:245956",
                         "date":  "2008-08-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:245960",
                         "date":  "2008-08-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:245958",
                         "date":  "2008-08-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:245962",
                         "date":  "2008-08-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:245963",
                         "date":  "2008-08-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:245955",
                         "date":  "2008-08-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:245957",
                         "date":  "2008-08-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:245961",
                         "date":  "2008-08-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:245954",
                         "date":  "2008-08-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:245964",
                         "date":  "2008-08-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:245970",
                         "date":  "2008-08-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:245965",
                         "date":  "2008-08-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:245968",
                         "date":  "2008-08-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:245969",
                         "date":  "2008-08-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:245973",
                         "date":  "2008-08-31",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:245966",
                         "date":  "2008-08-31",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:245971",
                         "date":  "2008-08-31",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:245967",
                         "date":  "2008-08-31",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:245972",
                         "date":  "2008-08-31",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:245978",
                         "date":  "2008-09-12",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Huracán",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:245980",
                         "date":  "2008-09-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:245979",
                         "date":  "2008-09-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:245976",
                         "date":  "2008-09-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:245981",
                         "date":  "2008-09-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:245975",
                         "date":  "2008-09-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:245974",
                         "date":  "2008-09-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:245983",
                         "date":  "2008-09-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:245977",
                         "date":  "2008-09-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:245982",
                         "date":  "2008-09-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:245988",
                         "date":  "2008-09-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:245984",
                         "date":  "2008-09-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:245990",
                         "date":  "2008-09-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:245991",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:245986",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:245985",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:245987",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:245989",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:245993",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:245992",
                         "date":  "2008-09-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:246001",
                         "date":  "2008-09-19",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:246000",
                         "date":  "2008-09-20",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Huracán",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:246002",
                         "date":  "2008-09-20",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:245998",
                         "date":  "2008-09-20",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:246003",
                         "date":  "2008-09-20",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:245995",
                         "date":  "2008-09-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:245997",
                         "date":  "2008-09-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:245994",
                         "date":  "2008-09-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "River Plate",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:245996",
                         "date":  "2008-09-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:245999",
                         "date":  "2008-09-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:245949",
                         "date":  "2008-09-25",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:246004",
                         "date":  "2008-09-26",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:246009",
                         "date":  "2008-09-27",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:246008",
                         "date":  "2008-09-27",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:246011",
                         "date":  "2008-09-27",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:246012",
                         "date":  "2008-09-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:246007",
                         "date":  "2008-09-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:246010",
                         "date":  "2008-09-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:246006",
                         "date":  "2008-09-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:246013",
                         "date":  "2008-09-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:246005",
                         "date":  "2008-09-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:246015",
                         "date":  "2008-10-03",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:246014",
                         "date":  "2008-10-04",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Banfield",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:246023",
                         "date":  "2008-10-04",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:246020",
                         "date":  "2008-10-04",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:246019",
                         "date":  "2008-10-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:246018",
                         "date":  "2008-10-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:246021",
                         "date":  "2008-10-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:246017",
                         "date":  "2008-10-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:246022",
                         "date":  "2008-10-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:246016",
                         "date":  "2008-10-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:246033",
                         "date":  "2008-10-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:246026",
                         "date":  "2008-10-18",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:246028",
                         "date":  "2008-10-18",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:246031",
                         "date":  "2008-10-18",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:246024",
                         "date":  "2008-10-18",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Lanús",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:246032",
                         "date":  "2008-10-19",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:246030",
                         "date":  "2008-10-19",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:246027",
                         "date":  "2008-10-19",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:246025",
                         "date":  "2008-10-19",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:246029",
                         "date":  "2008-10-19",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:246034",
                         "date":  "2008-10-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:246040",
                         "date":  "2008-10-24",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:246043",
                         "date":  "2008-10-25",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:246039",
                         "date":  "2008-10-25",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:246041",
                         "date":  "2008-10-25",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Tigre",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:246042",
                         "date":  "2008-10-25",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:246037",
                         "date":  "2008-10-26",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:246035",
                         "date":  "2008-10-26",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:246036",
                         "date":  "2008-10-26",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:246038",
                         "date":  "2008-10-26",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "River Plate",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:246046",
                         "date":  "2008-10-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:246044",
                         "date":  "2008-10-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:246045",
                         "date":  "2008-10-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Huracán",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:246053",
                         "date":  "2008-10-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:246050",
                         "date":  "2008-10-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:246049",
                         "date":  "2008-10-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:246047",
                         "date":  "2008-10-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:246051",
                         "date":  "2008-10-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:246048",
                         "date":  "2008-10-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:246052",
                         "date":  "2008-10-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:246062",
                         "date":  "2008-10-31",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:246063",
                         "date":  "2008-11-01",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:246061",
                         "date":  "2008-11-01",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:246060",
                         "date":  "2008-11-01",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:246054",
                         "date":  "2008-11-01",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:246056",
                         "date":  "2008-11-02",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:246059",
                         "date":  "2008-11-02",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:246057",
                         "date":  "2008-11-02",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:246058",
                         "date":  "2008-11-02",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Banfield",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:246055",
                         "date":  "2008-11-02",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:246069",
                         "date":  "2008-11-07",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:246070",
                         "date":  "2008-11-07",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:246068",
                         "date":  "2008-11-08",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:246065",
                         "date":  "2008-11-08",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:246073",
                         "date":  "2008-11-08",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:246066",
                         "date":  "2008-11-08",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:246071",
                         "date":  "2008-11-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:246072",
                         "date":  "2008-11-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:246067",
                         "date":  "2008-11-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Huracán",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:246064",
                         "date":  "2008-11-09",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:246080",
                         "date":  "2008-11-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:246076",
                         "date":  "2008-11-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:246081",
                         "date":  "2008-11-15",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:246078",
                         "date":  "2008-11-15",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:246074",
                         "date":  "2008-11-15",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:246079",
                         "date":  "2008-11-15",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:246075",
                         "date":  "2008-11-15",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:246077",
                         "date":  "2008-11-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:246083",
                         "date":  "2008-11-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:246082",
                         "date":  "2008-11-16",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:246092",
                         "date":  "2008-11-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:246090",
                         "date":  "2008-11-21",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:246085",
                         "date":  "2008-11-22",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:246089",
                         "date":  "2008-11-22",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:246088",
                         "date":  "2008-11-22",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:246091",
                         "date":  "2008-11-22",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:246087",
                         "date":  "2008-11-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:246093",
                         "date":  "2008-11-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:246084",
                         "date":  "2008-11-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:246086",
                         "date":  "2008-11-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Tigre",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:246102",
                         "date":  "2008-11-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:246096",
                         "date":  "2008-11-28",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:246098",
                         "date":  "2008-11-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:246100",
                         "date":  "2008-11-29",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:246103",
                         "date":  "2008-11-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:246094",
                         "date":  "2008-11-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "River Plate",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:246097",
                         "date":  "2008-11-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:246099",
                         "date":  "2008-11-30",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:246101",
                         "date":  "2008-12-02",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:246113",
                         "date":  "2008-12-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:246110",
                         "date":  "2008-12-05",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:246105",
                         "date":  "2008-12-06",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:246104",
                         "date":  "2008-12-06",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:246107",
                         "date":  "2008-12-06",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:246112",
                         "date":  "2008-12-06",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Huracán",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:246106",
                         "date":  "2008-12-07",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:246109",
                         "date":  "2008-12-07",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:246108",
                         "date":  "2008-12-07",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:246111",
                         "date":  "2008-12-07",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:246095",
                         "date":  "2008-12-10",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:246119",
                         "date":  "2008-12-12",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:246121",
                         "date":  "2008-12-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:246116",
                         "date":  "2008-12-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:246118",
                         "date":  "2008-12-13",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:246123",
                         "date":  "2008-12-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:246117",
                         "date":  "2008-12-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:246122",
                         "date":  "2008-12-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4591,6 +4973,7 @@
                     {
                         "id":  "espn:246120",
                         "date":  "2008-12-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -4603,6 +4986,7 @@
                     {
                         "id":  "espn:246114",
                         "date":  "2008-12-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -4615,6 +4999,7 @@
                     {
                         "id":  "espn:246115",
                         "date":  "2008-12-14",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4627,6 +5012,7 @@
                     {
                         "id":  "espn:259204",
                         "date":  "2008-12-17",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4639,6 +5025,7 @@
                     {
                         "id":  "espn:259205",
                         "date":  "2008-12-20",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4651,6 +5038,7 @@
                     {
                         "id":  "espn:259206",
                         "date":  "2008-12-23",
+                        "competition":  "Torneo Apertura 2008 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Tigre",
                         "score":  {

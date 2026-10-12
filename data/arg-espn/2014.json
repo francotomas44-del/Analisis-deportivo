@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:387013",
                         "date":  "2014-02-07",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:387012",
                         "date":  "2014-02-07",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:387011",
                         "date":  "2014-02-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:387010",
                         "date":  "2014-02-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:387009",
                         "date":  "2014-02-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "All Boys",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:386541",
                         "date":  "2014-02-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:386545",
                         "date":  "2014-02-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:386540",
                         "date":  "2014-02-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:386542",
                         "date":  "2014-02-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:387008",
                         "date":  "2014-02-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:387323",
                         "date":  "2014-02-14",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Quilmes",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:387320",
                         "date":  "2014-02-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:387321",
                         "date":  "2014-02-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:387322",
                         "date":  "2014-02-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Olimpo",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:386535",
                         "date":  "2014-02-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:386528",
                         "date":  "2014-02-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:386532",
                         "date":  "2014-02-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:386529",
                         "date":  "2014-02-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:386536",
                         "date":  "2014-02-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:386530",
                         "date":  "2014-02-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:387775",
                         "date":  "2014-02-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:387774",
                         "date":  "2014-02-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "All Boys",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:387776",
                         "date":  "2014-02-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:386521",
                         "date":  "2014-02-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:386526",
                         "date":  "2014-02-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:386524",
                         "date":  "2014-02-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:386523",
                         "date":  "2014-02-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:387773",
                         "date":  "2014-02-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:387772",
                         "date":  "2014-02-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:387771",
                         "date":  "2014-02-21",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:387770",
                         "date":  "2014-02-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:387768",
                         "date":  "2014-02-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Olimpo",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:387769",
                         "date":  "2014-02-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:386509",
                         "date":  "2014-02-23",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:386513",
                         "date":  "2014-02-23",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Quilmes",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:386511",
                         "date":  "2014-02-23",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:386515",
                         "date":  "2014-02-24",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:387767",
                         "date":  "2014-02-24",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:387765",
                         "date":  "2014-02-24",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:387766",
                         "date":  "2014-02-25",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:386503",
                         "date":  "2014-02-28",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:386498",
                         "date":  "2014-02-28",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "All Boys",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:386501",
                         "date":  "2014-03-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:386500",
                         "date":  "2014-03-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:386499",
                         "date":  "2014-03-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:386502",
                         "date":  "2014-03-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:386504",
                         "date":  "2014-03-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Lanús",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:386507",
                         "date":  "2014-03-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Tigre",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:386506",
                         "date":  "2014-03-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:386505",
                         "date":  "2014-03-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:386491",
                         "date":  "2014-03-04",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:386489",
                         "date":  "2014-03-04",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:386488",
                         "date":  "2014-03-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:386490",
                         "date":  "2014-03-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:386494",
                         "date":  "2014-03-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:386492",
                         "date":  "2014-03-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:386497",
                         "date":  "2014-03-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:386493",
                         "date":  "2014-03-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Quilmes",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:386496",
                         "date":  "2014-03-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:386495",
                         "date":  "2014-03-07",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "River Plate",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:386484",
                         "date":  "2014-03-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:386483",
                         "date":  "2014-03-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:386480",
                         "date":  "2014-03-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:386481",
                         "date":  "2014-03-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:386486",
                         "date":  "2014-03-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:386485",
                         "date":  "2014-03-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:386479",
                         "date":  "2014-03-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:386482",
                         "date":  "2014-03-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:386478",
                         "date":  "2014-03-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "All Boys",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:386487",
                         "date":  "2014-03-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:386477",
                         "date":  "2014-03-14",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:386471",
                         "date":  "2014-03-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:386472",
                         "date":  "2014-03-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Olimpo",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:386469",
                         "date":  "2014-03-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:386470",
                         "date":  "2014-03-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:386476",
                         "date":  "2014-03-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:386474",
                         "date":  "2014-03-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:386468",
                         "date":  "2014-03-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:386475",
                         "date":  "2014-03-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:386473",
                         "date":  "2014-03-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Quilmes",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:386460",
                         "date":  "2014-03-21",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:386467",
                         "date":  "2014-03-21",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:386461",
                         "date":  "2014-03-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:386465",
                         "date":  "2014-03-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:386458",
                         "date":  "2014-03-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "All Boys",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:386463",
                         "date":  "2014-03-22",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:386459",
                         "date":  "2014-03-23",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:386466",
                         "date":  "2014-03-23",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:386464",
                         "date":  "2014-03-23",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:386462",
                         "date":  "2014-03-24",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:386451",
                         "date":  "2014-03-28",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:386452",
                         "date":  "2014-03-28",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:386448",
                         "date":  "2014-03-29",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:386450",
                         "date":  "2014-03-29",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:386453",
                         "date":  "2014-03-29",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:386454",
                         "date":  "2014-03-29",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:386456",
                         "date":  "2014-03-30",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:386449",
                         "date":  "2014-03-30",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:386455",
                         "date":  "2014-03-30",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:386457",
                         "date":  "2014-03-31",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:386441",
                         "date":  "2014-04-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:386447",
                         "date":  "2014-04-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:386440",
                         "date":  "2014-04-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:386443",
                         "date":  "2014-04-01",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:386444",
                         "date":  "2014-04-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Lanús",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:386438",
                         "date":  "2014-04-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "All Boys",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:386442",
                         "date":  "2014-04-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:386445",
                         "date":  "2014-04-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:386446",
                         "date":  "2014-04-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Tigre",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:386439",
                         "date":  "2014-04-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:386429",
                         "date":  "2014-04-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:386433",
                         "date":  "2014-04-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:386435",
                         "date":  "2014-04-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:386432",
                         "date":  "2014-04-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:386436",
                         "date":  "2014-04-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:386437",
                         "date":  "2014-04-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Tigre",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:386431",
                         "date":  "2014-04-06",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:386434",
                         "date":  "2014-04-07",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:386428",
                         "date":  "2014-04-07",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:386430",
                         "date":  "2014-04-08",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:386418",
                         "date":  "2014-04-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "All Boys",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:386421",
                         "date":  "2014-04-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:386423",
                         "date":  "2014-04-12",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:386427",
                         "date":  "2014-04-12",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:386426",
                         "date":  "2014-04-12",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:386424",
                         "date":  "2014-04-12",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:386419",
                         "date":  "2014-04-13",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:386425",
                         "date":  "2014-04-13",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:386420",
                         "date":  "2014-04-13",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:386422",
                         "date":  "2014-04-14",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:386408",
                         "date":  "2014-04-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:386413",
                         "date":  "2014-04-15",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:386415",
                         "date":  "2014-04-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:386414",
                         "date":  "2014-04-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:386410",
                         "date":  "2014-04-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:386416",
                         "date":  "2014-04-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:386409",
                         "date":  "2014-04-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:386412",
                         "date":  "2014-04-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:386411",
                         "date":  "2014-04-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:386402",
                         "date":  "2014-04-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:386405",
                         "date":  "2014-04-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:386404",
                         "date":  "2014-04-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:386400",
                         "date":  "2014-04-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:386406",
                         "date":  "2014-04-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:386403",
                         "date":  "2014-04-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Lanús",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:386407",
                         "date":  "2014-04-20",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:386401",
                         "date":  "2014-04-21",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:386399",
                         "date":  "2014-04-21",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:386398",
                         "date":  "2014-04-21",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "All Boys",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:386397",
                         "date":  "2014-04-25",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:386396",
                         "date":  "2014-04-26",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:386390",
                         "date":  "2014-04-26",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:386391",
                         "date":  "2014-04-26",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:386395",
                         "date":  "2014-04-26",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:386393",
                         "date":  "2014-04-26",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:386392",
                         "date":  "2014-04-27",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:386388",
                         "date":  "2014-04-27",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "All Boys",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:386389",
                         "date":  "2014-04-27",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:386394",
                         "date":  "2014-04-28",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "River Plate",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:386417",
                         "date":  "2014-04-30",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:386378",
                         "date":  "2014-05-02",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:386382",
                         "date":  "2014-05-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:386385",
                         "date":  "2014-05-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:386387",
                         "date":  "2014-05-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:386379",
                         "date":  "2014-05-03",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:386384",
                         "date":  "2014-05-04",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:386383",
                         "date":  "2014-05-04",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:386386",
                         "date":  "2014-05-04",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:386381",
                         "date":  "2014-05-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:386380",
                         "date":  "2014-05-05",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:386372",
                         "date":  "2014-05-09",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:386376",
                         "date":  "2014-05-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:386368",
                         "date":  "2014-05-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "All Boys",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:386377",
                         "date":  "2014-05-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Tigre",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:386370",
                         "date":  "2014-05-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:386375",
                         "date":  "2014-05-10",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:386369",
                         "date":  "2014-05-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:386371",
                         "date":  "2014-05-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:386373",
                         "date":  "2014-05-11",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:386374",
                         "date":  "2014-05-12",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:386360",
                         "date":  "2014-05-16",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:386358",
                         "date":  "2014-05-17",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:386359",
                         "date":  "2014-05-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:386364",
                         "date":  "2014-05-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:386366",
                         "date":  "2014-05-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:386361",
                         "date":  "2014-05-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:386365",
                         "date":  "2014-05-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:386362",
                         "date":  "2014-05-18",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:386363",
                         "date":  "2014-05-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:386367",
                         "date":  "2014-05-19",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:393304",
                         "date":  "2014-05-24",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:392873",
                         "date":  "2014-05-25",
+                        "competition":  "Torneo Final 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:399505",
                         "date":  "2014-08-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:399510",
                         "date":  "2014-08-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:399511",
                         "date":  "2014-08-09",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:399504",
                         "date":  "2014-08-10",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:399508",
                         "date":  "2014-08-10",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:399512",
                         "date":  "2014-08-11",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:399507",
                         "date":  "2014-08-11",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:399513",
                         "date":  "2014-08-11",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:399506",
                         "date":  "2014-08-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:399498",
                         "date":  "2014-08-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:399503",
                         "date":  "2014-08-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Tigre",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:399497",
                         "date":  "2014-08-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:399494",
                         "date":  "2014-08-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:399496",
                         "date":  "2014-08-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:399502",
                         "date":  "2014-08-17",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:399501",
                         "date":  "2014-08-17",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:399495",
                         "date":  "2014-08-18",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:399499",
                         "date":  "2014-08-18",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:399500",
                         "date":  "2014-08-18",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Lanús",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:399488",
                         "date":  "2014-08-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:399490",
                         "date":  "2014-08-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:399492",
                         "date":  "2014-08-23",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:399486",
                         "date":  "2014-08-23",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:399493",
                         "date":  "2014-08-23",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:399485",
                         "date":  "2014-08-24",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:399487",
                         "date":  "2014-08-24",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:399489",
                         "date":  "2014-08-24",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:399484",
                         "date":  "2014-08-24",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:399491",
                         "date":  "2014-08-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:399478",
                         "date":  "2014-08-26",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:399476",
                         "date":  "2014-08-26",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Independiente",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:399474",
                         "date":  "2014-08-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:399481",
                         "date":  "2014-08-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:399479",
                         "date":  "2014-08-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:399477",
                         "date":  "2014-08-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:399475",
                         "date":  "2014-08-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:399483",
                         "date":  "2014-08-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:399480",
                         "date":  "2014-08-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:399482",
                         "date":  "2014-08-29",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:399467",
                         "date":  "2014-08-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:399472",
                         "date":  "2014-08-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:399466",
                         "date":  "2014-08-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:399464",
                         "date":  "2014-08-31",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:399470",
                         "date":  "2014-08-31",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:399473",
                         "date":  "2014-08-31",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:399471",
                         "date":  "2014-09-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:399468",
                         "date":  "2014-09-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:399465",
                         "date":  "2014-09-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:399469",
                         "date":  "2014-09-02",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:406333",
                         "date":  "2014-09-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:399461",
                         "date":  "2014-09-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:399455",
                         "date":  "2014-09-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:399457",
                         "date":  "2014-09-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:399462",
                         "date":  "2014-09-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:399458",
                         "date":  "2014-09-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:399460",
                         "date":  "2014-09-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:399463",
                         "date":  "2014-09-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:399456",
                         "date":  "2014-09-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:399454",
                         "date":  "2014-09-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:399445",
                         "date":  "2014-09-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:399447",
                         "date":  "2014-09-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:399452",
                         "date":  "2014-09-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:406240",
                         "date":  "2014-09-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:399449",
                         "date":  "2014-09-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:399444",
                         "date":  "2014-09-14",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:399453",
                         "date":  "2014-09-14",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:399448",
                         "date":  "2014-09-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:399440",
                         "date":  "2014-09-19",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Lanús",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:399439",
                         "date":  "2014-09-20",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:399436",
                         "date":  "2014-09-20",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:399435",
                         "date":  "2014-09-20",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:399434",
                         "date":  "2014-09-21",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:399437",
                         "date":  "2014-09-21",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:399438",
                         "date":  "2014-09-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:399442",
                         "date":  "2014-09-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:399441",
                         "date":  "2014-09-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:399450",
                         "date":  "2014-09-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:399451",
                         "date":  "2014-09-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:399433",
                         "date":  "2014-09-26",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:399428",
                         "date":  "2014-09-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:399432",
                         "date":  "2014-09-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:399426",
                         "date":  "2014-09-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:399425",
                         "date":  "2014-09-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:399430",
                         "date":  "2014-09-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:399429",
                         "date":  "2014-09-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:399431",
                         "date":  "2014-09-29",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:399427",
                         "date":  "2014-09-29",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:399424",
                         "date":  "2014-09-29",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:399509",
                         "date":  "2014-10-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:399423",
                         "date":  "2014-10-03",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:399416",
                         "date":  "2014-10-04",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:399422",
                         "date":  "2014-10-04",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:399414",
                         "date":  "2014-10-04",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:399419",
                         "date":  "2014-10-05",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:399421",
                         "date":  "2014-10-05",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:399417",
                         "date":  "2014-10-05",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:399415",
                         "date":  "2014-10-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:399420",
                         "date":  "2014-10-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:399418",
                         "date":  "2014-10-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:399406",
                         "date":  "2014-10-10",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:399407",
                         "date":  "2014-10-10",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:399408",
                         "date":  "2014-10-11",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:399409",
                         "date":  "2014-10-11",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:399410",
                         "date":  "2014-10-11",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:399404",
                         "date":  "2014-10-12",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Banfield",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:399405",
                         "date":  "2014-10-12",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:399412",
                         "date":  "2014-10-12",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:399411",
                         "date":  "2014-10-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:399413",
                         "date":  "2014-10-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:399443",
                         "date":  "2014-10-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Tigre",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:399402",
                         "date":  "2014-10-17",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:399395",
                         "date":  "2014-10-17",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:399399",
                         "date":  "2014-10-18",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:399398",
                         "date":  "2014-10-18",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:399400",
                         "date":  "2014-10-18",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Lanús",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:399401",
                         "date":  "2014-10-19",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:399403",
                         "date":  "2014-10-19",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:399396",
                         "date":  "2014-10-19",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:399397",
                         "date":  "2014-10-20",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:399394",
                         "date":  "2014-10-20",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:399391",
                         "date":  "2014-10-24",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:399393",
                         "date":  "2014-10-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Tigre",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:399384",
                         "date":  "2014-10-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:399387",
                         "date":  "2014-10-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:399389",
                         "date":  "2014-10-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:399388",
                         "date":  "2014-10-26",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:399392",
                         "date":  "2014-10-26",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:399385",
                         "date":  "2014-10-26",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:399390",
                         "date":  "2014-10-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "River Plate",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:399386",
                         "date":  "2014-10-27",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:399381",
                         "date":  "2014-10-31",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:399375",
                         "date":  "2014-11-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:399382",
                         "date":  "2014-11-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:399383",
                         "date":  "2014-11-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:399374",
                         "date":  "2014-11-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:399376",
                         "date":  "2014-11-02",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:399364",
                         "date":  "2014-11-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:399368",
                         "date":  "2014-11-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:399369",
                         "date":  "2014-11-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:399366",
                         "date":  "2014-11-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:399367",
                         "date":  "2014-11-08",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:399371",
                         "date":  "2014-11-09",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:399365",
                         "date":  "2014-11-09",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:399373",
                         "date":  "2014-11-09",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:399370",
                         "date":  "2014-11-10",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:399372",
                         "date":  "2014-11-10",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:399379",
                         "date":  "2014-11-12",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Lanús",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:399378",
                         "date":  "2014-11-12",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:399377",
                         "date":  "2014-11-13",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Independiente",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:399354",
                         "date":  "2014-11-14",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:399363",
                         "date":  "2014-11-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:399355",
                         "date":  "2014-11-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:399356",
                         "date":  "2014-11-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:399362",
                         "date":  "2014-11-15",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:399358",
                         "date":  "2014-11-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:399360",
                         "date":  "2014-11-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:399361",
                         "date":  "2014-11-16",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:399357",
                         "date":  "2014-11-17",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:399359",
                         "date":  "2014-11-17",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:399380",
                         "date":  "2014-11-20",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:399349",
                         "date":  "2014-11-21",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:399352",
                         "date":  "2014-11-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:399351",
                         "date":  "2014-11-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:399348",
                         "date":  "2014-11-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:399347",
                         "date":  "2014-11-22",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:399353",
                         "date":  "2014-11-23",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Tigre",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:399346",
                         "date":  "2014-11-23",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:399345",
                         "date":  "2014-11-23",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:399350",
                         "date":  "2014-11-24",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:399344",
                         "date":  "2014-11-25",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:399341",
                         "date":  "2014-11-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:399343",
                         "date":  "2014-11-28",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:399338",
                         "date":  "2014-11-29",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:399339",
                         "date":  "2014-11-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:399342",
                         "date":  "2014-11-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:399334",
                         "date":  "2014-11-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:399335",
                         "date":  "2014-11-30",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:399337",
                         "date":  "2014-12-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:399340",
                         "date":  "2014-12-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:399336",
                         "date":  "2014-12-01",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:399333",
                         "date":  "2014-12-05",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Tigre",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:399332",
                         "date":  "2014-12-05",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:399324",
                         "date":  "2014-12-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:399331",
                         "date":  "2014-12-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:399326",
                         "date":  "2014-12-06",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:399325",
                         "date":  "2014-12-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:399329",
                         "date":  "2014-12-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:399327",
                         "date":  "2014-12-07",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:399330",
                         "date":  "2014-12-14",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "River Plate",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:399328",
                         "date":  "2014-12-14",
+                        "competition":  "Primera División 2014 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {

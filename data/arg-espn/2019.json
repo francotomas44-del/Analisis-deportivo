@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:521317",
                         "date":  "2019-01-19",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:521253",
                         "date":  "2019-01-20",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:521273",
                         "date":  "2019-01-24",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:521217",
                         "date":  "2019-01-25",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:521212",
                         "date":  "2019-01-25",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Lanús",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:521216",
                         "date":  "2019-01-26",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:521215",
                         "date":  "2019-01-26",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:521218",
                         "date":  "2019-01-26",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:521211",
                         "date":  "2019-01-26",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:521214",
                         "date":  "2019-01-27",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Racing Club",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:521220",
                         "date":  "2019-01-27",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:521219",
                         "date":  "2019-01-27",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:521213",
                         "date":  "2019-01-27",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Patronato",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:521210",
                         "date":  "2019-01-28",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:521209",
                         "date":  "2019-01-28",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:521221",
                         "date":  "2019-01-29",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:521256",
                         "date":  "2019-01-31",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:521264",
                         "date":  "2019-02-01",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:521208",
                         "date":  "2019-02-01",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Tigre",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:521202",
                         "date":  "2019-02-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:521198",
                         "date":  "2019-02-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:521200",
                         "date":  "2019-02-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:521199",
                         "date":  "2019-02-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:521201",
                         "date":  "2019-02-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:521196",
                         "date":  "2019-02-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:521204",
                         "date":  "2019-02-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:521206",
                         "date":  "2019-02-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:521205",
                         "date":  "2019-02-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:521207",
                         "date":  "2019-02-04",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:521197",
                         "date":  "2019-02-04",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:521203",
                         "date":  "2019-02-05",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:521184",
                         "date":  "2019-02-08",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:521195",
                         "date":  "2019-02-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:521186",
                         "date":  "2019-02-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:521187",
                         "date":  "2019-02-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Patronato",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:521193",
                         "date":  "2019-02-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:521194",
                         "date":  "2019-02-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:521192",
                         "date":  "2019-02-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:521189",
                         "date":  "2019-02-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:521188",
                         "date":  "2019-02-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:521185",
                         "date":  "2019-02-11",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:521183",
                         "date":  "2019-02-11",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:521191",
                         "date":  "2019-02-12",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:521230",
                         "date":  "2019-02-15",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:521171",
                         "date":  "2019-02-15",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:521174",
                         "date":  "2019-02-15",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:521172",
                         "date":  "2019-02-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:521180",
                         "date":  "2019-02-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:521175",
                         "date":  "2019-02-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:521170",
                         "date":  "2019-02-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:521173",
                         "date":  "2019-02-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Independiente",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:521182",
                         "date":  "2019-02-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:521178",
                         "date":  "2019-02-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Huracán",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:521179",
                         "date":  "2019-02-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:521181",
                         "date":  "2019-02-18",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:521176",
                         "date":  "2019-02-18",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:521177",
                         "date":  "2019-02-19",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:521223",
                         "date":  "2019-02-21",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:521161",
                         "date":  "2019-02-22",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Patronato",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:521158",
                         "date":  "2019-02-23",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:521163",
                         "date":  "2019-02-23",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:521169",
                         "date":  "2019-02-23",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:521168",
                         "date":  "2019-02-23",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:521164",
                         "date":  "2019-02-23",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:521162",
                         "date":  "2019-02-24",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:521166",
                         "date":  "2019-02-24",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:521157",
                         "date":  "2019-02-24",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:521167",
                         "date":  "2019-02-24",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:521159",
                         "date":  "2019-02-25",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:521160",
                         "date":  "2019-02-25",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:521165",
                         "date":  "2019-02-26",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:521144",
                         "date":  "2019-03-01",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:521147",
                         "date":  "2019-03-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:521146",
                         "date":  "2019-03-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:521152",
                         "date":  "2019-03-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:521154",
                         "date":  "2019-03-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Lanús",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:521155",
                         "date":  "2019-03-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:521153",
                         "date":  "2019-03-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Huracán",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:521149",
                         "date":  "2019-03-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:521151",
                         "date":  "2019-03-03",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:521148",
                         "date":  "2019-03-04",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:521145",
                         "date":  "2019-03-04",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:521156",
                         "date":  "2019-03-04",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:521150",
                         "date":  "2019-03-05",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:521139",
                         "date":  "2019-03-08",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:521134",
                         "date":  "2019-03-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Patronato",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:521137",
                         "date":  "2019-03-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:521141",
                         "date":  "2019-03-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:521135",
                         "date":  "2019-03-09",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:521138",
                         "date":  "2019-03-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:521133",
                         "date":  "2019-03-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:521140",
                         "date":  "2019-03-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:521131",
                         "date":  "2019-03-10",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:521136",
                         "date":  "2019-03-11",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "River Plate",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:521142",
                         "date":  "2019-03-11",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:521143",
                         "date":  "2019-03-12",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:521132",
                         "date":  "2019-03-12",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Banfield",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:521128",
                         "date":  "2019-03-15",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:521123",
                         "date":  "2019-03-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:521119",
                         "date":  "2019-03-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:521127",
                         "date":  "2019-03-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:521118",
                         "date":  "2019-03-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:521120",
                         "date":  "2019-03-16",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:521124",
                         "date":  "2019-03-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:521130",
                         "date":  "2019-03-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Tigre",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:521129",
                         "date":  "2019-03-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:521122",
                         "date":  "2019-03-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:521121",
                         "date":  "2019-03-17",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:521126",
                         "date":  "2019-03-18",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:521125",
                         "date":  "2019-03-19",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:521190",
                         "date":  "2019-03-23",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:521109",
                         "date":  "2019-03-29",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Huracán",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:521106",
                         "date":  "2019-03-30",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:521108",
                         "date":  "2019-03-30",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:521110",
                         "date":  "2019-03-30",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Patronato",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:521117",
                         "date":  "2019-03-30",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:521112",
                         "date":  "2019-03-30",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:521105",
                         "date":  "2019-03-31",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:521113",
                         "date":  "2019-03-31",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:521107",
                         "date":  "2019-03-31",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:521116",
                         "date":  "2019-03-31",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:521111",
                         "date":  "2019-03-31",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:521115",
                         "date":  "2019-04-01",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Martín de Tucumán",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:521114",
                         "date":  "2019-04-02",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:521102",
                         "date":  "2019-04-06",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín de Tucumán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:521096",
                         "date":  "2019-04-06",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:521101",
                         "date":  "2019-04-06",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:521098",
                         "date":  "2019-04-06",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:521100",
                         "date":  "2019-04-06",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:521094",
                         "date":  "2019-04-06",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:521093",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:521095",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:521099",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:521092",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:521104",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:521103",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:521097",
                         "date":  "2019-04-07",
+                        "competition":  "Superliga 2018-19 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:552014",
                         "date":  "2019-07-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:552011",
                         "date":  "2019-07-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Patronato",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:552009",
                         "date":  "2019-07-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:552008",
                         "date":  "2019-07-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:552012",
                         "date":  "2019-07-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:552004",
                         "date":  "2019-07-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:552007",
                         "date":  "2019-07-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:552015",
                         "date":  "2019-07-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:552006",
                         "date":  "2019-07-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Independiente",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:552010",
                         "date":  "2019-07-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:552005",
                         "date":  "2019-07-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:552013",
                         "date":  "2019-07-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:551996",
                         "date":  "2019-08-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:551992",
                         "date":  "2019-08-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:552003",
                         "date":  "2019-08-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:551994",
                         "date":  "2019-08-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:552001",
                         "date":  "2019-08-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:551997",
                         "date":  "2019-08-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:552002",
                         "date":  "2019-08-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:551998",
                         "date":  "2019-08-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:551999",
                         "date":  "2019-08-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:551995",
                         "date":  "2019-08-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:551993",
                         "date":  "2019-08-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:551982",
                         "date":  "2019-08-16",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:551984",
                         "date":  "2019-08-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:551990",
                         "date":  "2019-08-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:551989",
                         "date":  "2019-08-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:551988",
                         "date":  "2019-08-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:551987",
                         "date":  "2019-08-18",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Huracán",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:551981",
                         "date":  "2019-08-18",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:551991",
                         "date":  "2019-08-18",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:551980",
                         "date":  "2019-08-18",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:551986",
                         "date":  "2019-08-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:551985",
                         "date":  "2019-08-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:551983",
                         "date":  "2019-08-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:551978",
                         "date":  "2019-08-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:551974",
                         "date":  "2019-08-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:551975",
                         "date":  "2019-08-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:551976",
                         "date":  "2019-08-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Patronato",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:551973",
                         "date":  "2019-08-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:551962",
                         "date":  "2019-08-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:551966",
                         "date":  "2019-08-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:551977",
                         "date":  "2019-08-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:551979",
                         "date":  "2019-08-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:551972",
                         "date":  "2019-08-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:551971",
                         "date":  "2019-08-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:551970",
                         "date":  "2019-08-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:551961",
                         "date":  "2019-08-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:551958",
                         "date":  "2019-08-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Banfield",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:551969",
                         "date":  "2019-08-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:551963",
                         "date":  "2019-08-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:551968",
                         "date":  "2019-08-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:551960",
                         "date":  "2019-08-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Independiente",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:551964",
                         "date":  "2019-08-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:551957",
                         "date":  "2019-09-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:551967",
                         "date":  "2019-09-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:551965",
                         "date":  "2019-09-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Huracán",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:551956",
                         "date":  "2019-09-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:551959",
                         "date":  "2019-09-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:551955",
                         "date":  "2019-09-14",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:551946",
                         "date":  "2019-09-14",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:551944",
                         "date":  "2019-09-14",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:551953",
                         "date":  "2019-09-14",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:551952",
                         "date":  "2019-09-14",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:551951",
                         "date":  "2019-09-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:551954",
                         "date":  "2019-09-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:551949",
                         "date":  "2019-09-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:551948",
                         "date":  "2019-09-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:551947",
                         "date":  "2019-09-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:551950",
                         "date":  "2019-09-16",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Patronato",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:551945",
                         "date":  "2019-09-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:551942",
                         "date":  "2019-09-20",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:551937",
                         "date":  "2019-09-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:551941",
                         "date":  "2019-09-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Patronato",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:551940",
                         "date":  "2019-09-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Huracán",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:551935",
                         "date":  "2019-09-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:551936",
                         "date":  "2019-09-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Independiente",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:551932",
                         "date":  "2019-09-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:551934",
                         "date":  "2019-09-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:551938",
                         "date":  "2019-09-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:551933",
                         "date":  "2019-09-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:551943",
                         "date":  "2019-09-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:551939",
                         "date":  "2019-09-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:551931",
                         "date":  "2019-09-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:551925",
                         "date":  "2019-09-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Lanús",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:551923",
                         "date":  "2019-09-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:551928",
                         "date":  "2019-09-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:551926",
                         "date":  "2019-09-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:551929",
                         "date":  "2019-09-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:551921",
                         "date":  "2019-09-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:551922",
                         "date":  "2019-09-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:551927",
                         "date":  "2019-09-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:551930",
                         "date":  "2019-09-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:551924",
                         "date":  "2019-09-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:551920",
                         "date":  "2019-10-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:551910",
                         "date":  "2019-10-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:551919",
                         "date":  "2019-10-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:551909",
                         "date":  "2019-10-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:551915",
                         "date":  "2019-10-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:551913",
                         "date":  "2019-10-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:551916",
                         "date":  "2019-10-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Huracán",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:551908",
                         "date":  "2019-10-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:551912",
                         "date":  "2019-10-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:551918",
                         "date":  "2019-10-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:551914",
                         "date":  "2019-10-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:551917",
                         "date":  "2019-10-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Patronato",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:551911",
                         "date":  "2019-10-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:551904",
                         "date":  "2019-10-18",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:551903",
                         "date":  "2019-10-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:551897",
                         "date":  "2019-10-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:551896",
                         "date":  "2019-10-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:551902",
                         "date":  "2019-10-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:551901",
                         "date":  "2019-10-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:551898",
                         "date":  "2019-10-20",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:551906",
                         "date":  "2019-10-20",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:551905",
                         "date":  "2019-10-20",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:551907",
                         "date":  "2019-10-20",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:551899",
                         "date":  "2019-10-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:551900",
                         "date":  "2019-10-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:551884",
                         "date":  "2019-10-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:551894",
                         "date":  "2019-10-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:551893",
                         "date":  "2019-10-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Patronato",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:551891",
                         "date":  "2019-10-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:551889",
                         "date":  "2019-10-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:551895",
                         "date":  "2019-10-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:551890",
                         "date":  "2019-10-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:551887",
                         "date":  "2019-10-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:551885",
                         "date":  "2019-10-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:551888",
                         "date":  "2019-10-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:551892",
                         "date":  "2019-10-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:551886",
                         "date":  "2019-11-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:551874",
                         "date":  "2019-11-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:551875",
                         "date":  "2019-11-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:551876",
                         "date":  "2019-11-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:551880",
                         "date":  "2019-11-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "River Plate",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:551873",
                         "date":  "2019-11-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:551882",
                         "date":  "2019-11-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:551878",
                         "date":  "2019-11-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:551879",
                         "date":  "2019-11-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:551881",
                         "date":  "2019-11-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:551872",
                         "date":  "2019-11-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:551883",
                         "date":  "2019-11-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:551877",
                         "date":  "2019-11-05",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Lanús",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:551871",
                         "date":  "2019-11-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:551861",
                         "date":  "2019-11-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:551862",
                         "date":  "2019-11-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:551860",
                         "date":  "2019-11-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:551864",
                         "date":  "2019-11-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:551869",
                         "date":  "2019-11-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Patronato",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:551870",
                         "date":  "2019-11-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:551867",
                         "date":  "2019-11-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:551866",
                         "date":  "2019-11-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:551868",
                         "date":  "2019-11-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:551863",
                         "date":  "2019-11-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:551853",
                         "date":  "2019-11-23",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Lanús",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:551850",
                         "date":  "2019-11-23",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:551857",
                         "date":  "2019-11-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:551858",
                         "date":  "2019-11-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:551859",
                         "date":  "2019-11-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:551849",
                         "date":  "2019-11-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:551855",
                         "date":  "2019-11-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:551851",
                         "date":  "2019-11-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:551852",
                         "date":  "2019-11-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:551854",
                         "date":  "2019-11-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:551848",
                         "date":  "2019-11-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:551841",
                         "date":  "2019-11-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:551840",
                         "date":  "2019-11-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:551837",
                         "date":  "2019-11-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:551836",
                         "date":  "2019-11-30",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:551845",
                         "date":  "2019-12-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:551844",
                         "date":  "2019-12-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Patronato",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:551847",
                         "date":  "2019-12-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:551839",
                         "date":  "2019-12-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:551838",
                         "date":  "2019-12-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Independiente",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:551846",
                         "date":  "2019-12-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:551843",
                         "date":  "2019-12-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Lanús",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:551842",
                         "date":  "2019-12-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:551824",
                         "date":  "2019-12-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:551826",
                         "date":  "2019-12-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:551825",
                         "date":  "2019-12-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:551831",
                         "date":  "2019-12-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:551834",
                         "date":  "2019-12-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:551832",
                         "date":  "2019-12-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:551830",
                         "date":  "2019-12-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:551828",
                         "date":  "2019-12-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:551827",
                         "date":  "2019-12-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:551833",
                         "date":  "2019-12-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:551835",
                         "date":  "2019-12-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:551829",
                         "date":  "2019-12-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:551865",
                         "date":  "2019-12-13",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:552000",
                         "date":  "2019-12-13",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {

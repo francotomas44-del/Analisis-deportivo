@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:551856",
                         "date":  "2020-01-19",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:551818",
                         "date":  "2020-01-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Lanús",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:551823",
                         "date":  "2020-01-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:551817",
                         "date":  "2020-01-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:551812",
                         "date":  "2020-01-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:551819",
                         "date":  "2020-01-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:551815",
                         "date":  "2020-01-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:551816",
                         "date":  "2020-01-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:551821",
                         "date":  "2020-01-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:551820",
                         "date":  "2020-01-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Patronato",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:551822",
                         "date":  "2020-01-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:551813",
                         "date":  "2020-01-26",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:551814",
                         "date":  "2020-01-27",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:551801",
                         "date":  "2020-01-31",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:551806",
                         "date":  "2020-02-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:551809",
                         "date":  "2020-02-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:551805",
                         "date":  "2020-02-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:551811",
                         "date":  "2020-02-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:551808",
                         "date":  "2020-02-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:552016",
                         "date":  "2020-02-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:551803",
                         "date":  "2020-02-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:551807",
                         "date":  "2020-02-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:551804",
                         "date":  "2020-02-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:551802",
                         "date":  "2020-02-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:551810",
                         "date":  "2020-02-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:551791",
                         "date":  "2020-02-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:551795",
                         "date":  "2020-02-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:551792",
                         "date":  "2020-02-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:551796",
                         "date":  "2020-02-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Patronato",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:551798",
                         "date":  "2020-02-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:551793",
                         "date":  "2020-02-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:551789",
                         "date":  "2020-02-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:551800",
                         "date":  "2020-02-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:551790",
                         "date":  "2020-02-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:551797",
                         "date":  "2020-02-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:551799",
                         "date":  "2020-02-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:551794",
                         "date":  "2020-02-11",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Huracán",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:551788",
                         "date":  "2020-02-14",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:551786",
                         "date":  "2020-02-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:551777",
                         "date":  "2020-02-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:551778",
                         "date":  "2020-02-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:551783",
                         "date":  "2020-02-15",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:551787",
                         "date":  "2020-02-16",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:551785",
                         "date":  "2020-02-16",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:551780",
                         "date":  "2020-02-16",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:551781",
                         "date":  "2020-02-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:551782",
                         "date":  "2020-02-17",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:551779",
                         "date":  "2020-02-18",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:551765",
                         "date":  "2020-02-21",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:551772",
                         "date":  "2020-02-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Patronato",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:551773",
                         "date":  "2020-02-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:551768",
                         "date":  "2020-02-22",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:551767",
                         "date":  "2020-02-23",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:551771",
                         "date":  "2020-02-23",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Lanús",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:551776",
                         "date":  "2020-02-23",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:551769",
                         "date":  "2020-02-23",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:551774",
                         "date":  "2020-02-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:551775",
                         "date":  "2020-02-24",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:551766",
                         "date":  "2020-02-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:551770",
                         "date":  "2020-02-25",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Huracán",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:552017",
                         "date":  "2020-02-28",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:551758",
                         "date":  "2020-02-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:551756",
                         "date":  "2020-02-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:551760",
                         "date":  "2020-02-29",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:551757",
                         "date":  "2020-03-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Banfield",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:551764",
                         "date":  "2020-03-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:551762",
                         "date":  "2020-03-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:551761",
                         "date":  "2020-03-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:551755",
                         "date":  "2020-03-01",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:551754",
                         "date":  "2020-03-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:551763",
                         "date":  "2020-03-02",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:551759",
                         "date":  "2020-03-03",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:551784",
                         "date":  "2020-03-04",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:551742",
                         "date":  "2020-03-06",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:551752",
                         "date":  "2020-03-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:551747",
                         "date":  "2020-03-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:551749",
                         "date":  "2020-03-07",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Patronato",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:551751",
                         "date":  "2020-03-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "River Plate",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:551745",
                         "date":  "2020-03-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:551748",
                         "date":  "2020-03-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:551743",
                         "date":  "2020-03-08",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:551746",
                         "date":  "2020-03-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:551744",
                         "date":  "2020-03-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:551753",
                         "date":  "2020-03-09",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:551750",
                         "date":  "2020-03-10",
+                        "competition":  "Superliga 2019-20 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:587370",
                         "date":  "2020-10-30",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Patronato",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:587369",
                         "date":  "2020-10-31",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:587366",
                         "date":  "2020-10-31",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:587368",
                         "date":  "2020-10-31",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:587371",
                         "date":  "2020-10-31",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:587363",
                         "date":  "2020-11-01",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:587365",
                         "date":  "2020-11-01",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:587360",
                         "date":  "2020-11-01",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:587361",
                         "date":  "2020-11-01",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:587364",
                         "date":  "2020-11-01",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Independiente",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:587367",
                         "date":  "2020-11-03",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:587362",
                         "date":  "2020-11-04",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:587355",
                         "date":  "2020-11-06",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Huracán",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:587348",
                         "date":  "2020-11-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:587354",
                         "date":  "2020-11-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:587353",
                         "date":  "2020-11-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:587358",
                         "date":  "2020-11-08",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:587349",
                         "date":  "2020-11-08",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:587359",
                         "date":  "2020-11-08",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:587357",
                         "date":  "2020-11-08",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:587350",
                         "date":  "2020-11-09",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:587351",
                         "date":  "2020-11-09",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:587356",
                         "date":  "2020-11-09",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:587352",
                         "date":  "2020-11-10",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:587338",
                         "date":  "2020-11-13",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:587347",
                         "date":  "2020-11-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:587345",
                         "date":  "2020-11-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:587342",
                         "date":  "2020-11-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:587337",
                         "date":  "2020-11-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:587344",
                         "date":  "2020-11-15",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:587341",
                         "date":  "2020-11-15",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:587336",
                         "date":  "2020-11-15",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:587339",
                         "date":  "2020-11-15",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Independiente",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:587346",
                         "date":  "2020-11-16",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:587343",
                         "date":  "2020-11-16",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Patronato",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:587340",
                         "date":  "2020-11-17",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:587330",
                         "date":  "2020-11-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:587334",
                         "date":  "2020-11-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:587329",
                         "date":  "2020-11-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:587331",
                         "date":  "2020-11-21",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:587327",
                         "date":  "2020-11-21",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:587335",
                         "date":  "2020-11-21",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:587326",
                         "date":  "2020-11-22",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:587324",
                         "date":  "2020-11-22",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:587328",
                         "date":  "2020-11-22",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:587325",
                         "date":  "2020-11-23",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:587332",
                         "date":  "2020-11-23",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:587333",
                         "date":  "2020-11-24",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:587323",
                         "date":  "2020-11-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:587315",
                         "date":  "2020-11-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:587317",
                         "date":  "2020-11-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:587314",
                         "date":  "2020-11-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:587320",
                         "date":  "2020-11-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:587316",
                         "date":  "2020-11-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:587318",
                         "date":  "2020-11-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:587319",
                         "date":  "2020-11-30",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Patronato",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:587322",
                         "date":  "2020-11-30",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:587312",
                         "date":  "2020-11-30",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:587313",
                         "date":  "2020-11-30",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:587321",
                         "date":  "2020-12-01",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:587303",
                         "date":  "2020-12-04",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:587310",
                         "date":  "2020-12-05",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:587309",
                         "date":  "2020-12-05",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:587301",
                         "date":  "2020-12-05",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:587307",
                         "date":  "2020-12-05",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:587311",
                         "date":  "2020-12-05",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:587306",
                         "date":  "2020-12-06",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:587304",
                         "date":  "2020-12-06",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:587308",
                         "date":  "2020-12-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:587302",
                         "date":  "2020-12-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:587305",
                         "date":  "2020-12-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:587300",
                         "date":  "2020-12-07",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:590614",
                         "date":  "2020-12-12",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:590613",
                         "date":  "2020-12-12",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:590612",
                         "date":  "2020-12-12",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:590611",
                         "date":  "2020-12-12",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:590610",
                         "date":  "2020-12-13",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:590609",
                         "date":  "2020-12-13",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Lanús",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:590608",
                         "date":  "2020-12-13",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:590607",
                         "date":  "2020-12-13",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:590606",
                         "date":  "2020-12-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:590605",
                         "date":  "2020-12-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Patronato",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:590604",
                         "date":  "2020-12-14",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:590603",
                         "date":  "2020-12-15",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Banfield",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:590592",
                         "date":  "2020-12-19",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:590591",
                         "date":  "2020-12-19",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Patronato",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:590598",
                         "date":  "2020-12-19",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:590595",
                         "date":  "2020-12-19",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:590593",
                         "date":  "2020-12-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:590596",
                         "date":  "2020-12-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:590599",
                         "date":  "2020-12-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:590594",
                         "date":  "2020-12-20",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:590600",
                         "date":  "2020-12-21",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:590602",
                         "date":  "2020-12-21",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:590601",
                         "date":  "2020-12-21",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:590597",
                         "date":  "2020-12-22",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:590587",
                         "date":  "2020-12-27",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Patronato",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:590584",
                         "date":  "2020-12-27",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:590585",
                         "date":  "2020-12-27",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:590579",
                         "date":  "2020-12-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:590582",
                         "date":  "2020-12-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:590581",
                         "date":  "2020-12-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:590583",
                         "date":  "2020-12-28",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:590580",
                         "date":  "2020-12-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:590590",
                         "date":  "2020-12-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:590588",
                         "date":  "2020-12-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:590586",
                         "date":  "2020-12-29",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:590589",
                         "date":  "2020-12-30",
+                        "competition":  "Copa Diego Armando Maradona 2020-21 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "San Lorenzo",
                         "score":  {

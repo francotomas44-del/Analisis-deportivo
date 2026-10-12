@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:286503",
                         "date":  "2010-01-29",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:286502",
                         "date":  "2010-01-29",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:286498",
                         "date":  "2010-01-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:286501",
                         "date":  "2010-01-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:286500",
                         "date":  "2010-01-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:286504",
                         "date":  "2010-01-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:286499",
                         "date":  "2010-01-31",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:286496",
                         "date":  "2010-01-31",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Huracán",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:286495",
                         "date":  "2010-01-31",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:286497",
                         "date":  "2010-01-31",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:286506",
                         "date":  "2010-02-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:286514",
                         "date":  "2010-02-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:286505",
                         "date":  "2010-02-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:286513",
                         "date":  "2010-02-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:286510",
                         "date":  "2010-02-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:286509",
                         "date":  "2010-02-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:286507",
                         "date":  "2010-02-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:286512",
                         "date":  "2010-02-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:286511",
                         "date":  "2010-02-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:286518",
                         "date":  "2010-02-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:286517",
                         "date":  "2010-02-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:286523",
                         "date":  "2010-02-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:286521",
                         "date":  "2010-02-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:286519",
                         "date":  "2010-02-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:286524",
                         "date":  "2010-02-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:286520",
                         "date":  "2010-02-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:286522",
                         "date":  "2010-02-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:286516",
                         "date":  "2010-02-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Huracán",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:286515",
                         "date":  "2010-02-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:286528",
                         "date":  "2010-02-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:286526",
                         "date":  "2010-02-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Tigre",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:286529",
                         "date":  "2010-02-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:286532",
                         "date":  "2010-02-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:286525",
                         "date":  "2010-02-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:286533",
                         "date":  "2010-02-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:286534",
                         "date":  "2010-02-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:286531",
                         "date":  "2010-02-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:286527",
                         "date":  "2010-02-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:286541",
                         "date":  "2010-02-19",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:286535",
                         "date":  "2010-02-19",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:286543",
                         "date":  "2010-02-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:286539",
                         "date":  "2010-02-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:286544",
                         "date":  "2010-02-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:286540",
                         "date":  "2010-02-21",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:286542",
                         "date":  "2010-02-21",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:286538",
                         "date":  "2010-02-21",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:286537",
                         "date":  "2010-02-21",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:286536",
                         "date":  "2010-02-22",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Huracán",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:286508",
                         "date":  "2010-02-24",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:286548",
                         "date":  "2010-02-26",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:286553",
                         "date":  "2010-02-26",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:286554",
                         "date":  "2010-02-27",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:286545",
                         "date":  "2010-02-27",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:286550",
                         "date":  "2010-02-27",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:286551",
                         "date":  "2010-02-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:286546",
                         "date":  "2010-02-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:286552",
                         "date":  "2010-02-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:286549",
                         "date":  "2010-02-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:286547",
                         "date":  "2010-02-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:286562",
                         "date":  "2010-03-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:286557",
                         "date":  "2010-03-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:286556",
                         "date":  "2010-03-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:286558",
                         "date":  "2010-03-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:286559",
                         "date":  "2010-03-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Lanús",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:286555",
                         "date":  "2010-03-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:286563",
                         "date":  "2010-03-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:286560",
                         "date":  "2010-03-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:286564",
                         "date":  "2010-03-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:286561",
                         "date":  "2010-03-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:286565",
                         "date":  "2010-03-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:286573",
                         "date":  "2010-03-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:286566",
                         "date":  "2010-03-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Tigre",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:286572",
                         "date":  "2010-03-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:286574",
                         "date":  "2010-03-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:286567",
                         "date":  "2010-03-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:286569",
                         "date":  "2010-03-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Banfield",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:286568",
                         "date":  "2010-03-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:286570",
                         "date":  "2010-03-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:286571",
                         "date":  "2010-03-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:286589",
                         "date":  "2010-03-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:286591",
                         "date":  "2010-03-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:286585",
                         "date":  "2010-03-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:286593",
                         "date":  "2010-03-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:286590",
                         "date":  "2010-03-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:286592",
                         "date":  "2010-03-13",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:286586",
                         "date":  "2010-03-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Huracán",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:286594",
                         "date":  "2010-03-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:286587",
                         "date":  "2010-03-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:286588",
                         "date":  "2010-03-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:286530",
                         "date":  "2010-03-17",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:286608",
                         "date":  "2010-03-19",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:287712",
                         "date":  "2010-03-19",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:286611",
                         "date":  "2010-03-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:286605",
                         "date":  "2010-03-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:287713",
                         "date":  "2010-03-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:286606",
                         "date":  "2010-03-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:286610",
                         "date":  "2010-03-21",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:287786",
                         "date":  "2010-03-21",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:286609",
                         "date":  "2010-03-22",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:286607",
                         "date":  "2010-03-25",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:287721",
                         "date":  "2010-03-26",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:287715",
                         "date":  "2010-03-27",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:287719",
                         "date":  "2010-03-27",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:287718",
                         "date":  "2010-03-27",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Lanús",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:287722",
                         "date":  "2010-03-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:287716",
                         "date":  "2010-03-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:287714",
                         "date":  "2010-03-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:287720",
                         "date":  "2010-03-28",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:287723",
                         "date":  "2010-03-29",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:287717",
                         "date":  "2010-03-29",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:287730",
                         "date":  "2010-04-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:287727",
                         "date":  "2010-04-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:287732",
                         "date":  "2010-04-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:287725",
                         "date":  "2010-04-03",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:287731",
                         "date":  "2010-04-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:287728",
                         "date":  "2010-04-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:287729",
                         "date":  "2010-04-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:287733",
                         "date":  "2010-04-04",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:287726",
                         "date":  "2010-04-05",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:287740",
                         "date":  "2010-04-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:287735",
                         "date":  "2010-04-06",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Huracán",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:287738",
                         "date":  "2010-04-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:287734",
                         "date":  "2010-04-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:287739",
                         "date":  "2010-04-07",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:287743",
                         "date":  "2010-04-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:287742",
                         "date":  "2010-04-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:287736",
                         "date":  "2010-04-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:287737",
                         "date":  "2010-04-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:287741",
                         "date":  "2010-04-09",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:286578",
                         "date":  "2010-04-10",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:286583",
                         "date":  "2010-04-10",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:286584",
                         "date":  "2010-04-10",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:286580",
                         "date":  "2010-04-11",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:286579",
                         "date":  "2010-04-11",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:286577",
                         "date":  "2010-04-11",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "River Plate",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:286576",
                         "date":  "2010-04-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Tigre",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:286575",
                         "date":  "2010-04-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:286582",
                         "date":  "2010-04-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:286581",
                         "date":  "2010-04-12",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:286601",
                         "date":  "2010-04-17",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:286603",
                         "date":  "2010-04-17",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:286595",
                         "date":  "2010-04-17",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:286602",
                         "date":  "2010-04-17",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:286596",
                         "date":  "2010-04-18",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:286597",
                         "date":  "2010-04-18",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:286600",
                         "date":  "2010-04-18",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:286604",
                         "date":  "2010-04-18",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:286598",
                         "date":  "2010-04-19",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:286599",
                         "date":  "2010-04-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:287724",
                         "date":  "2010-04-22",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:287745",
                         "date":  "2010-04-23",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:287747",
                         "date":  "2010-04-24",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:287751",
                         "date":  "2010-04-24",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:287750",
                         "date":  "2010-04-24",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:287746",
                         "date":  "2010-04-24",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:287744",
                         "date":  "2010-04-24",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:287752",
                         "date":  "2010-04-25",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:287748",
                         "date":  "2010-04-25",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:287749",
                         "date":  "2010-04-25",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:287753",
                         "date":  "2010-04-25",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:287759",
                         "date":  "2010-04-29",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:287758",
                         "date":  "2010-04-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:287754",
                         "date":  "2010-04-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:287761",
                         "date":  "2010-04-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:287763",
                         "date":  "2010-04-30",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:287755",
                         "date":  "2010-05-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:287760",
                         "date":  "2010-05-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:287762",
                         "date":  "2010-05-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:287757",
                         "date":  "2010-05-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:287756",
                         "date":  "2010-05-02",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:287767",
                         "date":  "2010-05-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:287772",
                         "date":  "2010-05-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:287766",
                         "date":  "2010-05-08",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:287764",
                         "date":  "2010-05-09",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:287769",
                         "date":  "2010-05-09",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:287768",
                         "date":  "2010-05-09",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:287771",
                         "date":  "2010-05-09",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:287765",
                         "date":  "2010-05-09",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:287773",
                         "date":  "2010-05-10",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:287770",
                         "date":  "2010-05-11",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:287781",
                         "date":  "2010-05-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:287779",
                         "date":  "2010-05-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:287776",
                         "date":  "2010-05-14",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:287774",
                         "date":  "2010-05-15",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:287780",
                         "date":  "2010-05-15",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:287775",
                         "date":  "2010-05-15",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:287778",
                         "date":  "2010-05-15",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:287783",
                         "date":  "2010-05-15",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:287782",
                         "date":  "2010-05-16",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:287777",
                         "date":  "2010-05-16",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:292632",
                         "date":  "2010-05-19",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:292634",
                         "date":  "2010-05-20",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:292633",
                         "date":  "2010-05-23",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "All Boys",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:292635",
                         "date":  "2010-05-23",
+                        "competition":  "Torneo Clausura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:301009",
                         "date":  "2010-08-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Lanús",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:301011",
                         "date":  "2010-08-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:301006",
                         "date":  "2010-08-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:301010",
                         "date":  "2010-08-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:301005",
                         "date":  "2010-08-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "All Boys",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:301012",
                         "date":  "2010-08-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:301007",
                         "date":  "2010-08-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Tigre",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:301013",
                         "date":  "2010-08-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:301008",
                         "date":  "2010-08-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:301004",
                         "date":  "2010-08-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:301020",
                         "date":  "2010-08-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:301017",
                         "date":  "2010-08-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:301022",
                         "date":  "2010-08-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:301023",
                         "date":  "2010-08-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:301018",
                         "date":  "2010-08-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:301014",
                         "date":  "2010-08-15",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:301016",
                         "date":  "2010-08-15",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:301021",
                         "date":  "2010-08-15",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:301019",
                         "date":  "2010-08-15",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:301015",
                         "date":  "2010-08-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:301032",
                         "date":  "2010-08-20",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:301030",
                         "date":  "2010-08-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:301031",
                         "date":  "2010-08-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Lanús",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:301028",
                         "date":  "2010-08-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:301024",
                         "date":  "2010-08-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:301025",
                         "date":  "2010-08-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:301033",
                         "date":  "2010-08-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:301027",
                         "date":  "2010-08-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:301029",
                         "date":  "2010-08-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Huracán",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:301026",
                         "date":  "2010-08-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:301034",
                         "date":  "2010-08-27",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:301042",
                         "date":  "2010-08-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:301043",
                         "date":  "2010-08-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:301040",
                         "date":  "2010-08-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:301038",
                         "date":  "2010-08-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "All Boys",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:301035",
                         "date":  "2010-08-29",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:301036",
                         "date":  "2010-08-29",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:301037",
                         "date":  "2010-08-29",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:301039",
                         "date":  "2010-08-29",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:301044",
                         "date":  "2010-09-03",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:301045",
                         "date":  "2010-09-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:301046",
                         "date":  "2010-09-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:301047",
                         "date":  "2010-09-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:301049",
                         "date":  "2010-09-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:301050",
                         "date":  "2010-09-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:301051",
                         "date":  "2010-09-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Huracán",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:301053",
                         "date":  "2010-09-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:301052",
                         "date":  "2010-09-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:301048",
                         "date":  "2010-09-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:301063",
                         "date":  "2010-09-10",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:301060",
                         "date":  "2010-09-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "All Boys",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:301054",
                         "date":  "2010-09-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Banfield",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:301058",
                         "date":  "2010-09-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:301062",
                         "date":  "2010-09-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:301061",
                         "date":  "2010-09-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:301056",
                         "date":  "2010-09-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:301057",
                         "date":  "2010-09-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:301055",
                         "date":  "2010-09-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:301059",
                         "date":  "2010-09-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:301073",
                         "date":  "2010-09-17",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:301065",
                         "date":  "2010-09-18",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:301068",
                         "date":  "2010-09-18",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:301064",
                         "date":  "2010-09-18",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Tigre",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:301071",
                         "date":  "2010-09-18",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:301069",
                         "date":  "2010-09-18",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:301066",
                         "date":  "2010-09-19",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:301070",
                         "date":  "2010-09-19",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:301072",
                         "date":  "2010-09-19",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:301067",
                         "date":  "2010-09-19",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:301078",
                         "date":  "2010-09-24",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:301075",
                         "date":  "2010-09-25",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:301076",
                         "date":  "2010-09-25",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:301081",
                         "date":  "2010-09-25",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:301082",
                         "date":  "2010-09-25",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "All Boys",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:301080",
                         "date":  "2010-09-25",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:301079",
                         "date":  "2010-09-26",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:301074",
                         "date":  "2010-09-26",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:301083",
                         "date":  "2010-09-26",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:301077",
                         "date":  "2010-09-26",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:301041",
                         "date":  "2010-09-29",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:301091",
                         "date":  "2010-10-01",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:301090",
                         "date":  "2010-10-02",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:301086",
                         "date":  "2010-10-02",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:301084",
                         "date":  "2010-10-02",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:301093",
                         "date":  "2010-10-02",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:301085",
                         "date":  "2010-10-02",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:301089",
                         "date":  "2010-10-03",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:301088",
                         "date":  "2010-10-03",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:301087",
                         "date":  "2010-10-03",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:301092",
                         "date":  "2010-10-03",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:301101",
                         "date":  "2010-10-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:301099",
                         "date":  "2010-10-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:301094",
                         "date":  "2010-10-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "All Boys",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:301102",
                         "date":  "2010-10-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:301096",
                         "date":  "2010-10-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:301100",
                         "date":  "2010-10-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:301095",
                         "date":  "2010-10-10",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:301098",
                         "date":  "2010-10-10",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:301103",
                         "date":  "2010-10-10",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:301097",
                         "date":  "2010-10-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:301108",
                         "date":  "2010-10-15",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:301111",
                         "date":  "2010-10-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:301113",
                         "date":  "2010-10-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:301106",
                         "date":  "2010-10-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:301110",
                         "date":  "2010-10-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:301112",
                         "date":  "2010-10-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:301109",
                         "date":  "2010-10-17",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Lanús",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:301107",
                         "date":  "2010-10-17",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:301105",
                         "date":  "2010-10-17",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:301104",
                         "date":  "2010-10-17",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:301119",
                         "date":  "2010-10-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:301118",
                         "date":  "2010-10-23",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:301116",
                         "date":  "2010-10-23",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "All Boys",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:301117",
                         "date":  "2010-10-23",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:301121",
                         "date":  "2010-10-23",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Banfield",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:301122",
                         "date":  "2010-10-23",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:301114",
                         "date":  "2010-10-24",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:301115",
                         "date":  "2010-10-24",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:301123",
                         "date":  "2010-10-24",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:301120",
                         "date":  "2010-10-24",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:301129",
                         "date":  "2010-11-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Huracán",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:301131",
                         "date":  "2010-11-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:301133",
                         "date":  "2010-11-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:301124",
                         "date":  "2010-11-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:301125",
                         "date":  "2010-11-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:301127",
                         "date":  "2010-11-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:301128",
                         "date":  "2010-11-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:301126",
                         "date":  "2010-11-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:301130",
                         "date":  "2010-11-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:301132",
                         "date":  "2010-11-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:301134",
                         "date":  "2010-11-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:301142",
                         "date":  "2010-11-13",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:301139",
                         "date":  "2010-11-13",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "All Boys",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:301143",
                         "date":  "2010-11-13",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:301136",
                         "date":  "2010-11-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:301141",
                         "date":  "2010-11-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:301135",
                         "date":  "2010-11-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:301138",
                         "date":  "2010-11-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:301140",
                         "date":  "2010-11-15",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:301137",
                         "date":  "2010-11-16",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:301144",
                         "date":  "2010-11-19",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:301146",
                         "date":  "2010-11-20",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:301151",
                         "date":  "2010-11-20",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Huracán",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:301148",
                         "date":  "2010-11-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:301147",
                         "date":  "2010-11-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:301153",
                         "date":  "2010-11-21",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:301145",
                         "date":  "2010-11-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:301149",
                         "date":  "2010-11-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:301150",
                         "date":  "2010-11-22",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:301152",
                         "date":  "2010-11-23",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:301163",
                         "date":  "2010-11-26",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:301159",
                         "date":  "2010-11-27",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:301161",
                         "date":  "2010-11-27",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "All Boys",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:301162",
                         "date":  "2010-11-27",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:301155",
                         "date":  "2010-11-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:301160",
                         "date":  "2010-11-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:301157",
                         "date":  "2010-11-28",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:301154",
                         "date":  "2010-11-29",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Lanús",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:301156",
                         "date":  "2010-11-30",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:301158",
                         "date":  "2010-11-30",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:301169",
                         "date":  "2010-12-01",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:301166",
                         "date":  "2010-12-03",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:301165",
                         "date":  "2010-12-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:301171",
                         "date":  "2010-12-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:301170",
                         "date":  "2010-12-04",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:301168",
                         "date":  "2010-12-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:301173",
                         "date":  "2010-12-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:301164",
                         "date":  "2010-12-05",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:301167",
                         "date":  "2010-12-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:301172",
                         "date":  "2010-12-06",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:301183",
                         "date":  "2010-12-07",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "All Boys",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:301179",
                         "date":  "2010-12-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:301175",
                         "date":  "2010-12-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Tigre",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:301177",
                         "date":  "2010-12-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:301178",
                         "date":  "2010-12-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:301174",
                         "date":  "2010-12-08",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:301180",
                         "date":  "2010-12-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:301182",
                         "date":  "2010-12-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:301176",
                         "date":  "2010-12-09",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:301181",
                         "date":  "2010-12-10",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:301186",
                         "date":  "2010-12-11",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "All Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:301191",
                         "date":  "2010-12-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:301185",
                         "date":  "2010-12-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:301190",
                         "date":  "2010-12-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:301188",
                         "date":  "2010-12-12",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:301184",
                         "date":  "2010-12-13",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:301192",
                         "date":  "2010-12-13",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:301187",
                         "date":  "2010-12-13",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4591,6 +4973,7 @@
                     {
                         "id":  "espn:301193",
                         "date":  "2010-12-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4603,6 +4986,7 @@
                     {
                         "id":  "espn:301189",
                         "date":  "2010-12-14",
+                        "competition":  "Torneo Apertura 2010 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Quilmes",
                         "score":  {

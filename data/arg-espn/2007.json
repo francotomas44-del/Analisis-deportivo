@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:214077",
                         "date":  "2007-02-09",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:214078",
                         "date":  "2007-02-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:214079",
                         "date":  "2007-02-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:214080",
                         "date":  "2007-02-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:214085",
                         "date":  "2007-02-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Racing Club",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:214082",
                         "date":  "2007-02-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:214081",
                         "date":  "2007-02-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:214083",
                         "date":  "2007-02-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:214084",
                         "date":  "2007-02-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:214086",
                         "date":  "2007-02-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Quilmes",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:214091",
                         "date":  "2007-02-16",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:214093",
                         "date":  "2007-02-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:214090",
                         "date":  "2007-02-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:214087",
                         "date":  "2007-02-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:214094",
                         "date":  "2007-02-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:214095",
                         "date":  "2007-02-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:214088",
                         "date":  "2007-02-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:214096",
                         "date":  "2007-02-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:214092",
                         "date":  "2007-02-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:214089",
                         "date":  "2007-02-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:204419",
                         "date":  "2007-02-21",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:214105",
                         "date":  "2007-02-23",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:214098",
                         "date":  "2007-02-24",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:214101",
                         "date":  "2007-02-24",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:214100",
                         "date":  "2007-02-24",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:214104",
                         "date":  "2007-02-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:214097",
                         "date":  "2007-02-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:214106",
                         "date":  "2007-02-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Quilmes",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:214102",
                         "date":  "2007-02-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:214103",
                         "date":  "2007-02-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:214099",
                         "date":  "2007-02-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:214116",
                         "date":  "2007-03-02",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:214112",
                         "date":  "2007-03-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:214113",
                         "date":  "2007-03-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:214115",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:214109",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:214114",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:214107",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:214108",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:214111",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:214110",
                         "date":  "2007-03-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:214117",
                         "date":  "2007-03-09",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:214122",
                         "date":  "2007-03-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:214126",
                         "date":  "2007-03-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:214120",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:214125",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:214119",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:214118",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:214124",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:214121",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:214123",
                         "date":  "2007-03-11",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Racing Club",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:214135",
                         "date":  "2007-03-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:214132",
                         "date":  "2007-03-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:214131",
                         "date":  "2007-03-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:214134",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:214129",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:214133",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:214136",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:214128",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:214127",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:214130",
                         "date":  "2007-03-18",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "River Plate",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:214139",
                         "date":  "2007-03-23",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:214145",
                         "date":  "2007-03-24",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:214142",
                         "date":  "2007-03-24",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:214138",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:214141",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:214144",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:214146",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Quilmes",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:214137",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:214143",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:214140",
                         "date":  "2007-03-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:214147",
                         "date":  "2007-03-31",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:214148",
                         "date":  "2007-03-31",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:214154",
                         "date":  "2007-04-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:214149",
                         "date":  "2007-04-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:214152",
                         "date":  "2007-04-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:214155",
                         "date":  "2007-04-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:214151",
                         "date":  "2007-04-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:214157",
                         "date":  "2007-04-07",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:214166",
                         "date":  "2007-04-07",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:214164",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:214163",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:214165",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:214158",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:214160",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:214162",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:214159",
                         "date":  "2007-04-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:214173",
                         "date":  "2007-04-14",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:214176",
                         "date":  "2007-04-14",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:214167",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:214169",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:214172",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:214174",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:214168",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:214170",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:214171",
                         "date":  "2007-04-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:214177",
                         "date":  "2007-04-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:214178",
                         "date":  "2007-04-21",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:214183",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Independiente",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:214180",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:214181",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:214185",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:214184",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:214179",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:214182",
                         "date":  "2007-04-22",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:214161",
                         "date":  "2007-04-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Banfield",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:214156",
                         "date":  "2007-04-26",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:214194",
                         "date":  "2007-04-28",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:214195",
                         "date":  "2007-04-28",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:214187",
                         "date":  "2007-04-28",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:214190",
                         "date":  "2007-04-28",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:214196",
                         "date":  "2007-04-28",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:214189",
                         "date":  "2007-04-29",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:214191",
                         "date":  "2007-04-29",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:214192",
                         "date":  "2007-04-29",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:214193",
                         "date":  "2007-04-29",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:214188",
                         "date":  "2007-04-29",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:214153",
                         "date":  "2007-05-02",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:214150",
                         "date":  "2007-05-02",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:214199",
                         "date":  "2007-05-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:214205",
                         "date":  "2007-05-05",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:214198",
                         "date":  "2007-05-05",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:214201",
                         "date":  "2007-05-05",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:214204",
                         "date":  "2007-05-06",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:214202",
                         "date":  "2007-05-06",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:214206",
                         "date":  "2007-05-06",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:214197",
                         "date":  "2007-05-06",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:214203",
                         "date":  "2007-05-06",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:214200",
                         "date":  "2007-05-06",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:214175",
                         "date":  "2007-05-08",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:214216",
                         "date":  "2007-05-12",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:214212",
                         "date":  "2007-05-12",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:214213",
                         "date":  "2007-05-12",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:214209",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:214211",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Lanús",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:214214",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:214207",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:214208",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:214210",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:214215",
                         "date":  "2007-05-13",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:214222",
                         "date":  "2007-05-19",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:214221",
                         "date":  "2007-05-19",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:214224",
                         "date":  "2007-05-19",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:214218",
                         "date":  "2007-05-19",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:214226",
                         "date":  "2007-05-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:214223",
                         "date":  "2007-05-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:214225",
                         "date":  "2007-05-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:214219",
                         "date":  "2007-05-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:214217",
                         "date":  "2007-05-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:214220",
                         "date":  "2007-05-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:214186",
                         "date":  "2007-05-23",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:214234",
                         "date":  "2007-05-26",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:214231",
                         "date":  "2007-05-26",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Lanús",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:214232",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:214229",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:214236",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:214227",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:214235",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:214233",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:214228",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:214230",
                         "date":  "2007-05-27",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:214238",
                         "date":  "2007-06-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:214242",
                         "date":  "2007-06-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:214244",
                         "date":  "2007-06-01",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:214243",
                         "date":  "2007-06-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Independiente",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:214239",
                         "date":  "2007-06-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:214241",
                         "date":  "2007-06-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Banfield",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:214246",
                         "date":  "2007-06-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:214240",
                         "date":  "2007-06-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:214245",
                         "date":  "2007-06-03",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:214237",
                         "date":  "2007-06-04",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:214251",
                         "date":  "2007-06-09",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:214250",
                         "date":  "2007-06-09",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "River Plate",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:214253",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:214249",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:214248",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:214252",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:214247",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:214256",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:214255",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:214254",
                         "date":  "2007-06-10",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:214259",
                         "date":  "2007-06-15",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:214266",
                         "date":  "2007-06-16",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:214262",
                         "date":  "2007-06-16",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:214264",
                         "date":  "2007-06-16",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:214263",
                         "date":  "2007-06-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Independiente",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:214257",
                         "date":  "2007-06-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:214261",
                         "date":  "2007-06-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:214258",
                         "date":  "2007-06-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:214265",
                         "date":  "2007-06-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:214260",
                         "date":  "2007-06-17",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:221074",
                         "date":  "2007-06-20",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:221057",
                         "date":  "2007-06-21",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:221075",
                         "date":  "2007-06-24",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Huracán",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:221058",
                         "date":  "2007-06-25",
+                        "competition":  "Torneo Clausura 2007 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Tigre",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:223237",
                         "date":  "2007-08-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:223238",
                         "date":  "2007-08-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:223240",
                         "date":  "2007-08-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:223239",
                         "date":  "2007-08-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Tigre",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:223241",
                         "date":  "2007-08-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:223243",
                         "date":  "2007-08-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:223242",
                         "date":  "2007-08-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:223244",
                         "date":  "2007-08-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:223245",
                         "date":  "2007-08-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:223250",
                         "date":  "2007-08-10",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:223251",
                         "date":  "2007-08-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:223254",
                         "date":  "2007-08-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:223249",
                         "date":  "2007-08-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:223248",
                         "date":  "2007-08-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:223247",
                         "date":  "2007-08-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:223252",
                         "date":  "2007-08-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Huracán",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:223253",
                         "date":  "2007-08-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:223255",
                         "date":  "2007-08-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:223257",
                         "date":  "2007-08-17",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:223258",
                         "date":  "2007-08-18",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:223259",
                         "date":  "2007-08-18",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Tigre",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:223260",
                         "date":  "2007-08-18",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:223261",
                         "date":  "2007-08-18",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:223262",
                         "date":  "2007-08-19",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:223263",
                         "date":  "2007-08-19",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:223265",
                         "date":  "2007-08-19",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:223264",
                         "date":  "2007-08-19",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:223266",
                         "date":  "2007-08-19",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:223246",
                         "date":  "2007-08-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "River Plate",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:223273",
                         "date":  "2007-08-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:223268",
                         "date":  "2007-08-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:223270",
                         "date":  "2007-08-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:223274",
                         "date":  "2007-08-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:223275",
                         "date":  "2007-08-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:223272",
                         "date":  "2007-08-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:223267",
                         "date":  "2007-08-26",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:223271",
                         "date":  "2007-08-26",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "River Plate",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:223276",
                         "date":  "2007-08-26",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:223269",
                         "date":  "2007-08-26",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:223282",
                         "date":  "2007-08-28",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:223280",
                         "date":  "2007-08-28",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:223281",
                         "date":  "2007-08-28",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Tigre",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:223285",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:223283",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:223286",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:223279",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:223278",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:223277",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:223284",
                         "date":  "2007-08-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:223293",
                         "date":  "2007-08-31",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:223294",
                         "date":  "2007-09-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:223290",
                         "date":  "2007-09-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:223295",
                         "date":  "2007-09-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:223292",
                         "date":  "2007-09-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:223287",
                         "date":  "2007-09-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:223291",
                         "date":  "2007-09-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:223289",
                         "date":  "2007-09-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:223288",
                         "date":  "2007-09-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:223296",
                         "date":  "2007-09-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:223256",
                         "date":  "2007-09-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:223303",
                         "date":  "2007-09-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Tigre",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:223301",
                         "date":  "2007-09-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:223302",
                         "date":  "2007-09-08",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:223299",
                         "date":  "2007-09-08",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:223304",
                         "date":  "2007-09-08",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:223298",
                         "date":  "2007-09-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:223297",
                         "date":  "2007-09-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:223305",
                         "date":  "2007-09-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:223306",
                         "date":  "2007-09-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:223300",
                         "date":  "2007-09-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:223313",
                         "date":  "2007-09-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:223314",
                         "date":  "2007-09-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:223315",
                         "date":  "2007-09-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:223308",
                         "date":  "2007-09-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Huracán",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:223310",
                         "date":  "2007-09-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:223311",
                         "date":  "2007-09-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:223316",
                         "date":  "2007-09-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:223309",
                         "date":  "2007-09-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:223312",
                         "date":  "2007-09-12",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:223323",
                         "date":  "2007-09-15",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:223320",
                         "date":  "2007-09-15",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:223321",
                         "date":  "2007-09-15",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:223317",
                         "date":  "2007-09-15",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:223319",
                         "date":  "2007-09-15",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:223318",
                         "date":  "2007-09-16",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:223324",
                         "date":  "2007-09-16",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:223325",
                         "date":  "2007-09-16",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:223326",
                         "date":  "2007-09-16",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:223322",
                         "date":  "2007-09-16",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:223329",
                         "date":  "2007-09-21",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:223334",
                         "date":  "2007-09-22",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:223327",
                         "date":  "2007-09-22",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:223335",
                         "date":  "2007-09-22",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:223331",
                         "date":  "2007-09-22",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:223328",
                         "date":  "2007-09-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:223333",
                         "date":  "2007-09-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "River Plate",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:223336",
                         "date":  "2007-09-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:223332",
                         "date":  "2007-09-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:223330",
                         "date":  "2007-09-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:223341",
                         "date":  "2007-09-28",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Huracán",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:223337",
                         "date":  "2007-09-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Tigre",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:223343",
                         "date":  "2007-09-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:223340",
                         "date":  "2007-09-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:223339",
                         "date":  "2007-09-29",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:223342",
                         "date":  "2007-09-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:223346",
                         "date":  "2007-09-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:223338",
                         "date":  "2007-09-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:223345",
                         "date":  "2007-09-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:223344",
                         "date":  "2007-09-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:223350",
                         "date":  "2007-10-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:223348",
                         "date":  "2007-10-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:223349",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Banfield",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:223355",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:223352",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:223356",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:223354",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:223351",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:223353",
                         "date":  "2007-10-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:223363",
                         "date":  "2007-10-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Huracán",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:223362",
                         "date":  "2007-10-06",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:223361",
                         "date":  "2007-10-06",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:223358",
                         "date":  "2007-10-06",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:223359",
                         "date":  "2007-10-06",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:223365",
                         "date":  "2007-10-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:223366",
                         "date":  "2007-10-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:223364",
                         "date":  "2007-10-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:223360",
                         "date":  "2007-10-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Lanús",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:223357",
                         "date":  "2007-10-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:223307",
                         "date":  "2007-10-13",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:223373",
                         "date":  "2007-10-19",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:223372",
                         "date":  "2007-10-20",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:223371",
                         "date":  "2007-10-20",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Banfield",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:223370",
                         "date":  "2007-10-20",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:223374",
                         "date":  "2007-10-20",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:223375",
                         "date":  "2007-10-21",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:223367",
                         "date":  "2007-10-21",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:223369",
                         "date":  "2007-10-21",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:223376",
                         "date":  "2007-10-21",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:223368",
                         "date":  "2007-10-21",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:223347",
                         "date":  "2007-10-27",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:223380",
                         "date":  "2007-11-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:223381",
                         "date":  "2007-11-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Banfield",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:223383",
                         "date":  "2007-11-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:223378",
                         "date":  "2007-11-03",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:223384",
                         "date":  "2007-11-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:223377",
                         "date":  "2007-11-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:223385",
                         "date":  "2007-11-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:223386",
                         "date":  "2007-11-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:223382",
                         "date":  "2007-11-04",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:223379",
                         "date":  "2007-11-05",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:223387",
                         "date":  "2007-11-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:223394",
                         "date":  "2007-11-10",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:223392",
                         "date":  "2007-11-10",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:223390",
                         "date":  "2007-11-10",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:223391",
                         "date":  "2007-11-10",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:223389",
                         "date":  "2007-11-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:223388",
                         "date":  "2007-11-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:223393",
                         "date":  "2007-11-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:223396",
                         "date":  "2007-11-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:223395",
                         "date":  "2007-11-11",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:223405",
                         "date":  "2007-11-23",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:223403",
                         "date":  "2007-11-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:223398",
                         "date":  "2007-11-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:223404",
                         "date":  "2007-11-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:223406",
                         "date":  "2007-11-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:223399",
                         "date":  "2007-11-24",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:223401",
                         "date":  "2007-11-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:223400",
                         "date":  "2007-11-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:223397",
                         "date":  "2007-11-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Huracán",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:223402",
                         "date":  "2007-11-25",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:223423",
                         "date":  "2007-11-28",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:223422",
                         "date":  "2007-11-28",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:223414",
                         "date":  "2007-11-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:223410",
                         "date":  "2007-11-30",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:223411",
                         "date":  "2007-12-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "River Plate",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:223413",
                         "date":  "2007-12-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:223409",
                         "date":  "2007-12-01",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:223412",
                         "date":  "2007-12-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:223415",
                         "date":  "2007-12-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:223416",
                         "date":  "2007-12-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:223408",
                         "date":  "2007-12-02",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:223424",
                         "date":  "2007-12-07",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:223417",
                         "date":  "2007-12-08",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:223426",
                         "date":  "2007-12-08",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:223418",
                         "date":  "2007-12-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:223421",
                         "date":  "2007-12-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:223420",
                         "date":  "2007-12-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Independiente",
                         "score":  {
@@ -4591,6 +4973,7 @@
                     {
                         "id":  "espn:223425",
                         "date":  "2007-12-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4603,6 +4986,7 @@
                     {
                         "id":  "espn:223419",
                         "date":  "2007-12-09",
+                        "competition":  "Torneo Apertura 2007 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {

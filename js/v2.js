@@ -350,6 +350,39 @@
     return DISPLAY_NAME[k] || String(name);
   }
 
+  /* Torneo argentino a partir del slug de temporada de ESPN (event.season.slug).
+     Mismo criterio que scripts/build-arg-espn.ps1, para que lo bajado en vivo
+     quede en la misma competición que el historial (Apertura/Clausura/Inicial/
+     Final/Superliga/Copa Diego Armando Maradona/Liga Profesional/...). */
+  function seasonTail(t) {
+    var m = /^(\d{4})(\d{2})$/.exec(String(t));
+    return m ? m[1] + "-" + m[2] : String(t);
+  }
+  function cap1(s) { s = String(s); return s.charAt(0).toUpperCase() + s.slice(1); }
+  function arCompName(ev) {
+    var s = ev && ev.season ? ev.season : {};
+    var slug = String(s.slug || "");
+    var sy = s.year != null ? String(s.year) : "";
+    var m;
+    if (!slug) return "Liga Profesional (Argentina)";
+    if (/copa-diego-armando-maradona/.test(slug)) return "Copa Diego Armando Maradona 2020-21 (Argentina)";
+    if ((m = /^superliga-argentina-(.+)$/.exec(slug))) return "Superliga " + seasonTail(m[1]) + " (Argentina)";
+    if (/argentine-liga-profesional/.test(slug)) {
+      var y = (/(19|20)\d{2}/.exec(slug) || [])[0] || sy;
+      return "Liga Profesional " + y + " (Argentina)";
+    }
+    if (/^campeonato-de-1ra-division-/.test(slug)) {
+      return "Campeonato de Primera División " + seasonTail(slug.slice("campeonato-de-1ra-division-".length)) + " (Argentina)";
+    }
+    if ((m = /^torneo-de-primera-division-((19|20)\d{2})/.exec(slug))) return "Primera División " + m[1] + " (Argentina)";
+    if ((m = /^torneo-(apertura|clausura|inicial|final)-((19|20)\d{2})/.exec(slug))) return "Torneo " + cap1(m[1]) + " " + m[2] + " (Argentina)";
+    if ((m = /^torneo-(apertura|clausura)/.exec(slug))) return "Torneo " + cap1(m[1]) + " " + sy + " (Argentina)";
+    if ((m = /^(apertura|clausura)---/.exec(slug))) return "Torneo " + cap1(m[1]) + " " + sy + " (Argentina)";
+    if (/^pre-libertadores/.test(slug)) return "Liguilla Pre-Libertadores " + sy + " (Argentina)";
+    if (/^pre-sudamericana/.test(slug)) return "Liguilla Pre-Sudamericana " + sy + " (Argentina)";
+    return "Liga Profesional (Argentina)";
+  }
+
   function parseArLive(payload) {
     var evs = payload && payload.events;
     if (!Array.isArray(evs)) return [];
@@ -375,7 +408,7 @@
       out.push({
         date: date,
         time: m[4] + ":" + m[5] + " UTC+0", /* ESPN entrega la hora en UTC */
-        competition: "Liga Profesional (Argentina)",
+        competition: arCompName(ev),
         code: "ar.1",
         home: String(home),
         away: String(away),
@@ -412,7 +445,8 @@
       if (!m) continue;
       out.push({
         date: m[1] + "-" + m[2] + "-" + m[3],
-        competition: "Liga Profesional (Argentina)",
+        competition: arCompName(ev),
+        league: "Liga Profesional (Argentina)",
         home: String(home),
         away: String(away),
         homeGoals: hg,

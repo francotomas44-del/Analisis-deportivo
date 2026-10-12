@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:98208",
                         "date":  "2003-02-14",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:98210",
                         "date":  "2003-02-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:98211",
                         "date":  "2003-02-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:98209",
                         "date":  "2003-02-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:98212",
                         "date":  "2003-02-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:98216",
                         "date":  "2003-02-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:98215",
                         "date":  "2003-02-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:98217",
                         "date":  "2003-02-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:98214",
                         "date":  "2003-02-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:98213",
                         "date":  "2003-02-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:98218",
                         "date":  "2003-02-21",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:98222",
                         "date":  "2003-02-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:98219",
                         "date":  "2003-02-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:98221",
                         "date":  "2003-02-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:98220",
                         "date":  "2003-02-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Olimpo",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:98225",
                         "date":  "2003-02-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:98224",
                         "date":  "2003-02-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:98223",
                         "date":  "2003-02-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:98226",
                         "date":  "2003-02-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:98227",
                         "date":  "2003-02-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:98228",
                         "date":  "2003-02-28",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:98230",
                         "date":  "2003-03-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Independiente",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:98229",
                         "date":  "2003-03-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:98236",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:98232",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:98237",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:98234",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:98235",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:98231",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:98233",
                         "date":  "2003-03-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:98238",
                         "date":  "2003-03-07",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:98239",
                         "date":  "2003-03-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:98241",
                         "date":  "2003-03-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:98240",
                         "date":  "2003-03-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Olimpo",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:98247",
                         "date":  "2003-03-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:98242",
                         "date":  "2003-03-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:98245",
                         "date":  "2003-03-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:98246",
                         "date":  "2003-03-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:98243",
                         "date":  "2003-03-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:98244",
                         "date":  "2003-03-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:98248",
                         "date":  "2003-03-14",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:98249",
                         "date":  "2003-03-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:98250",
                         "date":  "2003-03-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:98251",
                         "date":  "2003-03-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:98256",
                         "date":  "2003-03-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:98252",
                         "date":  "2003-03-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:98253",
                         "date":  "2003-03-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:98254",
                         "date":  "2003-03-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:98257",
                         "date":  "2003-03-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:98255",
                         "date":  "2003-03-16",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:98258",
                         "date":  "2003-03-21",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:98260",
                         "date":  "2003-03-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:98261",
                         "date":  "2003-03-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Racing Club",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:98259",
                         "date":  "2003-03-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:98264",
                         "date":  "2003-03-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:98262",
                         "date":  "2003-03-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:98267",
                         "date":  "2003-03-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "River Plate",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:98266",
                         "date":  "2003-03-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:98265",
                         "date":  "2003-03-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:98263",
                         "date":  "2003-03-23",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Olimpo",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:98268",
                         "date":  "2003-03-28",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:98270",
                         "date":  "2003-03-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:98269",
                         "date":  "2003-03-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:98272",
                         "date":  "2003-03-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:98271",
                         "date":  "2003-03-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:98277",
                         "date":  "2003-03-30",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:98273",
                         "date":  "2003-03-30",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Banfield",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:98275",
                         "date":  "2003-03-30",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:98276",
                         "date":  "2003-03-30",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:98274",
                         "date":  "2003-03-30",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:98279",
                         "date":  "2003-04-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:98278",
                         "date":  "2003-04-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:98281",
                         "date":  "2003-04-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:98280",
                         "date":  "2003-04-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:98283",
                         "date":  "2003-04-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Huracán",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:98287",
                         "date":  "2003-04-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:98284",
                         "date":  "2003-04-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:98286",
                         "date":  "2003-04-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:98282",
                         "date":  "2003-04-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:98285",
                         "date":  "2003-04-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:98288",
                         "date":  "2003-04-11",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:98289",
                         "date":  "2003-04-12",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:98290",
                         "date":  "2003-04-12",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:98291",
                         "date":  "2003-04-12",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:98300",
                         "date":  "2003-04-13",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:98298",
                         "date":  "2003-04-13",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:98299",
                         "date":  "2003-04-13",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:98297",
                         "date":  "2003-04-13",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:98292",
                         "date":  "2003-04-13",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:98301",
                         "date":  "2003-04-13",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:98302",
                         "date":  "2003-04-18",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Huracán",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:98304",
                         "date":  "2003-04-19",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:98303",
                         "date":  "2003-04-19",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:98308",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:98305",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:98307",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:98311",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:98310",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:98306",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:98309",
                         "date":  "2003-04-20",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:98312",
                         "date":  "2003-05-02",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:98313",
                         "date":  "2003-05-03",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Independiente",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:98314",
                         "date":  "2003-05-03",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:98317",
                         "date":  "2003-05-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:98316",
                         "date":  "2003-05-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:98315",
                         "date":  "2003-05-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:98318",
                         "date":  "2003-05-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:98319",
                         "date":  "2003-05-04",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:98322",
                         "date":  "2003-05-09",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:98326",
                         "date":  "2003-05-10",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:98325",
                         "date":  "2003-05-10",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:98324",
                         "date":  "2003-05-10",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:98323",
                         "date":  "2003-05-10",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:98328",
                         "date":  "2003-05-11",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:98331",
                         "date":  "2003-05-11",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:98329",
                         "date":  "2003-05-11",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Huracán",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:98327",
                         "date":  "2003-05-11",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:98330",
                         "date":  "2003-05-11",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:98321",
                         "date":  "2003-05-17",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:98320",
                         "date":  "2003-05-17",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:98171",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:98170",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:98175",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:98172",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:98173",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:98178",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:98174",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:98177",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:98176",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:98179",
                         "date":  "2003-05-24",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:98168",
                         "date":  "2003-05-31",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:98183",
                         "date":  "2003-05-31",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:98169",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:98184",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:98185",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:98189",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:98187",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:98188",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:98186",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:98190",
                         "date":  "2003-06-01",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:98332",
                         "date":  "2003-06-07",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:98339",
                         "date":  "2003-06-07",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:98333",
                         "date":  "2003-06-07",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:98334",
                         "date":  "2003-06-07",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:98335",
                         "date":  "2003-06-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:98336",
                         "date":  "2003-06-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:98337",
                         "date":  "2003-06-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:98338",
                         "date":  "2003-06-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:98340",
                         "date":  "2003-06-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:98341",
                         "date":  "2003-06-08",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:98353",
                         "date":  "2003-06-14",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:98401",
                         "date":  "2003-06-14",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:98400",
                         "date":  "2003-06-14",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:98399",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:98393",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:98394",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:98395",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:98396",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:98397",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:98398",
                         "date":  "2003-06-15",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:98458",
                         "date":  "2003-06-21",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:98460",
                         "date":  "2003-06-21",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Lanús",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:98459",
                         "date":  "2003-06-21",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:98462",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:98457",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:98461",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:98463",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:98464",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:98465",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:98466",
                         "date":  "2003-06-22",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:98481",
                         "date":  "2003-06-28",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:98482",
                         "date":  "2003-06-28",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:98483",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:98489",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:98484",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Huracán",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:98485",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:98488",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:98486",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:98490",
                         "date":  "2003-06-29",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "River Plate",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:98542",
                         "date":  "2003-07-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:98544",
                         "date":  "2003-07-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:98543",
                         "date":  "2003-07-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Banfield",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:98545",
                         "date":  "2003-07-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:98546",
                         "date":  "2003-07-05",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:98547",
                         "date":  "2003-07-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:98548",
                         "date":  "2003-07-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:98550",
                         "date":  "2003-07-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:98551",
                         "date":  "2003-07-06",
+                        "competition":  "Torneo Clausura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:113775",
                         "date":  "2003-08-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:113980",
                         "date":  "2003-08-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:113979",
                         "date":  "2003-08-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:113981",
                         "date":  "2003-08-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:113982",
                         "date":  "2003-08-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:113983",
                         "date":  "2003-08-03",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:113984",
                         "date":  "2003-08-03",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Lanús",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:113987",
                         "date":  "2003-08-03",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:113985",
                         "date":  "2003-08-03",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:113986",
                         "date":  "2003-08-03",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:114943",
                         "date":  "2003-08-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:114948",
                         "date":  "2003-08-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:114944",
                         "date":  "2003-08-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:114945",
                         "date":  "2003-08-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:114946",
                         "date":  "2003-08-10",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:114947",
                         "date":  "2003-08-10",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:114950",
                         "date":  "2003-08-10",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:114949",
                         "date":  "2003-08-10",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:114951",
                         "date":  "2003-08-10",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:114952",
                         "date":  "2003-08-10",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:116670",
                         "date":  "2003-08-16",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:116671",
                         "date":  "2003-08-16",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:116672",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:116675",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:116673",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:116674",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:116676",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:116677",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:116678",
                         "date":  "2003-08-17",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:116679",
                         "date":  "2003-08-18",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:119264",
                         "date":  "2003-08-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:119265",
                         "date":  "2003-08-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:119266",
                         "date":  "2003-08-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:119267",
                         "date":  "2003-08-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:119268",
                         "date":  "2003-08-24",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:119270",
                         "date":  "2003-08-24",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:119269",
                         "date":  "2003-08-24",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:119271",
                         "date":  "2003-08-24",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:119272",
                         "date":  "2003-08-24",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:119434",
                         "date":  "2003-08-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:119435",
                         "date":  "2003-08-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:119436",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Independiente",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:119438",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:119440",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:119441",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:119439",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:119437",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:119442",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:119443",
                         "date":  "2003-08-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:119445",
                         "date":  "2003-09-27",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:119452",
                         "date":  "2003-09-27",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:119444",
                         "date":  "2003-09-27",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:119453",
                         "date":  "2003-09-27",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:119449",
                         "date":  "2003-09-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:119451",
                         "date":  "2003-09-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:119447",
                         "date":  "2003-09-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:119450",
                         "date":  "2003-09-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:119448",
                         "date":  "2003-09-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:119446",
                         "date":  "2003-09-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:119460",
                         "date":  "2003-09-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Independiente",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:119461",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:119462",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:119457",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:119458",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:119456",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:119459",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:119455",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:119463",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:119454",
                         "date":  "2003-10-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:119470",
                         "date":  "2003-10-04",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:119465",
                         "date":  "2003-10-04",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:119464",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:119471",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:119473",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:119472",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:119466",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:119469",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:119468",
                         "date":  "2003-10-05",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:119467",
                         "date":  "2003-10-06",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:128077",
                         "date":  "2003-10-11",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:128078",
                         "date":  "2003-10-11",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:128082",
                         "date":  "2003-10-11",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:128079",
                         "date":  "2003-10-11",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:128080",
                         "date":  "2003-10-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:128083",
                         "date":  "2003-10-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Banfield",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:128084",
                         "date":  "2003-10-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:128081",
                         "date":  "2003-10-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:128085",
                         "date":  "2003-10-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:128086",
                         "date":  "2003-10-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:119273",
                         "date":  "2003-10-15",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:128765",
                         "date":  "2003-10-18",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:128766",
                         "date":  "2003-10-18",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:128767",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:128770",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:128772",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:128769",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:128771",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:128768",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:128773",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:128774",
                         "date":  "2003-10-19",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:129836",
                         "date":  "2003-10-25",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:129837",
                         "date":  "2003-10-25",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:129838",
                         "date":  "2003-10-25",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:129839",
                         "date":  "2003-10-25",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:129840",
                         "date":  "2003-10-25",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:129841",
                         "date":  "2003-10-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:129842",
                         "date":  "2003-10-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Banfield",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:129843",
                         "date":  "2003-10-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:129844",
                         "date":  "2003-10-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:129845",
                         "date":  "2003-10-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:129846",
                         "date":  "2003-10-28",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:129847",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:129848",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:129849",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:129854",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:129850",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:129853",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Lanús",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:129851",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:129852",
                         "date":  "2003-10-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:129855",
                         "date":  "2003-10-31",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:130267",
                         "date":  "2003-11-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:130263",
                         "date":  "2003-11-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Olimpo",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:130264",
                         "date":  "2003-11-01",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:130265",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:130266",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:130268",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:130271",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:130270",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:130269",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:130272",
                         "date":  "2003-11-02",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:130906",
                         "date":  "2003-11-08",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:130907",
                         "date":  "2003-11-08",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:130908",
                         "date":  "2003-11-08",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:130909",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:130911",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:130910",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:130913",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Lanús",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:130912",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:130914",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:130915",
                         "date":  "2003-11-09",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:131292",
                         "date":  "2003-11-20",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:131293",
                         "date":  "2003-11-21",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:131294",
                         "date":  "2003-11-22",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:131295",
                         "date":  "2003-11-22",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:131296",
                         "date":  "2003-11-22",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:131300",
                         "date":  "2003-11-22",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:131298",
                         "date":  "2003-11-22",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:131301",
                         "date":  "2003-11-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:131297",
                         "date":  "2003-11-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:131299",
                         "date":  "2003-11-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:131302",
                         "date":  "2003-11-23",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:131303",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:131305",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:131308",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:131309",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:131310",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:131306",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:131307",
                         "date":  "2003-11-26",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:131304",
                         "date":  "2003-11-27",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:131311",
                         "date":  "2003-11-27",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:131315",
                         "date":  "2003-11-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:131312",
                         "date":  "2003-11-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:131313",
                         "date":  "2003-11-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:131314",
                         "date":  "2003-11-29",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:131319",
                         "date":  "2003-11-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Atletico Rafaela",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:131320",
                         "date":  "2003-11-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:131318",
                         "date":  "2003-11-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:131316",
                         "date":  "2003-11-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:131317",
                         "date":  "2003-11-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:131321",
                         "date":  "2003-11-30",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:131758",
                         "date":  "2003-12-06",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atletico Rafaela",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:131759",
                         "date":  "2003-12-06",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:131760",
                         "date":  "2003-12-06",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:131761",
                         "date":  "2003-12-06",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:131764",
                         "date":  "2003-12-07",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:131762",
                         "date":  "2003-12-07",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:131765",
                         "date":  "2003-12-07",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Chacarita Juniors",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:131763",
                         "date":  "2003-12-07",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Lanús",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:131766",
                         "date":  "2003-12-07",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:131767",
                         "date":  "2003-12-07",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:131855",
                         "date":  "2003-12-12",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:131856",
                         "date":  "2003-12-13",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Olimpo",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:131857",
                         "date":  "2003-12-13",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Independiente",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:131858",
                         "date":  "2003-12-13",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:131859",
                         "date":  "2003-12-14",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Chacarita Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:131862",
                         "date":  "2003-12-14",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:131860",
                         "date":  "2003-12-14",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:131861",
                         "date":  "2003-12-14",
+                        "competition":  "Torneo Apertura 2003 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Quilmes",
                         "score":  {

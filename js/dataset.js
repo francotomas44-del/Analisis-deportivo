@@ -71,7 +71,7 @@
       out.push({
         date: m.date || "",
         time: m.time || "",
-        competition: comp,
+        competition: m.competition ? String(m.competition) : comp,
         code: code || "",
         home: String(m.team1).trim(),
         away: String(m.team2).trim()
@@ -80,8 +80,13 @@
     return out;
   }
 
-  /* Convierte el JSON de openfootball a filas del modelo del sistema */
-  function convert(payload, comp) {
+  /* Convierte el JSON de la base a filas del modelo del sistema.
+     `comp` es la competicion de la liga (por codigo del manifiesto); `league`
+     es la liga a la que pertenecen los equipos (normalmente igual a `comp`).
+     Si el partido trae su propio torneo en `m.competition` (p. ej. los torneos
+     argentinos: Apertura/Clausura/Superliga/...), se usa ese como competicion
+     del partido, pero los equipos quedan agrupados bajo `league`. */
+  function convert(payload, comp, league) {
     var arr = payload && payload.matches;
     if (!Array.isArray(arr)) return [];
     var out = [];
@@ -94,7 +99,8 @@
       if (gh == null || ga == null || !isFinite(Number(gh)) || !isFinite(Number(ga))) continue;
       out.push({
         date: m.date || "",
-        competition: comp,
+        competition: m.competition ? String(m.competition) : comp,
+        league: league || comp,
         home: String(m.team1).trim(),
         away: String(m.team2).trim(),
         homeGoals: Number(gh),

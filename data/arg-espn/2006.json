@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:193943",
                         "date":  "2006-01-27",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:193942",
                         "date":  "2006-01-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:193944",
                         "date":  "2006-01-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:193945",
                         "date":  "2006-01-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:193946",
                         "date":  "2006-01-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:193947",
                         "date":  "2006-01-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Quilmes",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:193948",
                         "date":  "2006-01-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:193949",
                         "date":  "2006-01-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:193950",
                         "date":  "2006-01-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:193951",
                         "date":  "2006-01-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "River Plate",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:193952",
                         "date":  "2006-01-31",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:193953",
                         "date":  "2006-01-31",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:193955",
                         "date":  "2006-02-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Banfield",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:193957",
                         "date":  "2006-02-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:193958",
                         "date":  "2006-02-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:193959",
                         "date":  "2006-02-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:193960",
                         "date":  "2006-02-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Olimpo",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:193954",
                         "date":  "2006-02-03",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:193962",
                         "date":  "2006-02-03",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:193963",
                         "date":  "2006-02-04",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:193964",
                         "date":  "2006-02-04",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Quilmes",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:193965",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:193966",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:193967",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:193969",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:193970",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "River Plate",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:193968",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:193971",
                         "date":  "2006-02-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:193956",
                         "date":  "2006-02-08",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:193961",
                         "date":  "2006-02-08",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:193974",
                         "date":  "2006-02-10",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:193975",
                         "date":  "2006-02-11",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Olimpo",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:193980",
                         "date":  "2006-02-11",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:193972",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:193973",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:193978",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:193981",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:193979",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Banfield",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:193976",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:193977",
                         "date":  "2006-02-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:193984",
                         "date":  "2006-02-17",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:193988",
                         "date":  "2006-02-18",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:193985",
                         "date":  "2006-02-18",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Quilmes",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:193983",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:193986",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:193989",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Lanús",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:193982",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:193990",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:193991",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:193987",
                         "date":  "2006-02-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "River Plate",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:194000",
                         "date":  "2006-02-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:193994",
                         "date":  "2006-02-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:193993",
                         "date":  "2006-02-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:193995",
                         "date":  "2006-02-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Olimpo",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:194001",
                         "date":  "2006-02-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:193996",
                         "date":  "2006-02-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:193999",
                         "date":  "2006-02-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:193997",
                         "date":  "2006-02-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:193998",
                         "date":  "2006-02-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:193992",
                         "date":  "2006-02-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:194009",
                         "date":  "2006-02-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:194004",
                         "date":  "2006-02-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:194005",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Quilmes",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:194006",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:194007",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:194008",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:194010",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:194011",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:194002",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:194003",
                         "date":  "2006-03-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:194014",
                         "date":  "2006-03-04",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Independiente",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:194020",
                         "date":  "2006-03-04",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:194012",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:194017",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:194019",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:194021",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:194016",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:194015",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:194013",
                         "date":  "2006-03-05",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:194018",
                         "date":  "2006-03-06",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:194031",
                         "date":  "2006-03-11",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:194024",
                         "date":  "2006-03-11",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:194030",
                         "date":  "2006-03-11",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:194023",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:194029",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:194028",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:194022",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:194026",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:194027",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:194025",
                         "date":  "2006-03-12",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:194041",
                         "date":  "2006-03-17",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:194033",
                         "date":  "2006-03-18",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:194032",
                         "date":  "2006-03-18",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:194034",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:194039",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:194040",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:194038",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:194037",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:194036",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:194035",
                         "date":  "2006-03-19",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:194043",
                         "date":  "2006-03-24",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:194044",
                         "date":  "2006-03-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:194042",
                         "date":  "2006-03-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:194045",
                         "date":  "2006-03-25",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:194051",
                         "date":  "2006-03-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:194050",
                         "date":  "2006-03-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:194048",
                         "date":  "2006-03-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:194046",
                         "date":  "2006-03-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:194047",
                         "date":  "2006-03-26",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:194052",
                         "date":  "2006-03-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:194056",
                         "date":  "2006-03-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:194060",
                         "date":  "2006-03-28",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:194061",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:194059",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Lanús",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:194054",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:194058",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:194053",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:194055",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:194057",
                         "date":  "2006-03-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:194062",
                         "date":  "2006-04-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:194065",
                         "date":  "2006-04-01",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:194071",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:194068",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:194064",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:194063",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:194066",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:194070",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:194069",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:194067",
                         "date":  "2006-04-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:194079",
                         "date":  "2006-04-08",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:194076",
                         "date":  "2006-04-08",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:194075",
                         "date":  "2006-04-08",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:194081",
                         "date":  "2006-04-08",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:194074",
                         "date":  "2006-04-09",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:194073",
                         "date":  "2006-04-09",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:194078",
                         "date":  "2006-04-09",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:194072",
                         "date":  "2006-04-09",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:194080",
                         "date":  "2006-04-09",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:194077",
                         "date":  "2006-04-09",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:194088",
                         "date":  "2006-04-15",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:194086",
                         "date":  "2006-04-15",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:194089",
                         "date":  "2006-04-15",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:194082",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:194084",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:194085",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:194083",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:194090",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:194087",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:194091",
                         "date":  "2006-04-16",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:194096",
                         "date":  "2006-04-22",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:194095",
                         "date":  "2006-04-22",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Olimpo",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:194099",
                         "date":  "2006-04-22",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:194101",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:194094",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:194100",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:194093",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:194098",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:194097",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:194092",
                         "date":  "2006-04-23",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:194109",
                         "date":  "2006-04-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Banfield",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:194104",
                         "date":  "2006-04-29",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Independiente",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:194106",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:194102",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:194108",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:194105",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Quilmes",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:194111",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:194103",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:194107",
                         "date":  "2006-04-30",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:194110",
                         "date":  "2006-05-02",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:194112",
                         "date":  "2006-05-06",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:194120",
                         "date":  "2006-05-06",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:194113",
                         "date":  "2006-05-06",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:194119",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:194114",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:194116",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Olimpo",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:194115",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Tiro Federal",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:194117",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:194118",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:194121",
                         "date":  "2006-05-07",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:194049",
                         "date":  "2006-05-10",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:194128",
                         "date":  "2006-05-13",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:194129",
                         "date":  "2006-05-13",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Banfield",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:194131",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:194122",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:194130",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:194123",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:194124",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:194126",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Tiro Federal",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:194125",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Olimpo",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:194127",
                         "date":  "2006-05-14",
+                        "competition":  "Torneo Clausura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "River Plate",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:204263",
                         "date":  "2006-08-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:204264",
                         "date":  "2006-08-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:204265",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Independiente",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:204266",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:204269",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:204268",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:204270",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:204271",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:204272",
                         "date":  "2006-08-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:204267",
                         "date":  "2006-08-07",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:204274",
                         "date":  "2006-08-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:204280",
                         "date":  "2006-08-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:204278",
                         "date":  "2006-08-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:204279",
                         "date":  "2006-08-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:204277",
                         "date":  "2006-08-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:204282",
                         "date":  "2006-08-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:204276",
                         "date":  "2006-08-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:204275",
                         "date":  "2006-08-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:204281",
                         "date":  "2006-08-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:204287",
                         "date":  "2006-08-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:204285",
                         "date":  "2006-08-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:204291",
                         "date":  "2006-08-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:204286",
                         "date":  "2006-08-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:204284",
                         "date":  "2006-08-20",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:204283",
                         "date":  "2006-08-20",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:204288",
                         "date":  "2006-08-20",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Lanús",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:204292",
                         "date":  "2006-08-20",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:204289",
                         "date":  "2006-08-20",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:204290",
                         "date":  "2006-08-20",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:204297",
                         "date":  "2006-08-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:204295",
                         "date":  "2006-08-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:204293",
                         "date":  "2006-08-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:204294",
                         "date":  "2006-08-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:204298",
                         "date":  "2006-08-27",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:204301",
                         "date":  "2006-08-27",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:204302",
                         "date":  "2006-08-27",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:204299",
                         "date":  "2006-08-27",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:204300",
                         "date":  "2006-08-27",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:204296",
                         "date":  "2006-08-27",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:204310",
                         "date":  "2006-09-02",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:204308",
                         "date":  "2006-09-02",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:204307",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:204311",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "River Plate",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:204304",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:204303",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:204305",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:204306",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:204312",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:204309",
                         "date":  "2006-09-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Lanús",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:204321",
                         "date":  "2006-09-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:204320",
                         "date":  "2006-09-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:204313",
                         "date":  "2006-09-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:204315",
                         "date":  "2006-09-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:204319",
                         "date":  "2006-09-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:204317",
                         "date":  "2006-09-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:204318",
                         "date":  "2006-09-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:204314",
                         "date":  "2006-09-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:204316",
                         "date":  "2006-09-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Quilmes",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:204332",
                         "date":  "2006-09-16",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:204330",
                         "date":  "2006-09-16",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:204331",
                         "date":  "2006-09-16",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:204328",
                         "date":  "2006-09-17",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:204325",
                         "date":  "2006-09-17",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:204326",
                         "date":  "2006-09-17",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:204329",
                         "date":  "2006-09-17",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:204323",
                         "date":  "2006-09-17",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "River Plate",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:204327",
                         "date":  "2006-09-18",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:204341",
                         "date":  "2006-09-23",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:204340",
                         "date":  "2006-09-23",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:204335",
                         "date":  "2006-09-23",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:204337",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:204339",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:204342",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:204338",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:204334",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:204333",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Banfield",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:204336",
                         "date":  "2006-09-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:204344",
                         "date":  "2006-09-30",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:204347",
                         "date":  "2006-09-30",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:204343",
                         "date":  "2006-09-30",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:204350",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:204349",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:204352",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:204348",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:204346",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:204345",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:204351",
                         "date":  "2006-10-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Lanús",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:204362",
                         "date":  "2006-10-06",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:204354",
                         "date":  "2006-10-07",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:204360",
                         "date":  "2006-10-07",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:204361",
                         "date":  "2006-10-07",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:204353",
                         "date":  "2006-10-07",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:204357",
                         "date":  "2006-10-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:204355",
                         "date":  "2006-10-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Banfield",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:204359",
                         "date":  "2006-10-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:204358",
                         "date":  "2006-10-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:204356",
                         "date":  "2006-10-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:204368",
                         "date":  "2006-10-14",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:204372",
                         "date":  "2006-10-14",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Lanús",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:204364",
                         "date":  "2006-10-14",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:204369",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:204371",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:204365",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:204363",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:204370",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:204367",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:204366",
                         "date":  "2006-10-15",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:204374",
                         "date":  "2006-10-21",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:204381",
                         "date":  "2006-10-21",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:204375",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:204373",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:204380",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:204378",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:204382",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:204376",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:204377",
                         "date":  "2006-10-22",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:204324",
                         "date":  "2006-10-25",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:204273",
                         "date":  "2006-10-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:204383",
                         "date":  "2006-10-28",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Lanús",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:204391",
                         "date":  "2006-10-28",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:204390",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:204388",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:204385",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:204389",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:204384",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Quilmes",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:204392",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:204386",
                         "date":  "2006-10-29",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:204379",
                         "date":  "2006-11-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:204400",
                         "date":  "2006-11-04",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:204399",
                         "date":  "2006-11-04",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:204395",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:204397",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:204398",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:204402",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:204396",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:204393",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:204394",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:204401",
                         "date":  "2006-11-05",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:204322",
                         "date":  "2006-11-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:204387",
                         "date":  "2006-11-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:204407",
                         "date":  "2006-11-11",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:204411",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:204412",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:204405",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:204404",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Lanús",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:204408",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:204403",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:204409",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:204406",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:204410",
                         "date":  "2006-11-12",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:204420",
                         "date":  "2006-11-18",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:204421",
                         "date":  "2006-11-18",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:204415",
                         "date":  "2006-11-18",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:204417",
                         "date":  "2006-11-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:204418",
                         "date":  "2006-11-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:204422",
                         "date":  "2006-11-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Banfield",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:204414",
                         "date":  "2006-11-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:204416",
                         "date":  "2006-11-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:204413",
                         "date":  "2006-11-19",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:204428",
                         "date":  "2006-11-24",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:204430",
                         "date":  "2006-11-25",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:204424",
                         "date":  "2006-11-25",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:204431",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:204427",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:204432",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:204429",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:204426",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:204425",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:204423",
                         "date":  "2006-11-26",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:204437",
                         "date":  "2006-12-01",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:204442",
                         "date":  "2006-12-02",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Quilmes",
                         "team2":  "Independiente",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:204441",
                         "date":  "2006-12-02",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Arsenal de Sarandí",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:204438",
                         "date":  "2006-12-02",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:204434",
                         "date":  "2006-12-02",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Colón de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:204439",
                         "date":  "2006-12-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:204436",
                         "date":  "2006-12-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Nueva Chicago",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:204433",
                         "date":  "2006-12-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia y Esgrima de Jujuy",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:204440",
                         "date":  "2006-12-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:204435",
                         "date":  "2006-12-03",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:204449",
                         "date":  "2006-12-08",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia y Esgrima de Jujuy",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:204450",
                         "date":  "2006-12-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Quilmes",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:204443",
                         "date":  "2006-12-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:204444",
                         "date":  "2006-12-09",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Nueva Chicago",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:204452",
                         "date":  "2006-12-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:204445",
                         "date":  "2006-12-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:204447",
                         "date":  "2006-12-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:204448",
                         "date":  "2006-12-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Colón de Santa Fe",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:204446",
                         "date":  "2006-12-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Lanús",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:204451",
                         "date":  "2006-12-10",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Arsenal de Sarandí",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:211855",
                         "date":  "2006-12-13",
+                        "competition":  "Torneo Apertura 2006 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {

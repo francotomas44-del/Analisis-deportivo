@@ -7,6 +7,7 @@
                     {
                         "id":  "espn:727959",
                         "date":  "2025-01-23",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -19,6 +20,7 @@
                     {
                         "id":  "espn:727967",
                         "date":  "2025-01-23",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -31,6 +33,7 @@
                     {
                         "id":  "espn:727957",
                         "date":  "2025-01-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Banfield",
                         "score":  {
@@ -43,6 +46,7 @@
                     {
                         "id":  "espn:727962",
                         "date":  "2025-01-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -55,6 +59,7 @@
                     {
                         "id":  "espn:727963",
                         "date":  "2025-01-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -67,6 +72,7 @@
                     {
                         "id":  "espn:727953",
                         "date":  "2025-01-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Racing Club",
                         "score":  {
@@ -79,6 +85,7 @@
                     {
                         "id":  "espn:727960",
                         "date":  "2025-01-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -91,6 +98,7 @@
                     {
                         "id":  "espn:727954",
                         "date":  "2025-01-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Huracán",
                         "score":  {
@@ -103,6 +111,7 @@
                     {
                         "id":  "espn:727966",
                         "date":  "2025-01-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -115,6 +124,7 @@
                     {
                         "id":  "espn:727965",
                         "date":  "2025-01-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -127,6 +137,7 @@
                     {
                         "id":  "espn:727958",
                         "date":  "2025-01-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -139,6 +150,7 @@
                     {
                         "id":  "espn:727961",
                         "date":  "2025-01-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -151,6 +163,7 @@
                     {
                         "id":  "espn:727964",
                         "date":  "2025-01-26",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "River Plate",
                         "score":  {
@@ -163,6 +176,7 @@
                     {
                         "id":  "espn:727955",
                         "date":  "2025-01-26",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -175,6 +189,7 @@
                     {
                         "id":  "espn:727956",
                         "date":  "2025-01-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -187,6 +202,7 @@
                     {
                         "id":  "espn:727970",
                         "date":  "2025-01-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -199,6 +215,7 @@
                     {
                         "id":  "espn:727972",
                         "date":  "2025-01-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -211,6 +228,7 @@
                     {
                         "id":  "espn:727978",
                         "date":  "2025-01-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Lanús",
                         "score":  {
@@ -223,6 +241,7 @@
                     {
                         "id":  "espn:727979",
                         "date":  "2025-01-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -235,6 +254,7 @@
                     {
                         "id":  "espn:727975",
                         "date":  "2025-01-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -247,6 +267,7 @@
                     {
                         "id":  "espn:727981",
                         "date":  "2025-01-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Platense",
                         "score":  {
@@ -259,6 +280,7 @@
                     {
                         "id":  "espn:727973",
                         "date":  "2025-01-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -271,6 +293,7 @@
                     {
                         "id":  "espn:727980",
                         "date":  "2025-01-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -283,6 +306,7 @@
                     {
                         "id":  "espn:727974",
                         "date":  "2025-01-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -295,6 +319,7 @@
                     {
                         "id":  "espn:727969",
                         "date":  "2025-01-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -307,6 +332,7 @@
                     {
                         "id":  "espn:727977",
                         "date":  "2025-01-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -319,6 +345,7 @@
                     {
                         "id":  "espn:727968",
                         "date":  "2025-01-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -331,6 +358,7 @@
                     {
                         "id":  "espn:727976",
                         "date":  "2025-01-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -343,6 +371,7 @@
                     {
                         "id":  "espn:727982",
                         "date":  "2025-01-31",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -355,6 +384,7 @@
                     {
                         "id":  "espn:727971",
                         "date":  "2025-01-31",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -367,6 +397,7 @@
                     {
                         "id":  "espn:727985",
                         "date":  "2025-02-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Banfield",
                         "score":  {
@@ -379,6 +410,7 @@
                     {
                         "id":  "espn:727996",
                         "date":  "2025-02-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -391,6 +423,7 @@
                     {
                         "id":  "espn:727993",
                         "date":  "2025-02-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -403,6 +436,7 @@
                     {
                         "id":  "espn:727984",
                         "date":  "2025-02-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "River Plate",
                         "score":  {
@@ -415,6 +449,7 @@
                     {
                         "id":  "espn:727987",
                         "date":  "2025-02-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -427,6 +462,7 @@
                     {
                         "id":  "espn:727994",
                         "date":  "2025-02-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -439,6 +475,7 @@
                     {
                         "id":  "espn:727991",
                         "date":  "2025-02-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -451,6 +488,7 @@
                     {
                         "id":  "espn:727992",
                         "date":  "2025-02-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -463,6 +501,7 @@
                     {
                         "id":  "espn:727988",
                         "date":  "2025-02-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -475,6 +514,7 @@
                     {
                         "id":  "espn:727989",
                         "date":  "2025-02-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Racing Club",
                         "score":  {
@@ -487,6 +527,7 @@
                     {
                         "id":  "espn:727995",
                         "date":  "2025-02-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -499,6 +540,7 @@
                     {
                         "id":  "espn:727983",
                         "date":  "2025-02-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Platense",
                         "score":  {
@@ -511,6 +553,7 @@
                     {
                         "id":  "espn:727986",
                         "date":  "2025-02-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -523,6 +566,7 @@
                     {
                         "id":  "espn:727997",
                         "date":  "2025-02-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -535,6 +579,7 @@
                     {
                         "id":  "espn:727998",
                         "date":  "2025-02-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -547,6 +592,7 @@
                     {
                         "id":  "espn:728009",
                         "date":  "2025-02-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -559,6 +605,7 @@
                     {
                         "id":  "espn:727999",
                         "date":  "2025-02-07",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -571,6 +618,7 @@
                     {
                         "id":  "espn:728000",
                         "date":  "2025-02-07",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -583,6 +631,7 @@
                     {
                         "id":  "espn:728003",
                         "date":  "2025-02-07",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Tigre",
                         "score":  {
@@ -595,6 +644,7 @@
                     {
                         "id":  "espn:728004",
                         "date":  "2025-02-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -607,6 +657,7 @@
                     {
                         "id":  "espn:728011",
                         "date":  "2025-02-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -619,6 +670,7 @@
                     {
                         "id":  "espn:728012",
                         "date":  "2025-02-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -631,6 +683,7 @@
                     {
                         "id":  "espn:728008",
                         "date":  "2025-02-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -643,6 +696,7 @@
                     {
                         "id":  "espn:728007",
                         "date":  "2025-02-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Independiente",
                         "score":  {
@@ -655,6 +709,7 @@
                     {
                         "id":  "espn:728006",
                         "date":  "2025-02-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -667,6 +722,7 @@
                     {
                         "id":  "espn:728001",
                         "date":  "2025-02-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -679,6 +735,7 @@
                     {
                         "id":  "espn:728005",
                         "date":  "2025-02-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -691,6 +748,7 @@
                     {
                         "id":  "espn:728002",
                         "date":  "2025-02-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -703,6 +761,7 @@
                     {
                         "id":  "espn:728010",
                         "date":  "2025-02-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -715,6 +774,7 @@
                     {
                         "id":  "espn:728015",
                         "date":  "2025-02-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -727,6 +787,7 @@
                     {
                         "id":  "espn:728017",
                         "date":  "2025-02-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -739,6 +800,7 @@
                     {
                         "id":  "espn:728019",
                         "date":  "2025-02-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Banfield",
                         "score":  {
@@ -751,6 +813,7 @@
                     {
                         "id":  "espn:728016",
                         "date":  "2025-02-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -763,6 +826,7 @@
                     {
                         "id":  "espn:728026",
                         "date":  "2025-02-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Racing Club",
                         "score":  {
@@ -775,6 +839,7 @@
                     {
                         "id":  "espn:728018",
                         "date":  "2025-02-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -787,6 +852,7 @@
                     {
                         "id":  "espn:728023",
                         "date":  "2025-02-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -799,6 +865,7 @@
                     {
                         "id":  "espn:728013",
                         "date":  "2025-02-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Huracán",
                         "score":  {
@@ -811,6 +878,7 @@
                     {
                         "id":  "espn:728021",
                         "date":  "2025-02-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -823,6 +891,7 @@
                     {
                         "id":  "espn:728020",
                         "date":  "2025-02-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "River Plate",
                         "score":  {
@@ -835,6 +904,7 @@
                     {
                         "id":  "espn:728022",
                         "date":  "2025-02-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -847,6 +917,7 @@
                     {
                         "id":  "espn:728024",
                         "date":  "2025-02-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Platense",
                         "score":  {
@@ -859,6 +930,7 @@
                     {
                         "id":  "espn:728025",
                         "date":  "2025-02-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -871,6 +943,7 @@
                     {
                         "id":  "espn:728014",
                         "date":  "2025-02-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -883,6 +956,7 @@
                     {
                         "id":  "espn:728027",
                         "date":  "2025-02-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -895,6 +969,7 @@
                     {
                         "id":  "espn:728042",
                         "date":  "2025-02-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -907,6 +982,7 @@
                     {
                         "id":  "espn:728028",
                         "date":  "2025-02-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -919,6 +995,7 @@
                     {
                         "id":  "espn:728031",
                         "date":  "2025-02-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -931,6 +1008,7 @@
                     {
                         "id":  "espn:728030",
                         "date":  "2025-02-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -943,6 +1021,7 @@
                     {
                         "id":  "espn:728034",
                         "date":  "2025-02-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Tigre",
                         "score":  {
@@ -955,6 +1034,7 @@
                     {
                         "id":  "espn:728038",
                         "date":  "2025-02-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -967,6 +1047,7 @@
                     {
                         "id":  "espn:728036",
                         "date":  "2025-02-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -979,6 +1060,7 @@
                     {
                         "id":  "espn:728039",
                         "date":  "2025-02-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Lanús",
                         "score":  {
@@ -991,6 +1073,7 @@
                     {
                         "id":  "espn:728033",
                         "date":  "2025-02-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1003,6 +1086,7 @@
                     {
                         "id":  "espn:728029",
                         "date":  "2025-02-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1015,6 +1099,7 @@
                     {
                         "id":  "espn:728032",
                         "date":  "2025-02-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1027,6 +1112,7 @@
                     {
                         "id":  "espn:728040",
                         "date":  "2025-02-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1039,6 +1125,7 @@
                     {
                         "id":  "espn:728037",
                         "date":  "2025-02-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Independiente",
                         "score":  {
@@ -1051,6 +1138,7 @@
                     {
                         "id":  "espn:728035",
                         "date":  "2025-02-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1063,6 +1151,7 @@
                     {
                         "id":  "espn:728041",
                         "date":  "2025-02-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1075,6 +1164,7 @@
                     {
                         "id":  "espn:728052",
                         "date":  "2025-02-21",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1087,6 +1177,7 @@
                     {
                         "id":  "espn:728053",
                         "date":  "2025-02-21",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1099,6 +1190,7 @@
                     {
                         "id":  "espn:728054",
                         "date":  "2025-02-21",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Platense",
                         "score":  {
@@ -1111,6 +1203,7 @@
                     {
                         "id":  "espn:728057",
                         "date":  "2025-02-22",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1123,6 +1216,7 @@
                     {
                         "id":  "espn:728056",
                         "date":  "2025-02-22",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1135,6 +1229,7 @@
                     {
                         "id":  "espn:728051",
                         "date":  "2025-02-22",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1147,6 +1242,7 @@
                     {
                         "id":  "espn:728044",
                         "date":  "2025-02-23",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "River Plate",
                         "score":  {
@@ -1159,6 +1255,7 @@
                     {
                         "id":  "espn:728043",
                         "date":  "2025-02-23",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1171,6 +1268,7 @@
                     {
                         "id":  "espn:728055",
                         "date":  "2025-02-23",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1183,6 +1281,7 @@
                     {
                         "id":  "espn:728048",
                         "date":  "2025-02-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1195,6 +1294,7 @@
                     {
                         "id":  "espn:728050",
                         "date":  "2025-02-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1207,6 +1307,7 @@
                     {
                         "id":  "espn:728049",
                         "date":  "2025-02-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1219,6 +1320,7 @@
                     {
                         "id":  "espn:728047",
                         "date":  "2025-02-24",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1231,6 +1333,7 @@
                     {
                         "id":  "espn:728045",
                         "date":  "2025-02-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Banfield",
                         "score":  {
@@ -1243,6 +1346,7 @@
                     {
                         "id":  "espn:728059",
                         "date":  "2025-02-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1255,6 +1359,7 @@
                     {
                         "id":  "espn:728071",
                         "date":  "2025-03-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1267,6 +1372,7 @@
                     {
                         "id":  "espn:728060",
                         "date":  "2025-03-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1279,6 +1385,7 @@
                     {
                         "id":  "espn:728065",
                         "date":  "2025-03-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1291,6 +1398,7 @@
                     {
                         "id":  "espn:728062",
                         "date":  "2025-03-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1303,6 +1411,7 @@
                     {
                         "id":  "espn:728072",
                         "date":  "2025-03-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Tigre",
                         "score":  {
@@ -1315,6 +1424,7 @@
                     {
                         "id":  "espn:728058",
                         "date":  "2025-03-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1327,6 +1437,7 @@
                     {
                         "id":  "espn:728066",
                         "date":  "2025-03-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1339,6 +1450,7 @@
                     {
                         "id":  "espn:728064",
                         "date":  "2025-03-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Lanús",
                         "score":  {
@@ -1351,6 +1463,7 @@
                     {
                         "id":  "espn:728070",
                         "date":  "2025-03-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1363,6 +1476,7 @@
                     {
                         "id":  "espn:728069",
                         "date":  "2025-03-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1375,6 +1489,7 @@
                     {
                         "id":  "espn:728061",
                         "date":  "2025-03-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1387,6 +1502,7 @@
                     {
                         "id":  "espn:728067",
                         "date":  "2025-03-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1399,6 +1515,7 @@
                     {
                         "id":  "espn:728068",
                         "date":  "2025-03-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -1411,6 +1528,7 @@
                     {
                         "id":  "espn:728063",
                         "date":  "2025-03-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1423,6 +1541,7 @@
                     {
                         "id":  "espn:728081",
                         "date":  "2025-03-07",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1435,6 +1554,7 @@
                     {
                         "id":  "espn:728078",
                         "date":  "2025-03-07",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1447,6 +1567,7 @@
                     {
                         "id":  "espn:728082",
                         "date":  "2025-03-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1459,6 +1580,7 @@
                     {
                         "id":  "espn:728075",
                         "date":  "2025-03-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Independiente",
                         "score":  {
@@ -1471,6 +1593,7 @@
                     {
                         "id":  "espn:728073",
                         "date":  "2025-03-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Huracán",
                         "score":  {
@@ -1483,6 +1606,7 @@
                     {
                         "id":  "espn:728087",
                         "date":  "2025-03-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Lanús",
                         "score":  {
@@ -1495,6 +1619,7 @@
                     {
                         "id":  "espn:728076",
                         "date":  "2025-03-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1507,6 +1632,7 @@
                     {
                         "id":  "espn:728080",
                         "date":  "2025-03-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Tigre",
                         "score":  {
@@ -1519,6 +1645,7 @@
                     {
                         "id":  "espn:728083",
                         "date":  "2025-03-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1531,6 +1658,7 @@
                     {
                         "id":  "espn:728074",
                         "date":  "2025-03-09",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1543,6 +1671,7 @@
                     {
                         "id":  "espn:728086",
                         "date":  "2025-03-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1555,6 +1684,7 @@
                     {
                         "id":  "espn:728079",
                         "date":  "2025-03-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1567,6 +1697,7 @@
                     {
                         "id":  "espn:728084",
                         "date":  "2025-03-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1579,6 +1710,7 @@
                     {
                         "id":  "espn:728085",
                         "date":  "2025-03-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1591,6 +1723,7 @@
                     {
                         "id":  "espn:728077",
                         "date":  "2025-03-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1603,6 +1736,7 @@
                     {
                         "id":  "espn:728088",
                         "date":  "2025-03-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -1615,6 +1749,7 @@
                     {
                         "id":  "espn:728098",
                         "date":  "2025-03-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -1627,6 +1762,7 @@
                     {
                         "id":  "espn:728100",
                         "date":  "2025-03-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "River Plate",
                         "score":  {
@@ -1639,6 +1775,7 @@
                     {
                         "id":  "espn:728099",
                         "date":  "2025-03-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -1651,6 +1788,7 @@
                     {
                         "id":  "espn:728094",
                         "date":  "2025-03-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -1663,6 +1801,7 @@
                     {
                         "id":  "espn:728091",
                         "date":  "2025-03-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -1675,6 +1814,7 @@
                     {
                         "id":  "espn:728096",
                         "date":  "2025-03-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1687,6 +1827,7 @@
                     {
                         "id":  "espn:728092",
                         "date":  "2025-03-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1699,6 +1840,7 @@
                     {
                         "id":  "espn:728101",
                         "date":  "2025-03-16",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -1711,6 +1853,7 @@
                     {
                         "id":  "espn:728102",
                         "date":  "2025-03-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -1723,6 +1866,7 @@
                     {
                         "id":  "espn:728093",
                         "date":  "2025-03-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -1735,6 +1879,7 @@
                     {
                         "id":  "espn:728097",
                         "date":  "2025-03-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -1747,6 +1892,7 @@
                     {
                         "id":  "espn:728089",
                         "date":  "2025-03-17",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Banfield",
                         "score":  {
@@ -1759,6 +1905,7 @@
                     {
                         "id":  "espn:728090",
                         "date":  "2025-03-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -1771,6 +1918,7 @@
                     {
                         "id":  "espn:728095",
                         "date":  "2025-03-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Platense",
                         "score":  {
@@ -1783,6 +1931,7 @@
                     {
                         "id":  "espn:728046",
                         "date":  "2025-03-21",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1795,6 +1944,7 @@
                     {
                         "id":  "espn:727990",
                         "date":  "2025-03-22",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1807,6 +1957,7 @@
                     {
                         "id":  "espn:728117",
                         "date":  "2025-03-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -1819,6 +1970,7 @@
                     {
                         "id":  "espn:728103",
                         "date":  "2025-03-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -1831,6 +1983,7 @@
                     {
                         "id":  "espn:728111",
                         "date":  "2025-03-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Racing Club",
                         "score":  {
@@ -1843,6 +1996,7 @@
                     {
                         "id":  "espn:728114",
                         "date":  "2025-03-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Tigre",
                         "score":  {
@@ -1855,6 +2009,7 @@
                     {
                         "id":  "espn:728104",
                         "date":  "2025-03-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Huracán",
                         "score":  {
@@ -1867,6 +2022,7 @@
                     {
                         "id":  "espn:728106",
                         "date":  "2025-03-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Lanús",
                         "score":  {
@@ -1879,6 +2035,7 @@
                     {
                         "id":  "espn:728108",
                         "date":  "2025-03-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -1891,6 +2048,7 @@
                     {
                         "id":  "espn:728105",
                         "date":  "2025-03-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -1903,6 +2061,7 @@
                     {
                         "id":  "espn:728110",
                         "date":  "2025-03-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -1915,6 +2074,7 @@
                     {
                         "id":  "espn:728115",
                         "date":  "2025-03-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -1927,6 +2087,7 @@
                     {
                         "id":  "espn:728112",
                         "date":  "2025-03-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -1939,6 +2100,7 @@
                     {
                         "id":  "espn:728107",
                         "date":  "2025-03-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -1951,6 +2113,7 @@
                     {
                         "id":  "espn:728116",
                         "date":  "2025-03-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -1963,6 +2126,7 @@
                     {
                         "id":  "espn:728113",
                         "date":  "2025-03-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -1975,6 +2139,7 @@
                     {
                         "id":  "espn:728109",
                         "date":  "2025-03-30",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -1987,6 +2152,7 @@
                     {
                         "id":  "espn:728122",
                         "date":  "2025-04-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -1999,6 +2165,7 @@
                     {
                         "id":  "espn:728128",
                         "date":  "2025-04-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2011,6 +2178,7 @@
                     {
                         "id":  "espn:728123",
                         "date":  "2025-04-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2023,6 +2191,7 @@
                     {
                         "id":  "espn:728127",
                         "date":  "2025-04-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2035,6 +2204,7 @@
                     {
                         "id":  "espn:728124",
                         "date":  "2025-04-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2047,6 +2217,7 @@
                     {
                         "id":  "espn:728119",
                         "date":  "2025-04-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2059,6 +2230,7 @@
                     {
                         "id":  "espn:728129",
                         "date":  "2025-04-05",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "River Plate",
                         "score":  {
@@ -2071,6 +2243,7 @@
                     {
                         "id":  "espn:728125",
                         "date":  "2025-04-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente",
                         "score":  {
@@ -2083,6 +2256,7 @@
                     {
                         "id":  "espn:728130",
                         "date":  "2025-04-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2095,6 +2269,7 @@
                     {
                         "id":  "espn:728120",
                         "date":  "2025-04-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2107,6 +2282,7 @@
                     {
                         "id":  "espn:728118",
                         "date":  "2025-04-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2119,6 +2295,7 @@
                     {
                         "id":  "espn:728126",
                         "date":  "2025-04-06",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Banfield",
                         "score":  {
@@ -2131,6 +2308,7 @@
                     {
                         "id":  "espn:728121",
                         "date":  "2025-04-07",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Platense",
                         "score":  {
@@ -2143,6 +2321,7 @@
                     {
                         "id":  "espn:728132",
                         "date":  "2025-04-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2155,6 +2334,7 @@
                     {
                         "id":  "espn:728131",
                         "date":  "2025-04-08",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2167,6 +2347,7 @@
                     {
                         "id":  "espn:728134",
                         "date":  "2025-04-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2179,6 +2360,7 @@
                     {
                         "id":  "espn:728143",
                         "date":  "2025-04-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2191,6 +2373,7 @@
                     {
                         "id":  "espn:728146",
                         "date":  "2025-04-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2203,6 +2386,7 @@
                     {
                         "id":  "espn:728135",
                         "date":  "2025-04-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Tigre",
                         "score":  {
@@ -2215,6 +2399,7 @@
                     {
                         "id":  "espn:728136",
                         "date":  "2025-04-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2227,6 +2412,7 @@
                     {
                         "id":  "espn:728139",
                         "date":  "2025-04-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2239,6 +2425,7 @@
                     {
                         "id":  "espn:728142",
                         "date":  "2025-04-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2251,6 +2438,7 @@
                     {
                         "id":  "espn:728141",
                         "date":  "2025-04-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2263,6 +2451,7 @@
                     {
                         "id":  "espn:728145",
                         "date":  "2025-04-13",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2275,6 +2464,7 @@
                     {
                         "id":  "espn:728133",
                         "date":  "2025-04-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2287,6 +2477,7 @@
                     {
                         "id":  "espn:728137",
                         "date":  "2025-04-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Huracán",
                         "score":  {
@@ -2299,6 +2490,7 @@
                     {
                         "id":  "espn:728138",
                         "date":  "2025-04-14",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2311,6 +2503,7 @@
                     {
                         "id":  "espn:728140",
                         "date":  "2025-04-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Lanús",
                         "score":  {
@@ -2323,6 +2516,7 @@
                     {
                         "id":  "espn:728147",
                         "date":  "2025-04-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2335,6 +2529,7 @@
                     {
                         "id":  "espn:728144",
                         "date":  "2025-04-15",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2347,6 +2542,7 @@
                     {
                         "id":  "espn:728152",
                         "date":  "2025-04-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "River Plate",
                         "score":  {
@@ -2359,6 +2555,7 @@
                     {
                         "id":  "espn:728156",
                         "date":  "2025-04-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2371,6 +2568,7 @@
                     {
                         "id":  "espn:728160",
                         "date":  "2025-04-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2383,6 +2581,7 @@
                     {
                         "id":  "espn:728162",
                         "date":  "2025-04-19",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2395,6 +2594,7 @@
                     {
                         "id":  "espn:728155",
                         "date":  "2025-04-19",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Banfield",
                         "score":  {
@@ -2407,6 +2607,7 @@
                     {
                         "id":  "espn:728153",
                         "date":  "2025-04-19",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2419,6 +2620,7 @@
                     {
                         "id":  "espn:728150",
                         "date":  "2025-04-19",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2431,6 +2633,7 @@
                     {
                         "id":  "espn:728151",
                         "date":  "2025-04-20",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2443,6 +2646,7 @@
                     {
                         "id":  "espn:728158",
                         "date":  "2025-04-20",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2455,6 +2659,7 @@
                     {
                         "id":  "espn:728159",
                         "date":  "2025-04-20",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Platense",
                         "score":  {
@@ -2467,6 +2672,7 @@
                     {
                         "id":  "espn:728157",
                         "date":  "2025-04-20",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2479,6 +2685,7 @@
                     {
                         "id":  "espn:728148",
                         "date":  "2025-04-22",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2491,6 +2698,7 @@
                     {
                         "id":  "espn:728161",
                         "date":  "2025-04-22",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2503,6 +2711,7 @@
                     {
                         "id":  "espn:728154",
                         "date":  "2025-04-23",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2515,6 +2724,7 @@
                     {
                         "id":  "espn:728163",
                         "date":  "2025-04-26",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Banfield",
                         "score":  {
@@ -2527,6 +2737,7 @@
                     {
                         "id":  "espn:728164",
                         "date":  "2025-04-26",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -2539,6 +2750,7 @@
                     {
                         "id":  "espn:728165",
                         "date":  "2025-04-26",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -2551,6 +2763,7 @@
                     {
                         "id":  "espn:728175",
                         "date":  "2025-04-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2563,6 +2776,7 @@
                     {
                         "id":  "espn:728171",
                         "date":  "2025-04-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -2575,6 +2789,7 @@
                     {
                         "id":  "espn:728172",
                         "date":  "2025-04-27",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -2587,6 +2802,7 @@
                     {
                         "id":  "espn:728170",
                         "date":  "2025-04-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2599,6 +2815,7 @@
                     {
                         "id":  "espn:728177",
                         "date":  "2025-04-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -2611,6 +2828,7 @@
                     {
                         "id":  "espn:728169",
                         "date":  "2025-04-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -2623,6 +2841,7 @@
                     {
                         "id":  "espn:728167",
                         "date":  "2025-04-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Racing Club",
                         "score":  {
@@ -2635,6 +2854,7 @@
                     {
                         "id":  "espn:728168",
                         "date":  "2025-04-28",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Tigre",
                         "score":  {
@@ -2647,6 +2867,7 @@
                     {
                         "id":  "espn:728166",
                         "date":  "2025-04-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2659,6 +2880,7 @@
                     {
                         "id":  "espn:728176",
                         "date":  "2025-04-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -2671,6 +2893,7 @@
                     {
                         "id":  "espn:728173",
                         "date":  "2025-04-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Huracán",
                         "score":  {
@@ -2683,6 +2906,7 @@
                     {
                         "id":  "espn:728174",
                         "date":  "2025-04-29",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -2695,6 +2919,7 @@
                     {
                         "id":  "espn:728149",
                         "date":  "2025-05-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Independiente",
                         "score":  {
@@ -2707,6 +2932,7 @@
                     {
                         "id":  "espn:728178",
                         "date":  "2025-05-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2719,6 +2945,7 @@
                     {
                         "id":  "espn:728180",
                         "date":  "2025-05-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -2731,6 +2958,7 @@
                     {
                         "id":  "espn:728184",
                         "date":  "2025-05-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -2743,6 +2971,7 @@
                     {
                         "id":  "espn:728185",
                         "date":  "2025-05-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -2755,6 +2984,7 @@
                     {
                         "id":  "espn:728192",
                         "date":  "2025-05-02",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -2767,6 +2997,7 @@
                     {
                         "id":  "espn:728181",
                         "date":  "2025-05-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -2779,6 +3010,7 @@
                     {
                         "id":  "espn:728189",
                         "date":  "2025-05-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -2791,6 +3023,7 @@
                     {
                         "id":  "espn:728190",
                         "date":  "2025-05-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2803,6 +3036,7 @@
                     {
                         "id":  "espn:728187",
                         "date":  "2025-05-03",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Independiente",
                         "score":  {
@@ -2815,6 +3049,7 @@
                     {
                         "id":  "espn:728179",
                         "date":  "2025-05-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Lanús",
                         "score":  {
@@ -2827,6 +3062,7 @@
                     {
                         "id":  "espn:728183",
                         "date":  "2025-05-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2839,6 +3075,7 @@
                     {
                         "id":  "espn:728182",
                         "date":  "2025-05-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Platense",
                         "score":  {
@@ -2851,6 +3088,7 @@
                     {
                         "id":  "espn:728188",
                         "date":  "2025-05-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -2863,6 +3101,7 @@
                     {
                         "id":  "espn:728191",
                         "date":  "2025-05-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -2875,6 +3114,7 @@
                     {
                         "id":  "espn:728186",
                         "date":  "2025-05-04",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -2887,6 +3127,7 @@
                     {
                         "id":  "espn:735658",
                         "date":  "2025-05-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Tigre",
                         "score":  {
@@ -2899,6 +3140,7 @@
                     {
                         "id":  "espn:735662",
                         "date":  "2025-05-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -2911,6 +3153,7 @@
                     {
                         "id":  "espn:735660",
                         "date":  "2025-05-10",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Platense",
                         "score":  {
@@ -2923,6 +3166,7 @@
                     {
                         "id":  "espn:735659",
                         "date":  "2025-05-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -2935,6 +3179,7 @@
                     {
                         "id":  "espn:735664",
                         "date":  "2025-05-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -2947,6 +3192,7 @@
                     {
                         "id":  "espn:735665",
                         "date":  "2025-05-11",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -2959,6 +3205,7 @@
                     {
                         "id":  "espn:735661",
                         "date":  "2025-05-12",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -2971,6 +3218,7 @@
                     {
                         "id":  "espn:735759",
                         "date":  "2025-05-18",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -2983,6 +3231,7 @@
                     {
                         "id":  "espn:735761",
                         "date":  "2025-05-20",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Independiente",
                         "score":  {
@@ -2995,6 +3244,7 @@
                     {
                         "id":  "espn:735839",
                         "date":  "2025-05-25",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Platense",
                         "score":  {
@@ -3007,6 +3257,7 @@
                     {
                         "id":  "espn:736029",
                         "date":  "2025-06-01",
+                        "competition":  "Torneo Apertura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Platense",
                         "score":  {
@@ -3019,6 +3270,7 @@
                     {
                         "id":  "espn:728987",
                         "date":  "2025-07-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3031,6 +3283,7 @@
                     {
                         "id":  "espn:728999",
                         "date":  "2025-07-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3043,6 +3296,7 @@
                     {
                         "id":  "espn:728997",
                         "date":  "2025-07-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3055,6 +3309,7 @@
                     {
                         "id":  "espn:728988",
                         "date":  "2025-07-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3067,6 +3322,7 @@
                     {
                         "id":  "espn:728993",
                         "date":  "2025-07-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3079,6 +3335,7 @@
                     {
                         "id":  "espn:728995",
                         "date":  "2025-07-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3091,6 +3348,7 @@
                     {
                         "id":  "espn:728998",
                         "date":  "2025-07-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Independiente",
                         "score":  {
@@ -3103,6 +3361,7 @@
                     {
                         "id":  "espn:728989",
                         "date":  "2025-07-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3115,6 +3374,7 @@
                     {
                         "id":  "espn:728994",
                         "date":  "2025-07-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3127,6 +3387,7 @@
                     {
                         "id":  "espn:729001",
                         "date":  "2025-07-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3139,6 +3400,7 @@
                     {
                         "id":  "espn:728996",
                         "date":  "2025-07-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Platense",
                         "score":  {
@@ -3151,6 +3413,7 @@
                     {
                         "id":  "espn:728991",
                         "date":  "2025-07-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Lanús",
                         "score":  {
@@ -3163,6 +3426,7 @@
                     {
                         "id":  "espn:728990",
                         "date":  "2025-07-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3175,6 +3439,7 @@
                     {
                         "id":  "espn:729000",
                         "date":  "2025-07-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3187,6 +3452,7 @@
                     {
                         "id":  "espn:728992",
                         "date":  "2025-07-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -3199,6 +3465,7 @@
                     {
                         "id":  "espn:729005",
                         "date":  "2025-07-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3211,6 +3478,7 @@
                     {
                         "id":  "espn:729002",
                         "date":  "2025-07-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3223,6 +3491,7 @@
                     {
                         "id":  "espn:729014",
                         "date":  "2025-07-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3235,6 +3504,7 @@
                     {
                         "id":  "espn:729011",
                         "date":  "2025-07-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3247,6 +3517,7 @@
                     {
                         "id":  "espn:729008",
                         "date":  "2025-07-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3259,6 +3530,7 @@
                     {
                         "id":  "espn:729013",
                         "date":  "2025-07-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3271,6 +3543,7 @@
                     {
                         "id":  "espn:729010",
                         "date":  "2025-07-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -3283,6 +3556,7 @@
                     {
                         "id":  "espn:729003",
                         "date":  "2025-07-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3295,6 +3569,7 @@
                     {
                         "id":  "espn:729012",
                         "date":  "2025-07-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Banfield",
                         "score":  {
@@ -3307,6 +3582,7 @@
                     {
                         "id":  "espn:729016",
                         "date":  "2025-07-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3319,6 +3595,7 @@
                     {
                         "id":  "espn:729004",
                         "date":  "2025-07-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3331,6 +3608,7 @@
                     {
                         "id":  "espn:729009",
                         "date":  "2025-07-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3343,6 +3621,7 @@
                     {
                         "id":  "espn:729007",
                         "date":  "2025-07-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Huracán",
                         "score":  {
@@ -3355,6 +3634,7 @@
                     {
                         "id":  "espn:729006",
                         "date":  "2025-07-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3367,6 +3647,7 @@
                     {
                         "id":  "espn:729015",
                         "date":  "2025-07-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3379,6 +3660,7 @@
                     {
                         "id":  "espn:729028",
                         "date":  "2025-07-25",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Lanús",
                         "score":  {
@@ -3391,6 +3673,7 @@
                     {
                         "id":  "espn:729023",
                         "date":  "2025-07-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3403,6 +3686,7 @@
                     {
                         "id":  "espn:729030",
                         "date":  "2025-07-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Tigre",
                         "score":  {
@@ -3415,6 +3699,7 @@
                     {
                         "id":  "espn:729017",
                         "date":  "2025-07-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3427,6 +3712,7 @@
                     {
                         "id":  "espn:729027",
                         "date":  "2025-07-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3439,6 +3725,7 @@
                     {
                         "id":  "espn:729024",
                         "date":  "2025-07-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3451,6 +3738,7 @@
                     {
                         "id":  "espn:729031",
                         "date":  "2025-07-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3463,6 +3751,7 @@
                     {
                         "id":  "espn:729025",
                         "date":  "2025-07-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3475,6 +3764,7 @@
                     {
                         "id":  "espn:729021",
                         "date":  "2025-07-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Independiente",
                         "score":  {
@@ -3487,6 +3777,7 @@
                     {
                         "id":  "espn:729029",
                         "date":  "2025-07-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3499,6 +3790,7 @@
                     {
                         "id":  "espn:729022",
                         "date":  "2025-07-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3511,6 +3803,7 @@
                     {
                         "id":  "espn:729026",
                         "date":  "2025-07-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3523,6 +3816,7 @@
                     {
                         "id":  "espn:729020",
                         "date":  "2025-07-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3535,6 +3829,7 @@
                     {
                         "id":  "espn:729019",
                         "date":  "2025-07-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3547,6 +3842,7 @@
                     {
                         "id":  "espn:729018",
                         "date":  "2025-07-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3559,6 +3855,7 @@
                     {
                         "id":  "espn:729039",
                         "date":  "2025-08-07",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3571,6 +3868,7 @@
                     {
                         "id":  "espn:729033",
                         "date":  "2025-08-07",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -3583,6 +3881,7 @@
                     {
                         "id":  "espn:729038",
                         "date":  "2025-08-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3595,6 +3894,7 @@
                     {
                         "id":  "espn:729044",
                         "date":  "2025-08-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Huracán",
                         "score":  {
@@ -3607,6 +3907,7 @@
                     {
                         "id":  "espn:729043",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -3619,6 +3920,7 @@
                     {
                         "id":  "espn:729042",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3631,6 +3933,7 @@
                     {
                         "id":  "espn:729045",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -3643,6 +3946,7 @@
                     {
                         "id":  "espn:729036",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -3655,6 +3959,7 @@
                     {
                         "id":  "espn:729040",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "River Plate",
                         "score":  {
@@ -3667,6 +3972,7 @@
                     {
                         "id":  "espn:729046",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -3679,6 +3985,7 @@
                     {
                         "id":  "espn:729035",
                         "date":  "2025-08-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Banfield",
                         "score":  {
@@ -3691,6 +3998,7 @@
                     {
                         "id":  "espn:729034",
                         "date":  "2025-08-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -3703,6 +4011,7 @@
                     {
                         "id":  "espn:729041",
                         "date":  "2025-08-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -3715,6 +4024,7 @@
                     {
                         "id":  "espn:729032",
                         "date":  "2025-08-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3727,6 +4037,7 @@
                     {
                         "id":  "espn:729037",
                         "date":  "2025-08-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3739,6 +4050,7 @@
                     {
                         "id":  "espn:729047",
                         "date":  "2025-08-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -3751,6 +4063,7 @@
                     {
                         "id":  "espn:729054",
                         "date":  "2025-08-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -3763,6 +4076,7 @@
                     {
                         "id":  "espn:729056",
                         "date":  "2025-08-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Tigre",
                         "score":  {
@@ -3775,6 +4089,7 @@
                     {
                         "id":  "espn:729055",
                         "date":  "2025-08-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -3787,6 +4102,7 @@
                     {
                         "id":  "espn:729052",
                         "date":  "2025-08-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -3799,6 +4115,7 @@
                     {
                         "id":  "espn:729058",
                         "date":  "2025-08-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -3811,6 +4128,7 @@
                     {
                         "id":  "espn:729061",
                         "date":  "2025-08-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Independiente",
                         "score":  {
@@ -3823,6 +4141,7 @@
                     {
                         "id":  "espn:729050",
                         "date":  "2025-08-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3835,6 +4154,7 @@
                     {
                         "id":  "espn:729051",
                         "date":  "2025-08-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Lanús",
                         "score":  {
@@ -3847,6 +4167,7 @@
                     {
                         "id":  "espn:729048",
                         "date":  "2025-08-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -3859,6 +4180,7 @@
                     {
                         "id":  "espn:729049",
                         "date":  "2025-08-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -3871,6 +4193,7 @@
                     {
                         "id":  "espn:729057",
                         "date":  "2025-08-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -3883,6 +4206,7 @@
                     {
                         "id":  "espn:729053",
                         "date":  "2025-08-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -3895,6 +4219,7 @@
                     {
                         "id":  "espn:729059",
                         "date":  "2025-08-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -3907,6 +4232,7 @@
                     {
                         "id":  "espn:729060",
                         "date":  "2025-08-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -3919,6 +4245,7 @@
                     {
                         "id":  "espn:729064",
                         "date":  "2025-08-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -3931,6 +4258,7 @@
                     {
                         "id":  "espn:729075",
                         "date":  "2025-08-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -3943,6 +4271,7 @@
                     {
                         "id":  "espn:729073",
                         "date":  "2025-08-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -3955,6 +4284,7 @@
                     {
                         "id":  "espn:729072",
                         "date":  "2025-08-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -3967,6 +4297,7 @@
                     {
                         "id":  "espn:729063",
                         "date":  "2025-08-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -3979,6 +4310,7 @@
                     {
                         "id":  "espn:729074",
                         "date":  "2025-08-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -3991,6 +4323,7 @@
                     {
                         "id":  "espn:729076",
                         "date":  "2025-08-24",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Huracán",
                         "score":  {
@@ -4003,6 +4336,7 @@
                     {
                         "id":  "espn:729062",
                         "date":  "2025-08-24",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4015,6 +4349,7 @@
                     {
                         "id":  "espn:729066",
                         "date":  "2025-08-24",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -4027,6 +4362,7 @@
                     {
                         "id":  "espn:729067",
                         "date":  "2025-08-25",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4039,6 +4375,7 @@
                     {
                         "id":  "espn:729069",
                         "date":  "2025-08-25",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4051,6 +4388,7 @@
                     {
                         "id":  "espn:729065",
                         "date":  "2025-08-25",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4063,6 +4401,7 @@
                     {
                         "id":  "espn:729068",
                         "date":  "2025-08-25",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4075,6 +4414,7 @@
                     {
                         "id":  "espn:729071",
                         "date":  "2025-08-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "River Plate",
                         "score":  {
@@ -4087,6 +4427,7 @@
                     {
                         "id":  "espn:729091",
                         "date":  "2025-08-29",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Tigre",
                         "score":  {
@@ -4099,6 +4440,7 @@
                     {
                         "id":  "espn:729084",
                         "date":  "2025-08-29",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4111,6 +4453,7 @@
                     {
                         "id":  "espn:729083",
                         "date":  "2025-08-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Independiente",
                         "score":  {
@@ -4123,6 +4466,7 @@
                     {
                         "id":  "espn:729088",
                         "date":  "2025-08-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Huracán",
                         "score":  {
@@ -4135,6 +4479,7 @@
                     {
                         "id":  "espn:729079",
                         "date":  "2025-08-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4147,6 +4492,7 @@
                     {
                         "id":  "espn:729082",
                         "date":  "2025-08-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4159,6 +4505,7 @@
                     {
                         "id":  "espn:729090",
                         "date":  "2025-08-31",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -4171,6 +4518,7 @@
                     {
                         "id":  "espn:729077",
                         "date":  "2025-08-31",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4183,6 +4531,7 @@
                     {
                         "id":  "espn:729080",
                         "date":  "2025-08-31",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4195,6 +4544,7 @@
                     {
                         "id":  "espn:729078",
                         "date":  "2025-08-31",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -4207,6 +4557,7 @@
                     {
                         "id":  "espn:729087",
                         "date":  "2025-08-31",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4219,6 +4570,7 @@
                     {
                         "id":  "espn:729086",
                         "date":  "2025-09-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4231,6 +4583,7 @@
                     {
                         "id":  "espn:729081",
                         "date":  "2025-09-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4243,6 +4596,7 @@
                     {
                         "id":  "espn:729085",
                         "date":  "2025-09-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4255,6 +4609,7 @@
                     {
                         "id":  "espn:729092",
                         "date":  "2025-09-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4267,6 +4622,7 @@
                     {
                         "id":  "espn:729094",
                         "date":  "2025-09-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4279,6 +4635,7 @@
                     {
                         "id":  "espn:729098",
                         "date":  "2025-09-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4291,6 +4648,7 @@
                     {
                         "id":  "espn:729103",
                         "date":  "2025-09-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4303,6 +4661,7 @@
                     {
                         "id":  "espn:729101",
                         "date":  "2025-09-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -4315,6 +4674,7 @@
                     {
                         "id":  "espn:729102",
                         "date":  "2025-09-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4327,6 +4687,7 @@
                     {
                         "id":  "espn:729097",
                         "date":  "2025-09-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4339,6 +4700,7 @@
                     {
                         "id":  "espn:729099",
                         "date":  "2025-09-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Banfield",
                         "score":  {
@@ -4351,6 +4713,7 @@
                     {
                         "id":  "espn:729095",
                         "date":  "2025-09-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "River Plate",
                         "score":  {
@@ -4363,6 +4726,7 @@
                     {
                         "id":  "espn:729105",
                         "date":  "2025-09-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4375,6 +4739,7 @@
                     {
                         "id":  "espn:729096",
                         "date":  "2025-09-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4387,6 +4752,7 @@
                     {
                         "id":  "espn:729100",
                         "date":  "2025-09-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4399,6 +4765,7 @@
                     {
                         "id":  "espn:729104",
                         "date":  "2025-09-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4411,6 +4778,7 @@
                     {
                         "id":  "espn:729093",
                         "date":  "2025-09-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Platense",
                         "score":  {
@@ -4423,6 +4791,7 @@
                     {
                         "id":  "espn:729106",
                         "date":  "2025-09-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4435,6 +4804,7 @@
                     {
                         "id":  "espn:729112",
                         "date":  "2025-09-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4447,6 +4817,7 @@
                     {
                         "id":  "espn:729115",
                         "date":  "2025-09-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Racing Club",
                         "score":  {
@@ -4459,6 +4830,7 @@
                     {
                         "id":  "espn:729119",
                         "date":  "2025-09-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4471,6 +4843,7 @@
                     {
                         "id":  "espn:729117",
                         "date":  "2025-09-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Platense",
                         "score":  {
@@ -4483,6 +4856,7 @@
                     {
                         "id":  "espn:729109",
                         "date":  "2025-09-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4495,6 +4869,7 @@
                     {
                         "id":  "espn:729121",
                         "date":  "2025-09-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -4507,6 +4882,7 @@
                     {
                         "id":  "espn:729108",
                         "date":  "2025-09-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "River Plate",
                         "score":  {
@@ -4519,6 +4895,7 @@
                     {
                         "id":  "espn:729120",
                         "date":  "2025-09-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4531,6 +4908,7 @@
                     {
                         "id":  "espn:729116",
                         "date":  "2025-09-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4543,6 +4921,7 @@
                     {
                         "id":  "espn:729114",
                         "date":  "2025-09-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -4555,6 +4934,7 @@
                     {
                         "id":  "espn:729107",
                         "date":  "2025-09-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Banfield",
                         "score":  {
@@ -4567,6 +4947,7 @@
                     {
                         "id":  "espn:729118",
                         "date":  "2025-09-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -4579,6 +4960,7 @@
                     {
                         "id":  "espn:729111",
                         "date":  "2025-09-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4591,6 +4973,7 @@
                     {
                         "id":  "espn:729113",
                         "date":  "2025-09-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4603,6 +4986,7 @@
                     {
                         "id":  "espn:729110",
                         "date":  "2025-09-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4615,6 +4999,7 @@
                     {
                         "id":  "espn:729123",
                         "date":  "2025-09-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -4627,6 +5012,7 @@
                     {
                         "id":  "espn:729131",
                         "date":  "2025-09-26",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4639,6 +5025,7 @@
                     {
                         "id":  "espn:729125",
                         "date":  "2025-09-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Tigre",
                         "score":  {
@@ -4651,6 +5038,7 @@
                     {
                         "id":  "espn:729122",
                         "date":  "2025-09-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4663,6 +5051,7 @@
                     {
                         "id":  "espn:729127",
                         "date":  "2025-09-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -4675,6 +5064,7 @@
                     {
                         "id":  "espn:729134",
                         "date":  "2025-09-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -4687,6 +5077,7 @@
                     {
                         "id":  "espn:729126",
                         "date":  "2025-09-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -4699,6 +5090,7 @@
                     {
                         "id":  "espn:729135",
                         "date":  "2025-09-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -4711,6 +5103,7 @@
                     {
                         "id":  "espn:729132",
                         "date":  "2025-09-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente",
                         "score":  {
@@ -4723,6 +5116,7 @@
                     {
                         "id":  "espn:729133",
                         "date":  "2025-09-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -4735,6 +5129,7 @@
                     {
                         "id":  "espn:729128",
                         "date":  "2025-09-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Huracán",
                         "score":  {
@@ -4747,6 +5142,7 @@
                     {
                         "id":  "espn:729129",
                         "date":  "2025-09-28",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Lanús",
                         "score":  {
@@ -4759,6 +5155,7 @@
                     {
                         "id":  "espn:729124",
                         "date":  "2025-09-29",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4771,6 +5168,7 @@
                     {
                         "id":  "espn:729136",
                         "date":  "2025-09-29",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -4783,6 +5181,7 @@
                     {
                         "id":  "espn:729130",
                         "date":  "2025-09-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -4795,6 +5194,7 @@
                     {
                         "id":  "espn:729150",
                         "date":  "2025-10-03",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -4807,6 +5207,7 @@
                     {
                         "id":  "espn:729137",
                         "date":  "2025-10-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -4819,6 +5220,7 @@
                     {
                         "id":  "espn:729142",
                         "date":  "2025-10-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -4831,6 +5233,7 @@
                     {
                         "id":  "espn:729148",
                         "date":  "2025-10-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -4843,6 +5246,7 @@
                     {
                         "id":  "espn:729147",
                         "date":  "2025-10-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -4855,6 +5259,7 @@
                     {
                         "id":  "espn:729151",
                         "date":  "2025-10-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Platense",
                         "score":  {
@@ -4867,6 +5272,7 @@
                     {
                         "id":  "espn:729143",
                         "date":  "2025-10-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Banfield",
                         "score":  {
@@ -4879,6 +5285,7 @@
                     {
                         "id":  "espn:729144",
                         "date":  "2025-10-05",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -4891,6 +5298,7 @@
                     {
                         "id":  "espn:729138",
                         "date":  "2025-10-05",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Independiente",
                         "score":  {
@@ -4903,6 +5311,7 @@
                     {
                         "id":  "espn:729141",
                         "date":  "2025-10-05",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -4915,6 +5324,7 @@
                     {
                         "id":  "espn:729149",
                         "date":  "2025-10-05",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -4927,6 +5337,7 @@
                     {
                         "id":  "espn:729139",
                         "date":  "2025-10-05",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -4939,6 +5350,7 @@
                     {
                         "id":  "espn:729146",
                         "date":  "2025-10-06",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "River Plate",
                         "score":  {
@@ -4951,6 +5363,7 @@
                     {
                         "id":  "espn:729140",
                         "date":  "2025-10-06",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -4963,6 +5376,7 @@
                     {
                         "id":  "espn:729145",
                         "date":  "2025-10-07",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -4975,6 +5389,7 @@
                     {
                         "id":  "espn:729165",
                         "date":  "2025-10-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -4987,6 +5402,7 @@
                     {
                         "id":  "espn:729157",
                         "date":  "2025-10-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -4999,6 +5415,7 @@
                     {
                         "id":  "espn:729156",
                         "date":  "2025-10-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -5011,6 +5428,7 @@
                     {
                         "id":  "espn:729162",
                         "date":  "2025-10-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Tigre",
                         "score":  {
@@ -5023,6 +5441,7 @@
                     {
                         "id":  "espn:729158",
                         "date":  "2025-10-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -5035,6 +5454,7 @@
                     {
                         "id":  "espn:729153",
                         "date":  "2025-10-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Racing Club",
                         "score":  {
@@ -5047,6 +5467,7 @@
                     {
                         "id":  "espn:729155",
                         "date":  "2025-10-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -5059,6 +5480,7 @@
                     {
                         "id":  "espn:729166",
                         "date":  "2025-10-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -5071,6 +5493,7 @@
                     {
                         "id":  "espn:729152",
                         "date":  "2025-10-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Huracán",
                         "score":  {
@@ -5083,6 +5506,7 @@
                     {
                         "id":  "espn:729160",
                         "date":  "2025-10-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -5095,6 +5519,7 @@
                     {
                         "id":  "espn:729161",
                         "date":  "2025-10-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -5107,6 +5532,7 @@
                     {
                         "id":  "espn:729164",
                         "date":  "2025-10-12",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -5119,6 +5545,7 @@
                     {
                         "id":  "espn:729159",
                         "date":  "2025-10-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Lanús",
                         "score":  {
@@ -5131,6 +5558,7 @@
                     {
                         "id":  "espn:729163",
                         "date":  "2025-10-13",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -5143,6 +5571,7 @@
                     {
                         "id":  "espn:729175",
                         "date":  "2025-10-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -5155,6 +5584,7 @@
                     {
                         "id":  "espn:729167",
                         "date":  "2025-10-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -5167,6 +5597,7 @@
                     {
                         "id":  "espn:729174",
                         "date":  "2025-10-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -5179,6 +5610,7 @@
                     {
                         "id":  "espn:729173",
                         "date":  "2025-10-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Banfield",
                         "score":  {
@@ -5191,6 +5623,7 @@
                     {
                         "id":  "espn:729169",
                         "date":  "2025-10-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -5203,6 +5636,7 @@
                     {
                         "id":  "espn:729179",
                         "date":  "2025-10-18",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "River Plate",
                         "score":  {
@@ -5215,6 +5649,7 @@
                     {
                         "id":  "espn:729171",
                         "date":  "2025-10-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -5227,6 +5662,7 @@
                     {
                         "id":  "espn:729178",
                         "date":  "2025-10-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -5239,6 +5675,7 @@
                     {
                         "id":  "espn:729176",
                         "date":  "2025-10-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Platense",
                         "score":  {
@@ -5251,6 +5688,7 @@
                     {
                         "id":  "espn:729177",
                         "date":  "2025-10-19",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Independiente",
                         "score":  {
@@ -5263,6 +5701,7 @@
                     {
                         "id":  "espn:729170",
                         "date":  "2025-10-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -5275,6 +5714,7 @@
                     {
                         "id":  "espn:729180",
                         "date":  "2025-10-20",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -5287,6 +5727,7 @@
                     {
                         "id":  "espn:729168",
                         "date":  "2025-10-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -5299,6 +5740,7 @@
                     {
                         "id":  "espn:729181",
                         "date":  "2025-10-21",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -5311,6 +5753,7 @@
                     {
                         "id":  "espn:729172",
                         "date":  "2025-10-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -5323,6 +5766,7 @@
                     {
                         "id":  "espn:729089",
                         "date":  "2025-10-24",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -5335,6 +5779,7 @@
                     {
                         "id":  "espn:729070",
                         "date":  "2025-10-24",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Platense",
                         "score":  {
@@ -5347,6 +5792,7 @@
                     {
                         "id":  "espn:729154",
                         "date":  "2025-10-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -5359,6 +5805,7 @@
                     {
                         "id":  "espn:729195",
                         "date":  "2025-10-31",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -5371,6 +5818,7 @@
                     {
                         "id":  "espn:729191",
                         "date":  "2025-11-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -5383,6 +5831,7 @@
                     {
                         "id":  "espn:729192",
                         "date":  "2025-11-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -5395,6 +5844,7 @@
                     {
                         "id":  "espn:729182",
                         "date":  "2025-11-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -5407,6 +5857,7 @@
                     {
                         "id":  "espn:729184",
                         "date":  "2025-11-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -5419,6 +5870,7 @@
                     {
                         "id":  "espn:729187",
                         "date":  "2025-11-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -5431,6 +5883,7 @@
                     {
                         "id":  "espn:729190",
                         "date":  "2025-11-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -5443,6 +5896,7 @@
                     {
                         "id":  "espn:729188",
                         "date":  "2025-11-02",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Boca Juniors",
                         "score":  {
@@ -5455,6 +5909,7 @@
                     {
                         "id":  "espn:729189",
                         "date":  "2025-11-02",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -5467,6 +5922,7 @@
                     {
                         "id":  "espn:729194",
                         "date":  "2025-11-02",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "River Plate",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -5479,6 +5935,7 @@
                     {
                         "id":  "espn:729183",
                         "date":  "2025-11-03",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Huracán",
                         "score":  {
@@ -5491,6 +5948,7 @@
                     {
                         "id":  "espn:729193",
                         "date":  "2025-11-03",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -5503,6 +5961,7 @@
                     {
                         "id":  "espn:729186",
                         "date":  "2025-11-03",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Racing Club",
                         "score":  {
@@ -5515,6 +5974,7 @@
                     {
                         "id":  "espn:729196",
                         "date":  "2025-11-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Lanús",
                         "score":  {
@@ -5527,6 +5987,7 @@
                     {
                         "id":  "espn:729185",
                         "date":  "2025-11-04",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Tigre",
                         "score":  {
@@ -5539,6 +6000,7 @@
                     {
                         "id":  "espn:729206",
                         "date":  "2025-11-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -5551,6 +6013,7 @@
                     {
                         "id":  "espn:729203",
                         "date":  "2025-11-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Huracán",
                         "team2":  "Newell\u0027s Old Boys",
                         "score":  {
@@ -5563,6 +6026,7 @@
                     {
                         "id":  "espn:729205",
                         "date":  "2025-11-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "Defensa y Justicia",
                         "score":  {
@@ -5575,6 +6039,7 @@
                     {
                         "id":  "espn:729209",
                         "date":  "2025-11-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Talleres de Córdoba",
                         "team2":  "Platense",
                         "score":  {
@@ -5587,6 +6052,7 @@
                     {
                         "id":  "espn:729207",
                         "date":  "2025-11-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Martín (San Juan)",
                         "team2":  "Lanús",
                         "score":  {
@@ -5599,6 +6065,7 @@
                     {
                         "id":  "espn:729211",
                         "date":  "2025-11-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Barracas Central",
                         "score":  {
@@ -5611,6 +6078,7 @@
                     {
                         "id":  "espn:729200",
                         "date":  "2025-11-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "River Plate",
                         "score":  {
@@ -5623,6 +6091,7 @@
                     {
                         "id":  "espn:729199",
                         "date":  "2025-11-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Banfield",
                         "team2":  "Aldosivi",
                         "score":  {
@@ -5635,6 +6104,7 @@
                     {
                         "id":  "espn:729208",
                         "date":  "2025-11-09",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Sarmiento de Junín",
                         "team2":  "Instituto de Córdoba",
                         "score":  {
@@ -5647,6 +6117,7 @@
                     {
                         "id":  "espn:729198",
                         "date":  "2025-11-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Atlético Tucumán",
                         "team2":  "Godoy Cruz",
                         "score":  {
@@ -5659,6 +6130,7 @@
                     {
                         "id":  "espn:729210",
                         "date":  "2025-11-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Tigre",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -5671,6 +6143,7 @@
                     {
                         "id":  "espn:729202",
                         "date":  "2025-11-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Vélez Sarsfield",
                         "score":  {
@@ -5683,6 +6156,7 @@
                     {
                         "id":  "espn:729201",
                         "date":  "2025-11-10",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Deportivo Riestra",
                         "team2":  "Independiente",
                         "score":  {
@@ -5695,6 +6169,7 @@
                     {
                         "id":  "espn:729197",
                         "date":  "2025-11-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Argentinos Juniors",
                         "team2":  "Belgrano de Córdoba",
                         "score":  {
@@ -5707,6 +6182,7 @@
                     {
                         "id":  "espn:729204",
                         "date":  "2025-11-11",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente Rivadavia",
                         "team2":  "Central Córdoba SdE",
                         "score":  {
@@ -5719,6 +6195,7 @@
                     {
                         "id":  "espn:729222",
                         "date":  "2025-11-14",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Atlético Tucumán",
                         "score":  {
@@ -5731,6 +6208,7 @@
                     {
                         "id":  "espn:729212",
                         "date":  "2025-11-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Aldosivi",
                         "team2":  "San Martín (San Juan)",
                         "score":  {
@@ -5743,6 +6221,7 @@
                     {
                         "id":  "espn:729219",
                         "date":  "2025-11-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Godoy Cruz",
                         "team2":  "Deportivo Riestra",
                         "score":  {
@@ -5755,6 +6234,7 @@
                     {
                         "id":  "espn:729225",
                         "date":  "2025-11-15",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "San Lorenzo",
                         "team2":  "Sarmiento de Junín",
                         "score":  {
@@ -5767,6 +6247,7 @@
                     {
                         "id":  "espn:729220",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Independiente",
                         "team2":  "Rosario Central",
                         "score":  {
@@ -5779,6 +6260,7 @@
                     {
                         "id":  "espn:729221",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Instituto de Córdoba",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -5791,6 +6273,7 @@
                     {
                         "id":  "espn:729226",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "River Plate",
                         "score":  {
@@ -5803,6 +6286,7 @@
                     {
                         "id":  "espn:729215",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Tigre",
                         "score":  {
@@ -5815,6 +6299,7 @@
                     {
                         "id":  "espn:729216",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Banfield",
                         "score":  {
@@ -5827,6 +6312,7 @@
                     {
                         "id":  "espn:729218",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Estudiantes",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -5839,6 +6325,7 @@
                     {
                         "id":  "espn:729223",
                         "date":  "2025-11-16",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Newell\u0027s Old Boys",
                         "team2":  "Racing Club",
                         "score":  {
@@ -5851,6 +6338,7 @@
                     {
                         "id":  "espn:729213",
                         "date":  "2025-11-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Huracán",
                         "score":  {
@@ -5863,6 +6351,7 @@
                     {
                         "id":  "espn:729214",
                         "date":  "2025-11-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Belgrano de Córdoba",
                         "team2":  "Unión de Santa Fe",
                         "score":  {
@@ -5875,6 +6364,7 @@
                     {
                         "id":  "espn:729217",
                         "date":  "2025-11-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Defensa y Justicia",
                         "team2":  "Independiente Rivadavia",
                         "score":  {
@@ -5887,6 +6377,7 @@
                     {
                         "id":  "espn:729224",
                         "date":  "2025-11-17",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Platense",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -5899,6 +6390,7 @@
                     {
                         "id":  "espn:761360",
                         "date":  "2025-11-22",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Vélez Sarsfield",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -5911,6 +6403,7 @@
                     {
                         "id":  "espn:761361",
                         "date":  "2025-11-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "San Lorenzo",
                         "score":  {
@@ -5923,6 +6416,7 @@
                     {
                         "id":  "espn:761362",
                         "date":  "2025-11-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Rosario Central",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -5935,6 +6429,7 @@
                     {
                         "id":  "espn:761363",
                         "date":  "2025-11-23",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Talleres de Córdoba",
                         "score":  {
@@ -5947,6 +6442,7 @@
                     {
                         "id":  "espn:761365",
                         "date":  "2025-11-24",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Racing Club",
                         "team2":  "River Plate",
                         "score":  {
@@ -5959,6 +6455,7 @@
                     {
                         "id":  "espn:761366",
                         "date":  "2025-11-25",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Unión de Santa Fe",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -5971,6 +6468,7 @@
                     {
                         "id":  "espn:761367",
                         "date":  "2025-11-27",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Lanús",
                         "team2":  "Tigre",
                         "score":  {
@@ -5983,6 +6481,7 @@
                     {
                         "id":  "espn:761966",
                         "date":  "2025-11-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Central Córdoba SdE",
                         "team2":  "Estudiantes",
                         "score":  {
@@ -5995,6 +6494,7 @@
                     {
                         "id":  "espn:761967",
                         "date":  "2025-11-30",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Argentinos Juniors",
                         "score":  {
@@ -6007,6 +6507,7 @@
                     {
                         "id":  "espn:762062",
                         "date":  "2025-12-01",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Barracas Central",
                         "team2":  "Gimnasia de La Plata",
                         "score":  {
@@ -6019,6 +6520,7 @@
                     {
                         "id":  "espn:762356",
                         "date":  "2025-12-07",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Boca Juniors",
                         "team2":  "Racing Club",
                         "score":  {
@@ -6031,6 +6533,7 @@
                     {
                         "id":  "espn:762357",
                         "date":  "2025-12-08",
+                        "competition":  "Torneo Clausura 2025 (Argentina)",
                         "team1":  "Gimnasia de La Plata",
                         "team2":  "Estudiantes",
                         "score":  {
