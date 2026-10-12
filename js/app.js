@@ -135,7 +135,7 @@
       return '<option value="' + t.id + '">' + esc(t.name) + "</option>";
     }).join("");
 
-    ["partido-local", "partido-visitante", "an-local", "an-visitante"].forEach(function (id) {
+    ["partido-local", "partido-visitante", "an-local", "an-visitante", "bt-team-a", "bt-team-b"].forEach(function (id) {
       var el = $(id);
       if (!el) return;
       var prev = el.value;
@@ -678,6 +678,109 @@
       "</tr></thead><tbody>" + dRows + "</tbody></table></div>";
   }
 
+  /* ---------- comparación de equipos ---------- */
+  function teamNameById(id) { var t = S.getTeam(id); return t ? t.name : "?"; }
+
+  function btFilters() {
+    var minHistory = parseInt($("bt-minhistory").value, 10); if (isNaN(minHistory)) minHistory = 5;
+    return {
+      competition: $("bt-comp").value,
+      from: $("bt-from").value,
+      to: $("bt-to").value,
+      recency: (parseInt($("bt-recency").value, 10) || 0) / 100,
+      minHistory: minHistory
+    };
+  }
+
+  function runTeamComparison() {
+    if (!BT) return;
+    var a = $("bt-team-a").value, b = $("bt-team-b").value;
+    if (!a || !b) { $("bt-compare-status").textContent = "Elegí dos equipos."; return; }
+    if (a === b) { $("bt-compare-status").textContent = "Elegí dos equipos distintos."; return; }
+
+    var f = btFilters();
+    btStop = false;
+    $("btn-bt-compare").disabled = true;
+    $("btn-bt-stop").disabled = false;
+    $("bt-compare-status").textContent = "Procesando…";
+    setOverlay(true, "Comparando equipos…", "Evaluando partidos…", 0);
+
+    BT.run({
+      competition: f.competition, from: f.from, to: f.to, recency: f.recency, minHistory: f.minHistory,
+      focusTeams: [a, b],
+      shouldStop: function () { return btStop; }
+    }, function (done, total) {
+      setOverlay(true, "Comparando equipos…",
+        "Evaluados " + done.toLocaleString("es") + " de " + total.toLocaleString("es") + " partidos…",
+        total ? done / total : 0);
+    }).then(function (res) {
+      setOverlay(false);
+      $("btn-bt-compare").disabled = false;
+      $("btn-bt-stop").disabled = true;
+      renderComparison(res, a, b);
+    }).catch(function (e) {
+      setOverlay(false);
+      $("btn-bt-compare").disabled = false;
+      $("btn-bt-stop").disabled = true;
+      $("bt-compare-status").textContent = "Error: " + (e && e.message ? e.message : e);
+    });
+  }
+
+  function renderComparison(res, idA, idB) {
+    var nA = teamNameById(idA), nB = teamNameById(idB);
+    var A = res.byTeam && res.byTeam[idA];
+    var B = res.byTeam && res.byTeam[idB];
+
+    if ((!A || !A.n) && (!B || !B.n)) {
+      $("bt-compare-status").textContent = "Sin partidos evaluables para esos equipos con los filtros actuales.";
+      $("bt-comparacion").innerHTML = "";
+      return;
+    }
+    $("bt-compare-status").textContent = "Comparación generada · " + res.count.toLocaleString("es") + " partidos recorridos.";
+
+    function cell(x, fn) { return x && x.n ? fn(x) : '<span class="muted">—</span>'; }
+
+    var rows = [
+      ["Partidos evaluados", function (x) { return x.n.toLocaleString("es"); }],
+      ["Aciertos 1X2", function (x) { return (x.accuracy * 100).toFixed(1) + "%"; }],
+      ["Brier (menor mejor)", function (x) { return x.brier.toFixed(3); }],
+      ["Log Loss (menor mejor)", function (x) { return x.logloss.toFixed(3); }],
+      ["MAE goles totales", function (x) { return x.maeTotal.toFixed(2); }],
+      ["Goles a favor: esperado → real", function (x) { return x.expForAvg.toFixed(2) + " → " + x.actForAvg.toFixed(2); }],
+      ["Goles en contra: esperado → real", function (x) { return x.expAgainstAvg.toFixed(2) + " → " + x.actAgainstAvg.toFixed(2); }],
+      ["Como local / visitante", function (x) { return x.homeN + " / " + x.awayN; }]
+    ];
+
+    var body = rows.map(function (r) {
+      return "<tr><td>" + r[0] + "</td><td>" + cell(A, r[1]) + "</td><td>" + cell(B, r[1]) + "</td></tr>";
+    }).join("");
+
+    var html = '<div class="table-wrap"><table><thead><tr><th>Métrica</th><th>' + esc(nA) + "</th><th>" + esc(nB) +
+      "</th></tr></thead><tbody>" + body + "</tbody></table></div>";
+
+    var h = res.headToHead;
+    if (h && h.n) {
+      html += "<h3>Historial directo (" + h.n.toLocaleString("es") + " partidos)</h3>";
+      html += '<p class="muted">' + esc(nA) + " " + h.aWins + " · empates " + h.draws + " · " + esc(nB) + " " + h.bWins +
+        ". Modelo en esos partidos: aciertos " + (h.accuracy * 100).toFixed(1) + "%, Brier " + h.brier.toFixed(3) + ".</p>";
+      html += '<p class="muted">Goles de ' + esc(nA) + ": esperado " + h.expForAvg.toFixed(2) + " → real " + h.actForAvg.toFixed(2) +
+        "; en contra: esperado " + h.expAgainstAvg.toFixed(2) + " → real " + h.actAgainstAvg.toFixed(2) + ".</p>";
+      if (h.matches && h.matches.length) {
+        var hrows = h.matches.map(function (x) {
+          return "<tr><td>" + esc(x.date) + "<br><span class='muted'>" + esc(x.competition) + "</span></td>" +
+            "<td>" + esc(teamNameById(x.homeId)) + " <strong>" + x.hg + " - " + x.ag + "</strong> " + esc(teamNameById(x.awayId)) + "</td>" +
+            "<td>" + outcomeName(x.predicted) + "</td>" +
+            "<td>" + (x.hit ? '<span class="badge ok">Sí</span>' : '<span class="badge fail">No</span>') + "</td></tr>";
+        }).join("");
+        html += '<div class="table-wrap"><table><thead><tr><th>Fecha</th><th>Partido</th><th>Predicho</th><th>Acierto</th></tr></thead><tbody>' + hrows + "</tbody></table></div>";
+      }
+    } else {
+      html += '<p class="muted">No hay enfrentamientos directos registrados entre estos equipos (con los filtros actuales).</p>';
+    }
+
+    $("bt-comparacion").innerHTML = html;
+  }
+
   /* ---------- informe ---------- */
   function renderInformeSelect() {
     var st = S.state;
@@ -1037,7 +1140,8 @@
 
     // backtesting
     if ($("btn-bt-run")) $("btn-bt-run").addEventListener("click", runBacktest);
-    if ($("btn-bt-stop")) $("btn-bt-stop").addEventListener("click", function () { btStop = true; $("bt-status").textContent = "Deteniendo…"; });
+    if ($("btn-bt-compare")) $("btn-bt-compare").addEventListener("click", runTeamComparison);
+    if ($("btn-bt-stop")) $("btn-bt-stop").addEventListener("click", function () { btStop = true; $("bt-status").textContent = "Deteniendo…"; $("bt-compare-status").textContent = "Deteniendo…"; });
     var btr = $("bt-recency");
     if (btr) btr.addEventListener("input", function () { $("bt-recency-out").textContent = (btr.value || 0) + "%"; });
 

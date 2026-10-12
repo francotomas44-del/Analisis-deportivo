@@ -259,6 +259,26 @@
       </div>
 
       <div class="panel">
+        <h2>Comparar dos equipos</h2>
+        <p class="muted">Elegí <strong>dos equipos cualesquiera</strong> para comparar cómo le fue al modelo en sus partidos (mismo criterio walk-forward, con los filtros de arriba) y su historial directo entre sí.</p>
+        <div class="form-grid">
+          <label class="field">
+            <span>Equipo A</span>
+            <select id="bt-team-a"><option value="">— elegí —</option></select>
+          </label>
+          <label class="field">
+            <span>Equipo B</span>
+            <select id="bt-team-b"><option value="">— elegí —</option></select>
+          </label>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn-primary" id="btn-bt-compare" type="button">Comparar equipos</button>
+        </div>
+        <p class="muted" id="bt-compare-status"></p>
+        <div id="bt-comparacion"></div>
+      </div>
+
+      <div class="panel">
         <h2>Resultados globales</h2>
         <div id="bt-metricas" class="grid-cards"></div>
         <p class="muted" id="bt-baseline"></p>

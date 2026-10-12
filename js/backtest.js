@@ -154,6 +154,58 @@
     return { homeWin: h / s, draw: d / s, awayWin: a / s };
   }
 
+  /* Registra métricas por equipo (para comparar equipos) y su historial directo.
+     Solo anota los equipos "foco" (agg.focusSet); el resto se ignora. */
+  function recordFocus(agg, m, lh, la, b, ll, predicted, actual) {
+    var fs = agg.focusSet;
+    if (!fs) return;
+    var hit = predicted === actual ? 1 : 0;
+
+    function upd(id, isHome) {
+      if (!fs[id]) return;
+      var t = agg.byTeam[id];
+      if (!t) {
+        t = agg.byTeam[id] = {
+          n: 0, hits: 0, sumBrier: 0, sumLogLoss: 0, absTotal: 0,
+          expFor: 0, actFor: 0, expAgainst: 0, actAgainst: 0, homeN: 0, awayN: 0
+        };
+      }
+      var ef = isHome ? lh : la;
+      var ea = isHome ? la : lh;
+      var af = isHome ? m.homeGoals : m.awayGoals;
+      var aa = isHome ? m.awayGoals : m.homeGoals;
+      t.n++; t.hits += hit; t.sumBrier += b; t.sumLogLoss += ll;
+      t.expFor += ef; t.actFor += af; t.expAgainst += ea; t.actAgainst += aa;
+      t.absTotal += Math.abs((lh + la) - (m.homeGoals + m.awayGoals));
+      if (isHome) t.homeN++; else t.awayN++;
+    }
+    upd(m.homeId, true);
+    upd(m.awayId, false);
+
+    if (agg.pairA && agg.pairB) {
+      var isPair = (m.homeId === agg.pairA && m.awayId === agg.pairB) ||
+                   (m.homeId === agg.pairB && m.awayId === agg.pairA);
+      if (isPair) {
+        var h = agg.h2h;
+        var aIsHome = m.homeId === agg.pairA;
+        var ga = aIsHome ? m.homeGoals : m.awayGoals;
+        var gb = aIsHome ? m.awayGoals : m.homeGoals;
+        h.n++; h.hits += hit; h.sumBrier += b;
+        h.expFor += aIsHome ? lh : la; h.actFor += ga;
+        h.expAgainst += aIsHome ? la : lh; h.actAgainst += gb;
+        if (ga > gb) h.aWins++; else if (ga < gb) h.bWins++; else h.draws++;
+        if (h.matches.length < 12) {
+          h.matches.push({
+            date: m.date || "", competition: m.competition || "",
+            homeId: m.homeId, awayId: m.awayId,
+            hg: m.homeGoals, ag: m.awayGoals,
+            predicted: predicted, hit: predicted === actual
+          });
+        }
+      }
+    }
+  }
+
   /* Evalúa UN partido con el estado acumulado (historia previa). */
   function evaluateOne(m, acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature) {
     var ST = window.AD.stats;
@@ -195,6 +247,8 @@
     cal[bi].n++;
     cal[bi].probSum += conf;
     cal[bi].hitSum += (predicted === actual) ? 1 : 0;
+
+    if (agg.focusSet) recordFocus(agg, m, lh, la, b, ll, predicted, actual);
 
     if (detail.length < detailLimit) {
       detail.push({
@@ -264,6 +318,45 @@
         climatologyLogLoss: cl
       };
     }
+
+    // Métricas por equipo (comparación de equipos)
+    res.byTeam = {};
+    if (o.agg.focusSet) {
+      Object.keys(o.agg.byTeam).forEach(function (id) {
+        var t = o.agg.byTeam[id];
+        res.byTeam[id] = {
+          n: t.n,
+          accuracy: t.n ? t.hits / t.n : 0,
+          brier: t.n ? t.sumBrier / t.n : 0,
+          logloss: t.n ? t.sumLogLoss / t.n : 0,
+          maeTotal: t.n ? t.absTotal / t.n : 0,
+          expForAvg: t.n ? t.expFor / t.n : 0,
+          actForAvg: t.n ? t.actFor / t.n : 0,
+          expAgainstAvg: t.n ? t.expAgainst / t.n : 0,
+          actAgainstAvg: t.n ? t.actAgainst / t.n : 0,
+          homeN: t.homeN, awayN: t.awayN
+        };
+      });
+    }
+
+    // Historial directo entre los dos equipos comparados (desde la perspectiva de A)
+    if (o.agg.focusSet && o.agg.pairA) {
+      var h = o.agg.h2h;
+      res.headToHead = {
+        teamA: o.agg.pairA,
+        teamB: o.agg.pairB,
+        n: h.n,
+        accuracy: h.n ? h.hits / h.n : 0,
+        brier: h.n ? h.sumBrier / h.n : 0,
+        aWins: h.aWins, draws: h.draws, bWins: h.bWins,
+        expForAvg: h.n ? h.expFor / h.n : 0,
+        actForAvg: h.n ? h.actFor / h.n : 0,
+        expAgainstAvg: h.n ? h.expAgainst / h.n : 0,
+        actAgainstAvg: h.n ? h.actAgainst / h.n : 0,
+        matches: h.matches
+      };
+    }
+
     return res;
   }
 
@@ -287,6 +380,7 @@
     var to = opts.to || "";
     var max = opts.max || 0;
     var detailLimit = opts.detailLimit || 400;
+    var focusTeams = (opts.focusTeams && opts.focusTeams.length) ? opts.focusTeams.slice(0, 4) : null;
     var CHUNK = 4000;
 
     // 1) Filtrar y ordenar cronológicamente (solo partidos con marcador).
@@ -321,8 +415,16 @@
         absTot: 0, sqTot: 0, absHome: 0, absAway: 0,
         actHome: 0, actDraw: 0, actAway: 0,
         predHome: 0, predDraw: 0, predAway: 0,
-        skipped: 0
+        skipped: 0,
+        focusSet: null, pairA: null, pairB: null,
+        byTeam: {},
+        h2h: { n: 0, hits: 0, sumBrier: 0, expFor: 0, actFor: 0, expAgainst: 0, actAgainst: 0, aWins: 0, draws: 0, bWins: 0, matches: [] }
       };
+      if (focusTeams) {
+        agg.focusSet = {};
+        focusTeams.forEach(function (id) { agg.focusSet[id] = true; });
+        if (focusTeams.length === 2) { agg.pairA = focusTeams[0]; agg.pairB = focusTeams[1]; }
+      }
       var detail = [];
       var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max, rho: rho, temperature: temperature, smoothing: SC.smoothing || 12 };
       var t0 = Date.now();

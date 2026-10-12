@@ -42,6 +42,22 @@ El backtesting usa **acumuladores incrementales** por equipo, matemáticamente e
 - **Referencia — climatología del período**: acierto de "siempre gana el local" y Brier/Log Loss de predecir
   las frecuencias base del período. Sirve para saber si el modelo aporta algo frente a una predicción ingenua.
 
+## Comparar dos equipos
+
+El panel **"Comparar dos equipos"** usa el mismo recorrido walk-forward y permite enfrentar a **cualquier par de
+equipos de la base** (más de mil). Con los filtros activos en el panel de arriba (competición, fechas, historial
+mínimo, recencia):
+
+- **Tabla comparativa por equipo**: partidos evaluados de cada uno, aciertos 1X2, Brier, Log Loss, MAE de goles
+  totales, goles a favor/en contra *esperados → reales* y desglose local/visitante.
+- **Historial directo**: enfrentamientos entre ambos registrados en la muestra, victorias/empates de cada lado,
+  y cómo le fue al modelo en esos partidos (aciertos y Brier), con una muestra de hasta 12 cruces.
+
+Nota honesta: los números de cada equipo dependen de los filtros (p. ej. en "Todas" las competiciones se mezclan
+ligas y torneos), y como los nombres de un mismo equipo varían entre competiciones (p. ej. *Real Madrid*,
+*Real Madrid CF*, *Real Madrid (ESP)*) cada variante cuenta como un equipo distinto. Eso puede fragmentar el
+historial de un club real.
+
 ## Parámetros del modelo y calibración
 
 El motor tiene tres parámetros, todos **calibrados con este mismo backtesting** (no elegidos a ojo):
