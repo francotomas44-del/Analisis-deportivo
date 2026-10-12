@@ -302,6 +302,103 @@
     }
   }
 
+  /* ===== Liga Argentina en vivo (fuente: ESPN) =================
+     La base histórica (openfootball) no tiene la temporada 2026 de la
+     Argentina. Para la portada "Hoy" traemos los próximos partidos de la
+     Liga Profesional desde la API pública de ESPN (gratis, sin clave, con
+     CORS). Si no hay internet, se usa lo último guardado y la portada
+     sigue mostrando el resto (datos locales). Fuente citada en pantalla. */
+  var AR_LIVE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=2026&limit=1000";
+  var AR_LIVE_CACHE_KEY = "futbolityx:ar-live";
+  var AR_LIVE_TTL = 3 * 60 * 60 * 1000; /* 3 horas */
+
+  /* Nombres de equipo de ESPN -> nombres que usa la base histórica
+     (openfootball), para poder reutilizar el historial. Clave en minúsculas. */
+  var ESPN_ALIAS = {
+    "belgrano (córdoba)": "Belgrano de Córdoba",
+    "central córdoba (santiago del estero)": "Central Córdoba SdE",
+    "estudiantes de la plata": "Estudiantes",
+    "gimnasia la plata": "Gimnasia de La Plata",
+    "instituto (córdoba)": "Instituto de Córdoba",
+    "sarmiento (junín)": "Sarmiento de Junín",
+    "talleres (córdoba)": "Talleres de Córdoba"
+  };
+  function resolveTeamName(name) {
+    var k = String(name == null ? "" : name).trim().toLowerCase();
+    return ESPN_ALIAS[k] || name;
+  }
+
+  function parseArLive(payload) {
+    var evs = payload && payload.events;
+    if (!Array.isArray(evs)) return [];
+    var today = new Date().toISOString().slice(0, 10);
+    var out = [];
+    for (var i = 0; i < evs.length; i++) {
+      var ev = evs[i];
+      var comp = ev.competitions && ev.competitions[0];
+      if (!comp || !Array.isArray(comp.competitors)) continue;
+      var st = ev.status && ev.status.type ? ev.status.type.name : "";
+      if (st && st !== "STATUS_SCHEDULED") continue; /* solo partidos por jugar */
+      var m = /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/.exec(String(ev.date || ""));
+      if (!m) continue;
+      var date = m[1] + "-" + m[2] + "-" + m[3];
+      if (date < today) continue;
+      var home = "", away = "";
+      for (var j = 0; j < comp.competitors.length; j++) {
+        var c = comp.competitors[j];
+        if (c.homeAway === "home") home = c.team && c.team.displayName;
+        else if (c.homeAway === "away") away = c.team && c.team.displayName;
+      }
+      if (!home || !away) continue;
+      out.push({
+        date: date,
+        time: m[4] + ":" + m[5] + " UTC+0", /* ESPN entrega la hora en UTC */
+        competition: "Liga Profesional (Argentina)",
+        code: "ar.1",
+        home: String(home),
+        away: String(away),
+        live: true
+      });
+    }
+    return out;
+  }
+
+  var arLivePromise = null;
+  function loadArLive(force) {
+    if (arLivePromise && !force) return arLivePromise;
+
+    var cached = null;
+    try { var raw = localStorage.getItem(AR_LIVE_CACHE_KEY); if (raw) cached = JSON.parse(raw); } catch (e) { cached = null; }
+    function fromCache() {
+      var fx = (cached && Array.isArray(cached.fixtures)) ? cached.fixtures : [];
+      var today = new Date().toISOString().slice(0, 10);
+      return fx.filter(function (f) { return f && f.date >= today; });
+    }
+
+    if (!force && cached && (Date.now() - (cached.ts || 0)) < AR_LIVE_TTL) {
+      arLivePromise = Promise.resolve(fromCache());
+      return arLivePromise;
+    }
+
+    arLivePromise = fetch(AR_LIVE_URL, { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (p) {
+        var fx = parseArLive(p);
+        try { localStorage.setItem(AR_LIVE_CACHE_KEY, JSON.stringify({ ts: Date.now(), fixtures: fx })); } catch (e) {}
+        return fx;
+      })
+      .catch(function () { arLivePromise = null; return fromCache(); });
+    return arLivePromise;
+  }
+
+  /* Próximos partidos = locales (openfootball) + Liga Argentina en vivo
+     (si el usuario no la desactivó). */
+  function upcomingWithLive(localFx) {
+    localFx = localFx || [];
+    if (prefs.arLive === false) return Promise.resolve(localFx);
+    return loadArLive().then(function (ar) { return localFx.concat(ar || []); });
+  }
+
   /* ===== Motor de pronóstico (reutiliza AD.stats) ============== */
   var ctx = null;
 
@@ -351,7 +448,7 @@
   }
 
   /* ===== Portada "Hoy" ======================================== */
-  var cache = { fixtures: null, filter: "" };
+  var cache = { fixtures: null, local: null, filter: "" };
 
   function isActive() {
     var v = $("view-hoy");
@@ -379,6 +476,7 @@
       '<div id="hoy-list">' + skeleton(4) + "</div>";
 
     DS.loadUpcoming()
+      .then(function (fx) { cache.local = fx || []; return upcomingWithLive(cache.local); })
       .then(function (fx) { cache.fixtures = fx || []; renderList(); })
       .catch(function (e) {
         var list = $("hoy-list"), sub = $("hoy-sub");
@@ -468,7 +566,7 @@
 
     var items = shown.map(function (d) {
       var f = d.f;
-      var ht = S.getTeamByName(f.home), at = S.getTeamByName(f.away);
+      var ht = S.getTeamByName(resolveTeamName(f.home)), at = S.getTeamByName(resolveTeamName(f.away));
       var p = null;
       if (ht && at) { try { p = predict(ht.id, at.id, f.competition); } catch (e) { p = null; } }
       return { f: f, ht: ht, at: at, p: p, key: d.key };
@@ -481,9 +579,17 @@
         " · horarios en " + tzLabel() + " (" + gmtLabel() + ")";
     }
 
+    var anyLive = fixtures.some(function (f) { return f.live; });
     var parts = [];
-    parts.push('<div class="hoy-tools"><label class="hoy-field">' +
-      '<span>Competición</span><select id="hoy-comp">' + compOptions(fixtures) + "</select></label></div>");
+    parts.push('<div class="hoy-tools">' +
+      '<label class="hoy-field"><span>Competición</span>' +
+        '<select id="hoy-comp">' + compOptions(fixtures) + "</select></label>" +
+      '<label class="hoy-field hoy-live"><span>Fuente</span>' +
+        '<span class="hoy-live-pick"><input type="checkbox" id="hoy-live"' +
+          (prefs.arLive !== false ? " checked" : "") +
+        "> Liga Argentina (en vivo)</span></label>" +
+      "</div>");
+    if (anyLive) parts.push('<p class="hoy-src">Liga Profesional (Argentina) en vivo · fuente: ESPN</p>');
 
     var lastDay = null;
     items.forEach(function (it, i) {
@@ -501,6 +607,13 @@
       sel.value = filter;
       sel.addEventListener("change", function () { cache.filter = sel.value; renderList(); });
     }
+
+    var liveCb = $("hoy-live");
+    if (liveCb) liveCb.addEventListener("change", function () {
+      prefs.arLive = liveCb.checked;
+      savePrefs();
+      upcomingWithLive(cache.local || []).then(function (fx) { cache.fixtures = fx || []; renderList(); });
+    });
 
     listEl.querySelectorAll("[data-fx]").forEach(function (btn) {
       btn.addEventListener("click", function () { onCardAction(btn, items); });

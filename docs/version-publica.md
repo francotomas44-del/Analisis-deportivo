@@ -9,6 +9,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 |---|---|---|
 | **Portada** | Texto sobre "estadística honesta" | **"Hoy": próximos partidos con pronóstico 1X2** |
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
+| **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | Próximos partidos **en vivo desde ESPN**, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |
 | **Horarios** | Hora local de la sede, sin contexto | **Convertidos a la hora del país del usuario**; se elige el país (por defecto se detecta solo) |
@@ -24,6 +25,20 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 - Local: **http://localhost:8766/** (o el servidor LAN).
 - La primera vez carga la base histórica (~14 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
+
+## Liga Argentina en vivo
+
+La base de openfootball no incluye la temporada **2026** de la Liga Profesional
+Argentina. Para que igual aparezca en la portada, **Hoy** trae sus próximos
+partidos desde la **API pública de ESPN** (gratis, sin clave, con CORS):
+
+- Una sola petición al abrir la portada; la respuesta se guarda en caché unas
+  horas (y sirve sin internet con lo último descargado).
+- Los nombres de equipo de ESPN se mapean a los de la base (`ESPN_ALIAS` en
+  `js/v2.js`) para reutilizar el historial; los equipos sin historial se muestran
+  como **"Sin historial suficiente"** (nunca se inventan datos).
+- Se muestra la fuente en pantalla y se puede **desactivar** con la casilla
+  "Liga Argentina (en vivo)". Ver [`atribuciones.md`](atribuciones.md).
 
 ## Horarios por país
 
@@ -65,7 +80,8 @@ Cambiá `name`/`claim` y cambia en toda la interfaz (header, título, footer, te
 
 - **Dominio propio** y reserva de la marca "Futbolityx".
 - **i18n** (español/inglés y más).
-- **Datos "vivos"**: hoy el pronóstico sale de la base histórica empaquetada; para reflejar la
-  jornada real haría falta un build precomputado (GitHub Actions) o un backend mínimo.
+- **Datos "vivos"**: la **Liga Argentina** ya usa datos en vivo (ESPN); para el resto, el
+  pronóstico sale de la base histórica empaquetada, así que para reflejar la jornada real haría
+  falta un build precomputado (GitHub Actions) o más fuentes en vivo.
 - **Retención**: favoritos, "mi equipo", avisos.
-- **Renombrar el repositorio** a `Futbolityx` para que la URL coincida con la marca.
+- **Repositorio**: renombrado a `Futbolityx` (hecho) para que la URL coincida con la marca.

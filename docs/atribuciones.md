@@ -31,9 +31,26 @@ Los nombres de equipos, competiciones y ligas son **hechos** y se usan de forma
 oficiales de clubes, ligas o federaciones, y no implica afiliación ni respaldo
 alguno.
 
-## 2. Fuentes opcionales (importación manual)
+## 2. Fuente en vivo: Liga Profesional Argentina (ESPN)
 
-Futbolityx **no** llama a estas fuentes automáticamente ni incluye sus claves:
+La base histórica de openfootball **no** incluye la temporada 2026 de la Liga
+Profesional Argentina; por eso la portada **"Hoy"** trae sus próximos partidos
+desde la API pública de **ESPN**:
+
+- **Fuente:** `https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard`
+- **Qué se pide:** solo el calendario (fechas, equipos y horario) de los partidos
+  que faltan jugar. La petición es **anónima** (no envía datos del usuario) y se
+  hace al abrir la portada; la respuesta se cachea unas horas en el navegador.
+- **Condiciones:** datos y términos de **ESPN**. Se usan de forma **nominativa**
+  (solo nombres de equipos y horarios) y se **muestra la fuente** en pantalla.
+  Es un dato "en vivo": si ESPN no responde, la portada sigue funcionando con lo
+  último guardado y con la base local.
+- **Cómo desactivarla:** casilla "Liga Argentina (en vivo)" en la portada.
+
+## 3. Fuentes opcionales (importación manual)
+
+Futbolityx **no** llama automáticamente al resto de estas fuentes ni incluye sus
+claves:
 solo permite que el usuario importe datos que ya posee o descarga, respetando los
 términos de cada proveedor.
 
@@ -47,7 +64,7 @@ términos de cada proveedor.
 Es responsabilidad de quien importa datos **respetar las condiciones de uso** de
 cada fuente (límites de peticiones, atribución, prohibición de uso comercial, etc.).
 
-## 3. Código del proyecto
+## 4. Código del proyecto
 
 El código de Futbolityx se distribuye bajo **licencia MIT** (ver [`LICENSE`](../LICENSE)).
 No cubre los datos de terceros listados arriba.

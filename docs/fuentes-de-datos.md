@@ -17,6 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930** y ligas europeas, con goles y estadios | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
+| **ESPN** (en vivo) | No | — | ✅ `*` | Próximos partidos de la **Liga Profesional Argentina** (2026) para la portada "Hoy" | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -24,6 +25,20 @@ En la app están en la pestaña **Importar**:
 - OpenLigaDB: `api.openligadb.de/getmatchdata/<liga>/<temporada>`
 - openfootball: cualquier URL de JSON de `github.com/openfootball/...`
 - CSV de football-data.co.uk: se descarga el archivo y se sube con **"Subir archivo"**.
+
+### Fuente en vivo de la portada "Hoy" (automática)
+
+La base de openfootball **no** incluye la temporada 2026 de la Liga Profesional
+Argentina, así que la portada **"Hoy"** trae sus **próximos partidos** desde la
+API pública de **ESPN**:
+
+- Endpoint: `site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=2026&limit=1000`
+  (solo se piden fechas, equipos y horarios de partidos por jugar; la respuesta
+  se cachea unas horas en el navegador).
+- Se muestra la fuente en pantalla y se puede **desactivar** con la casilla
+  "Liga Argentina (en vivo)" de la portada. Si ESPN no responde, la portada sigue
+  funcionando con lo último guardado y con el resto de la base local.
+- Condiciones de uso: **ESPN**.
 
 ---
 
