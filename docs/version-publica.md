@@ -1,12 +1,11 @@
-# Futbolityx (v2) — versión de prueba "amistosa para el público"
+# Futbolityx — versión pública
 
-Esta carpeta describe el experimento de la rama **`v2-publico`**. La idea: tomar la app
-técnica existente y volverla **atractiva y entendible para cualquiera**, sin romper nada de
-lo que ya funcionaba. `main` queda intacto; esto es una prueba para "ver cómo queda".
+Esta es la **versión oficial y única** del proyecto (rama `main`). Toma la app técnica y la
+vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya funcionaba.
 
 ## Qué cambió (a lo grande)
 
-| Área | Antes | Ahora (v2) |
+| Área | Antes | Ahora |
 |---|---|---|
 | **Portada** | Texto sobre "estadística honesta" | **"Hoy": próximos partidos con pronóstico 1X2** |
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
@@ -21,6 +20,7 @@ lo que ya funcionaba. `main` queda intacto; esto es una prueba para "ver cómo q
 
 ## Cómo verla
 
+- Público: **https://francotomas44-del.github.io/Futbolunaki/** (GitHub Pages, desde `main`).
 - Local: **http://localhost:8766/** (o el servidor LAN).
 - La primera vez carga la base histórica (~14 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
@@ -68,4 +68,4 @@ Cambiá `name`/`claim` y cambia en toda la interfaz (header, título, footer, te
 - **Datos "vivos"**: hoy el pronóstico sale de la base histórica empaquetada; para reflejar la
   jornada real haría falta un build precomputado (GitHub Actions) o un backend mínimo.
 - **Retención**: favoritos, "mi equipo", avisos.
-- **Publicar** la v2 sin tocar `main` (p. ej. repo aparte o rama `gh-pages` dedicada).
+- **Renombrar el repositorio** a `Futbolityx` para que la URL coincida con la marca.
