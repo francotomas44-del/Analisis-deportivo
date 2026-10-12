@@ -9,7 +9,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 |---|---|---|
 | **Portada** | Texto sobre "estadística honesta" | **"Hoy": próximos partidos con pronóstico 1X2** |
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
-| **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | Próximos partidos **y resultados** de la temporada **desde ESPN**, con la misma tarjeta y pronóstico (se puede desactivar) |
+| **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | **Historial completo 2001 y 2003–2026 desde ESPN** (9.505 partidos, descargado) + temporada en curso en vivo, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |
 | **Horarios** | Hora local de la sede, sin contexto | **Convertidos a la hora del país del usuario**; se elige el país (por defecto se detecta solo) |
@@ -23,30 +23,30 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 
 - Público: **https://francotomas44-del.github.io/Futbolityx/** (GitHub Pages, desde `main`).
 - Local: **http://localhost:8766/** (o el servidor LAN).
-- La primera vez carga la base histórica (~14 MB, una sola vez).
+- La primera vez carga la base histórica (~17 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
 
 ## Liga Argentina (ESPN)
 
-La base de openfootball no incluye la temporada **2026** de la Liga Profesional
-Argentina ni a todos sus equipos actuales. Para que igual aparezca en la portada
-y tenga historial real, **Hoy** usa la **API pública de ESPN** (gratis, sin clave,
-con CORS):
+La base de openfootball solo trae 3 temporadas argentinas y no tiene la **2026**.
+Para tener el **máximo historial real**, la Liga Profesional Argentina se arma
+desde la **API pública de ESPN** (gratis, sin clave, con CORS):
 
-- Una sola petición al abrir la portada (calendario completo de la temporada); la
-  respuesta se guarda en caché unas horas (y sirve sin internet con lo último
-  descargado).
-- De esa respuesta se usan los partidos **por jugar** (portada) y los **ya
-  terminados** (historial), de modo que **todos** los equipos actuales —incluidos
-  los que no están en openfootball, como **Gimnasia y Esgrima de Mendoza**— tengan
-  historial y probabilidades. Nunca se inventan datos.
-- Los nombres de equipo de ESPN se mapean a los de la base (`ESPN_ALIAS` en
-  `js/v2.js`) para reutilizar el historial; el nombre visible se corrige con
-  `DISPLAY_NAME` (ESPN dice "Gimnasia (Mendoza)" → se muestra **"Gimnasia y
-  Esgrima de Mendoza"**). Los equipos sin datos siguen mostrando
-  **"Sin historial suficiente"**.
-- Se muestra la fuente en pantalla y se puede **desactivar** con la casilla
-  "Liga Argentina (en vivo)". Ver [`atribuciones.md`](atribuciones.md).
+- **Historial descargado:** `scripts/build-arg-espn.ps1` baja las temporadas
+  **2001 y 2003–2026** (**9.505 partidos**, solo partidos terminados en tiempo
+  regular) y las guarda en `data/arg-espn/<año>.json` (declaradas en
+  `data/manifest.json` con `source: "arg-espn"`). No hace falta internet para verlas.
+- **En vivo:** al abrir la portada, una sola petición trae la temporada en curso
+  (`dates=2026&limit=1000`); la respuesta se guarda en caché unas horas. De ahí se
+  usan los partidos **por jugar** (portada) y los **ya terminados** (historial). Los
+  que ya están descargados se detectan por su `id` de ESPN y **no se duplican**.
+- **Nombres de equipo:** `scripts/arg-team-map.json` (replicado en `js/v2.js`)
+  normaliza cada rótulo de ESPN a un nombre canónico para no partir el historial de
+  un club en dos; el nombre visible se corrige con `DISPLAY_NAME` (ESPN dice
+  "Gimnasia (Mendoza)" → se muestra **"Gimnasia y Esgrima de Mendoza"**). Los equipos
+  sin datos siguen mostrando **"Sin historial suficiente"**.
+- Se muestra la fuente en pantalla y la parte **en vivo** se puede **desactivar**
+  con la casilla "Liga Argentina (en vivo)". Ver [`atribuciones.md`](atribuciones.md).
 
 > **olé.com.ar** se evaluó como base para las ligas argentinas, pero sus datos los
 > sirve *LilaX* (`ole.lilax.io`) por JavaScript y **no son accesibles desde el

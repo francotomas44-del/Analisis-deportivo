@@ -1,8 +1,13 @@
-/* dataset.js — base histórica integrada (openfootball)
-   Carga los JSON locales en data/openfootball/ (descargados por scripts/build-dataset.ps1)
-   y los convierte al modelo del sistema usando AD.store.importBulk.
-
-   Fuente: openfootball (https://github.com/openfootball) — datos libres de dominio público.
+/* dataset.js — base histórica integrada
+   Carga los JSON locales bajo data/ y los convierte al modelo del sistema
+   usando AD.store.importBulk. Cada entrada de data/manifest.json trae su
+   carpeta de origen (`source`):
+     - openfootball: resto del mundo (data/openfootball/…), descargado por
+       scripts/build-dataset.ps1. Datos libres (dominio público/CC0).
+     - arg-espn: Liga Profesional Argentina (data/arg-espn/<año>.json),
+       descargada por scripts/build-arg-espn.ps1 desde la API pública de ESPN
+       (2001 y 2003..2026). Cada partido guarda su id de ESPN en `id` para no
+       duplicar lo que luego se refresca en vivo.
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
    Namespace: window.AD.dataset */
@@ -93,7 +98,8 @@
         home: String(m.team1).trim(),
         away: String(m.team2).trim(),
         homeGoals: Number(gh),
-        awayGoals: Number(ga)
+        awayGoals: Number(ga),
+        externalId: m.id != null ? String(m.id) : null
       });
     }
     return out;
@@ -121,7 +127,7 @@
         files.forEach(function (entry) {
           chain = chain.then(function () {
             var comp = compName(entry.code);
-            return fetch(BASE + "openfootball/" + entry.path, { cache: "force-cache" })
+            return fetch(BASE + (entry.source || "openfootball") + "/" + entry.path, { cache: "force-cache" })
               .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
               .then(function (p) {
                 var c = convert(p, comp);

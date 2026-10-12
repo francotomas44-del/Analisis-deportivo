@@ -1,0 +1,4220 @@
+{
+    "name":  "Liga Profesional (Argentina) 2021",
+    "code":  "ar.1",
+    "source":  "espn",
+    "season":  2021,
+    "matches":  [
+                    {
+                        "id":  "espn:590571",
+                        "date":  "2021-01-02",
+                        "team1":  "Rosario Central",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590576",
+                        "date":  "2021-01-03",
+                        "team1":  "Boca Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590568",
+                        "date":  "2021-01-03",
+                        "team1":  "Independiente",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590578",
+                        "date":  "2021-01-03",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590574",
+                        "date":  "2021-01-03",
+                        "team1":  "Patronato",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590575",
+                        "date":  "2021-01-04",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590577",
+                        "date":  "2021-01-04",
+                        "team1":  "Aldosivi",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590573",
+                        "date":  "2021-01-04",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590569",
+                        "date":  "2021-01-05",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590572",
+                        "date":  "2021-01-05",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590567",
+                        "date":  "2021-01-05",
+                        "team1":  "Huracán",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590570",
+                        "date":  "2021-01-06",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590564",
+                        "date":  "2021-01-09",
+                        "team1":  "Lanús",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590563",
+                        "date":  "2021-01-09",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590562",
+                        "date":  "2021-01-09",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590560",
+                        "date":  "2021-01-09",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590557",
+                        "date":  "2021-01-10",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590558",
+                        "date":  "2021-01-10",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590561",
+                        "date":  "2021-01-10",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590565",
+                        "date":  "2021-01-11",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590566",
+                        "date":  "2021-01-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590556",
+                        "date":  "2021-01-11",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590559",
+                        "date":  "2021-01-12",
+                        "team1":  "Estudiantes",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:590555",
+                        "date":  "2021-01-14",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:592443",
+                        "date":  "2021-01-17",
+                        "team1":  "Rosario Central",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:596394",
+                        "date":  "2021-03-31",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610246",
+                        "date":  "2021-07-16",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610249",
+                        "date":  "2021-07-17",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610250",
+                        "date":  "2021-07-17",
+                        "team1":  "Aldosivi",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610244",
+                        "date":  "2021-07-17",
+                        "team1":  "Lanús",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610255",
+                        "date":  "2021-07-17",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610251",
+                        "date":  "2021-07-17",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610252",
+                        "date":  "2021-07-17",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610248",
+                        "date":  "2021-07-18",
+                        "team1":  "Huracán",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610254",
+                        "date":  "2021-07-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610247",
+                        "date":  "2021-07-18",
+                        "team1":  "River Plate",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610243",
+                        "date":  "2021-07-18",
+                        "team1":  "Independiente",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610245",
+                        "date":  "2021-07-19",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610253",
+                        "date":  "2021-07-19",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610237",
+                        "date":  "2021-07-23",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610230",
+                        "date":  "2021-07-24",
+                        "team1":  "Platense",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610238",
+                        "date":  "2021-07-24",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610234",
+                        "date":  "2021-07-24",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610235",
+                        "date":  "2021-07-24",
+                        "team1":  "Racing Club",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610232",
+                        "date":  "2021-07-24",
+                        "team1":  "Banfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610236",
+                        "date":  "2021-07-25",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610240",
+                        "date":  "2021-07-25",
+                        "team1":  "Patronato",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610242",
+                        "date":  "2021-07-25",
+                        "team1":  "Rosario Central",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610241",
+                        "date":  "2021-07-25",
+                        "team1":  "River Plate",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610233",
+                        "date":  "2021-07-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610231",
+                        "date":  "2021-07-26",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610239",
+                        "date":  "2021-07-26",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610220",
+                        "date":  "2021-07-27",
+                        "team1":  "Huracán",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610225",
+                        "date":  "2021-07-27",
+                        "team1":  "Aldosivi",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610228",
+                        "date":  "2021-07-28",
+                        "team1":  "Boca Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610218",
+                        "date":  "2021-07-28",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610219",
+                        "date":  "2021-07-28",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610224",
+                        "date":  "2021-07-28",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610221",
+                        "date":  "2021-07-28",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610223",
+                        "date":  "2021-07-28",
+                        "team1":  "Independiente",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610226",
+                        "date":  "2021-07-29",
+                        "team1":  "Lanús",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610229",
+                        "date":  "2021-07-29",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610217",
+                        "date":  "2021-07-29",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610227",
+                        "date":  "2021-07-29",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610222",
+                        "date":  "2021-07-30",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610211",
+                        "date":  "2021-07-31",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610215",
+                        "date":  "2021-07-31",
+                        "team1":  "Lanús",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610214",
+                        "date":  "2021-07-31",
+                        "team1":  "Racing Club",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610208",
+                        "date":  "2021-07-31",
+                        "team1":  "Platense",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610210",
+                        "date":  "2021-08-01",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610207",
+                        "date":  "2021-08-01",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610212",
+                        "date":  "2021-08-01",
+                        "team1":  "River Plate",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610206",
+                        "date":  "2021-08-01",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610209",
+                        "date":  "2021-08-02",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610213",
+                        "date":  "2021-08-02",
+                        "team1":  "Patronato",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610205",
+                        "date":  "2021-08-02",
+                        "team1":  "Estudiantes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610204",
+                        "date":  "2021-08-02",
+                        "team1":  "Rosario Central",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610216",
+                        "date":  "2021-08-03",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610201",
+                        "date":  "2021-08-06",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610198",
+                        "date":  "2021-08-07",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610203",
+                        "date":  "2021-08-07",
+                        "team1":  "Banfield",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610202",
+                        "date":  "2021-08-07",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610196",
+                        "date":  "2021-08-07",
+                        "team1":  "Huracán",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610200",
+                        "date":  "2021-08-07",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610192",
+                        "date":  "2021-08-08",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610193",
+                        "date":  "2021-08-08",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610191",
+                        "date":  "2021-08-08",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610199",
+                        "date":  "2021-08-08",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610194",
+                        "date":  "2021-08-09",
+                        "team1":  "Aldosivi",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610197",
+                        "date":  "2021-08-09",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610195",
+                        "date":  "2021-08-09",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610184",
+                        "date":  "2021-08-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610189",
+                        "date":  "2021-08-14",
+                        "team1":  "Huracán",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610178",
+                        "date":  "2021-08-14",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610180",
+                        "date":  "2021-08-14",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610190",
+                        "date":  "2021-08-14",
+                        "team1":  "River Plate",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610182",
+                        "date":  "2021-08-14",
+                        "team1":  "Rosario Central",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610183",
+                        "date":  "2021-08-15",
+                        "team1":  "Patronato",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610179",
+                        "date":  "2021-08-15",
+                        "team1":  "Platense",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610181",
+                        "date":  "2021-08-15",
+                        "team1":  "Estudiantes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610186",
+                        "date":  "2021-08-15",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610187",
+                        "date":  "2021-08-16",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610188",
+                        "date":  "2021-08-16",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610185",
+                        "date":  "2021-08-17",
+                        "team1":  "Lanús",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610167",
+                        "date":  "2021-08-20",
+                        "team1":  "Aldosivi",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610169",
+                        "date":  "2021-08-20",
+                        "team1":  "Banfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610166",
+                        "date":  "2021-08-20",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610168",
+                        "date":  "2021-08-21",
+                        "team1":  "Independiente",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610173",
+                        "date":  "2021-08-21",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610170",
+                        "date":  "2021-08-21",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610171",
+                        "date":  "2021-08-21",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610174",
+                        "date":  "2021-08-21",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610172",
+                        "date":  "2021-08-21",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610177",
+                        "date":  "2021-08-22",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610176",
+                        "date":  "2021-08-22",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610165",
+                        "date":  "2021-08-22",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610175",
+                        "date":  "2021-08-22",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610154",
+                        "date":  "2021-08-24",
+                        "team1":  "Patronato",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610161",
+                        "date":  "2021-08-24",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610156",
+                        "date":  "2021-08-24",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610157",
+                        "date":  "2021-08-25",
+                        "team1":  "Racing Club",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610153",
+                        "date":  "2021-08-25",
+                        "team1":  "Rosario Central",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610159",
+                        "date":  "2021-08-25",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610158",
+                        "date":  "2021-08-25",
+                        "team1":  "Lanús",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610164",
+                        "date":  "2021-08-25",
+                        "team1":  "Huracán",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610155",
+                        "date":  "2021-08-26",
+                        "team1":  "Platense",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610163",
+                        "date":  "2021-08-26",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610162",
+                        "date":  "2021-08-26",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610160",
+                        "date":  "2021-08-26",
+                        "team1":  "Estudiantes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610152",
+                        "date":  "2021-08-27",
+                        "team1":  "River Plate",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610145",
+                        "date":  "2021-08-28",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610148",
+                        "date":  "2021-08-28",
+                        "team1":  "Banfield",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610141",
+                        "date":  "2021-08-28",
+                        "team1":  "Independiente",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610142",
+                        "date":  "2021-08-29",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610146",
+                        "date":  "2021-08-29",
+                        "team1":  "Aldosivi",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610151",
+                        "date":  "2021-08-29",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610144",
+                        "date":  "2021-08-29",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610149",
+                        "date":  "2021-08-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610140",
+                        "date":  "2021-08-30",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610139",
+                        "date":  "2021-08-30",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610147",
+                        "date":  "2021-08-30",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610150",
+                        "date":  "2021-08-30",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610143",
+                        "date":  "2021-08-31",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610132",
+                        "date":  "2021-09-03",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610126",
+                        "date":  "2021-09-04",
+                        "team1":  "Huracán",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610128",
+                        "date":  "2021-09-04",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610134",
+                        "date":  "2021-09-04",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610136",
+                        "date":  "2021-09-04",
+                        "team1":  "Lanús",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610135",
+                        "date":  "2021-09-04",
+                        "team1":  "Platense",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610130",
+                        "date":  "2021-09-04",
+                        "team1":  "Rosario Central",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610133",
+                        "date":  "2021-09-05",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610137",
+                        "date":  "2021-09-05",
+                        "team1":  "Patronato",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610129",
+                        "date":  "2021-09-05",
+                        "team1":  "Racing Club",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610131",
+                        "date":  "2021-09-06",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610127",
+                        "date":  "2021-09-06",
+                        "team1":  "Estudiantes",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610138",
+                        "date":  "2021-09-06",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610117",
+                        "date":  "2021-09-13",
+                        "team1":  "Aldosivi",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610118",
+                        "date":  "2021-09-13",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610119",
+                        "date":  "2021-09-13",
+                        "team1":  "Independiente",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610122",
+                        "date":  "2021-09-13",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610125",
+                        "date":  "2021-09-14",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610121",
+                        "date":  "2021-09-14",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610114",
+                        "date":  "2021-09-14",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610113",
+                        "date":  "2021-09-14",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610115",
+                        "date":  "2021-09-15",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610116",
+                        "date":  "2021-09-15",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610120",
+                        "date":  "2021-09-15",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610124",
+                        "date":  "2021-09-15",
+                        "team1":  "Banfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610123",
+                        "date":  "2021-09-16",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610110",
+                        "date":  "2021-09-18",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610100",
+                        "date":  "2021-09-18",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610111",
+                        "date":  "2021-09-18",
+                        "team1":  "Racing Club",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610104",
+                        "date":  "2021-09-18",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610107",
+                        "date":  "2021-09-19",
+                        "team1":  "Patronato",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610106",
+                        "date":  "2021-09-19",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610101",
+                        "date":  "2021-09-19",
+                        "team1":  "Platense",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610105",
+                        "date":  "2021-09-19",
+                        "team1":  "Huracán",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610102",
+                        "date":  "2021-09-19",
+                        "team1":  "River Plate",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610112",
+                        "date":  "2021-09-20",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610108",
+                        "date":  "2021-09-20",
+                        "team1":  "Lanús",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610109",
+                        "date":  "2021-09-20",
+                        "team1":  "Rosario Central",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610103",
+                        "date":  "2021-09-20",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610099",
+                        "date":  "2021-09-24",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610095",
+                        "date":  "2021-09-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610090",
+                        "date":  "2021-09-25",
+                        "team1":  "Aldosivi",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610093",
+                        "date":  "2021-09-25",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610098",
+                        "date":  "2021-09-25",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610087",
+                        "date":  "2021-09-25",
+                        "team1":  "Banfield",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610097",
+                        "date":  "2021-09-25",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610094",
+                        "date":  "2021-09-26",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610089",
+                        "date":  "2021-09-26",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610091",
+                        "date":  "2021-09-26",
+                        "team1":  "Independiente",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610088",
+                        "date":  "2021-09-26",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610096",
+                        "date":  "2021-09-27",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610092",
+                        "date":  "2021-09-27",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610086",
+                        "date":  "2021-10-01",
+                        "team1":  "Aldosivi",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610079",
+                        "date":  "2021-10-02",
+                        "team1":  "Lanús",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610081",
+                        "date":  "2021-10-02",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610082",
+                        "date":  "2021-10-02",
+                        "team1":  "Platense",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610075",
+                        "date":  "2021-10-02",
+                        "team1":  "Huracán",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610083",
+                        "date":  "2021-10-02",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610078",
+                        "date":  "2021-10-02",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610084",
+                        "date":  "2021-10-03",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610074",
+                        "date":  "2021-10-03",
+                        "team1":  "Rosario Central",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610077",
+                        "date":  "2021-10-03",
+                        "team1":  "River Plate",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610080",
+                        "date":  "2021-10-03",
+                        "team1":  "Racing Club",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610085",
+                        "date":  "2021-10-04",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610076",
+                        "date":  "2021-10-04",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610069",
+                        "date":  "2021-10-08",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610067",
+                        "date":  "2021-10-08",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610072",
+                        "date":  "2021-10-08",
+                        "team1":  "Estudiantes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610073",
+                        "date":  "2021-10-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610064",
+                        "date":  "2021-10-09",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610061",
+                        "date":  "2021-10-09",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610070",
+                        "date":  "2021-10-09",
+                        "team1":  "Patronato",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610071",
+                        "date":  "2021-10-09",
+                        "team1":  "Banfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610068",
+                        "date":  "2021-10-09",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610066",
+                        "date":  "2021-10-11",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610063",
+                        "date":  "2021-10-11",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610065",
+                        "date":  "2021-10-11",
+                        "team1":  "Independiente",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610062",
+                        "date":  "2021-10-12",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610053",
+                        "date":  "2021-10-15",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610056",
+                        "date":  "2021-10-15",
+                        "team1":  "Rosario Central",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610057",
+                        "date":  "2021-10-15",
+                        "team1":  "Racing Club",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610054",
+                        "date":  "2021-10-16",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610049",
+                        "date":  "2021-10-16",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610060",
+                        "date":  "2021-10-16",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610055",
+                        "date":  "2021-10-16",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610050",
+                        "date":  "2021-10-16",
+                        "team1":  "Lanús",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610051",
+                        "date":  "2021-10-16",
+                        "team1":  "Huracán",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610048",
+                        "date":  "2021-10-17",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610059",
+                        "date":  "2021-10-17",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610052",
+                        "date":  "2021-10-17",
+                        "team1":  "Aldosivi",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610058",
+                        "date":  "2021-10-17",
+                        "team1":  "River Plate",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610045",
+                        "date":  "2021-10-19",
+                        "team1":  "Platense",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610043",
+                        "date":  "2021-10-19",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610038",
+                        "date":  "2021-10-19",
+                        "team1":  "Patronato",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610047",
+                        "date":  "2021-10-20",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610039",
+                        "date":  "2021-10-20",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610042",
+                        "date":  "2021-10-20",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610041",
+                        "date":  "2021-10-20",
+                        "team1":  "Banfield",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610036",
+                        "date":  "2021-10-20",
+                        "team1":  "Estudiantes",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610040",
+                        "date":  "2021-10-21",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610037",
+                        "date":  "2021-10-21",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610035",
+                        "date":  "2021-10-21",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610046",
+                        "date":  "2021-10-21",
+                        "team1":  "Independiente",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610044",
+                        "date":  "2021-10-22",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610026",
+                        "date":  "2021-10-23",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610030",
+                        "date":  "2021-10-23",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610031",
+                        "date":  "2021-10-23",
+                        "team1":  "Rosario Central",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610027",
+                        "date":  "2021-10-24",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610024",
+                        "date":  "2021-10-24",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610032",
+                        "date":  "2021-10-24",
+                        "team1":  "Huracán",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610025",
+                        "date":  "2021-10-24",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610023",
+                        "date":  "2021-10-25",
+                        "team1":  "Aldosivi",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610028",
+                        "date":  "2021-10-25",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610029",
+                        "date":  "2021-10-25",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610033",
+                        "date":  "2021-10-25",
+                        "team1":  "Lanús",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610022",
+                        "date":  "2021-10-25",
+                        "team1":  "River Plate",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610034",
+                        "date":  "2021-10-26",
+                        "team1":  "Independiente",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610013",
+                        "date":  "2021-10-29",
+                        "team1":  "Racing Club",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610017",
+                        "date":  "2021-10-30",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610020",
+                        "date":  "2021-10-30",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610010",
+                        "date":  "2021-10-30",
+                        "team1":  "Platense",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610021",
+                        "date":  "2021-10-30",
+                        "team1":  "Banfield",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610016",
+                        "date":  "2021-10-30",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610014",
+                        "date":  "2021-10-30",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610015",
+                        "date":  "2021-10-31",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610019",
+                        "date":  "2021-10-31",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610011",
+                        "date":  "2021-10-31",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610018",
+                        "date":  "2021-10-31",
+                        "team1":  "Estudiantes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610012",
+                        "date":  "2021-11-01",
+                        "team1":  "Patronato",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610009",
+                        "date":  "2021-11-02",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610005",
+                        "date":  "2021-11-05",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610001",
+                        "date":  "2021-11-06",
+                        "team1":  "Lanús",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610003",
+                        "date":  "2021-11-06",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610007",
+                        "date":  "2021-11-06",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609997",
+                        "date":  "2021-11-06",
+                        "team1":  "Independiente",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610004",
+                        "date":  "2021-11-06",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609998",
+                        "date":  "2021-11-07",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610000",
+                        "date":  "2021-11-07",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610006",
+                        "date":  "2021-11-07",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610002",
+                        "date":  "2021-11-07",
+                        "team1":  "River Plate",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:610008",
+                        "date":  "2021-11-08",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609996",
+                        "date":  "2021-11-08",
+                        "team1":  "Huracán",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609999",
+                        "date":  "2021-11-09",
+                        "team1":  "Aldosivi",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609987",
+                        "date":  "2021-11-18",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609991",
+                        "date":  "2021-11-18",
+                        "team1":  "Patronato",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609983",
+                        "date":  "2021-11-19",
+                        "team1":  "Banfield",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609990",
+                        "date":  "2021-11-19",
+                        "team1":  "Estudiantes",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609988",
+                        "date":  "2021-11-19",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609989",
+                        "date":  "2021-11-20",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609995",
+                        "date":  "2021-11-20",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609984",
+                        "date":  "2021-11-20",
+                        "team1":  "Rosario Central",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609994",
+                        "date":  "2021-11-20",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609985",
+                        "date":  "2021-11-21",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609992",
+                        "date":  "2021-11-21",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609986",
+                        "date":  "2021-11-21",
+                        "team1":  "Racing Club",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609993",
+                        "date":  "2021-11-22",
+                        "team1":  "Platense",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609981",
+                        "date":  "2021-11-23",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609976",
+                        "date":  "2021-11-23",
+                        "team1":  "Huracán",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609980",
+                        "date":  "2021-11-23",
+                        "team1":  "Aldosivi",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609975",
+                        "date":  "2021-11-24",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609970",
+                        "date":  "2021-11-24",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609973",
+                        "date":  "2021-11-24",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609971",
+                        "date":  "2021-11-24",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609974",
+                        "date":  "2021-11-24",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609972",
+                        "date":  "2021-11-25",
+                        "team1":  "Independiente",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609982",
+                        "date":  "2021-11-25",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609979",
+                        "date":  "2021-11-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609977",
+                        "date":  "2021-11-25",
+                        "team1":  "Lanús",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609978",
+                        "date":  "2021-11-26",
+                        "team1":  "River Plate",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609957",
+                        "date":  "2021-11-27",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609963",
+                        "date":  "2021-11-27",
+                        "team1":  "Patronato",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609969",
+                        "date":  "2021-11-28",
+                        "team1":  "Estudiantes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609967",
+                        "date":  "2021-11-28",
+                        "team1":  "Rosario Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609962",
+                        "date":  "2021-11-28",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609961",
+                        "date":  "2021-11-28",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609959",
+                        "date":  "2021-11-29",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609965",
+                        "date":  "2021-11-29",
+                        "team1":  "Racing Club",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609958",
+                        "date":  "2021-11-30",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609964",
+                        "date":  "2021-11-30",
+                        "team1":  "Platense",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609968",
+                        "date":  "2021-11-30",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609966",
+                        "date":  "2021-11-30",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609960",
+                        "date":  "2021-12-01",
+                        "team1":  "Banfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609956",
+                        "date":  "2021-12-03",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609945",
+                        "date":  "2021-12-03",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609950",
+                        "date":  "2021-12-04",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Patronato",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609947",
+                        "date":  "2021-12-04",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609951",
+                        "date":  "2021-12-04",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609955",
+                        "date":  "2021-12-04",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609952",
+                        "date":  "2021-12-05",
+                        "team1":  "Huracán",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609953",
+                        "date":  "2021-12-05",
+                        "team1":  "Lanús",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609949",
+                        "date":  "2021-12-05",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609954",
+                        "date":  "2021-12-05",
+                        "team1":  "Independiente",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609948",
+                        "date":  "2021-12-06",
+                        "team1":  "River Plate",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609944",
+                        "date":  "2021-12-06",
+                        "team1":  "Aldosivi",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609946",
+                        "date":  "2021-12-07",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609943",
+                        "date":  "2021-12-10",
+                        "team1":  "Platense",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609931",
+                        "date":  "2021-12-11",
+                        "team1":  "Estudiantes",
+                        "team2":  "Aldosivi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609942",
+                        "date":  "2021-12-11",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609936",
+                        "date":  "2021-12-11",
+                        "team1":  "Patronato",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609937",
+                        "date":  "2021-12-11",
+                        "team1":  "Racing Club",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609938",
+                        "date":  "2021-12-11",
+                        "team1":  "Rosario Central",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609935",
+                        "date":  "2021-12-11",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609941",
+                        "date":  "2021-12-11",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609934",
+                        "date":  "2021-12-12",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 8,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609940",
+                        "date":  "2021-12-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609939",
+                        "date":  "2021-12-12",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609933",
+                        "date":  "2021-12-13",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:609932",
+                        "date":  "2021-12-13",
+                        "team1":  "Banfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

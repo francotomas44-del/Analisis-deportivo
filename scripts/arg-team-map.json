@@ -1,0 +1,37 @@
+{
+  "_comment": "Mapa de nombres de equipo de ESPN (arg.1) al nombre canonico que usa la app. Solo se listan los que cambian; el resto se deja igual. Los nombres canonicos coinciden con los de la base openfootball cuando el club existe ahi, para que el historial no se parta en dos equipos.",
+  "canon": {
+    "Arsenal Sarandi": "Arsenal de Sarandí",
+    "Belgrano (Córdoba)": "Belgrano de Córdoba",
+    "Central Córdoba (Santiago del Estero)": "Central Córdoba SdE",
+    "Colón (Santa Fe)": "Colón de Santa Fe",
+    "Estudiantes de La Plata": "Estudiantes",
+    "Gimnasia La Plata": "Gimnasia de La Plata",
+    "Gimnasia y Esgrima (Jujuy)": "Gimnasia y Esgrima de Jujuy",
+    "Godoy Cruz Antonio Tomba": "Godoy Cruz",
+    "Instituto (Córdoba)": "Instituto de Córdoba",
+    "San Martín (Tucumán)": "San Martín de Tucumán",
+    "San Martín de Tucumán": "San Martín de Tucumán",
+    "Sarmiento (Junín)": "Sarmiento de Junín",
+    "Talleres (Córdoba)": "Talleres de Córdoba",
+    "Unión (Santa Fe)": "Unión de Santa Fe"
+  },
+  "excludeTeams": [
+    "Grêmio",
+    "Internacional",
+    "Juventude",
+    "Caxias",
+    "Pelotas",
+    "Ulbra",
+    "Cruzeiro POA",
+    "Lajeadense",
+    "Novo Hamburgo",
+    "Passo Fundo",
+    "Santa Cruz",
+    "São José-POA",
+    "São Luiz-RS",
+    "Veranópolis",
+    "Esportivo-RS",
+    "Cerámica"
+  ]
+}

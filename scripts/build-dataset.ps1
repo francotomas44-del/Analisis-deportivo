@@ -7,6 +7,9 @@
 #   - worldcup.json   -> todas las Copas del Mundo (1930..2026)
 #   - euro.json       -> Eurocopa UEFA
 #
+# NOTA: la Liga Profesional Argentina (ar.1) NO se baja de openfootball (solo
+# tenia 3 temporadas); se descarga de ESPN con scripts/build-arg-espn.ps1.
+#
 # Uso:
 #   powershell -ExecutionPolicy Bypass -File scripts\build-dataset.ps1
 #   powershell -ExecutionPolicy Bypass -File scripts\build-dataset.ps1 -MaxFiles 5   (prueba)
@@ -42,6 +45,7 @@ foreach ($f in $fb) {
   $file = $parts[1]
   if (($file -match '^[a-z]{2,3}\.(1|cup)\.json$') -or ($file -eq "uefa.cl.json")) {
     $code = $file -replace '\.json$', ''
+    if ($code -eq "ar.1") { continue } # Argentina: se baja de ESPN en scripts/build-arg-espn.ps1
     $selected.Add([pscustomobject]@{ path = $f.path; code = $code; url = ($rawBase + "openfootball/football.json/master/" + $f.path) })
   }
 }

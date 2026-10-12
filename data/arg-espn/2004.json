@@ -1,0 +1,4592 @@
+{
+    "name":  "Liga Profesional (Argentina) 2004",
+    "code":  "ar.1",
+    "source":  "espn",
+    "season":  2004,
+    "matches":  [
+                    {
+                        "id":  "espn:139843",
+                        "date":  "2004-02-14",
+                        "team1":  "Racing Club",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:139844",
+                        "date":  "2004-02-14",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:139845",
+                        "date":  "2004-02-14",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:139846",
+                        "date":  "2004-02-15",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:139847",
+                        "date":  "2004-02-15",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:140001",
+                        "date":  "2004-02-15",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:139888",
+                        "date":  "2004-02-15",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:139965",
+                        "date":  "2004-02-15",
+                        "team1":  "Lanús",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:140000",
+                        "date":  "2004-02-15",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:140002",
+                        "date":  "2004-02-15",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141225",
+                        "date":  "2004-02-21",
+                        "team1":  "Banfield",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141226",
+                        "date":  "2004-02-21",
+                        "team1":  "Quilmes",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141229",
+                        "date":  "2004-02-21",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141227",
+                        "date":  "2004-02-22",
+                        "team1":  "Independiente",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141228",
+                        "date":  "2004-02-22",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141232",
+                        "date":  "2004-02-22",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141230",
+                        "date":  "2004-02-22",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141231",
+                        "date":  "2004-02-22",
+                        "team1":  "Olimpo",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141233",
+                        "date":  "2004-02-22",
+                        "team1":  "River Plate",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:141234",
+                        "date":  "2004-02-22",
+                        "team1":  "Rosario Central",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142714",
+                        "date":  "2004-02-28",
+                        "team1":  "Independiente",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142715",
+                        "date":  "2004-02-28",
+                        "team1":  "Lanús",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142716",
+                        "date":  "2004-02-28",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142717",
+                        "date":  "2004-02-29",
+                        "team1":  "Racing Club",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142718",
+                        "date":  "2004-02-29",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142719",
+                        "date":  "2004-02-29",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142720",
+                        "date":  "2004-02-29",
+                        "team1":  "Estudiantes",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142721",
+                        "date":  "2004-02-29",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142723",
+                        "date":  "2004-02-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:142722",
+                        "date":  "2004-02-29",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187725",
+                        "date":  "2004-03-03",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144399",
+                        "date":  "2004-03-06",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144400",
+                        "date":  "2004-03-06",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144401",
+                        "date":  "2004-03-07",
+                        "team1":  "Rosario Central",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144406",
+                        "date":  "2004-03-07",
+                        "team1":  "Olimpo",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144402",
+                        "date":  "2004-03-07",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144407",
+                        "date":  "2004-03-07",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144405",
+                        "date":  "2004-03-07",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144404",
+                        "date":  "2004-03-07",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144403",
+                        "date":  "2004-03-07",
+                        "team1":  "Quilmes",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:144408",
+                        "date":  "2004-03-07",
+                        "team1":  "Banfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145769",
+                        "date":  "2004-03-13",
+                        "team1":  "Independiente",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145770",
+                        "date":  "2004-03-13",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145771",
+                        "date":  "2004-03-14",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145773",
+                        "date":  "2004-03-14",
+                        "team1":  "Lanús",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145775",
+                        "date":  "2004-03-14",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145777",
+                        "date":  "2004-03-14",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145774",
+                        "date":  "2004-03-14",
+                        "team1":  "River Plate",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145776",
+                        "date":  "2004-03-14",
+                        "team1":  "Estudiantes",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145778",
+                        "date":  "2004-03-14",
+                        "team1":  "Racing Club",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146538",
+                        "date":  "2004-03-20",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146539",
+                        "date":  "2004-03-20",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146540",
+                        "date":  "2004-03-21",
+                        "team1":  "Rosario Central",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146541",
+                        "date":  "2004-03-21",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146543",
+                        "date":  "2004-03-21",
+                        "team1":  "Banfield",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146545",
+                        "date":  "2004-03-21",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146544",
+                        "date":  "2004-03-21",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146542",
+                        "date":  "2004-03-21",
+                        "team1":  "Olimpo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146546",
+                        "date":  "2004-03-21",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:146547",
+                        "date":  "2004-03-21",
+                        "team1":  "Quilmes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147687",
+                        "date":  "2004-03-26",
+                        "team1":  "Racing Club",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147688",
+                        "date":  "2004-03-27",
+                        "team1":  "Estudiantes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147689",
+                        "date":  "2004-03-27",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147690",
+                        "date":  "2004-03-27",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147691",
+                        "date":  "2004-03-27",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147692",
+                        "date":  "2004-03-27",
+                        "team1":  "Quilmes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147693",
+                        "date":  "2004-03-27",
+                        "team1":  "River Plate",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147694",
+                        "date":  "2004-03-27",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147695",
+                        "date":  "2004-03-27",
+                        "team1":  "Lanús",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:147696",
+                        "date":  "2004-03-28",
+                        "team1":  "Independiente",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148428",
+                        "date":  "2004-04-03",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148429",
+                        "date":  "2004-04-03",
+                        "team1":  "Banfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148430",
+                        "date":  "2004-04-04",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148432",
+                        "date":  "2004-04-04",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148433",
+                        "date":  "2004-04-04",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148435",
+                        "date":  "2004-04-04",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148434",
+                        "date":  "2004-04-04",
+                        "team1":  "Rosario Central",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148431",
+                        "date":  "2004-04-04",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148436",
+                        "date":  "2004-04-04",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:148437",
+                        "date":  "2004-04-04",
+                        "team1":  "Olimpo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149172",
+                        "date":  "2004-04-10",
+                        "team1":  "Lanús",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149173",
+                        "date":  "2004-04-10",
+                        "team1":  "Independiente",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149179",
+                        "date":  "2004-04-10",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149175",
+                        "date":  "2004-04-11",
+                        "team1":  "Estudiantes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149174",
+                        "date":  "2004-04-11",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149176",
+                        "date":  "2004-04-11",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149178",
+                        "date":  "2004-04-11",
+                        "team1":  "Quilmes",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149177",
+                        "date":  "2004-04-11",
+                        "team1":  "Banfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149180",
+                        "date":  "2004-04-11",
+                        "team1":  "River Plate",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149181",
+                        "date":  "2004-04-11",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:145772",
+                        "date":  "2004-04-14",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149567",
+                        "date":  "2004-04-17",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149568",
+                        "date":  "2004-04-17",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149569",
+                        "date":  "2004-04-18",
+                        "team1":  "Racing Club",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149576",
+                        "date":  "2004-04-18",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149574",
+                        "date":  "2004-04-18",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149571",
+                        "date":  "2004-04-18",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149572",
+                        "date":  "2004-04-18",
+                        "team1":  "Lanús",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149573",
+                        "date":  "2004-04-18",
+                        "team1":  "Olimpo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149570",
+                        "date":  "2004-04-18",
+                        "team1":  "Rosario Central",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:149575",
+                        "date":  "2004-04-18",
+                        "team1":  "San Lorenzo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150101",
+                        "date":  "2004-04-24",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150102",
+                        "date":  "2004-04-24",
+                        "team1":  "Banfield",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150103",
+                        "date":  "2004-04-24",
+                        "team1":  "Quilmes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150104",
+                        "date":  "2004-04-24",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150105",
+                        "date":  "2004-04-24",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150107",
+                        "date":  "2004-04-24",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150106",
+                        "date":  "2004-04-25",
+                        "team1":  "Independiente",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150108",
+                        "date":  "2004-04-25",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150109",
+                        "date":  "2004-04-25",
+                        "team1":  "River Plate",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150110",
+                        "date":  "2004-04-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150666",
+                        "date":  "2004-04-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150667",
+                        "date":  "2004-04-30",
+                        "team1":  "Rosario Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150668",
+                        "date":  "2004-05-01",
+                        "team1":  "Racing Club",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150669",
+                        "date":  "2004-05-02",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150674",
+                        "date":  "2004-05-02",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150672",
+                        "date":  "2004-05-02",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150670",
+                        "date":  "2004-05-02",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150673",
+                        "date":  "2004-05-02",
+                        "team1":  "Lanús",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150671",
+                        "date":  "2004-05-02",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:150675",
+                        "date":  "2004-05-02",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151100",
+                        "date":  "2004-05-08",
+                        "team1":  "Banfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151101",
+                        "date":  "2004-05-08",
+                        "team1":  "Olimpo",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151103",
+                        "date":  "2004-05-08",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151104",
+                        "date":  "2004-05-09",
+                        "team1":  "Estudiantes",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151105",
+                        "date":  "2004-05-09",
+                        "team1":  "River Plate",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151108",
+                        "date":  "2004-05-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151107",
+                        "date":  "2004-05-09",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151106",
+                        "date":  "2004-05-09",
+                        "team1":  "Quilmes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151109",
+                        "date":  "2004-05-09",
+                        "team1":  "Independiente",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151102",
+                        "date":  "2004-05-09",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151321",
+                        "date":  "2004-05-15",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151325",
+                        "date":  "2004-05-15",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151323",
+                        "date":  "2004-05-15",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151322",
+                        "date":  "2004-05-16",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151324",
+                        "date":  "2004-05-16",
+                        "team1":  "Boca Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151327",
+                        "date":  "2004-05-16",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151329",
+                        "date":  "2004-05-16",
+                        "team1":  "Lanús",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151326",
+                        "date":  "2004-05-16",
+                        "team1":  "Rosario Central",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151328",
+                        "date":  "2004-05-16",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151330",
+                        "date":  "2004-05-16",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151505",
+                        "date":  "2004-05-22",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151511",
+                        "date":  "2004-05-22",
+                        "team1":  "Estudiantes",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151506",
+                        "date":  "2004-05-23",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151507",
+                        "date":  "2004-05-23",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151513",
+                        "date":  "2004-05-23",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151512",
+                        "date":  "2004-05-23",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151510",
+                        "date":  "2004-05-23",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151508",
+                        "date":  "2004-05-23",
+                        "team1":  "Olimpo",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151509",
+                        "date":  "2004-05-23",
+                        "team1":  "River Plate",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151514",
+                        "date":  "2004-05-23",
+                        "team1":  "Quilmes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151568",
+                        "date":  "2004-05-28",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151569",
+                        "date":  "2004-05-28",
+                        "team1":  "Rosario Central",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151570",
+                        "date":  "2004-05-29",
+                        "team1":  "Lanús",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151571",
+                        "date":  "2004-05-29",
+                        "team1":  "Racing Club",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151575",
+                        "date":  "2004-05-29",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151573",
+                        "date":  "2004-05-29",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151574",
+                        "date":  "2004-05-29",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151572",
+                        "date":  "2004-05-29",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151576",
+                        "date":  "2004-05-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151577",
+                        "date":  "2004-05-29",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187724",
+                        "date":  "2004-06-03",
+                        "team1":  "River Plate",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151663",
+                        "date":  "2004-06-12",
+                        "team1":  "Independiente",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151664",
+                        "date":  "2004-06-12",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151665",
+                        "date":  "2004-06-13",
+                        "team1":  "Quilmes",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151667",
+                        "date":  "2004-06-13",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151669",
+                        "date":  "2004-06-13",
+                        "team1":  "Banfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151670",
+                        "date":  "2004-06-13",
+                        "team1":  "Estudiantes",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151668",
+                        "date":  "2004-06-13",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151666",
+                        "date":  "2004-06-13",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151671",
+                        "date":  "2004-06-13",
+                        "team1":  "River Plate",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151672",
+                        "date":  "2004-06-13",
+                        "team1":  "Olimpo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151714",
+                        "date":  "2004-06-18",
+                        "team1":  "Rosario Central",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151715",
+                        "date":  "2004-06-19",
+                        "team1":  "Racing Club",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151720",
+                        "date":  "2004-06-19",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151716",
+                        "date":  "2004-06-19",
+                        "team1":  "Estudiantes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151717",
+                        "date":  "2004-06-20",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151718",
+                        "date":  "2004-06-20",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151719",
+                        "date":  "2004-06-20",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151722",
+                        "date":  "2004-06-20",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151721",
+                        "date":  "2004-06-20",
+                        "team1":  "Lanús",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151723",
+                        "date":  "2004-06-20",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151729",
+                        "date":  "2004-06-26",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151730",
+                        "date":  "2004-06-27",
+                        "team1":  "Independiente",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151732",
+                        "date":  "2004-06-27",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151731",
+                        "date":  "2004-06-27",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151735",
+                        "date":  "2004-06-27",
+                        "team1":  "Banfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151736",
+                        "date":  "2004-06-27",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151737",
+                        "date":  "2004-06-27",
+                        "team1":  "Olimpo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151738",
+                        "date":  "2004-06-27",
+                        "team1":  "Quilmes",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151733",
+                        "date":  "2004-06-27",
+                        "team1":  "River Plate",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:151734",
+                        "date":  "2004-06-27",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157189",
+                        "date":  "2004-08-13",
+                        "team1":  "Racing Club",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157190",
+                        "date":  "2004-08-14",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157191",
+                        "date":  "2004-08-14",
+                        "team1":  "Quilmes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157192",
+                        "date":  "2004-08-15",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157196",
+                        "date":  "2004-08-15",
+                        "team1":  "Almagro",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157194",
+                        "date":  "2004-08-15",
+                        "team1":  "Estudiantes",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157193",
+                        "date":  "2004-08-15",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157195",
+                        "date":  "2004-08-15",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157197",
+                        "date":  "2004-08-15",
+                        "team1":  "River Plate",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:157198",
+                        "date":  "2004-08-15",
+                        "team1":  "Lanús",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158837",
+                        "date":  "2004-08-20",
+                        "team1":  "Independiente",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158838",
+                        "date":  "2004-08-21",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158839",
+                        "date":  "2004-08-21",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158840",
+                        "date":  "2004-08-21",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158841",
+                        "date":  "2004-08-22",
+                        "team1":  "Olimpo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158842",
+                        "date":  "2004-08-22",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158844",
+                        "date":  "2004-08-22",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158843",
+                        "date":  "2004-08-22",
+                        "team1":  "Rosario Central",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158845",
+                        "date":  "2004-08-22",
+                        "team1":  "Boca Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:158846",
+                        "date":  "2004-08-22",
+                        "team1":  "Banfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160033",
+                        "date":  "2004-08-24",
+                        "team1":  "Lanús",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160034",
+                        "date":  "2004-08-24",
+                        "team1":  "Almagro",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160035",
+                        "date":  "2004-08-25",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160036",
+                        "date":  "2004-08-25",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160037",
+                        "date":  "2004-08-25",
+                        "team1":  "Olimpo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160038",
+                        "date":  "2004-08-25",
+                        "team1":  "River Plate",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160039",
+                        "date":  "2004-08-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160041",
+                        "date":  "2004-08-25",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160042",
+                        "date":  "2004-08-25",
+                        "team1":  "Quilmes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160040",
+                        "date":  "2004-08-25",
+                        "team1":  "Racing Club",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160742",
+                        "date":  "2004-08-27",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160743",
+                        "date":  "2004-08-28",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160744",
+                        "date":  "2004-08-29",
+                        "team1":  "Independiente",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160745",
+                        "date":  "2004-08-29",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160749",
+                        "date":  "2004-08-29",
+                        "team1":  "Banfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160746",
+                        "date":  "2004-08-29",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160748",
+                        "date":  "2004-08-29",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160747",
+                        "date":  "2004-08-29",
+                        "team1":  "Rosario Central",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160750",
+                        "date":  "2004-08-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:160751",
+                        "date":  "2004-08-29",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162293",
+                        "date":  "2004-09-10",
+                        "team1":  "Olimpo",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162294",
+                        "date":  "2004-09-11",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162295",
+                        "date":  "2004-09-11",
+                        "team1":  "Lanús",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162296",
+                        "date":  "2004-09-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162300",
+                        "date":  "2004-09-12",
+                        "team1":  "Almagro",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162297",
+                        "date":  "2004-09-12",
+                        "team1":  "Estudiantes",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162298",
+                        "date":  "2004-09-12",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162299",
+                        "date":  "2004-09-12",
+                        "team1":  "Quilmes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162301",
+                        "date":  "2004-09-12",
+                        "team1":  "Racing Club",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:162302",
+                        "date":  "2004-09-12",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163641",
+                        "date":  "2004-09-17",
+                        "team1":  "Banfield",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163642",
+                        "date":  "2004-09-18",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163643",
+                        "date":  "2004-09-18",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163644",
+                        "date":  "2004-09-18",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164504",
+                        "date":  "2004-09-18",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163645",
+                        "date":  "2004-09-19",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163646",
+                        "date":  "2004-09-19",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163647",
+                        "date":  "2004-09-19",
+                        "team1":  "Rosario Central",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163649",
+                        "date":  "2004-09-19",
+                        "team1":  "Independiente",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:163650",
+                        "date":  "2004-09-19",
+                        "team1":  "River Plate",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164030",
+                        "date":  "2004-09-22",
+                        "team1":  "Lanús",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164029",
+                        "date":  "2004-09-22",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164031",
+                        "date":  "2004-09-22",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164032",
+                        "date":  "2004-09-22",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164035",
+                        "date":  "2004-09-22",
+                        "team1":  "Almagro",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164036",
+                        "date":  "2004-09-22",
+                        "team1":  "Olimpo",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164034",
+                        "date":  "2004-09-22",
+                        "team1":  "Quilmes",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164033",
+                        "date":  "2004-09-22",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164037",
+                        "date":  "2004-09-23",
+                        "team1":  "Racing Club",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164038",
+                        "date":  "2004-09-23",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164039",
+                        "date":  "2004-09-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164040",
+                        "date":  "2004-09-25",
+                        "team1":  "Banfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164041",
+                        "date":  "2004-09-26",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164042",
+                        "date":  "2004-09-26",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164046",
+                        "date":  "2004-09-26",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164043",
+                        "date":  "2004-09-26",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164044",
+                        "date":  "2004-09-26",
+                        "team1":  "River Plate",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164045",
+                        "date":  "2004-09-26",
+                        "team1":  "Estudiantes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164047",
+                        "date":  "2004-09-26",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:164048",
+                        "date":  "2004-09-26",
+                        "team1":  "Rosario Central",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165828",
+                        "date":  "2004-10-01",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165829",
+                        "date":  "2004-10-02",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165830",
+                        "date":  "2004-10-03",
+                        "team1":  "Independiente",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165833",
+                        "date":  "2004-10-03",
+                        "team1":  "Almagro",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165832",
+                        "date":  "2004-10-03",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165831",
+                        "date":  "2004-10-03",
+                        "team1":  "Olimpo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165835",
+                        "date":  "2004-10-03",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165836",
+                        "date":  "2004-10-03",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165834",
+                        "date":  "2004-10-03",
+                        "team1":  "Lanús",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:165837",
+                        "date":  "2004-10-03",
+                        "team1":  "Quilmes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167044",
+                        "date":  "2004-10-15",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167045",
+                        "date":  "2004-10-15",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167043",
+                        "date":  "2004-10-15",
+                        "team1":  "Rosario Central",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167046",
+                        "date":  "2004-10-16",
+                        "team1":  "Banfield",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167047",
+                        "date":  "2004-10-16",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167049",
+                        "date":  "2004-10-16",
+                        "team1":  "Estudiantes",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167048",
+                        "date":  "2004-10-16",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167050",
+                        "date":  "2004-10-17",
+                        "team1":  "Racing Club",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167051",
+                        "date":  "2004-10-17",
+                        "team1":  "River Plate",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167052",
+                        "date":  "2004-10-17",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167493",
+                        "date":  "2004-10-19",
+                        "team1":  "Independiente",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167494",
+                        "date":  "2004-10-19",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167495",
+                        "date":  "2004-10-20",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167497",
+                        "date":  "2004-10-20",
+                        "team1":  "Quilmes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167498",
+                        "date":  "2004-10-20",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167496",
+                        "date":  "2004-10-20",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167499",
+                        "date":  "2004-10-20",
+                        "team1":  "Lanús",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167502",
+                        "date":  "2004-10-20",
+                        "team1":  "Almagro",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167501",
+                        "date":  "2004-10-20",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167500",
+                        "date":  "2004-10-20",
+                        "team1":  "Olimpo",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167503",
+                        "date":  "2004-10-22",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167504",
+                        "date":  "2004-10-23",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167505",
+                        "date":  "2004-10-24",
+                        "team1":  "Racing Club",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167508",
+                        "date":  "2004-10-24",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167507",
+                        "date":  "2004-10-24",
+                        "team1":  "Estudiantes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167506",
+                        "date":  "2004-10-24",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167509",
+                        "date":  "2004-10-24",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167511",
+                        "date":  "2004-10-24",
+                        "team1":  "River Plate",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167510",
+                        "date":  "2004-10-24",
+                        "team1":  "Banfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:167512",
+                        "date":  "2004-10-24",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168226",
+                        "date":  "2004-10-29",
+                        "team1":  "Quilmes",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168227",
+                        "date":  "2004-10-30",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168231",
+                        "date":  "2004-10-30",
+                        "team1":  "Rosario Central",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168228",
+                        "date":  "2004-10-31",
+                        "team1":  "Independiente",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168232",
+                        "date":  "2004-10-31",
+                        "team1":  "Almagro",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168233",
+                        "date":  "2004-10-31",
+                        "team1":  "Lanús",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168229",
+                        "date":  "2004-10-31",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168234",
+                        "date":  "2004-10-31",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168230",
+                        "date":  "2004-10-31",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168235",
+                        "date":  "2004-10-31",
+                        "team1":  "Olimpo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168758",
+                        "date":  "2004-11-05",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168759",
+                        "date":  "2004-11-06",
+                        "team1":  "Racing Club",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168765",
+                        "date":  "2004-11-06",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168760",
+                        "date":  "2004-11-07",
+                        "team1":  "Banfield",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168762",
+                        "date":  "2004-11-07",
+                        "team1":  "Estudiantes",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168761",
+                        "date":  "2004-11-07",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168763",
+                        "date":  "2004-11-07",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168764",
+                        "date":  "2004-11-07",
+                        "team1":  "Quilmes",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168766",
+                        "date":  "2004-11-07",
+                        "team1":  "River Plate",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:168767",
+                        "date":  "2004-11-07",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169041",
+                        "date":  "2004-11-12",
+                        "team1":  "Independiente",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169042",
+                        "date":  "2004-11-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169043",
+                        "date":  "2004-11-13",
+                        "team1":  "Almagro",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169047",
+                        "date":  "2004-11-13",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169048",
+                        "date":  "2004-11-13",
+                        "team1":  "Lanús",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169044",
+                        "date":  "2004-11-13",
+                        "team1":  "Olimpo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169045",
+                        "date":  "2004-11-13",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169049",
+                        "date":  "2004-11-13",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169046",
+                        "date":  "2004-11-13",
+                        "team1":  "Rosario Central",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169050",
+                        "date":  "2004-11-13",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169289",
+                        "date":  "2004-11-19",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169290",
+                        "date":  "2004-11-20",
+                        "team1":  "Quilmes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169291",
+                        "date":  "2004-11-21",
+                        "team1":  "Racing Club",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169295",
+                        "date":  "2004-11-21",
+                        "team1":  "Almagro",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169292",
+                        "date":  "2004-11-21",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169296",
+                        "date":  "2004-11-21",
+                        "team1":  "Banfield",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169293",
+                        "date":  "2004-11-21",
+                        "team1":  "Estudiantes",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169294",
+                        "date":  "2004-11-21",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169297",
+                        "date":  "2004-11-21",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169298",
+                        "date":  "2004-11-21",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169489",
+                        "date":  "2004-11-26",
+                        "team1":  "Independiente",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169490",
+                        "date":  "2004-11-27",
+                        "team1":  "Lanús",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169491",
+                        "date":  "2004-11-27",
+                        "team1":  "Rosario Central",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169492",
+                        "date":  "2004-11-27",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169493",
+                        "date":  "2004-11-28",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169495",
+                        "date":  "2004-11-28",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169496",
+                        "date":  "2004-11-28",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169494",
+                        "date":  "2004-11-28",
+                        "team1":  "Olimpo",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169497",
+                        "date":  "2004-11-28",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169498",
+                        "date":  "2004-11-28",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169576",
+                        "date":  "2004-12-03",
+                        "team1":  "Racing Club",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169577",
+                        "date":  "2004-12-04",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169578",
+                        "date":  "2004-12-04",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169579",
+                        "date":  "2004-12-05",
+                        "team1":  "Lanús",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169583",
+                        "date":  "2004-12-05",
+                        "team1":  "Almagro",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169582",
+                        "date":  "2004-12-05",
+                        "team1":  "Estudiantes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169580",
+                        "date":  "2004-12-05",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169581",
+                        "date":  "2004-12-05",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169584",
+                        "date":  "2004-12-05",
+                        "team1":  "River Plate",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169585",
+                        "date":  "2004-12-05",
+                        "team1":  "Quilmes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169688",
+                        "date":  "2004-12-10",
+                        "team1":  "Banfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169689",
+                        "date":  "2004-12-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169690",
+                        "date":  "2004-12-11",
+                        "team1":  "Rosario Central",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169691",
+                        "date":  "2004-12-11",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169692",
+                        "date":  "2004-12-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169693",
+                        "date":  "2004-12-12",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169694",
+                        "date":  "2004-12-12",
+                        "team1":  "Olimpo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169695",
+                        "date":  "2004-12-12",
+                        "team1":  "Independiente",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169696",
+                        "date":  "2004-12-12",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:169697",
+                        "date":  "2004-12-12",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

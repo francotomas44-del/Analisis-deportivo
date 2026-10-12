@@ -1,0 +1,4556 @@
+{
+    "name":  "Liga Profesional (Argentina) 2005",
+    "code":  "ar.1",
+    "source":  "espn",
+    "season":  2005,
+    "matches":  [
+                    {
+                        "id":  "espn:175821",
+                        "date":  "2005-02-11",
+                        "team1":  "Olimpo",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175823",
+                        "date":  "2005-02-12",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175824",
+                        "date":  "2005-02-12",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175825",
+                        "date":  "2005-02-13",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175826",
+                        "date":  "2005-02-13",
+                        "team1":  "Independiente",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175827",
+                        "date":  "2005-02-13",
+                        "team1":  "Rosario Central",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175828",
+                        "date":  "2005-02-13",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175829",
+                        "date":  "2005-02-13",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175830",
+                        "date":  "2005-02-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176851",
+                        "date":  "2005-02-18",
+                        "team1":  "Racing Club",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176852",
+                        "date":  "2005-02-19",
+                        "team1":  "Quilmes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176853",
+                        "date":  "2005-02-19",
+                        "team1":  "Lanús",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176854",
+                        "date":  "2005-02-20",
+                        "team1":  "Almagro",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176857",
+                        "date":  "2005-02-20",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176858",
+                        "date":  "2005-02-20",
+                        "team1":  "Estudiantes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176856",
+                        "date":  "2005-02-20",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176855",
+                        "date":  "2005-02-20",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176859",
+                        "date":  "2005-02-20",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:176860",
+                        "date":  "2005-02-20",
+                        "team1":  "River Plate",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177852",
+                        "date":  "2005-02-25",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177853",
+                        "date":  "2005-02-26",
+                        "team1":  "Independiente",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177854",
+                        "date":  "2005-02-26",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177855",
+                        "date":  "2005-02-27",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177856",
+                        "date":  "2005-02-27",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177857",
+                        "date":  "2005-02-27",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177858",
+                        "date":  "2005-02-27",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177859",
+                        "date":  "2005-02-27",
+                        "team1":  "Banfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177860",
+                        "date":  "2005-02-27",
+                        "team1":  "Rosario Central",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:177861",
+                        "date":  "2005-02-27",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178466",
+                        "date":  "2005-03-04",
+                        "team1":  "Lanús",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178467",
+                        "date":  "2005-03-05",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178468",
+                        "date":  "2005-03-05",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178469",
+                        "date":  "2005-03-06",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178470",
+                        "date":  "2005-03-06",
+                        "team1":  "Racing Club",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178473",
+                        "date":  "2005-03-06",
+                        "team1":  "Almagro",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178471",
+                        "date":  "2005-03-06",
+                        "team1":  "Estudiantes",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178472",
+                        "date":  "2005-03-06",
+                        "team1":  "Olimpo",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178474",
+                        "date":  "2005-03-06",
+                        "team1":  "Quilmes",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:178475",
+                        "date":  "2005-03-06",
+                        "team1":  "River Plate",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179658",
+                        "date":  "2005-03-12",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179659",
+                        "date":  "2005-03-12",
+                        "team1":  "Banfield",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179660",
+                        "date":  "2005-03-12",
+                        "team1":  "Independiente",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179661",
+                        "date":  "2005-03-13",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179662",
+                        "date":  "2005-03-13",
+                        "team1":  "River Plate",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179665",
+                        "date":  "2005-03-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179666",
+                        "date":  "2005-03-13",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179663",
+                        "date":  "2005-03-13",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179664",
+                        "date":  "2005-03-13",
+                        "team1":  "Rosario Central",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:179667",
+                        "date":  "2005-03-13",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180492",
+                        "date":  "2005-03-19",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180493",
+                        "date":  "2005-03-19",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180494",
+                        "date":  "2005-03-20",
+                        "team1":  "Racing Club",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180495",
+                        "date":  "2005-03-20",
+                        "team1":  "Olimpo",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180496",
+                        "date":  "2005-03-20",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180499",
+                        "date":  "2005-03-20",
+                        "team1":  "Almagro",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180497",
+                        "date":  "2005-03-20",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180498",
+                        "date":  "2005-03-20",
+                        "team1":  "Lanús",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180500",
+                        "date":  "2005-03-20",
+                        "team1":  "Quilmes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:180501",
+                        "date":  "2005-03-20",
+                        "team1":  "Estudiantes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:175822",
+                        "date":  "2005-03-22",
+                        "team1":  "Banfield",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181559",
+                        "date":  "2005-04-02",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181560",
+                        "date":  "2005-04-02",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181561",
+                        "date":  "2005-04-02",
+                        "team1":  "Independiente",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181562",
+                        "date":  "2005-04-03",
+                        "team1":  "Estudiantes",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181565",
+                        "date":  "2005-04-03",
+                        "team1":  "Banfield",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181566",
+                        "date":  "2005-04-03",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181564",
+                        "date":  "2005-04-03",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181563",
+                        "date":  "2005-04-03",
+                        "team1":  "Rosario Central",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181567",
+                        "date":  "2005-04-03",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:181568",
+                        "date":  "2005-04-03",
+                        "team1":  "River Plate",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182220",
+                        "date":  "2005-04-09",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182221",
+                        "date":  "2005-04-09",
+                        "team1":  "Lanús",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182222",
+                        "date":  "2005-04-09",
+                        "team1":  "Quilmes",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182223",
+                        "date":  "2005-04-09",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182224",
+                        "date":  "2005-04-10",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182227",
+                        "date":  "2005-04-10",
+                        "team1":  "Almagro",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182226",
+                        "date":  "2005-04-10",
+                        "team1":  "Olimpo",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182225",
+                        "date":  "2005-04-10",
+                        "team1":  "Racing Club",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182228",
+                        "date":  "2005-04-10",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182229",
+                        "date":  "2005-04-10",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182634",
+                        "date":  "2005-04-16",
+                        "team1":  "Rosario Central",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182635",
+                        "date":  "2005-04-16",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182636",
+                        "date":  "2005-04-17",
+                        "team1":  "Racing Club",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182637",
+                        "date":  "2005-04-17",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182640",
+                        "date":  "2005-04-17",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182639",
+                        "date":  "2005-04-17",
+                        "team1":  "Estudiantes",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182641",
+                        "date":  "2005-04-17",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182638",
+                        "date":  "2005-04-17",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182642",
+                        "date":  "2005-04-17",
+                        "team1":  "River Plate",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:182643",
+                        "date":  "2005-04-17",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183110",
+                        "date":  "2005-04-23",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183111",
+                        "date":  "2005-04-23",
+                        "team1":  "Quilmes",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183112",
+                        "date":  "2005-04-24",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183113",
+                        "date":  "2005-04-24",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183117",
+                        "date":  "2005-04-24",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183114",
+                        "date":  "2005-04-24",
+                        "team1":  "Lanús",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183116",
+                        "date":  "2005-04-24",
+                        "team1":  "Olimpo",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183115",
+                        "date":  "2005-04-24",
+                        "team1":  "Independiente",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183118",
+                        "date":  "2005-04-24",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183119",
+                        "date":  "2005-04-24",
+                        "team1":  "Almagro",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183318",
+                        "date":  "2005-04-29",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183319",
+                        "date":  "2005-04-29",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183320",
+                        "date":  "2005-04-30",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183321",
+                        "date":  "2005-04-30",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183322",
+                        "date":  "2005-04-30",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183324",
+                        "date":  "2005-04-30",
+                        "team1":  "Estudiantes",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183323",
+                        "date":  "2005-04-30",
+                        "team1":  "Rosario Central",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183325",
+                        "date":  "2005-04-30",
+                        "team1":  "River Plate",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183326",
+                        "date":  "2005-04-30",
+                        "team1":  "Banfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183327",
+                        "date":  "2005-04-30",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183589",
+                        "date":  "2005-05-06",
+                        "team1":  "Independiente",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183590",
+                        "date":  "2005-05-07",
+                        "team1":  "Quilmes",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183591",
+                        "date":  "2005-05-08",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183592",
+                        "date":  "2005-05-08",
+                        "team1":  "Rosario Central",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183594",
+                        "date":  "2005-05-08",
+                        "team1":  "Lanús",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183595",
+                        "date":  "2005-05-08",
+                        "team1":  "Almagro",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183593",
+                        "date":  "2005-05-08",
+                        "team1":  "Olimpo",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183596",
+                        "date":  "2005-05-08",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183597",
+                        "date":  "2005-05-08",
+                        "team1":  "San Lorenzo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183598",
+                        "date":  "2005-05-08",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183730",
+                        "date":  "2005-05-13",
+                        "team1":  "Estudiantes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183737",
+                        "date":  "2005-05-14",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183733",
+                        "date":  "2005-05-14",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183731",
+                        "date":  "2005-05-14",
+                        "team1":  "River Plate",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183732",
+                        "date":  "2005-05-14",
+                        "team1":  "Banfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183734",
+                        "date":  "2005-05-15",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183735",
+                        "date":  "2005-05-15",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183736",
+                        "date":  "2005-05-15",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183738",
+                        "date":  "2005-05-15",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183739",
+                        "date":  "2005-05-15",
+                        "team1":  "Racing Club",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183816",
+                        "date":  "2005-05-20",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183817",
+                        "date":  "2005-05-21",
+                        "team1":  "Lanús",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183818",
+                        "date":  "2005-05-21",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183819",
+                        "date":  "2005-05-22",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183820",
+                        "date":  "2005-05-22",
+                        "team1":  "Boca Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183822",
+                        "date":  "2005-05-22",
+                        "team1":  "Almagro",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183821",
+                        "date":  "2005-05-22",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183823",
+                        "date":  "2005-05-22",
+                        "team1":  "Rosario Central",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183824",
+                        "date":  "2005-05-22",
+                        "team1":  "Olimpo",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183825",
+                        "date":  "2005-05-22",
+                        "team1":  "Independiente",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183878",
+                        "date":  "2005-05-27",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183879",
+                        "date":  "2005-05-28",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183880",
+                        "date":  "2005-05-28",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183881",
+                        "date":  "2005-05-29",
+                        "team1":  "Banfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183882",
+                        "date":  "2005-05-29",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183883",
+                        "date":  "2005-05-29",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183885",
+                        "date":  "2005-05-29",
+                        "team1":  "Quilmes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183884",
+                        "date":  "2005-05-29",
+                        "team1":  "Racing Club",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183886",
+                        "date":  "2005-05-29",
+                        "team1":  "Estudiantes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183887",
+                        "date":  "2005-05-29",
+                        "team1":  "River Plate",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183906",
+                        "date":  "2005-06-10",
+                        "team1":  "Rosario Central",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183907",
+                        "date":  "2005-06-11",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183911",
+                        "date":  "2005-06-11",
+                        "team1":  "Olimpo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183908",
+                        "date":  "2005-06-11",
+                        "team1":  "Lanús",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183915",
+                        "date":  "2005-06-12",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183910",
+                        "date":  "2005-06-12",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183912",
+                        "date":  "2005-06-12",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183913",
+                        "date":  "2005-06-12",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183914",
+                        "date":  "2005-06-12",
+                        "team1":  "Independiente",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:183909",
+                        "date":  "2005-06-12",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184025",
+                        "date":  "2005-06-18",
+                        "team1":  "Almagro",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184026",
+                        "date":  "2005-06-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184027",
+                        "date":  "2005-06-19",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184028",
+                        "date":  "2005-06-19",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184031",
+                        "date":  "2005-06-19",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184032",
+                        "date":  "2005-06-19",
+                        "team1":  "Banfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184030",
+                        "date":  "2005-06-19",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184029",
+                        "date":  "2005-06-19",
+                        "team1":  "Quilmes",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184033",
+                        "date":  "2005-06-19",
+                        "team1":  "River Plate",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184034",
+                        "date":  "2005-06-19",
+                        "team1":  "Racing Club",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184106",
+                        "date":  "2005-06-25",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184109",
+                        "date":  "2005-06-26",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184114",
+                        "date":  "2005-06-26",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184110",
+                        "date":  "2005-06-26",
+                        "team1":  "Rosario Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184111",
+                        "date":  "2005-06-26",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184107",
+                        "date":  "2005-06-26",
+                        "team1":  "Huracán de Tres Arroyos",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184112",
+                        "date":  "2005-06-26",
+                        "team1":  "Olimpo",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184113",
+                        "date":  "2005-06-26",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184105",
+                        "date":  "2005-06-26",
+                        "team1":  "Banfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:184108",
+                        "date":  "2005-06-28",
+                        "team1":  "Independiente",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186459",
+                        "date":  "2005-07-02",
+                        "team1":  "Quilmes",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186460",
+                        "date":  "2005-07-02",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186461",
+                        "date":  "2005-07-03",
+                        "team1":  "Racing Club",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186462",
+                        "date":  "2005-07-03",
+                        "team1":  "Estudiantes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186463",
+                        "date":  "2005-07-03",
+                        "team1":  "River Plate",
+                        "team2":  "Huracán de Tres Arroyos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186465",
+                        "date":  "2005-07-03",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186464",
+                        "date":  "2005-07-03",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186467",
+                        "date":  "2005-07-03",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:186466",
+                        "date":  "2005-07-03",
+                        "team1":  "Lanús",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187514",
+                        "date":  "2005-08-06",
+                        "team1":  "Racing Club",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187520",
+                        "date":  "2005-08-06",
+                        "team1":  "Rosario Central",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187515",
+                        "date":  "2005-08-06",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187516",
+                        "date":  "2005-08-07",
+                        "team1":  "Quilmes",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187517",
+                        "date":  "2005-08-07",
+                        "team1":  "Lanús",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187519",
+                        "date":  "2005-08-07",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187522",
+                        "date":  "2005-08-07",
+                        "team1":  "River Plate",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187523",
+                        "date":  "2005-08-07",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187524",
+                        "date":  "2005-08-12",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187533",
+                        "date":  "2005-08-13",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187530",
+                        "date":  "2005-08-13",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187532",
+                        "date":  "2005-08-14",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187526",
+                        "date":  "2005-08-14",
+                        "team1":  "Independiente",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187527",
+                        "date":  "2005-08-14",
+                        "team1":  "Olimpo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187531",
+                        "date":  "2005-08-14",
+                        "team1":  "Banfield",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187525",
+                        "date":  "2005-08-14",
+                        "team1":  "Estudiantes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187529",
+                        "date":  "2005-08-14",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187528",
+                        "date":  "2005-08-14",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187534",
+                        "date":  "2005-08-19",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187538",
+                        "date":  "2005-08-20",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187535",
+                        "date":  "2005-08-20",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187536",
+                        "date":  "2005-08-21",
+                        "team1":  "Racing Club",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187539",
+                        "date":  "2005-08-21",
+                        "team1":  "River Plate",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187542",
+                        "date":  "2005-08-21",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187537",
+                        "date":  "2005-08-21",
+                        "team1":  "Quilmes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187540",
+                        "date":  "2005-08-21",
+                        "team1":  "Rosario Central",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187543",
+                        "date":  "2005-08-21",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187541",
+                        "date":  "2005-08-21",
+                        "team1":  "Lanús",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187550",
+                        "date":  "2005-08-26",
+                        "team1":  "Rosario Central",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187548",
+                        "date":  "2005-08-27",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187547",
+                        "date":  "2005-08-27",
+                        "team1":  "Olimpo",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187546",
+                        "date":  "2005-08-28",
+                        "team1":  "Independiente",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187545",
+                        "date":  "2005-08-28",
+                        "team1":  "Estudiantes",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187553",
+                        "date":  "2005-08-28",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187552",
+                        "date":  "2005-08-28",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187544",
+                        "date":  "2005-08-28",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187549",
+                        "date":  "2005-08-28",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187551",
+                        "date":  "2005-08-28",
+                        "team1":  "Banfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187518",
+                        "date":  "2005-09-02",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187521",
+                        "date":  "2005-09-02",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187560",
+                        "date":  "2005-09-06",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187557",
+                        "date":  "2005-09-06",
+                        "team1":  "Quilmes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187554",
+                        "date":  "2005-09-07",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187556",
+                        "date":  "2005-09-07",
+                        "team1":  "Racing Club",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187563",
+                        "date":  "2005-09-07",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187561",
+                        "date":  "2005-09-07",
+                        "team1":  "Lanús",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187558",
+                        "date":  "2005-09-07",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187559",
+                        "date":  "2005-09-07",
+                        "team1":  "River Plate",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187555",
+                        "date":  "2005-09-07",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187562",
+                        "date":  "2005-09-07",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187565",
+                        "date":  "2005-09-09",
+                        "team1":  "Estudiantes",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187564",
+                        "date":  "2005-09-10",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187571",
+                        "date":  "2005-09-10",
+                        "team1":  "Lanús",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187570",
+                        "date":  "2005-09-11",
+                        "team1":  "Rosario Central",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187566",
+                        "date":  "2005-09-11",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187572",
+                        "date":  "2005-09-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187567",
+                        "date":  "2005-09-11",
+                        "team1":  "Olimpo",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187568",
+                        "date":  "2005-09-11",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187569",
+                        "date":  "2005-09-11",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187573",
+                        "date":  "2005-09-11",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187577",
+                        "date":  "2005-09-16",
+                        "team1":  "Quilmes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187578",
+                        "date":  "2005-09-17",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187583",
+                        "date":  "2005-09-17",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187576",
+                        "date":  "2005-09-18",
+                        "team1":  "Racing Club",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187574",
+                        "date":  "2005-09-18",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187581",
+                        "date":  "2005-09-18",
+                        "team1":  "Banfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187582",
+                        "date":  "2005-09-18",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187580",
+                        "date":  "2005-09-18",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187579",
+                        "date":  "2005-09-18",
+                        "team1":  "River Plate",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187575",
+                        "date":  "2005-09-18",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187584",
+                        "date":  "2005-09-23",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187590",
+                        "date":  "2005-09-24",
+                        "team1":  "Rosario Central",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187586",
+                        "date":  "2005-09-25",
+                        "team1":  "Independiente",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187585",
+                        "date":  "2005-09-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187593",
+                        "date":  "2005-09-25",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187588",
+                        "date":  "2005-09-25",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187591",
+                        "date":  "2005-09-25",
+                        "team1":  "Lanús",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187587",
+                        "date":  "2005-09-25",
+                        "team1":  "Olimpo",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187589",
+                        "date":  "2005-09-25",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187592",
+                        "date":  "2005-09-25",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187600",
+                        "date":  "2005-09-30",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187598",
+                        "date":  "2005-10-01",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187602",
+                        "date":  "2005-10-01",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187603",
+                        "date":  "2005-10-01",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187594",
+                        "date":  "2005-10-01",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187595",
+                        "date":  "2005-10-01",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187601",
+                        "date":  "2005-10-02",
+                        "team1":  "Banfield",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187596",
+                        "date":  "2005-10-02",
+                        "team1":  "Racing Club",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187599",
+                        "date":  "2005-10-02",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187597",
+                        "date":  "2005-10-02",
+                        "team1":  "Quilmes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187605",
+                        "date":  "2005-10-04",
+                        "team1":  "Estudiantes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187604",
+                        "date":  "2005-10-04",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187611",
+                        "date":  "2005-10-05",
+                        "team1":  "Lanús",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187609",
+                        "date":  "2005-10-05",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187607",
+                        "date":  "2005-10-05",
+                        "team1":  "Olimpo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187606",
+                        "date":  "2005-10-05",
+                        "team1":  "Independiente",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187610",
+                        "date":  "2005-10-05",
+                        "team1":  "Rosario Central",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187613",
+                        "date":  "2005-10-05",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187612",
+                        "date":  "2005-10-07",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187608",
+                        "date":  "2005-10-08",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187614",
+                        "date":  "2005-10-14",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187615",
+                        "date":  "2005-10-15",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187616",
+                        "date":  "2005-10-16",
+                        "team1":  "Racing Club",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187623",
+                        "date":  "2005-10-16",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187622",
+                        "date":  "2005-10-16",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187620",
+                        "date":  "2005-10-16",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187617",
+                        "date":  "2005-10-16",
+                        "team1":  "Quilmes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187619",
+                        "date":  "2005-10-16",
+                        "team1":  "River Plate",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187621",
+                        "date":  "2005-10-16",
+                        "team1":  "Banfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187618",
+                        "date":  "2005-10-18",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187625",
+                        "date":  "2005-10-21",
+                        "team1":  "Estudiantes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187631",
+                        "date":  "2005-10-22",
+                        "team1":  "Lanús",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187627",
+                        "date":  "2005-10-22",
+                        "team1":  "Olimpo",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187626",
+                        "date":  "2005-10-22",
+                        "team1":  "Independiente",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187624",
+                        "date":  "2005-10-28",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187629",
+                        "date":  "2005-10-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187633",
+                        "date":  "2005-10-30",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187632",
+                        "date":  "2005-10-30",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187630",
+                        "date":  "2005-10-30",
+                        "team1":  "Rosario Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187628",
+                        "date":  "2005-10-30",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187640",
+                        "date":  "2005-11-06",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187634",
+                        "date":  "2005-11-06",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187641",
+                        "date":  "2005-11-07",
+                        "team1":  "Banfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187642",
+                        "date":  "2005-11-09",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187635",
+                        "date":  "2005-11-09",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187643",
+                        "date":  "2005-11-09",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187636",
+                        "date":  "2005-11-09",
+                        "team1":  "Racing Club",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187639",
+                        "date":  "2005-11-09",
+                        "team1":  "River Plate",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187637",
+                        "date":  "2005-11-09",
+                        "team1":  "Quilmes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187638",
+                        "date":  "2005-11-09",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187650",
+                        "date":  "2005-11-11",
+                        "team1":  "Rosario Central",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187645",
+                        "date":  "2005-11-12",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187644",
+                        "date":  "2005-11-13",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187648",
+                        "date":  "2005-11-13",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187653",
+                        "date":  "2005-11-13",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187647",
+                        "date":  "2005-11-13",
+                        "team1":  "Olimpo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187646",
+                        "date":  "2005-11-13",
+                        "team1":  "Independiente",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187649",
+                        "date":  "2005-11-13",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187651",
+                        "date":  "2005-11-13",
+                        "team1":  "Lanús",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187652",
+                        "date":  "2005-11-13",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187657",
+                        "date":  "2005-11-16",
+                        "team1":  "Quilmes",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187656",
+                        "date":  "2005-11-16",
+                        "team1":  "Racing Club",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187661",
+                        "date":  "2005-11-16",
+                        "team1":  "Banfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187655",
+                        "date":  "2005-11-16",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187660",
+                        "date":  "2005-11-17",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187663",
+                        "date":  "2005-11-17",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187659",
+                        "date":  "2005-11-17",
+                        "team1":  "River Plate",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187654",
+                        "date":  "2005-11-17",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187662",
+                        "date":  "2005-11-17",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187658",
+                        "date":  "2005-11-17",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187672",
+                        "date":  "2005-11-19",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187668",
+                        "date":  "2005-11-20",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187666",
+                        "date":  "2005-11-20",
+                        "team1":  "Racing Club",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187671",
+                        "date":  "2005-11-20",
+                        "team1":  "Lanús",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187667",
+                        "date":  "2005-11-20",
+                        "team1":  "Olimpo",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187670",
+                        "date":  "2005-11-20",
+                        "team1":  "Rosario Central",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187669",
+                        "date":  "2005-11-20",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187665",
+                        "date":  "2005-11-20",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187664",
+                        "date":  "2005-11-20",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187673",
+                        "date":  "2005-11-22",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187681",
+                        "date":  "2005-11-25",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187678",
+                        "date":  "2005-11-26",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187683",
+                        "date":  "2005-11-26",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187682",
+                        "date":  "2005-11-26",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187674",
+                        "date":  "2005-11-27",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187676",
+                        "date":  "2005-11-27",
+                        "team1":  "Independiente",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187677",
+                        "date":  "2005-11-27",
+                        "team1":  "Quilmes",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187679",
+                        "date":  "2005-11-27",
+                        "team1":  "River Plate",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187675",
+                        "date":  "2005-11-27",
+                        "team1":  "Estudiantes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187680",
+                        "date":  "2005-11-27",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187684",
+                        "date":  "2005-12-02",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187690",
+                        "date":  "2005-12-03",
+                        "team1":  "Rosario Central",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187687",
+                        "date":  "2005-12-04",
+                        "team1":  "Quilmes",
+                        "team2":  "Tiro Federal",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187692",
+                        "date":  "2005-12-04",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187688",
+                        "date":  "2005-12-04",
+                        "team1":  "Gimnasia y Esgrima de Jujuy",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187691",
+                        "date":  "2005-12-04",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187686",
+                        "date":  "2005-12-04",
+                        "team1":  "Racing Club",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187693",
+                        "date":  "2005-12-04",
+                        "team1":  "Lanús",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187694",
+                        "date":  "2005-12-09",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187695",
+                        "date":  "2005-12-10",
+                        "team1":  "Estudiantes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187703",
+                        "date":  "2005-12-11",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187698",
+                        "date":  "2005-12-11",
+                        "team1":  "Tiro Federal",
+                        "team2":  "Gimnasia y Esgrima de Jujuy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187689",
+                        "date":  "2005-12-11",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187685",
+                        "date":  "2005-12-11",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187702",
+                        "date":  "2005-12-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187699",
+                        "date":  "2005-12-11",
+                        "team1":  "River Plate",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187701",
+                        "date":  "2005-12-14",
+                        "team1":  "Banfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187697",
+                        "date":  "2005-12-14",
+                        "team1":  "Olimpo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187700",
+                        "date":  "2005-12-14",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:187696",
+                        "date":  "2005-12-14",
+                        "team1":  "Independiente",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

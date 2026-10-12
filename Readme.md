@@ -288,9 +288,10 @@ La prioridad será construir un sistema confiable y medible antes de aumentar su
 ## 14. Licencia, datos y avisos legales
 
 - **Código:** licencia **MIT** (ver [`LICENSE`](LICENSE)).
-- **Datos históricos (openfootball):** dedicados al **dominio público**
-  (&laquo;use as you please with no restrictions whatsoever&raquo;). Atribución y
-  detalle de otras fuentes en [`docs/atribuciones.md`](docs/atribuciones.md).
+- **Datos históricos:** la base general proviene de **openfootball** (dedicada al
+  **dominio público**). La **Liga Profesional Argentina** se descarga de la API
+  pública de **ESPN** (historial 2001 y 2003–2026 + temporada en curso). Atribución
+  y detalle de todas las fuentes en [`docs/atribuciones.md`](docs/atribuciones.md).
 - **Naturaleza:** herramienta **informativa y estadística**. Sus salidas son
   **estimaciones probabilísticas**, no hechos ni garantías.
 - **Sin apuestas:** no es un servicio de apuestas, no procesa pagos ni muestra

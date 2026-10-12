@@ -20,7 +20,7 @@ Este documento es la base para el **Data Collector** del proyecto (sección 7 de
 | **API-Football vía RapidAPI** | `https://api-football-v1.p.rapidapi.com/v3` | `x-rapidapi-key` + host | 100 req/día | Igual que arriba | Igual | Igual | ✅ (RapidAPI habilita navegador) |
 | **OpenLigaDB** | `https://api.openligadb.de` | Ninguna | No publica límite | Solo fútbol alemán | Fases recientes | ❌ | ✅ |
 | **TheSportsDB** | `https://www.thesportsdb.com/api/v1/json/{key}` | Key en la URL (`123` = gratis) | 30 req/min + **tope de resultados por consulta** | 617 ligas (crowd-sourced) | Parcial | ❌ | ✅ |
-| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Solo reciente | ❌ | ✅ **(usado para la Liga Argentina: próximos partidos + resultados 2026)** |
+| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Por temporada (probado: arg.1 desde 2001) | ❌ | ✅ **(base de la Liga Argentina: historial 2001 y 2003–2026 descargado + temporada en curso en vivo)** |
 
 ¹ **CORS** = permite llamar la API directamente desde el navegador (crítico para un proyecto *full frontend*).
 
@@ -31,6 +31,7 @@ Este documento es la base para el **Data Collector** del proyecto (sección 7 de
 - **TheSportsDB** — ✅ **funciona desde el navegador**. Útil para equipos, **año de fundación**, escudos e historial. La clave gratuita limita severamente las búsquedas (por ejemplo, `searchteams` gratis solo responde a "Arsenal"), y `lookup_all_teams` devuelve el plantel de una liga.
 - **OpenLigaDB** — ✅ **funciona desde el navegador**, sin API key, pero **solo fútbol alemán**.
 - **openfootball** (GitHub raw) — ✅ **funciona desde el navegador**: JSON estático con Mundiales y ligas desde 1930.
+- **ESPN (no oficial)** — ✅ **funciona desde el navegador** (con `User-Agent` de navegador; sin key). Es la base de la **Liga Profesional Argentina**: `scripts/build-arg-espn.ps1` descarga las temporadas **2001 y 2003–2026** (9.505 partidos, solo partidos terminados) y las empaqueta en `data/arg-espn/`. La temporada en curso se refresca en vivo (misma API). No tiene CORS restringido y devuelve la temporada completa en una sola petición (`dates=<año>&limit=1000`).
 
 ### Resultado de la prueba de conectividad (desde el navegador)
 

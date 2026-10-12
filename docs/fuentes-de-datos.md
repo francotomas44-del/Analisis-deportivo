@@ -17,7 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930** y ligas europeas, con goles y estadios | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (Liga Argentina) | No | — | ✅ `*` | Próximos partidos **y resultados** de la Liga Profesional Argentina (2026) | No |
+| **ESPN** (Liga Argentina) | No | — | ✅ `*` | Liga Profesional Argentina: **historial 2001 y 2003–2026** (descargado a `data/arg-espn/`) + temporada en curso en vivo | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -26,24 +26,30 @@ En la app están en la pestaña **Importar**:
 - openfootball: cualquier URL de JSON de `github.com/openfootball/...`
 - CSV de football-data.co.uk: se descarga el archivo y se sube con **"Subir archivo"**.
 
-### Liga Profesional Argentina (automática, portada "Hoy")
+### Liga Profesional Argentina (historial + portada "Hoy")
 
-La base de openfootball **no** incluye la temporada 2026 de la Liga Profesional
-Argentina ni a todos los equipos actuales (p. ej. Gimnasia y Esgrima de Mendoza),
-así que la portada **"Hoy"** usa la API pública de **ESPN**:
+La base de openfootball solo trae **3 temporadas** argentinas, así que la Liga
+Profesional Argentina se arma desde la API pública de **ESPN**:
 
-- Endpoint: `site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=2026&limit=1000`
+- **Historial (descargado):** `scripts/build-arg-espn.ps1` baja las temporadas
+  **2001 y 2003–2026** y las guarda en `data/arg-espn/<año>.json`
+  (**9.505 partidos**; solo `STATUS_FULL_TIME`). Se registran en `data/manifest.json`
+  con `source: "arg-espn"` y cada partido guarda su `id` de ESPN.
+- **En vivo (temporada en curso):**
+  `site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=2026&limit=1000`
   (una sola petición que devuelve la temporada; la respuesta se cachea unas horas
-  en el navegador).
-- De esa respuesta se toman:
+  en el navegador). De ahí se toman:
   - los partidos **por jugar** (fechas, equipos y horarios) para la portada; y
-  - los partidos **terminados**, que se agregan al historial para que **todos los
-    equipos actuales** (incluidos los que no están en openfootball, como
-    Gimnasia y Esgrima de Mendoza) tengan datos reales y se les pueda calcular
-    probabilidades.
-- Se muestra la fuente en pantalla y se puede **desactivar** con la casilla
-  "Liga Argentina (en vivo)" de la portada. Si ESPN no responde, la portada y el
-  historial siguen funcionando con lo último guardado y con el resto de la base local.
+  - los partidos **terminados**, que se agregan al historial. Los que ya están en
+    el paquete descargado se detectan por su `id` de ESPN y **no se duplican**.
+- **Nombres de equipo:** `scripts/arg-team-map.json` (replicado en `js/v2.js`)
+  lleva cada rótulo de ESPN a un nombre canónico para no partir el historial de un
+  club en dos. Se descartan partidos de equipos ajenos a la liga que ESPN mezcla por
+  error (p. ej. clubes brasileños en 2013).
+- Se muestra la fuente en pantalla y la parte **en vivo** se puede **desactivar**
+  con la casilla "Liga Argentina (en vivo)" de la portada. Si ESPN no responde, la
+  portada y el historial siguen funcionando con lo último guardado y con el resto
+  de la base local.
 - Condiciones de uso: **ESPN**.
 
 ---

@@ -1,0 +1,4544 @@
+{
+    "name":  "Liga Profesional (Argentina) 2023",
+    "code":  "ar.1",
+    "source":  "espn",
+    "season":  2023,
+    "matches":  [
+                    {
+                        "id":  "espn:656227",
+                        "date":  "2023-01-27",
+                        "team1":  "Rosario Central",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656223",
+                        "date":  "2023-01-28",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656228",
+                        "date":  "2023-01-28",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656224",
+                        "date":  "2023-01-28",
+                        "team1":  "Estudiantes",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656229",
+                        "date":  "2023-01-28",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656221",
+                        "date":  "2023-01-29",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656225",
+                        "date":  "2023-01-29",
+                        "team1":  "Platense",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656222",
+                        "date":  "2023-01-29",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:657760",
+                        "date":  "2023-01-29",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656226",
+                        "date":  "2023-01-29",
+                        "team1":  "Racing Club",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656220",
+                        "date":  "2023-01-30",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656219",
+                        "date":  "2023-01-30",
+                        "team1":  "Barracas Central",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656218",
+                        "date":  "2023-01-30",
+                        "team1":  "Banfield",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656230",
+                        "date":  "2023-01-30",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656241",
+                        "date":  "2023-02-03",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656243",
+                        "date":  "2023-02-03",
+                        "team1":  "Tigre",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656232",
+                        "date":  "2023-02-04",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656242",
+                        "date":  "2023-02-04",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656234",
+                        "date":  "2023-02-04",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656231",
+                        "date":  "2023-02-05",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656240",
+                        "date":  "2023-02-05",
+                        "team1":  "Lanús",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656239",
+                        "date":  "2023-02-05",
+                        "team1":  "Independiente",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656235",
+                        "date":  "2023-02-05",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656233",
+                        "date":  "2023-02-06",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656237",
+                        "date":  "2023-02-06",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656244",
+                        "date":  "2023-02-06",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656236",
+                        "date":  "2023-02-06",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656238",
+                        "date":  "2023-02-07",
+                        "team1":  "Huracán",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656247",
+                        "date":  "2023-02-11",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656248",
+                        "date":  "2023-02-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656249",
+                        "date":  "2023-02-11",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656255",
+                        "date":  "2023-02-11",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656251",
+                        "date":  "2023-02-11",
+                        "team1":  "Platense",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656257",
+                        "date":  "2023-02-12",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656258",
+                        "date":  "2023-02-12",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656245",
+                        "date":  "2023-02-12",
+                        "team1":  "Banfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656254",
+                        "date":  "2023-02-12",
+                        "team1":  "Rosario Central",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656253",
+                        "date":  "2023-02-12",
+                        "team1":  "River Plate",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656256",
+                        "date":  "2023-02-13",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656252",
+                        "date":  "2023-02-13",
+                        "team1":  "Racing Club",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656246",
+                        "date":  "2023-02-13",
+                        "team1":  "Barracas Central",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656250",
+                        "date":  "2023-02-13",
+                        "team1":  "Estudiantes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656263",
+                        "date":  "2023-02-17",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656260",
+                        "date":  "2023-02-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656265",
+                        "date":  "2023-02-18",
+                        "team1":  "Huracán",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656267",
+                        "date":  "2023-02-18",
+                        "team1":  "Lanús",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656271",
+                        "date":  "2023-02-18",
+                        "team1":  "Tigre",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656259",
+                        "date":  "2023-02-18",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656264",
+                        "date":  "2023-02-18",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656268",
+                        "date":  "2023-02-19",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656272",
+                        "date":  "2023-02-19",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656262",
+                        "date":  "2023-02-19",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656266",
+                        "date":  "2023-02-20",
+                        "team1":  "Independiente",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656270",
+                        "date":  "2023-02-20",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656269",
+                        "date":  "2023-02-20",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656261",
+                        "date":  "2023-02-21",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656275",
+                        "date":  "2023-02-25",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656283",
+                        "date":  "2023-02-25",
+                        "team1":  "Rosario Central",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656284",
+                        "date":  "2023-02-25",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656286",
+                        "date":  "2023-02-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656279",
+                        "date":  "2023-02-25",
+                        "team1":  "Platense",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656280",
+                        "date":  "2023-02-26",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656277",
+                        "date":  "2023-02-26",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656278",
+                        "date":  "2023-02-26",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656282",
+                        "date":  "2023-02-26",
+                        "team1":  "River Plate",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656273",
+                        "date":  "2023-02-27",
+                        "team1":  "Banfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656285",
+                        "date":  "2023-02-27",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656274",
+                        "date":  "2023-02-27",
+                        "team1":  "Barracas Central",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656281",
+                        "date":  "2023-02-27",
+                        "team1":  "Racing Club",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656276",
+                        "date":  "2023-02-28",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656297",
+                        "date":  "2023-03-03",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656300",
+                        "date":  "2023-03-03",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656290",
+                        "date":  "2023-03-04",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656296",
+                        "date":  "2023-03-04",
+                        "team1":  "Platense",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656294",
+                        "date":  "2023-03-04",
+                        "team1":  "Lanús",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656288",
+                        "date":  "2023-03-05",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656295",
+                        "date":  "2023-03-05",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656293",
+                        "date":  "2023-03-05",
+                        "team1":  "Independiente",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656292",
+                        "date":  "2023-03-05",
+                        "team1":  "Huracán",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656298",
+                        "date":  "2023-03-06",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656299",
+                        "date":  "2023-03-06",
+                        "team1":  "Tigre",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656287",
+                        "date":  "2023-03-06",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656291",
+                        "date":  "2023-03-06",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656289",
+                        "date":  "2023-03-07",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656303",
+                        "date":  "2023-03-10",
+                        "team1":  "Barracas Central",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656301",
+                        "date":  "2023-03-11",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656313",
+                        "date":  "2023-03-11",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656312",
+                        "date":  "2023-03-11",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656307",
+                        "date":  "2023-03-11",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656304",
+                        "date":  "2023-03-12",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656305",
+                        "date":  "2023-03-12",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656309",
+                        "date":  "2023-03-12",
+                        "team1":  "Racing Club",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656308",
+                        "date":  "2023-03-12",
+                        "team1":  "Estudiantes",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656310",
+                        "date":  "2023-03-12",
+                        "team1":  "River Plate",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656302",
+                        "date":  "2023-03-13",
+                        "team1":  "Banfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656311",
+                        "date":  "2023-03-13",
+                        "team1":  "Rosario Central",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656306",
+                        "date":  "2023-03-14",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656314",
+                        "date":  "2023-03-14",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656327",
+                        "date":  "2023-03-18",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656315",
+                        "date":  "2023-03-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656321",
+                        "date":  "2023-03-18",
+                        "team1":  "Independiente",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656324",
+                        "date":  "2023-03-18",
+                        "team1":  "Platense",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656316",
+                        "date":  "2023-03-19",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656319",
+                        "date":  "2023-03-19",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656318",
+                        "date":  "2023-03-19",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656317",
+                        "date":  "2023-03-19",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656325",
+                        "date":  "2023-03-20",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656326",
+                        "date":  "2023-03-20",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656323",
+                        "date":  "2023-03-20",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656320",
+                        "date":  "2023-03-21",
+                        "team1":  "Huracán",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656322",
+                        "date":  "2023-03-21",
+                        "team1":  "Lanús",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656328",
+                        "date":  "2023-03-22",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656342",
+                        "date":  "2023-03-30",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656329",
+                        "date":  "2023-03-31",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656335",
+                        "date":  "2023-03-31",
+                        "team1":  "Estudiantes",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656339",
+                        "date":  "2023-03-31",
+                        "team1":  "Rosario Central",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656338",
+                        "date":  "2023-04-01",
+                        "team1":  "River Plate",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656331",
+                        "date":  "2023-04-01",
+                        "team1":  "Barracas Central",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656340",
+                        "date":  "2023-04-01",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656337",
+                        "date":  "2023-04-01",
+                        "team1":  "Racing Club",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656336",
+                        "date":  "2023-04-02",
+                        "team1":  "Tigre",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656341",
+                        "date":  "2023-04-02",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656334",
+                        "date":  "2023-04-02",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656330",
+                        "date":  "2023-04-03",
+                        "team1":  "Banfield",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656332",
+                        "date":  "2023-04-03",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656333",
+                        "date":  "2023-04-04",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656350",
+                        "date":  "2023-04-07",
+                        "team1":  "Lanús",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656352",
+                        "date":  "2023-04-07",
+                        "team1":  "Platense",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656354",
+                        "date":  "2023-04-08",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656356",
+                        "date":  "2023-04-08",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656353",
+                        "date":  "2023-04-08",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656346",
+                        "date":  "2023-04-08",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656355",
+                        "date":  "2023-04-08",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656343",
+                        "date":  "2023-04-08",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656345",
+                        "date":  "2023-04-08",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656347",
+                        "date":  "2023-04-09",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656349",
+                        "date":  "2023-04-09",
+                        "team1":  "Independiente",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656351",
+                        "date":  "2023-04-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656348",
+                        "date":  "2023-04-09",
+                        "team1":  "Huracán",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656344",
+                        "date":  "2023-04-10",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656360",
+                        "date":  "2023-04-11",
+                        "team1":  "Barracas Central",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656357",
+                        "date":  "2023-04-11",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656359",
+                        "date":  "2023-04-12",
+                        "team1":  "Banfield",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656362",
+                        "date":  "2023-04-12",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656369",
+                        "date":  "2023-04-12",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656368",
+                        "date":  "2023-04-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656361",
+                        "date":  "2023-04-12",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656365",
+                        "date":  "2023-04-12",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656364",
+                        "date":  "2023-04-13",
+                        "team1":  "Estudiantes",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656367",
+                        "date":  "2023-04-13",
+                        "team1":  "Rosario Central",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656358",
+                        "date":  "2023-04-13",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656363",
+                        "date":  "2023-04-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656366",
+                        "date":  "2023-04-13",
+                        "team1":  "River Plate",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656370",
+                        "date":  "2023-04-14",
+                        "team1":  "Tigre",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656374",
+                        "date":  "2023-04-15",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656373",
+                        "date":  "2023-04-15",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656375",
+                        "date":  "2023-04-16",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656377",
+                        "date":  "2023-04-16",
+                        "team1":  "Huracán",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656383",
+                        "date":  "2023-04-16",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656384",
+                        "date":  "2023-04-16",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656378",
+                        "date":  "2023-04-16",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656379",
+                        "date":  "2023-04-16",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656382",
+                        "date":  "2023-04-17",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656380",
+                        "date":  "2023-04-17",
+                        "team1":  "Platense",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656372",
+                        "date":  "2023-04-17",
+                        "team1":  "Banfield",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656381",
+                        "date":  "2023-04-17",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656371",
+                        "date":  "2023-04-18",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656376",
+                        "date":  "2023-04-18",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656390",
+                        "date":  "2023-04-21",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656386",
+                        "date":  "2023-04-22",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656391",
+                        "date":  "2023-04-22",
+                        "team1":  "Lanús",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656388",
+                        "date":  "2023-04-22",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656389",
+                        "date":  "2023-04-22",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656396",
+                        "date":  "2023-04-23",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656395",
+                        "date":  "2023-04-23",
+                        "team1":  "Rosario Central",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656397",
+                        "date":  "2023-04-23",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656398",
+                        "date":  "2023-04-23",
+                        "team1":  "Estudiantes",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656394",
+                        "date":  "2023-04-23",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656387",
+                        "date":  "2023-04-24",
+                        "team1":  "Barracas Central",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656393",
+                        "date":  "2023-04-24",
+                        "team1":  "Racing Club",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656385",
+                        "date":  "2023-04-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656392",
+                        "date":  "2023-04-25",
+                        "team1":  "Tigre",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656399",
+                        "date":  "2023-04-27",
+                        "team1":  "Platense",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656401",
+                        "date":  "2023-04-27",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656410",
+                        "date":  "2023-04-28",
+                        "team1":  "Huracán",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656412",
+                        "date":  "2023-04-28",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656405",
+                        "date":  "2023-04-29",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656404",
+                        "date":  "2023-04-29",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656409",
+                        "date":  "2023-04-29",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656406",
+                        "date":  "2023-04-29",
+                        "team1":  "Banfield",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656400",
+                        "date":  "2023-04-29",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656407",
+                        "date":  "2023-04-30",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656408",
+                        "date":  "2023-04-30",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656411",
+                        "date":  "2023-04-30",
+                        "team1":  "Independiente",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656402",
+                        "date":  "2023-04-30",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656423",
+                        "date":  "2023-05-05",
+                        "team1":  "Barracas Central",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656413",
+                        "date":  "2023-05-05",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656414",
+                        "date":  "2023-05-06",
+                        "team1":  "Lanús",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656422",
+                        "date":  "2023-05-06",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656420",
+                        "date":  "2023-05-06",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656425",
+                        "date":  "2023-05-06",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656417",
+                        "date":  "2023-05-07",
+                        "team1":  "Rosario Central",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656416",
+                        "date":  "2023-05-07",
+                        "team1":  "River Plate",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656419",
+                        "date":  "2023-05-08",
+                        "team1":  "Estudiantes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656426",
+                        "date":  "2023-05-08",
+                        "team1":  "Tigre",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656424",
+                        "date":  "2023-05-08",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656418",
+                        "date":  "2023-05-08",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656415",
+                        "date":  "2023-05-08",
+                        "team1":  "Racing Club",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656421",
+                        "date":  "2023-05-09",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656433",
+                        "date":  "2023-05-12",
+                        "team1":  "Huracán",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656435",
+                        "date":  "2023-05-13",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656427",
+                        "date":  "2023-05-13",
+                        "team1":  "Independiente",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656436",
+                        "date":  "2023-05-13",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656430",
+                        "date":  "2023-05-13",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656428",
+                        "date":  "2023-05-13",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656439",
+                        "date":  "2023-05-14",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656429",
+                        "date":  "2023-05-14",
+                        "team1":  "Platense",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656438",
+                        "date":  "2023-05-14",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656431",
+                        "date":  "2023-05-15",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656437",
+                        "date":  "2023-05-15",
+                        "team1":  "Barracas Central",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656432",
+                        "date":  "2023-05-15",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656440",
+                        "date":  "2023-05-15",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656434",
+                        "date":  "2023-05-15",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656442",
+                        "date":  "2023-05-19",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656450",
+                        "date":  "2023-05-19",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656454",
+                        "date":  "2023-05-19",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656449",
+                        "date":  "2023-05-19",
+                        "team1":  "Estudiantes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656446",
+                        "date":  "2023-05-19",
+                        "team1":  "Rosario Central",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656441",
+                        "date":  "2023-05-20",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656445",
+                        "date":  "2023-05-20",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656451",
+                        "date":  "2023-05-21",
+                        "team1":  "Lanús",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656443",
+                        "date":  "2023-05-21",
+                        "team1":  "Tigre",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656447",
+                        "date":  "2023-05-21",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656448",
+                        "date":  "2023-05-21",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656444",
+                        "date":  "2023-05-21",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656453",
+                        "date":  "2023-05-21",
+                        "team1":  "River Plate",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656455",
+                        "date":  "2023-05-27",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656462",
+                        "date":  "2023-05-27",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656458",
+                        "date":  "2023-05-27",
+                        "team1":  "Platense",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656460",
+                        "date":  "2023-05-27",
+                        "team1":  "Independiente",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656466",
+                        "date":  "2023-05-28",
+                        "team1":  "Barracas Central",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656463",
+                        "date":  "2023-05-28",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656456",
+                        "date":  "2023-05-28",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656465",
+                        "date":  "2023-05-28",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656459",
+                        "date":  "2023-05-29",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656464",
+                        "date":  "2023-05-29",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656467",
+                        "date":  "2023-05-29",
+                        "team1":  "Banfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656468",
+                        "date":  "2023-05-29",
+                        "team1":  "Huracán",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656457",
+                        "date":  "2023-05-29",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656461",
+                        "date":  "2023-05-30",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656480",
+                        "date":  "2023-06-01",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656470",
+                        "date":  "2023-06-02",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656473",
+                        "date":  "2023-06-02",
+                        "team1":  "Estudiantes",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656469",
+                        "date":  "2023-06-03",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656481",
+                        "date":  "2023-06-03",
+                        "team1":  "Tigre",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656471",
+                        "date":  "2023-06-03",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656472",
+                        "date":  "2023-06-03",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656478",
+                        "date":  "2023-06-03",
+                        "team1":  "Rosario Central",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656476",
+                        "date":  "2023-06-04",
+                        "team1":  "Racing Club",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656482",
+                        "date":  "2023-06-04",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656479",
+                        "date":  "2023-06-04",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656474",
+                        "date":  "2023-06-04",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656475",
+                        "date":  "2023-06-05",
+                        "team1":  "Lanús",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656485",
+                        "date":  "2023-06-09",
+                        "team1":  "Barracas Central",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656490",
+                        "date":  "2023-06-09",
+                        "team1":  "Independiente",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656492",
+                        "date":  "2023-06-10",
+                        "team1":  "Platense",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656486",
+                        "date":  "2023-06-10",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656495",
+                        "date":  "2023-06-11",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656491",
+                        "date":  "2023-06-12",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656493",
+                        "date":  "2023-06-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656484",
+                        "date":  "2023-06-12",
+                        "team1":  "Banfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656494",
+                        "date":  "2023-06-13",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656496",
+                        "date":  "2023-06-13",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656487",
+                        "date":  "2023-06-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656488",
+                        "date":  "2023-06-13",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656483",
+                        "date":  "2023-06-13",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656489",
+                        "date":  "2023-06-13",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656403",
+                        "date":  "2023-06-17",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656452",
+                        "date":  "2023-06-17",
+                        "team1":  "Racing Club",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656477",
+                        "date":  "2023-06-18",
+                        "team1":  "River Plate",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656501",
+                        "date":  "2023-06-21",
+                        "team1":  "Estudiantes",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656500",
+                        "date":  "2023-06-22",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656509",
+                        "date":  "2023-06-22",
+                        "team1":  "Tigre",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656505",
+                        "date":  "2023-06-22",
+                        "team1":  "Racing Club",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656506",
+                        "date":  "2023-06-22",
+                        "team1":  "River Plate",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656502",
+                        "date":  "2023-06-23",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656503",
+                        "date":  "2023-06-23",
+                        "team1":  "Huracán",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656497",
+                        "date":  "2023-06-24",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656510",
+                        "date":  "2023-06-24",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656504",
+                        "date":  "2023-06-24",
+                        "team1":  "Lanús",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656498",
+                        "date":  "2023-06-25",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656507",
+                        "date":  "2023-06-25",
+                        "team1":  "Rosario Central",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656508",
+                        "date":  "2023-06-25",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656499",
+                        "date":  "2023-06-26",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656520",
+                        "date":  "2023-06-30",
+                        "team1":  "Platense",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656511",
+                        "date":  "2023-07-01",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656518",
+                        "date":  "2023-07-01",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656513",
+                        "date":  "2023-07-01",
+                        "team1":  "Barracas Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656521",
+                        "date":  "2023-07-01",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656524",
+                        "date":  "2023-07-01",
+                        "team1":  "Estudiantes",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656523",
+                        "date":  "2023-07-02",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656517",
+                        "date":  "2023-07-02",
+                        "team1":  "Independiente",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656515",
+                        "date":  "2023-07-02",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656522",
+                        "date":  "2023-07-02",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656512",
+                        "date":  "2023-07-02",
+                        "team1":  "Banfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656516",
+                        "date":  "2023-07-02",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656514",
+                        "date":  "2023-07-03",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656519",
+                        "date":  "2023-07-03",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656532",
+                        "date":  "2023-07-04",
+                        "team1":  "Lanús",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656530",
+                        "date":  "2023-07-05",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656537",
+                        "date":  "2023-07-05",
+                        "team1":  "Tigre",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656535",
+                        "date":  "2023-07-05",
+                        "team1":  "Rosario Central",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656533",
+                        "date":  "2023-07-05",
+                        "team1":  "Racing Club",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656534",
+                        "date":  "2023-07-06",
+                        "team1":  "River Plate",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656526",
+                        "date":  "2023-07-06",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656538",
+                        "date":  "2023-07-06",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656525",
+                        "date":  "2023-07-06",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656536",
+                        "date":  "2023-07-06",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656527",
+                        "date":  "2023-07-07",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656531",
+                        "date":  "2023-07-07",
+                        "team1":  "Huracán",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656529",
+                        "date":  "2023-07-07",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656528",
+                        "date":  "2023-07-08",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656545",
+                        "date":  "2023-07-08",
+                        "team1":  "Estudiantes",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656549",
+                        "date":  "2023-07-08",
+                        "team1":  "San Lorenzo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656550",
+                        "date":  "2023-07-09",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656547",
+                        "date":  "2023-07-09",
+                        "team1":  "Platense",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656552",
+                        "date":  "2023-07-09",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656540",
+                        "date":  "2023-07-09",
+                        "team1":  "Banfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656544",
+                        "date":  "2023-07-09",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656541",
+                        "date":  "2023-07-10",
+                        "team1":  "Barracas Central",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656543",
+                        "date":  "2023-07-10",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656542",
+                        "date":  "2023-07-10",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656551",
+                        "date":  "2023-07-11",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656548",
+                        "date":  "2023-07-11",
+                        "team1":  "Rosario Central",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656546",
+                        "date":  "2023-07-11",
+                        "team1":  "Independiente",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656539",
+                        "date":  "2023-07-12",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656558",
+                        "date":  "2023-07-14",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656564",
+                        "date":  "2023-07-14",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656559",
+                        "date":  "2023-07-15",
+                        "team1":  "Huracán",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656566",
+                        "date":  "2023-07-15",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656562",
+                        "date":  "2023-07-15",
+                        "team1":  "Racing Club",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656563",
+                        "date":  "2023-07-15",
+                        "team1":  "River Plate",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656555",
+                        "date":  "2023-07-16",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656557",
+                        "date":  "2023-07-16",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656560",
+                        "date":  "2023-07-16",
+                        "team1":  "Lanús",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656553",
+                        "date":  "2023-07-17",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656556",
+                        "date":  "2023-07-17",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656554",
+                        "date":  "2023-07-17",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656565",
+                        "date":  "2023-07-17",
+                        "team1":  "Tigre",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656561",
+                        "date":  "2023-07-17",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656577",
+                        "date":  "2023-07-22",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656580",
+                        "date":  "2023-07-22",
+                        "team1":  "Estudiantes",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656573",
+                        "date":  "2023-07-22",
+                        "team1":  "Platense",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656567",
+                        "date":  "2023-07-23",
+                        "team1":  "Atlético Tucumán",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656572",
+                        "date":  "2023-07-23",
+                        "team1":  "Defensa y Justicia",
+                        "team2":  "Sarmiento de Junín",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656576",
+                        "date":  "2023-07-24",
+                        "team1":  "Rosario Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656579",
+                        "date":  "2023-07-24",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656574",
+                        "date":  "2023-07-24",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656568",
+                        "date":  "2023-07-24",
+                        "team1":  "Banfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656575",
+                        "date":  "2023-07-24",
+                        "team1":  "Racing Club",
+                        "team2":  "Central Córdoba SdE",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656570",
+                        "date":  "2023-07-24",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656569",
+                        "date":  "2023-07-25",
+                        "team1":  "Barracas Central",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656571",
+                        "date":  "2023-07-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656578",
+                        "date":  "2023-07-25",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656593",
+                        "date":  "2023-07-28",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656592",
+                        "date":  "2023-07-28",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Defensa y Justicia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656581",
+                        "date":  "2023-07-28",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656588",
+                        "date":  "2023-07-28",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656589",
+                        "date":  "2023-07-29",
+                        "team1":  "River Plate",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656582",
+                        "date":  "2023-07-29",
+                        "team1":  "Central Córdoba SdE",
+                        "team2":  "Atlético Tucumán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656590",
+                        "date":  "2023-07-29",
+                        "team1":  "Sarmiento de Junín",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656586",
+                        "date":  "2023-07-29",
+                        "team1":  "Independiente",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656591",
+                        "date":  "2023-07-29",
+                        "team1":  "Tigre",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656594",
+                        "date":  "2023-07-30",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656587",
+                        "date":  "2023-07-30",
+                        "team1":  "Lanús",
+                        "team2":  "Barracas Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656583",
+                        "date":  "2023-07-30",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Platense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656585",
+                        "date":  "2023-07-30",
+                        "team1":  "Huracán",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:656584",
+                        "date":  "2023-07-30",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

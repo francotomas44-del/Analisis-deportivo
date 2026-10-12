@@ -235,11 +235,6 @@
         "source":  "openfootball"
     },
     {
-        "path":  "2018-19/ar.1.json",
-        "code":  "ar.1",
-        "source":  "openfootball"
-    },
-    {
         "path":  "2018-19/at.1.json",
         "code":  "at.1",
         "source":  "openfootball"
@@ -342,11 +337,6 @@
     {
         "path":  "2018-19/uefa.cl.json",
         "code":  "uefa.cl",
-        "source":  "openfootball"
-    },
-    {
-        "path":  "2019-20/ar.1.json",
-        "code":  "ar.1",
         "source":  "openfootball"
     },
     {
@@ -835,11 +825,6 @@
         "source":  "openfootball"
     },
     {
-        "path":  "2025/ar.1.json",
-        "code":  "ar.1",
-        "source":  "openfootball"
-    },
-    {
         "path":  "2025/br.1.json",
         "code":  "br.1",
         "source":  "openfootball"
@@ -1028,5 +1013,130 @@
         "path":  "euro/2028/euro.json",
         "code":  "euro",
         "source":  "openfootball"
+    },
+    {
+        "path":  "2001.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2003.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2004.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2005.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2006.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2007.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2008.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2009.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2010.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2011.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2012.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2013.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2014.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2015.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2016.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2017.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2018.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2019.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2020.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2021.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2022.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2023.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2024.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2025.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
+    },
+    {
+        "path":  "2026.json",
+        "code":  "ar.1",
+        "source":  "arg-espn"
     }
 ]

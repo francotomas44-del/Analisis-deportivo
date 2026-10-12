@@ -1,0 +1,4592 @@
+{
+    "name":  "Liga Profesional (Argentina) 2012",
+    "code":  "ar.1",
+    "source":  "espn",
+    "season":  2012,
+    "matches":  [
+                    {
+                        "id":  "espn:335659",
+                        "date":  "2012-02-11",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335662",
+                        "date":  "2012-02-11",
+                        "team1":  "Lanús",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335657",
+                        "date":  "2012-02-11",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335661",
+                        "date":  "2012-02-11",
+                        "team1":  "Estudiantes",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335663",
+                        "date":  "2012-02-12",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335655",
+                        "date":  "2012-02-12",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335658",
+                        "date":  "2012-02-12",
+                        "team1":  "Racing Club",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335654",
+                        "date":  "2012-02-12",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335660",
+                        "date":  "2012-02-13",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335656",
+                        "date":  "2012-02-14",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335669",
+                        "date":  "2012-02-17",
+                        "team1":  "Olimpo",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335672",
+                        "date":  "2012-02-18",
+                        "team1":  "Banfield",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335667",
+                        "date":  "2012-02-18",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335671",
+                        "date":  "2012-02-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335670",
+                        "date":  "2012-02-19",
+                        "team1":  "All Boys",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335665",
+                        "date":  "2012-02-19",
+                        "team1":  "Independiente",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335666",
+                        "date":  "2012-02-19",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335673",
+                        "date":  "2012-02-19",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335668",
+                        "date":  "2012-02-19",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335664",
+                        "date":  "2012-02-21",
+                        "team1":  "Tigre",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335680",
+                        "date":  "2012-02-24",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335677",
+                        "date":  "2012-02-25",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335679",
+                        "date":  "2012-02-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335683",
+                        "date":  "2012-02-25",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335682",
+                        "date":  "2012-02-26",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335678",
+                        "date":  "2012-02-26",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335675",
+                        "date":  "2012-02-26",
+                        "team1":  "Racing Club",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335681",
+                        "date":  "2012-02-26",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335676",
+                        "date":  "2012-02-26",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335674",
+                        "date":  "2012-02-28",
+                        "team1":  "Lanús",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335689",
+                        "date":  "2012-03-02",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335684",
+                        "date":  "2012-03-03",
+                        "team1":  "Banfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335692",
+                        "date":  "2012-03-03",
+                        "team1":  "All Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335687",
+                        "date":  "2012-03-03",
+                        "team1":  "Independiente",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335686",
+                        "date":  "2012-03-04",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335688",
+                        "date":  "2012-03-04",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335690",
+                        "date":  "2012-03-04",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335693",
+                        "date":  "2012-03-04",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335685",
+                        "date":  "2012-03-04",
+                        "team1":  "Tigre",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335691",
+                        "date":  "2012-03-06",
+                        "team1":  "Olimpo",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335701",
+                        "date":  "2012-03-09",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335695",
+                        "date":  "2012-03-10",
+                        "team1":  "Estudiantes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335694",
+                        "date":  "2012-03-10",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335697",
+                        "date":  "2012-03-10",
+                        "team1":  "Racing Club",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335702",
+                        "date":  "2012-03-11",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335698",
+                        "date":  "2012-03-11",
+                        "team1":  "Banfield",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335696",
+                        "date":  "2012-03-11",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335700",
+                        "date":  "2012-03-11",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335703",
+                        "date":  "2012-03-11",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335699",
+                        "date":  "2012-03-13",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335707",
+                        "date":  "2012-03-16",
+                        "team1":  "Lanús",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335704",
+                        "date":  "2012-03-17",
+                        "team1":  "All Boys",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335706",
+                        "date":  "2012-03-17",
+                        "team1":  "Tigre",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335712",
+                        "date":  "2012-03-17",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335709",
+                        "date":  "2012-03-17",
+                        "team1":  "Independiente",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335713",
+                        "date":  "2012-03-17",
+                        "team1":  "Olimpo",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335710",
+                        "date":  "2012-03-18",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335711",
+                        "date":  "2012-03-18",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335708",
+                        "date":  "2012-03-18",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335705",
+                        "date":  "2012-03-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335717",
+                        "date":  "2012-03-24",
+                        "team1":  "Banfield",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335722",
+                        "date":  "2012-03-24",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335714",
+                        "date":  "2012-03-24",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335720",
+                        "date":  "2012-03-24",
+                        "team1":  "Racing Club",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335716",
+                        "date":  "2012-03-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335723",
+                        "date":  "2012-03-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335718",
+                        "date":  "2012-03-25",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335715",
+                        "date":  "2012-03-25",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335719",
+                        "date":  "2012-03-26",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335721",
+                        "date":  "2012-03-27",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335729",
+                        "date":  "2012-03-30",
+                        "team1":  "Lanús",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335725",
+                        "date":  "2012-03-31",
+                        "team1":  "Olimpo",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335724",
+                        "date":  "2012-03-31",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335727",
+                        "date":  "2012-03-31",
+                        "team1":  "Tigre",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335731",
+                        "date":  "2012-03-31",
+                        "team1":  "Independiente",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335726",
+                        "date":  "2012-04-01",
+                        "team1":  "All Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335732",
+                        "date":  "2012-04-01",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335733",
+                        "date":  "2012-04-01",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335730",
+                        "date":  "2012-04-01",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335728",
+                        "date":  "2012-04-01",
+                        "team1":  "Estudiantes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335739",
+                        "date":  "2012-04-06",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335743",
+                        "date":  "2012-04-07",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335740",
+                        "date":  "2012-04-07",
+                        "team1":  "Banfield",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335737",
+                        "date":  "2012-04-07",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335735",
+                        "date":  "2012-04-07",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335738",
+                        "date":  "2012-04-07",
+                        "team1":  "All Boys",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335734",
+                        "date":  "2012-04-07",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335736",
+                        "date":  "2012-04-08",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335741",
+                        "date":  "2012-04-08",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335742",
+                        "date":  "2012-04-09",
+                        "team1":  "Racing Club",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335750",
+                        "date":  "2012-04-13",
+                        "team1":  "Estudiantes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335753",
+                        "date":  "2012-04-14",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335747",
+                        "date":  "2012-04-14",
+                        "team1":  "Olimpo",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335744",
+                        "date":  "2012-04-14",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335752",
+                        "date":  "2012-04-14",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335745",
+                        "date":  "2012-04-15",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335749",
+                        "date":  "2012-04-15",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335746",
+                        "date":  "2012-04-15",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335748",
+                        "date":  "2012-04-15",
+                        "team1":  "Tigre",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335751",
+                        "date":  "2012-04-17",
+                        "team1":  "Lanús",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335759",
+                        "date":  "2012-04-21",
+                        "team1":  "Tigre",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335757",
+                        "date":  "2012-04-21",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335756",
+                        "date":  "2012-04-21",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335755",
+                        "date":  "2012-04-21",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335754",
+                        "date":  "2012-04-21",
+                        "team1":  "Racing Club",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335760",
+                        "date":  "2012-04-22",
+                        "team1":  "All Boys",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335762",
+                        "date":  "2012-04-22",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335763",
+                        "date":  "2012-04-22",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335758",
+                        "date":  "2012-04-22",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335761",
+                        "date":  "2012-04-23",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335772",
+                        "date":  "2012-04-27",
+                        "team1":  "Estudiantes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335773",
+                        "date":  "2012-04-27",
+                        "team1":  "Lanús",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335764",
+                        "date":  "2012-04-28",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335767",
+                        "date":  "2012-04-28",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335770",
+                        "date":  "2012-04-28",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335765",
+                        "date":  "2012-04-28",
+                        "team1":  "Independiente",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335766",
+                        "date":  "2012-04-29",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335769",
+                        "date":  "2012-04-29",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335771",
+                        "date":  "2012-04-29",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335768",
+                        "date":  "2012-04-30",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335774",
+                        "date":  "2012-05-04",
+                        "team1":  "Banfield",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335783",
+                        "date":  "2012-05-05",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335777",
+                        "date":  "2012-05-05",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335780",
+                        "date":  "2012-05-05",
+                        "team1":  "Tigre",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335775",
+                        "date":  "2012-05-06",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335782",
+                        "date":  "2012-05-06",
+                        "team1":  "All Boys",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335781",
+                        "date":  "2012-05-06",
+                        "team1":  "Olimpo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335776",
+                        "date":  "2012-05-06",
+                        "team1":  "Racing Club",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335778",
+                        "date":  "2012-05-06",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335779",
+                        "date":  "2012-05-07",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335786",
+                        "date":  "2012-05-11",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335784",
+                        "date":  "2012-05-12",
+                        "team1":  "Estudiantes",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335790",
+                        "date":  "2012-05-12",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335787",
+                        "date":  "2012-05-12",
+                        "team1":  "Independiente",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335791",
+                        "date":  "2012-05-12",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335789",
+                        "date":  "2012-05-12",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335785",
+                        "date":  "2012-05-13",
+                        "team1":  "Lanús",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335793",
+                        "date":  "2012-05-13",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335788",
+                        "date":  "2012-05-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335792",
+                        "date":  "2012-05-13",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335797",
+                        "date":  "2012-05-18",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335801",
+                        "date":  "2012-05-18",
+                        "team1":  "Tigre",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335796",
+                        "date":  "2012-05-19",
+                        "team1":  "Banfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335794",
+                        "date":  "2012-05-19",
+                        "team1":  "All Boys",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335802",
+                        "date":  "2012-05-19",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335803",
+                        "date":  "2012-05-20",
+                        "team1":  "Olimpo",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335799",
+                        "date":  "2012-05-20",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335800",
+                        "date":  "2012-05-20",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335798",
+                        "date":  "2012-05-20",
+                        "team1":  "Racing Club",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335795",
+                        "date":  "2012-05-21",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335809",
+                        "date":  "2012-05-25",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335807",
+                        "date":  "2012-05-26",
+                        "team1":  "Lanús",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335805",
+                        "date":  "2012-05-26",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335813",
+                        "date":  "2012-05-26",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335808",
+                        "date":  "2012-05-27",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335811",
+                        "date":  "2012-05-27",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335810",
+                        "date":  "2012-05-27",
+                        "team1":  "Independiente",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335804",
+                        "date":  "2012-05-27",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335806",
+                        "date":  "2012-05-28",
+                        "team1":  "Estudiantes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335812",
+                        "date":  "2012-05-28",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335817",
+                        "date":  "2012-06-08",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335818",
+                        "date":  "2012-06-09",
+                        "team1":  "Banfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335823",
+                        "date":  "2012-06-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335814",
+                        "date":  "2012-06-09",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335821",
+                        "date":  "2012-06-09",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335822",
+                        "date":  "2012-06-10",
+                        "team1":  "Tigre",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335816",
+                        "date":  "2012-06-10",
+                        "team1":  "All Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335815",
+                        "date":  "2012-06-10",
+                        "team1":  "Olimpo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335819",
+                        "date":  "2012-06-10",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335820",
+                        "date":  "2012-06-11",
+                        "team1":  "Racing Club",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335830",
+                        "date":  "2012-06-15",
+                        "team1":  "Lanús",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335831",
+                        "date":  "2012-06-15",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335825",
+                        "date":  "2012-06-16",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335829",
+                        "date":  "2012-06-16",
+                        "team1":  "Estudiantes",
+                        "team2":  "Olimpo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335828",
+                        "date":  "2012-06-16",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335827",
+                        "date":  "2012-06-17",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335832",
+                        "date":  "2012-06-17",
+                        "team1":  "Independiente",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335833",
+                        "date":  "2012-06-17",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335826",
+                        "date":  "2012-06-17",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335824",
+                        "date":  "2012-06-18",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335837",
+                        "date":  "2012-06-22",
+                        "team1":  "Olimpo",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335835",
+                        "date":  "2012-06-22",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335842",
+                        "date":  "2012-06-23",
+                        "team1":  "Racing Club",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335838",
+                        "date":  "2012-06-24",
+                        "team1":  "All Boys",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335840",
+                        "date":  "2012-06-24",
+                        "team1":  "Banfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335841",
+                        "date":  "2012-06-24",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335834",
+                        "date":  "2012-06-24",
+                        "team1":  "San Lorenzo",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335843",
+                        "date":  "2012-06-24",
+                        "team1":  "Tigre",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335836",
+                        "date":  "2012-06-24",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335839",
+                        "date":  "2012-06-24",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:346008",
+                        "date":  "2012-06-28",
+                        "team1":  "Instituto de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335844",
+                        "date":  "2012-06-28",
+                        "team1":  "Rosario Central",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:346009",
+                        "date":  "2012-07-01",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Instituto de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:335845",
+                        "date":  "2012-07-01",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352309",
+                        "date":  "2012-08-03",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352310",
+                        "date":  "2012-08-04",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352311",
+                        "date":  "2012-08-04",
+                        "team1":  "Racing Club",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352312",
+                        "date":  "2012-08-04",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352313",
+                        "date":  "2012-08-04",
+                        "team1":  "Quilmes",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352314",
+                        "date":  "2012-08-04",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352315",
+                        "date":  "2012-08-05",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352316",
+                        "date":  "2012-08-05",
+                        "team1":  "San Lorenzo",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352317",
+                        "date":  "2012-08-05",
+                        "team1":  "River Plate",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352318",
+                        "date":  "2012-08-06",
+                        "team1":  "Tigre",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352320",
+                        "date":  "2012-08-10",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352319",
+                        "date":  "2012-08-11",
+                        "team1":  "Lanús",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352323",
+                        "date":  "2012-08-11",
+                        "team1":  "Estudiantes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352324",
+                        "date":  "2012-08-11",
+                        "team1":  "All Boys",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352322",
+                        "date":  "2012-08-11",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352325",
+                        "date":  "2012-08-12",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352327",
+                        "date":  "2012-08-12",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352326",
+                        "date":  "2012-08-12",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352328",
+                        "date":  "2012-08-13",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352321",
+                        "date":  "2012-08-13",
+                        "team1":  "Independiente",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352335",
+                        "date":  "2012-08-18",
+                        "team1":  "Boca Juniors",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352337",
+                        "date":  "2012-08-18",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352336",
+                        "date":  "2012-08-18",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352330",
+                        "date":  "2012-08-19",
+                        "team1":  "Racing Club",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352332",
+                        "date":  "2012-08-19",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352329",
+                        "date":  "2012-08-19",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352333",
+                        "date":  "2012-08-19",
+                        "team1":  "Tigre",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352334",
+                        "date":  "2012-08-20",
+                        "team1":  "Quilmes",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352331",
+                        "date":  "2012-08-20",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352338",
+                        "date":  "2012-08-20",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352346",
+                        "date":  "2012-08-25",
+                        "team1":  "All Boys",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352347",
+                        "date":  "2012-08-25",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352339",
+                        "date":  "2012-08-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352340",
+                        "date":  "2012-08-25",
+                        "team1":  "Independiente",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352348",
+                        "date":  "2012-08-26",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352343",
+                        "date":  "2012-08-26",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352341",
+                        "date":  "2012-08-26",
+                        "team1":  "Lanús",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352342",
+                        "date":  "2012-08-26",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352345",
+                        "date":  "2012-08-26",
+                        "team1":  "River Plate",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352344",
+                        "date":  "2012-08-27",
+                        "team1":  "Estudiantes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352356",
+                        "date":  "2012-08-31",
+                        "team1":  "All Boys",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352358",
+                        "date":  "2012-09-01",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352351",
+                        "date":  "2012-09-01",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352349",
+                        "date":  "2012-09-01",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352353",
+                        "date":  "2012-09-02",
+                        "team1":  "Tigre",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352355",
+                        "date":  "2012-09-02",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352352",
+                        "date":  "2012-09-02",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352357",
+                        "date":  "2012-09-02",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352354",
+                        "date":  "2012-09-03",
+                        "team1":  "Quilmes",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352350",
+                        "date":  "2012-09-03",
+                        "team1":  "Racing Club",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352362",
+                        "date":  "2012-09-08",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352368",
+                        "date":  "2012-09-08",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352364",
+                        "date":  "2012-09-08",
+                        "team1":  "Estudiantes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352366",
+                        "date":  "2012-09-08",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352359",
+                        "date":  "2012-09-09",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352363",
+                        "date":  "2012-09-09",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352360",
+                        "date":  "2012-09-09",
+                        "team1":  "Independiente",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352365",
+                        "date":  "2012-09-09",
+                        "team1":  "River Plate",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352367",
+                        "date":  "2012-09-10",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352361",
+                        "date":  "2012-09-10",
+                        "team1":  "Lanús",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352373",
+                        "date":  "2012-09-15",
+                        "team1":  "Tigre",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352376",
+                        "date":  "2012-09-15",
+                        "team1":  "All Boys",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352372",
+                        "date":  "2012-09-15",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352370",
+                        "date":  "2012-09-15",
+                        "team1":  "Racing Club",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352375",
+                        "date":  "2012-09-16",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352378",
+                        "date":  "2012-09-16",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352371",
+                        "date":  "2012-09-16",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352369",
+                        "date":  "2012-09-16",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352377",
+                        "date":  "2012-09-17",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352374",
+                        "date":  "2012-09-17",
+                        "team1":  "Quilmes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352383",
+                        "date":  "2012-09-21",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352388",
+                        "date":  "2012-09-22",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352379",
+                        "date":  "2012-09-22",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352386",
+                        "date":  "2012-09-22",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352380",
+                        "date":  "2012-09-22",
+                        "team1":  "Independiente",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352385",
+                        "date":  "2012-09-23",
+                        "team1":  "River Plate",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352387",
+                        "date":  "2012-09-23",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352382",
+                        "date":  "2012-09-23",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352381",
+                        "date":  "2012-09-23",
+                        "team1":  "Lanús",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352384",
+                        "date":  "2012-09-24",
+                        "team1":  "Estudiantes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352394",
+                        "date":  "2012-09-28",
+                        "team1":  "Quilmes",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352396",
+                        "date":  "2012-09-29",
+                        "team1":  "All Boys",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352392",
+                        "date":  "2012-09-29",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352398",
+                        "date":  "2012-09-29",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352390",
+                        "date":  "2012-09-29",
+                        "team1":  "Racing Club",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352391",
+                        "date":  "2012-09-30",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352393",
+                        "date":  "2012-09-30",
+                        "team1":  "Tigre",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352397",
+                        "date":  "2012-09-30",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352389",
+                        "date":  "2012-09-30",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352395",
+                        "date":  "2012-09-30",
+                        "team1":  "Boca Juniors",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352401",
+                        "date":  "2012-10-05",
+                        "team1":  "Lanús",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352399",
+                        "date":  "2012-10-06",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352402",
+                        "date":  "2012-10-06",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352406",
+                        "date":  "2012-10-06",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352404",
+                        "date":  "2012-10-06",
+                        "team1":  "Estudiantes",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352407",
+                        "date":  "2012-10-06",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352403",
+                        "date":  "2012-10-07",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352400",
+                        "date":  "2012-10-07",
+                        "team1":  "Independiente",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352408",
+                        "date":  "2012-10-07",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352405",
+                        "date":  "2012-10-07",
+                        "team1":  "River Plate",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352411",
+                        "date":  "2012-10-19",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352409",
+                        "date":  "2012-10-20",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352416",
+                        "date":  "2012-10-20",
+                        "team1":  "All Boys",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352417",
+                        "date":  "2012-10-20",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352412",
+                        "date":  "2012-10-20",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352413",
+                        "date":  "2012-10-20",
+                        "team1":  "Tigre",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352410",
+                        "date":  "2012-10-20",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352414",
+                        "date":  "2012-10-21",
+                        "team1":  "Quilmes",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352418",
+                        "date":  "2012-10-21",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352415",
+                        "date":  "2012-10-21",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352426",
+                        "date":  "2012-10-27",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352422",
+                        "date":  "2012-10-27",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352424",
+                        "date":  "2012-10-27",
+                        "team1":  "Estudiantes",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352428",
+                        "date":  "2012-10-27",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352419",
+                        "date":  "2012-10-27",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352425",
+                        "date":  "2012-10-28",
+                        "team1":  "River Plate",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352423",
+                        "date":  "2012-10-28",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352421",
+                        "date":  "2012-10-28",
+                        "team1":  "Lanús",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352427",
+                        "date":  "2012-10-29",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352438",
+                        "date":  "2012-11-02",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352429",
+                        "date":  "2012-11-03",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352437",
+                        "date":  "2012-11-03",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352435",
+                        "date":  "2012-11-03",
+                        "team1":  "Boca Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352431",
+                        "date":  "2012-11-03",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352432",
+                        "date":  "2012-11-04",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352434",
+                        "date":  "2012-11-04",
+                        "team1":  "Quilmes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352436",
+                        "date":  "2012-11-04",
+                        "team1":  "All Boys",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352433",
+                        "date":  "2012-11-05",
+                        "team1":  "Tigre",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352430",
+                        "date":  "2012-11-06",
+                        "team1":  "Independiente",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352443",
+                        "date":  "2012-11-09",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352448",
+                        "date":  "2012-11-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352439",
+                        "date":  "2012-11-10",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352446",
+                        "date":  "2012-11-10",
+                        "team1":  "San Lorenzo",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352445",
+                        "date":  "2012-11-10",
+                        "team1":  "River Plate",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352444",
+                        "date":  "2012-11-10",
+                        "team1":  "Estudiantes",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352441",
+                        "date":  "2012-11-11",
+                        "team1":  "Lanús",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352442",
+                        "date":  "2012-11-11",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352447",
+                        "date":  "2012-11-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352440",
+                        "date":  "2012-11-11",
+                        "team1":  "Racing Club",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352449",
+                        "date":  "2012-11-13",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352457",
+                        "date":  "2012-11-13",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352454",
+                        "date":  "2012-11-14",
+                        "team1":  "Quilmes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352456",
+                        "date":  "2012-11-14",
+                        "team1":  "All Boys",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352458",
+                        "date":  "2012-11-15",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352452",
+                        "date":  "2012-11-15",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352451",
+                        "date":  "2012-11-15",
+                        "team1":  "Lanús",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352455",
+                        "date":  "2012-11-16",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352453",
+                        "date":  "2012-11-16",
+                        "team1":  "Tigre",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352466",
+                        "date":  "2012-11-17",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352464",
+                        "date":  "2012-11-17",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352461",
+                        "date":  "2012-11-18",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352467",
+                        "date":  "2012-11-18",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352462",
+                        "date":  "2012-11-18",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352468",
+                        "date":  "2012-11-18",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352459",
+                        "date":  "2012-11-18",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352463",
+                        "date":  "2012-11-19",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352460",
+                        "date":  "2012-11-19",
+                        "team1":  "Racing Club",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352465",
+                        "date":  "2012-11-20",
+                        "team1":  "River Plate",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352470",
+                        "date":  "2012-11-24",
+                        "team1":  "Independiente",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352477",
+                        "date":  "2012-11-24",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352472",
+                        "date":  "2012-11-24",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352469",
+                        "date":  "2012-11-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352476",
+                        "date":  "2012-11-25",
+                        "team1":  "All Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352471",
+                        "date":  "2012-11-25",
+                        "team1":  "Lanús",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352473",
+                        "date":  "2012-11-25",
+                        "team1":  "Tigre",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352475",
+                        "date":  "2012-11-25",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352474",
+                        "date":  "2012-11-26",
+                        "team1":  "Quilmes",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352478",
+                        "date":  "2012-11-27",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352450",
+                        "date":  "2012-11-28",
+                        "team1":  "Independiente",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352482",
+                        "date":  "2012-12-01",
+                        "team1":  "Godoy Cruz",
+                        "team2":  "Quilmes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352487",
+                        "date":  "2012-12-01",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352480",
+                        "date":  "2012-12-02",
+                        "team1":  "Racing Club",
+                        "team2":  "All Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352483",
+                        "date":  "2012-12-02",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Tigre",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352485",
+                        "date":  "2012-12-02",
+                        "team1":  "River Plate",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352479",
+                        "date":  "2012-12-02",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352486",
+                        "date":  "2012-12-02",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352481",
+                        "date":  "2012-12-02",
+                        "team1":  "Arsenal de Sarandí",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352488",
+                        "date":  "2012-12-03",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Atletico Rafaela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352484",
+                        "date":  "2012-12-03",
+                        "team1":  "Estudiantes",
+                        "team2":  "San Martín (San Juan)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352496",
+                        "date":  "2012-12-07",
+                        "team1":  "All Boys",
+                        "team2":  "Arsenal de Sarandí",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352497",
+                        "date":  "2012-12-08",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352489",
+                        "date":  "2012-12-08",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352495",
+                        "date":  "2012-12-08",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Godoy Cruz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352498",
+                        "date":  "2012-12-08",
+                        "team1":  "Atletico Rafaela",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352493",
+                        "date":  "2012-12-08",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352491",
+                        "date":  "2012-12-09",
+                        "team1":  "Lanús",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352490",
+                        "date":  "2012-12-09",
+                        "team1":  "Independiente",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:352492",
+                        "date":  "2012-12-09",
+                        "team1":  "San Martín (San Juan)",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

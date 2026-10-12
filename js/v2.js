@@ -303,23 +303,33 @@
   }
 
   /* ===== Liga Argentina en vivo (fuente: ESPN) =================
-     La base histórica (openfootball) no tiene la temporada 2026 de la
-     Argentina. Para la portada "Hoy" traemos los próximos partidos de la
-     Liga Profesional desde la API pública de ESPN (gratis, sin clave, con
-     CORS). Si no hay internet, se usa lo último guardado y la portada
-     sigue mostrando el resto (datos locales). Fuente citada en pantalla. */
+     La base histórica de la Argentina se arma desde la API pública de ESPN
+     (scripts/build-arg-espn.ps1, temporadas 2001 y 2003..2026). Aquí traemos
+     en vivo lo de la temporada en curso (próximos partidos para la portada
+     "Hoy" y resultados ya jugados), así la portada queda al día aunque el
+     paquete local sea de una fecha anterior. Si no hay internet, se usa lo
+     último guardado y la portada sigue mostrando el resto (datos locales).
+     Fuente citada en pantalla. */
   var AR_LIVE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=2026&limit=1000";
   var AR_LIVE_CACHE_KEY = "futbolityx:ar-live";
   var AR_LIVE_TTL = 3 * 60 * 60 * 1000; /* 3 horas */
 
-  /* Nombres de equipo de ESPN -> nombres que usa la base histórica
-     (openfootball), para poder reutilizar el historial. Clave en minúsculas. */
+  /* Nombres de equipo de ESPN -> nombre canónico que usa la base, para que el
+     historial de un club no quede partido en dos equipos. Es el mismo mapa que
+     scripts/arg-team-map.json (usado al generar data/arg-espn/*.json). Clave en
+     minúsculas. */
   var ESPN_ALIAS = {
+    "arsenal sarandi": "Arsenal de Sarandí",
     "belgrano (córdoba)": "Belgrano de Córdoba",
     "central córdoba (santiago del estero)": "Central Córdoba SdE",
+    "colón (santa fe)": "Colón de Santa Fe",
     "estudiantes de la plata": "Estudiantes",
     "gimnasia la plata": "Gimnasia de La Plata",
+    "gimnasia y esgrima (jujuy)": "Gimnasia y Esgrima de Jujuy",
+    "godoy cruz antonio tomba": "Godoy Cruz",
     "instituto (córdoba)": "Instituto de Córdoba",
+    "san martín (tucumán)": "San Martín de Tucumán",
+    "san martín de tucumán": "San Martín de Tucumán",
     "sarmiento (junín)": "Sarmiento de Junín",
     "talleres (córdoba)": "Talleres de Córdoba",
     "unión (santa fe)": "Unión de Santa Fe"

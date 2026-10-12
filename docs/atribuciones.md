@@ -33,24 +33,30 @@ alguno.
 
 ## 2. Liga Profesional Argentina (ESPN)
 
-La base histórica de openfootball **no** incluye la temporada 2026 de la Liga
-Profesional Argentina ni a todos sus equipos actuales (por ejemplo, Gimnasia y
-Esgrima de Mendoza). Para cubrirla sin inventar datos, la portada **"Hoy"** usa
-la API pública de **ESPN**:
+La base histórica de openfootball solo trae **3 temporadas** argentinas
+(2018-19, 2019-20 y 2025). Para tener el máximo historial real, la Liga
+Profesional Argentina se arma desde la API pública de **ESPN** y se guarda
+**descargada** en la propia app (`data/arg-espn/<año>.json`), reproducida por
+`scripts/build-arg-espn.ps1`.
 
 - **Fuente:** `https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard`
-- **Qué se pide:** el calendario completo de la temporada (una sola petición,
-  `dates=2026&limit=1000`). De ahí se usan:
-  - los partidos **por jugar** para armar la portada "Hoy"; y
-  - los partidos **ya terminados** ("results") para que **todos los equipos
-    actuales** tengan historial real y se puedan calcular probabilidades.
-- La petición es **anónima** (no envía datos del usuario) y se hace al abrir la
-  portada; la respuesta se cachea unas horas en el navegador.
+- **Historial incluido:** temporadas **2001 y 2003–2026** (ESPN no tiene 2002 ni
+  años anteriores), solo partidos **terminados en tiempo regular**
+  (`STATUS_FULL_TIME`) para no introducir ambigüedad de penales.
+  Total: **9.505 partidos** de 25 temporadas.
+- **En vivo (temporada en curso):** además, al abrir la portada se pide la
+  temporada actual (`dates=2026&limit=1000`) para armar "Hoy" (partidos por jugar)
+  y sumar los resultados nuevos. Los partidos ya presentes se detectan por su
+  `id` de ESPN y **no se duplican**.
+- **Nombres de equipo:** un mapa (`scripts/arg-team-map.json`, replicado en
+  `js/v2.js`) lleva cada rótulo de ESPN a un **nombre canónico**, así el historial
+  de un club no queda partido en dos equipos. Se descartan partidos de equipos
+  ajenos a la liga que ESPN mezcla por error (p. ej. clubes brasileños en 2013).
 - **Condiciones:** datos y términos de **ESPN**. Se usan de forma **nominativa**
-  (solo nombres de equipos, horarios y resultados) y se **muestra la fuente** en
-  pantalla. Es un dato "en vivo": si ESPN no responde, la portada y el historial
-  siguen funcionando con lo último guardado y con la base local.
-- **Cómo desactivarla:** casilla "Liga Argentina (en vivo)" en la portada.
+  (nombres, fechas, horarios y resultados) y se **muestra la fuente** en pantalla.
+  Si ESPN no responde, la app sigue funcionando con el historial ya descargado.
+- **Cómo desactivar lo "en vivo":** casilla "Liga Argentina (en vivo)" en la portada
+  (el historial ya descargado queda como dato local).
 
 > Nota: **olé.com.ar** se evaluó como fuente para las ligas argentinas, pero sus
 > datos los sirve su proveedor *LilaX* (`ole.lilax.io`) mediante JavaScript y

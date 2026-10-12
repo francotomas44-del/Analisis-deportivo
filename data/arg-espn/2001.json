@@ -1,0 +1,3116 @@
+{
+    "name":  "Liga Profesional (Argentina) 2001",
+    "code":  "ar.1",
+    "source":  "espn",
+    "season":  2001,
+    "matches":  [
+                    {
+                        "id":  "espn:8714",
+                        "date":  "2001-02-10",
+                        "team1":  "Racing Club",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8715",
+                        "date":  "2001-02-10",
+                        "team1":  "Huracán",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8716",
+                        "date":  "2001-02-10",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8717",
+                        "date":  "2001-02-10",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8718",
+                        "date":  "2001-02-11",
+                        "team1":  "Lanús",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8922",
+                        "date":  "2001-02-11",
+                        "team1":  "Almagro",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8923",
+                        "date":  "2001-02-11",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8924",
+                        "date":  "2001-02-11",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8925",
+                        "date":  "2001-02-11",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Los Andes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8926",
+                        "date":  "2001-02-11",
+                        "team1":  "River Plate",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8975",
+                        "date":  "2001-02-13",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8976",
+                        "date":  "2001-02-14",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8977",
+                        "date":  "2001-02-14",
+                        "team1":  "Independiente",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8978",
+                        "date":  "2001-02-14",
+                        "team1":  "Rosario Central",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:8983",
+                        "date":  "2001-02-14",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9020",
+                        "date":  "2001-02-17",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9021",
+                        "date":  "2001-02-17",
+                        "team1":  "River Plate",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9024",
+                        "date":  "2001-02-18",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Los Andes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9025",
+                        "date":  "2001-02-18",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9026",
+                        "date":  "2001-02-18",
+                        "team1":  "Huracán",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9027",
+                        "date":  "2001-02-18",
+                        "team1":  "Lanús",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9028",
+                        "date":  "2001-02-18",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9029",
+                        "date":  "2001-02-18",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9030",
+                        "date":  "2001-02-18",
+                        "team1":  "Racing Club",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9034",
+                        "date":  "2001-02-20",
+                        "team1":  "Almagro",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9045",
+                        "date":  "2001-02-24",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9073",
+                        "date":  "2001-02-24",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9299",
+                        "date":  "2001-02-25",
+                        "team1":  "Los Andes",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9260",
+                        "date":  "2001-02-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9261",
+                        "date":  "2001-02-25",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9262",
+                        "date":  "2001-02-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9264",
+                        "date":  "2001-02-25",
+                        "team1":  "Independiente",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9265",
+                        "date":  "2001-02-25",
+                        "team1":  "Rosario Central",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9266",
+                        "date":  "2001-02-25",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9304",
+                        "date":  "2001-02-27",
+                        "team1":  "Estudiantes",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9305",
+                        "date":  "2001-03-03",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9342",
+                        "date":  "2001-03-03",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9641",
+                        "date":  "2001-03-04",
+                        "team1":  "Almagro",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9642",
+                        "date":  "2001-03-04",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9643",
+                        "date":  "2001-03-04",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9644",
+                        "date":  "2001-03-04",
+                        "team1":  "Huracán",
+                        "team2":  "Los Andes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9645",
+                        "date":  "2001-03-04",
+                        "team1":  "Lanús",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9646",
+                        "date":  "2001-03-04",
+                        "team1":  "Racing Club",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9647",
+                        "date":  "2001-03-04",
+                        "team1":  "River Plate",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9660",
+                        "date":  "2001-03-06",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9710",
+                        "date":  "2001-03-10",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9714",
+                        "date":  "2001-03-10",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9715",
+                        "date":  "2001-03-11",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9736",
+                        "date":  "2001-03-11",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9737",
+                        "date":  "2001-03-11",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9738",
+                        "date":  "2001-03-11",
+                        "team1":  "Estudiantes",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9739",
+                        "date":  "2001-03-11",
+                        "team1":  "Los Andes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9740",
+                        "date":  "2001-03-11",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9741",
+                        "date":  "2001-03-11",
+                        "team1":  "Independiente",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9744",
+                        "date":  "2001-03-13",
+                        "team1":  "Rosario Central",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9746",
+                        "date":  "2001-03-17",
+                        "team1":  "Lanús",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9750",
+                        "date":  "2001-03-17",
+                        "team1":  "Estudiantes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9956",
+                        "date":  "2001-03-18",
+                        "team1":  "Huracán",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9957",
+                        "date":  "2001-03-18",
+                        "team1":  "Racing Club",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9958",
+                        "date":  "2001-03-18",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9959",
+                        "date":  "2001-03-18",
+                        "team1":  "River Plate",
+                        "team2":  "Los Andes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9992",
+                        "date":  "2001-03-19",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:9993",
+                        "date":  "2001-03-20",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10015",
+                        "date":  "2001-03-23",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10020",
+                        "date":  "2001-03-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Almagro",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10021",
+                        "date":  "2001-03-25",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10016",
+                        "date":  "2001-03-25",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10019",
+                        "date":  "2001-03-25",
+                        "team1":  "Independiente",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10017",
+                        "date":  "2001-03-25",
+                        "team1":  "Los Andes",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10018",
+                        "date":  "2001-03-25",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10023",
+                        "date":  "2001-03-25",
+                        "team1":  "San Lorenzo",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10024",
+                        "date":  "2001-03-25",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10022",
+                        "date":  "2001-03-25",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10034",
+                        "date":  "2001-03-31",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10117",
+                        "date":  "2001-03-31",
+                        "team1":  "Rosario Central",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10040",
+                        "date":  "2001-03-31",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10118",
+                        "date":  "2001-04-01",
+                        "team1":  "Almagro",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10119",
+                        "date":  "2001-04-01",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10120",
+                        "date":  "2001-04-01",
+                        "team1":  "Huracán",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10121",
+                        "date":  "2001-04-01",
+                        "team1":  "Lanús",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10122",
+                        "date":  "2001-04-01",
+                        "team1":  "River Plate",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10123",
+                        "date":  "2001-04-01",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10274",
+                        "date":  "2001-05-11",
+                        "team1":  "Almagro",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:10273",
+                        "date":  "2001-05-13",
+                        "team1":  "Almagro",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14141",
+                        "date":  "2001-08-17",
+                        "team1":  "Racing Club",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14143",
+                        "date":  "2001-08-18",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14142",
+                        "date":  "2001-08-18",
+                        "team1":  "Rosario Central",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14150",
+                        "date":  "2001-08-19",
+                        "team1":  "Banfield",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14144",
+                        "date":  "2001-08-19",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14146",
+                        "date":  "2001-08-19",
+                        "team1":  "Estudiantes",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14145",
+                        "date":  "2001-08-19",
+                        "team1":  "Huracán",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14149",
+                        "date":  "2001-08-19",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14148",
+                        "date":  "2001-08-19",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14147",
+                        "date":  "2001-08-19",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14170",
+                        "date":  "2001-08-24",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14172",
+                        "date":  "2001-08-25",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14173",
+                        "date":  "2001-08-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14171",
+                        "date":  "2001-08-25",
+                        "team1":  "Lanús",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14178",
+                        "date":  "2001-08-26",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14179",
+                        "date":  "2001-08-26",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14180",
+                        "date":  "2001-08-26",
+                        "team1":  "Independiente",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14181",
+                        "date":  "2001-08-26",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14182",
+                        "date":  "2001-08-26",
+                        "team1":  "River Plate",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14183",
+                        "date":  "2001-08-28",
+                        "team1":  "Rosario Central",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14185",
+                        "date":  "2001-08-29",
+                        "team1":  "Banfield",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14187",
+                        "date":  "2001-08-29",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14184",
+                        "date":  "2001-08-29",
+                        "team1":  "Estudiantes",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14188",
+                        "date":  "2001-08-29",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14186",
+                        "date":  "2001-08-29",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14301",
+                        "date":  "2001-08-31",
+                        "team1":  "Racing Club",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14412",
+                        "date":  "2001-09-01",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14411",
+                        "date":  "2001-09-01",
+                        "team1":  "Lanús",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14524",
+                        "date":  "2001-09-02",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14522",
+                        "date":  "2001-09-02",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14526",
+                        "date":  "2001-09-02",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14637",
+                        "date":  "2001-09-02",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14523",
+                        "date":  "2001-09-02",
+                        "team1":  "River Plate",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14525",
+                        "date":  "2001-09-02",
+                        "team1":  "Rosario Central",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:14527",
+                        "date":  "2001-09-02",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15324",
+                        "date":  "2001-09-07",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15429",
+                        "date":  "2001-09-08",
+                        "team1":  "Huracán",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15430",
+                        "date":  "2001-09-08",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15432",
+                        "date":  "2001-09-09",
+                        "team1":  "Banfield",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15431",
+                        "date":  "2001-09-09",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15435",
+                        "date":  "2001-09-09",
+                        "team1":  "Estudiantes",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15436",
+                        "date":  "2001-09-09",
+                        "team1":  "Independiente",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15433",
+                        "date":  "2001-09-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15437",
+                        "date":  "2001-09-09",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15434",
+                        "date":  "2001-09-09",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15883",
+                        "date":  "2001-09-14",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15876",
+                        "date":  "2001-09-15",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15874",
+                        "date":  "2001-09-15",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15875",
+                        "date":  "2001-09-15",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15880",
+                        "date":  "2001-09-16",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16069",
+                        "date":  "2001-09-16",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15882",
+                        "date":  "2001-09-16",
+                        "team1":  "Lanús",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15878",
+                        "date":  "2001-09-16",
+                        "team1":  "Racing Club",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15877",
+                        "date":  "2001-09-16",
+                        "team1":  "River Plate",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:15881",
+                        "date":  "2001-09-16",
+                        "team1":  "Rosario Central",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16633",
+                        "date":  "2001-09-21",
+                        "team1":  "Independiente",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16635",
+                        "date":  "2001-09-22",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16634",
+                        "date":  "2001-09-22",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16642",
+                        "date":  "2001-09-23",
+                        "team1":  "Banfield",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16636",
+                        "date":  "2001-09-23",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16640",
+                        "date":  "2001-09-23",
+                        "team1":  "Estudiantes",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16641",
+                        "date":  "2001-09-23",
+                        "team1":  "Huracán",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16638",
+                        "date":  "2001-09-23",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16637",
+                        "date":  "2001-09-23",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:16639",
+                        "date":  "2001-09-23",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17586",
+                        "date":  "2001-09-28",
+                        "team1":  "Huracán",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17588",
+                        "date":  "2001-09-29",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17590",
+                        "date":  "2001-09-29",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17587",
+                        "date":  "2001-09-29",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17600",
+                        "date":  "2001-09-29",
+                        "team1":  "Lanús",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17589",
+                        "date":  "2001-09-29",
+                        "team1":  "Rosario Central",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17594",
+                        "date":  "2001-09-30",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17593",
+                        "date":  "2001-09-30",
+                        "team1":  "Racing Club",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17601",
+                        "date":  "2001-09-30",
+                        "team1":  "River Plate",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17595",
+                        "date":  "2001-09-30",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17827",
+                        "date":  "2001-10-02",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17828",
+                        "date":  "2001-10-02",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17833",
+                        "date":  "2001-10-03",
+                        "team1":  "Banfield",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17835",
+                        "date":  "2001-10-03",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17831",
+                        "date":  "2001-10-03",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17829",
+                        "date":  "2001-10-03",
+                        "team1":  "Estudiantes",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17830",
+                        "date":  "2001-10-03",
+                        "team1":  "Independiente",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17834",
+                        "date":  "2001-10-03",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17836",
+                        "date":  "2001-10-03",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:17832",
+                        "date":  "2001-10-03",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24642",
+                        "date":  "2001-10-19",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24643",
+                        "date":  "2001-10-20",
+                        "team1":  "Huracán",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24644",
+                        "date":  "2001-10-20",
+                        "team1":  "Lanús",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24650",
+                        "date":  "2001-10-20",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24648",
+                        "date":  "2001-10-21",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24647",
+                        "date":  "2001-10-21",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24646",
+                        "date":  "2001-10-21",
+                        "team1":  "Racing Club",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24645",
+                        "date":  "2001-10-21",
+                        "team1":  "River Plate",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24649",
+                        "date":  "2001-10-21",
+                        "team1":  "Rosario Central",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:24651",
+                        "date":  "2001-10-21",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25073",
+                        "date":  "2001-10-26",
+                        "team1":  "Independiente",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25075",
+                        "date":  "2001-10-27",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25076",
+                        "date":  "2001-10-27",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25074",
+                        "date":  "2001-10-27",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25078",
+                        "date":  "2001-10-28",
+                        "team1":  "Banfield",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25082",
+                        "date":  "2001-10-28",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25081",
+                        "date":  "2001-10-28",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25079",
+                        "date":  "2001-10-28",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25080",
+                        "date":  "2001-10-28",
+                        "team1":  "Estudiantes",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25077",
+                        "date":  "2001-10-28",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25446",
+                        "date":  "2001-11-01",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25363",
+                        "date":  "2001-11-02",
+                        "team1":  "Huracán",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25365",
+                        "date":  "2001-11-03",
+                        "team1":  "Rosario Central",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25364",
+                        "date":  "2001-11-03",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25368",
+                        "date":  "2001-11-04",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25366",
+                        "date":  "2001-11-04",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25370",
+                        "date":  "2001-11-04",
+                        "team1":  "Estudiantes",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25367",
+                        "date":  "2001-11-04",
+                        "team1":  "Lanús",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25369",
+                        "date":  "2001-11-04",
+                        "team1":  "Racing Club",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25371",
+                        "date":  "2001-11-04",
+                        "team1":  "River Plate",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25372",
+                        "date":  "2001-11-04",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25810",
+                        "date":  "2001-11-09",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25813",
+                        "date":  "2001-11-10",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25811",
+                        "date":  "2001-11-10",
+                        "team1":  "Independiente",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25812",
+                        "date":  "2001-11-10",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25818",
+                        "date":  "2001-11-11",
+                        "team1":  "Banfield",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25816",
+                        "date":  "2001-11-11",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25814",
+                        "date":  "2001-11-11",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25817",
+                        "date":  "2001-11-11",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25815",
+                        "date":  "2001-11-11",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:25819",
+                        "date":  "2001-11-11",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26045",
+                        "date":  "2001-11-16",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26044",
+                        "date":  "2001-11-16",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26049",
+                        "date":  "2001-11-18",
+                        "team1":  "Estudiantes",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26048",
+                        "date":  "2001-11-18",
+                        "team1":  "Huracán",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26052",
+                        "date":  "2001-11-18",
+                        "team1":  "Lanús",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26053",
+                        "date":  "2001-11-18",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26047",
+                        "date":  "2001-11-18",
+                        "team1":  "Racing Club",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26046",
+                        "date":  "2001-11-18",
+                        "team1":  "River Plate",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26050",
+                        "date":  "2001-11-18",
+                        "team1":  "Rosario Central",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26126",
+                        "date":  "2001-11-18",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26196",
+                        "date":  "2001-11-23",
+                        "team1":  "Independiente",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26197",
+                        "date":  "2001-11-24",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26198",
+                        "date":  "2001-11-24",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26199",
+                        "date":  "2001-11-25",
+                        "team1":  "Banfield",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26204",
+                        "date":  "2001-11-25",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26203",
+                        "date":  "2001-11-25",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26200",
+                        "date":  "2001-11-25",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26201",
+                        "date":  "2001-11-25",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26202",
+                        "date":  "2001-11-25",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26320",
+                        "date":  "2001-11-30",
+                        "team1":  "Estudiantes",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26321",
+                        "date":  "2001-12-01",
+                        "team1":  "Huracán",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26324",
+                        "date":  "2001-12-01",
+                        "team1":  "Lanús",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26322",
+                        "date":  "2001-12-01",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26323",
+                        "date":  "2001-12-02",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26329",
+                        "date":  "2001-12-02",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Banfield",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26325",
+                        "date":  "2001-12-02",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26328",
+                        "date":  "2001-12-02",
+                        "team1":  "Racing Club",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26326",
+                        "date":  "2001-12-02",
+                        "team1":  "Rosario Central",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26327",
+                        "date":  "2001-12-02",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26441",
+                        "date":  "2001-12-07",
+                        "team1":  "Independiente",
+                        "team2":  "Nueva Chicago",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26442",
+                        "date":  "2001-12-08",
+                        "team1":  "Belgrano de Córdoba",
+                        "team2":  "Unión de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26443",
+                        "date":  "2001-12-08",
+                        "team1":  "Chacarita Juniors",
+                        "team2":  "Argentinos Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26445",
+                        "date":  "2001-12-08",
+                        "team1":  "Colón de Santa Fe",
+                        "team2":  "Talleres de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26449",
+                        "date":  "2001-12-09",
+                        "team1":  "Banfield",
+                        "team2":  "Racing Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26446",
+                        "date":  "2001-12-09",
+                        "team1":  "Gimnasia de La Plata",
+                        "team2":  "Rosario Central",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26447",
+                        "date":  "2001-12-09",
+                        "team1":  "Newell\u0027s Old Boys",
+                        "team2":  "Estudiantes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26448",
+                        "date":  "2001-12-09",
+                        "team1":  "River Plate",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26444",
+                        "date":  "2001-12-09",
+                        "team1":  "San Lorenzo",
+                        "team2":  "Huracán",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26450",
+                        "date":  "2001-12-09",
+                        "team1":  "Vélez Sarsfield",
+                        "team2":  "Boca Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26494",
+                        "date":  "2001-12-14",
+                        "team1":  "Banfield",
+                        "team2":  "Vélez Sarsfield",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26497",
+                        "date":  "2001-12-15",
+                        "team1":  "Estudiantes",
+                        "team2":  "Belgrano de Córdoba",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26495",
+                        "date":  "2001-12-15",
+                        "team1":  "Huracán",
+                        "team2":  "Colón de Santa Fe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26496",
+                        "date":  "2001-12-15",
+                        "team1":  "Rosario Central",
+                        "team2":  "Chacarita Juniors",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26498",
+                        "date":  "2001-12-15",
+                        "team1":  "Unión de Santa Fe",
+                        "team2":  "San Lorenzo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26502",
+                        "date":  "2001-12-16",
+                        "team1":  "Argentinos Juniors",
+                        "team2":  "River Plate",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26499",
+                        "date":  "2001-12-16",
+                        "team1":  "Boca Juniors",
+                        "team2":  "Independiente",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26500",
+                        "date":  "2001-12-16",
+                        "team1":  "Nueva Chicago",
+                        "team2":  "Newell\u0027s Old Boys",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26503",
+                        "date":  "2001-12-16",
+                        "team1":  "Racing Club",
+                        "team2":  "Lanús",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:26501",
+                        "date":  "2001-12-16",
+                        "team1":  "Talleres de Córdoba",
+                        "team2":  "Gimnasia de La Plata",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}
