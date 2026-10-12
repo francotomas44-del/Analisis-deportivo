@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Futbolunaki</title>
   <link rel="icon" href="img/logo.png?v=2" type="image/png" />
-  <link rel="stylesheet" href="css/styles.css?v=5" />
+  <link rel="stylesheet" href="css/styles.css?v=6" />
 </head>
 <body>
   <header class="topbar">
@@ -346,6 +346,7 @@
           <li><strong>openfootball</strong> — resultados de Copas del Mundo, Eurocopas, UEFA Champions League, copas nacionales y primeras divisiones (2010-11 a 2026-27).</li>
           <li class="warn"><strong>football-data.org</strong> — no accesible desde el navegador (CORS); descartado.</li>
         </ul>
+        <p class="muted">Promovemos un uso trazable y responsable: ver <code>docs/atribuciones.md</code> para licencias y condiciones de cada fuente.</p>
         <p class="muted">Para más detalle sobre la recolección y las fuentes, ver <code>docs/apis-datos.md</code> y <code>docs/persistencia.md</code>.</p>
       </div>
 
@@ -391,6 +392,21 @@
         <p>Ningún modelo puede garantizar un resultado exacto. Un modelo bien calibrado puede fallar en partidos individuales. La fiabilidad se demuestra sobre muestras amplias, no en un partido aislado.</p>
         <p class="muted">Esta app no genera estadísticas ni resultados: sólo procesa los datos que vos cargás.</p>
       </div>
+
+      <div class="panel" id="aviso-legal">
+        <h2>Aviso legal y privacidad</h2>
+        <h3>Naturaleza del contenido</h3>
+        <p>Futbolunaki es una herramienta <strong>informativa y estadística</strong>. Genera <strong>estimaciones probabilísticas</strong>, no hechos ni garantías. Un modelo bien calibrado puede fallar en partidos individuales. No prometemos predicciones infalibles.</p>
+        <h3>Sin asesoramiento de apuestas</h3>
+        <p>Esta app <strong>no es un servicio de apuestas</strong>: no procesa pagos ni apuestas, no muestra cuotas de casas de apuestas y no ofrece consejos de apuestas. Si decidís usar la información con fines de apuestas, es tu entera responsabilidad: debe ser <strong>legal en tu país</strong> y debés ser <strong>mayor de 18 años</strong>. Apostar conlleva riesgo de pérdida y puede generar adicción; si lo necesitás, buscá ayuda profesional.</p>
+        <h3>Privacidad</h3>
+        <p>No recolectamos ni transmitimos datos personales. Toda la información (equipos, partidos y predicciones) se guarda <strong>únicamente en tu navegador</strong> (IndexedDB, con respaldo en localStorage). No hay cuentas, cookies de seguimiento ni analítica. La copia de seguridad (JSON) se genera y queda en tu propio dispositivo.</p>
+        <h3>Datos y fuentes</h3>
+        <p>La base histórica proviene de <strong>openfootball</strong>, dedicada al <strong>dominio público</strong> (&laquo;use as you please with no restrictions whatsoever&raquo;). Los nombres de equipos, ligas y competiciones se usan de forma <strong>nominativa</strong> (son hechos) y no implican afiliación ni respaldo. Esta app <strong>no</strong> usa escudos ni logos oficiales. Ver <code>docs/atribuciones.md</code>.</p>
+        <h3>Licencia</h3>
+        <p>El código de Futbolunaki se distribuye bajo licencia <strong>MIT</strong> (ver <code>LICENSE</code>). Los datos de terceros conservan su licencia original.</p>
+        <p class="muted">Este aviso es orientativo y no constituye asesoramiento legal.</p>
+      </div>
     </section>
   </main>
 
@@ -403,7 +419,16 @@
   </div>
 
   <footer class="footer">
-    <p>Futbolunaki · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
+    <p><strong>Futbolunaki</strong> · herramienta local de análisis probabilístico. Las predicciones son estimaciones, no hechos confirmados.</p>
+    <p class="footer-legal">
+      Herramienta informativa y estadística; <strong>no constituye consejo de apuestas</strong> ni garantiza resultados.
+      Datos históricos: <strong>openfootball</strong> (dominio público). No recolectamos datos personales: todo queda en tu navegador.
+    </p>
+    <p class="footer-links">
+      <button class="link-btn" type="button" data-goto="acerca">Aviso legal y privacidad</button>
+      <span class="footer-sep">&middot;</span>
+      <span class="footer-age">Uso responsable &middot; +18 si se aplica a apuestas</span>
+    </p>
   </footer>
 
   <script src="js/stats.js?v=5"></script>

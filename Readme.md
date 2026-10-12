@@ -284,3 +284,21 @@ El proyecto se considerará exitoso cuando pueda producir análisis reproducible
 La prioridad será construir un sistema confiable y medible antes de aumentar su complejidad.
 
 **Objetivo final:** desarrollar una herramienta integral de inteligencia futbolística que combine estadística, contexto, modelado probabilístico y simulación para ofrecer la evaluación más rigurosa posible de cada partido analizado.
+
+## 14. Licencia, datos y avisos legales
+
+- **Código:** licencia **MIT** (ver [`LICENSE`](LICENSE)).
+- **Datos históricos (openfootball):** dedicados al **dominio público**
+  (&laquo;use as you please with no restrictions whatsoever&raquo;). Atribución y
+  detalle de otras fuentes en [`docs/atribuciones.md`](docs/atribuciones.md).
+- **Naturaleza:** herramienta **informativa y estadística**. Sus salidas son
+  **estimaciones probabilísticas**, no hechos ni garantías.
+- **Sin apuestas:** no es un servicio de apuestas, no procesa pagos ni muestra
+  cuotas, y no ofrece consejos de apuestas. Si se usa con fines de apuestas, es
+  responsabilidad del usuario (debe ser legal en su país y ser mayor de 18 años).
+- **Privacidad:** no recolecta datos personales; todo se guarda en el navegador.
+- **Marcas:** los nombres de equipos y competiciones se usan de forma nominativa;
+  no se usan escudos ni logos oficiales ni se implica afiliación alguna.
+
+> El aviso completo también está dentro de la app, en la pestaña **Acerca de → Aviso legal y privacidad**.
+
