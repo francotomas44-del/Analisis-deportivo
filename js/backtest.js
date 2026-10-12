@@ -114,25 +114,48 @@
     return Math.exp(-lambda + k * Math.log(lambda) - LF[k]);
   }
 
-  /* Probabilidades 1X2 idénticas a stats.derived(scoreMatrix(lh,la)).markets
-     (misma matriz Poisson truncada a 0..MAXG), pero sin construir la matriz
-     ni ordenar 121 objetos. expectedTotal = lh + la, igual que derived. */
-  function oneXTwo(lh, la) {
+  /* Probabilidades 1X2 idénticas a stats.derived(scoreMatrix(lh,la,_,rho)).markets
+     (misma matriz Poisson truncada a 0..MAXG + corrección Dixon-Coles), pero sin
+     construir la matriz ni ordenar 121 objetos. expectedTotal = lh + la. */
+  function tau(i, j, lh, la, rho) {
+    if (!rho) return 1;
+    if (i === 0 && j === 0) return 1 - lh * la * rho;
+    if (i === 0 && j === 1) return 1 + lh * rho;
+    if (i === 1 && j === 0) return 1 + la * rho;
+    if (i === 1 && j === 1) return 1 - rho;
+    return 1;
+  }
+
+  function oneXTwo(lh, la, rho) {
     var ph = new Array(MAXG + 1), pa = new Array(MAXG + 1), i, j;
     for (i = 0; i <= MAXG; i++) { ph[i] = poissonPmf(i, lh); pa[i] = poissonPmf(i, la); }
-    var hw = 0, dr = 0, aw = 0;
+    var hw = 0, dr = 0, aw = 0, total = 0;
     for (i = 0; i <= MAXG; i++) {
       var phi = ph[i];
       for (j = 0; j <= MAXG; j++) {
-        var p = phi * pa[j];
+        var p = phi * pa[j] * tau(i, j, lh, la, rho);
+        if (p < 0) p = 0;
         if (i > j) hw += p; else if (i === j) dr += p; else aw += p;
+        total += p;
       }
     }
+    if (rho && total > 0) { hw /= total; dr /= total; aw /= total; }
     return { homeWin: hw, draw: dr, awayWin: aw, expectedTotal: lh + la };
   }
 
+  /* Escalado por temperatura de las probabilidades 1X2 (igual que stats.derived). */
+  function applyTemperature(probs, T) {
+    if (!T || T === 1) return probs;
+    var h = Math.pow(Math.max(probs.homeWin, 1e-12), 1 / T);
+    var d = Math.pow(Math.max(probs.draw, 1e-12), 1 / T);
+    var a = Math.pow(Math.max(probs.awayWin, 1e-12), 1 / T);
+    var s = h + d + a;
+    if (s <= 0) return probs;
+    return { homeWin: h / s, draw: d / s, awayWin: a / s };
+  }
+
   /* Evalúa UN partido con el estado acumulado (historia previa). */
-  function evaluateOne(m, acc, agg, cal, bins, detail, detailLimit, minHistory) {
+  function evaluateOne(m, acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature) {
     var ST = window.AD.stats;
     var M = window.AD.metrics;
     var S = window.AD.store;
@@ -144,8 +167,8 @@
     var base = baseFor(acc);
     var eg = ST.expectedGoals(hs, as, base);
     var lh = eg.home, la = eg.away;
-    var o = oneXTwo(lh, la);
-    var probs = { homeWin: o.homeWin, draw: o.draw, awayWin: o.awayWin };
+    var o = oneXTwo(lh, la, rho);
+    var probs = applyTemperature({ homeWin: o.homeWin, draw: o.draw, awayWin: o.awayWin }, temperature);
     var expTotal = o.expectedTotal;
 
     var actual = M.outcomeFromScore(m.homeGoals, m.awayGoals);
@@ -256,6 +279,9 @@
     var recency = clamp(opts.recency || 0, 0, 1);
     var d = decayFor(recency);
     var minHistory = opts.minHistory != null ? Math.max(0, opts.minHistory) : 5;
+    var SC = ST.config || {};
+    var rho = opts.rho != null ? opts.rho : (SC.rho || 0);
+    var temperature = opts.temperature != null ? opts.temperature : (SC.temperature || 1);
     var comp = opts.competition || "";
     var from = opts.from || "";
     var to = opts.to || "";
@@ -298,7 +324,7 @@
         skipped: 0
       };
       var detail = [];
-      var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max };
+      var options = { competition: comp, from: from, to: to, recency: recency, minHistory: minHistory, max: max, rho: rho, temperature: temperature, smoothing: SC.smoothing || 12 };
       var t0 = Date.now();
 
       function finish(stopped) {
@@ -318,7 +344,7 @@
             committed++;
           }
           if (idx >= startIdx) {
-            evaluateOne(ms[idx], acc, agg, cal, bins, detail, detailLimit, minHistory);
+            evaluateOne(ms[idx], acc, agg, cal, bins, detail, detailLimit, minHistory, rho, temperature);
           }
           idx++;
           processed++;
@@ -344,6 +370,7 @@
     _statsFor: statsFor,
     _baseFor: baseFor,
     _decayFor: decayFor,
-    _oneXTwo: oneXTwo
+    _oneXTwo: oneXTwo,
+    _applyTemperature: applyTemperature
   };
 })();

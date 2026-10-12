@@ -269,6 +269,7 @@
         noGoals: d.noGoals,
         firstGoalHome: d.firstGoalHome,
         firstGoalAway: d.firstGoalAway,
+        firstGoalNone: d.firstGoalNone,
         setPieces: sp,
         simulation: sim
       },
@@ -633,7 +634,11 @@
     }).join("");
 
     var b = res.baseline;
-    var txt = "Evaluados " + n.toLocaleString("es") + " de " + res.pool.toLocaleString("es") + " partidos del conjunto filtrado.";
+    var op = res.options || {};
+    var txt = "Modelo: suavizado k=" + (op.smoothing != null ? op.smoothing : "—") +
+      ", temperatura=" + (op.temperature != null ? op.temperature : "—") +
+      ", ρ (Dixon-Coles)=" + (op.rho != null ? op.rho : "—") + ". ";
+    txt += "Evaluados " + n.toLocaleString("es") + " de " + res.pool.toLocaleString("es") + " partidos del conjunto filtrado.";
     if (res.skippedLowHistory) txt += " Descartados por historial insuficiente: " + res.skippedLowHistory.toLocaleString("es") + ".";
     if (res.stopped) txt += " (detenido por el usuario: resultados parciales).";
     if (b) {

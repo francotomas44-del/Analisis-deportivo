@@ -7,6 +7,12 @@
 
   var MAX_GOALS = 10; // matriz de marcadores 0..10
 
+  /* Parámetros del modelo (calibrados con el backtesting, ver docs/backtesting.md).
+     rho: correlación Dixon-Coles en marcadores bajos (0 = desactivada).
+     temperature: escalado de las probabilidades 1X2 (1 = sin cambios, >1 = menos confiado).
+     smoothing: constante k de suavizado hacia la media (mayor = más regularizado). */
+  var config = { rho: -0.03, temperature: 1.06, smoothing: 12 };
+
   function clamp(x, lo, hi) {
     return Math.max(lo, Math.min(hi, x));
   }
@@ -137,7 +143,7 @@
     awayDefense = awayDefense == null || !isFinite(awayDefense) ? 1 : awayDefense;
 
     // suavizado hacia 1 según cantidad de datos (evita sobreajuste con pocos partidos)
-    var k = 5;
+    var k = config.smoothing || 12;
     var sHome = homeStats.matches / (homeStats.matches + k);
     var sAway = awayStats.matches / (awayStats.matches + k);
     homeAttack = 1 + (homeAttack - 1) * sHome;
@@ -159,15 +165,37 @@
     };
   }
 
-  /* Matriz de marcadores (Poisson independiente) */
-  function scoreMatrix(lh, la, max) {
+  /* Corrección Dixon-Coles (tau) para marcadores bajos.
+     rho negativo → sube 0-0 y 1-1, baja 1-0 y 0-1 (más empates de pocos goles). */
+  function dixonColesTau(i, j, lh, la, rho) {
+    if (!rho) return 1;
+    if (i === 0 && j === 0) return 1 - lh * la * rho;
+    if (i === 0 && j === 1) return 1 + lh * rho;
+    if (i === 1 && j === 0) return 1 + la * rho;
+    if (i === 1 && j === 1) return 1 - rho;
+    return 1;
+  }
+
+  /* Matriz de marcadores (Poisson independiente, con corrección opcional Dixon-Coles) */
+  function scoreMatrix(lh, la, max, rho) {
     max = max || MAX_GOALS;
+    if (rho == null) rho = config.rho;
     var ph = [], pa = [], i, j;
     for (i = 0; i <= max; i++) { ph.push(poissonPmf(i, lh)); pa.push(poissonPmf(i, la)); }
-    var matrix = [];
+    var matrix = [], total = 0;
     for (i = 0; i <= max; i++) {
       matrix.push([]);
-      for (j = 0; j <= max; j++) matrix[i].push(ph[i] * pa[j]);
+      for (j = 0; j <= max; j++) {
+        var p = ph[i] * pa[j] * dixonColesTau(i, j, lh, la, rho);
+        if (p < 0) p = 0;
+        matrix[i].push(p);
+        total += p;
+      }
+    }
+    if (rho && total > 0) {
+      for (i = 0; i <= max; i++) {
+        for (j = 0; j <= max; j++) matrix[i][j] /= total;
+      }
     }
     return matrix;
   }
@@ -213,6 +241,15 @@
   /* Probabilidades derivadas */
   function derived(matrix, lh, la) {
     var o = outcomes(matrix);
+    // Escalado por temperatura de las probabilidades 1X2 (corrige sobreconfianza)
+    if (config.temperature && config.temperature !== 1) {
+      var T = config.temperature;
+      var ph = Math.pow(Math.max(o.homeWin, 1e-12), 1 / T);
+      var pd = Math.pow(Math.max(o.draw, 1e-12), 1 / T);
+      var pa = Math.pow(Math.max(o.awayWin, 1e-12), 1 / T);
+      var ps = ph + pd + pa;
+      if (ps > 0) { o.homeWin = ph / ps; o.draw = pd / ps; o.awayWin = pa / ps; }
+    }
     // Más/menos por líneas habituales
     var lines = [0.5, 1.5, 2.5, 3.5, 4.5];
     var overLines = {};
@@ -354,6 +391,7 @@
 
   window.AD.stats = {
     MAX_GOALS: MAX_GOALS,
+    config: config,
     clamp: clamp,
     mean: mean,
     poissonPmf: poissonPmf,
@@ -361,6 +399,7 @@
     teamStats: teamStats,
     expectedGoals: expectedGoals,
     scoreMatrix: scoreMatrix,
+    dixonColesTau: dixonColesTau,
     outcomes: outcomes,
     derived: derived,
     setPieces: setPieces,

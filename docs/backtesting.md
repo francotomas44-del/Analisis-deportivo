@@ -11,9 +11,9 @@ honesta: para cada partido se calcula la predicción usando **únicamente la inf
    contienen **sólo** sus partidos con fecha **estrictamente anterior** (los partidos del mismo día no se
    usan entre sí).
 3. Con ese estado se calcula el modelo exacto de la app:
-   - `stats.expectedGoals` (fuerzas de ataque/defensa + localía, suavizado `k = 5`),
-   - la matriz de Poisson truncada a 0..10 goles,
-   - las probabilidades 1X2.
+   - `stats.expectedGoals` (fuerzas de ataque/defensa + localía, suavizado configurable),
+   - la matriz de Poisson truncada a 0..10 goles (con corrección Dixon-Coles opcional),
+   - las probabilidades 1X2 (con escalado por temperatura opcional).
 4. Se compara con el resultado real y se acumulan las métricas.
 
 El backtesting usa **acumuladores incrementales** por equipo, matemáticamente equivalentes a
@@ -42,24 +42,56 @@ El backtesting usa **acumuladores incrementales** por equipo, matemáticamente e
 - **Referencia — climatología del período**: acierto de "siempre gana el local" y Brier/Log Loss de predecir
   las frecuencias base del período. Sirve para saber si el modelo aporta algo frente a una predicción ingenua.
 
+## Parámetros del modelo y calibración
+
+El motor tiene tres parámetros, todos **calibrados con este mismo backtesting** (no elegidos a ojo):
+
+| Parámetro | Valor por defecto | Qué controla |
+| --- | --- | --- |
+| `smoothing` (k) | **12** | Suavizado hacia la media. Mayor = menos extremo (más regularizado). |
+| `temperature` | **1,06** | Aplana las probabilidades 1X2 para corregir sobreconfianza. |
+| `rho` (Dixon-Coles) | **−0,03** | Correlación en marcadores bajos (más empates 0-0/1-1, menos 1-0/0-1). |
+
+Están en `AD.stats.config` y se pueden variar desde la consola del navegador para experimentar.
+
+### Cómo se eligieron
+
+1. Se recolectó, en una pasada walk-forward, los goles esperados de cada partido y su resultado real.
+2. Se evaluó por grilla cada combinación de parámetros (Brier, Log Loss, aciertos).
+3. **Validación:** la mejora se comprobó por separado en dos mitades temporales, para descartar sobreajuste.
+
+Hallazgos:
+
+- El **suavizado `k`** es el factor más importante: pasar de k=5 a k=12 mejora Brier, Log Loss y aciertos.
+- La **temperatura** aporta un poco más (corrige la sobreconfianza).
+- **Dixon-Coles** apenas cambia las métricas (los empates ya estaban bien calibrados: 24,5 % predicho vs 25,0 % real).
+- **Atenuar la ventaja de localía** ayuda a los aciertos pero no al Brier; no se aplicó por defecto.
+- **Ponderar por recencia** (más peso a partidos recientes) **empeora** el resultado: conviene usar todo el historial.
+
 ## Resultados de referencia (dataset incluido, openfootball)
 
 Corrida completa (todas las competiciones, historial mínimo 5, sin ponderación por recencia):
 
-| Métrica | Modelo | Referencia (climatología) |
-| --- | --- | --- |
-| Partidos evaluados | 45.849 de 49.193 | — |
-| Aciertos 1X2 | **50,8 %** | 44,4 % (siempre local) |
-| Brier | **0,600** | 0,647 |
-| Log Loss | **1,006** | 1,069 |
-| MAE goles totales | 1,35 | — |
+| Métrica | Modelo calibrado | Modelo inicial | Referencia (climatología) |
+| --- | --- | --- | --- |
+| Partidos evaluados | 45.849 de 49.193 | 45.849 | — |
+| Aciertos 1X2 | **51,0 %** | 50,8 % | 44,4 % (siempre local) |
+| Brier | **0,598** | 0,600 | 0,647 |
+| Log Loss | **1,001** | 1,006 | 1,069 |
+| MAE goles totales | 1,33 | 1,35 | — |
+
+La mejora se sostiene en **ambas mitades temporales** (p. ej. Brier 0,5946 → en la primera mitad y 0,6008 en la
+segunda, siempre por debajo del modelo inicial en esa misma mitad). La magnitud es modesta y honesta: no
+"inventa" precisión, sólo reduce el error de forma medible.
 
 ## Límites (honestidad estadística)
 
-- El modelo **supera** a la referencia ingenua, pero está **ligeramente sobreconfiado**: en el tramo alto de
-  confianza la frecuencia real de acierto es algo menor que la probabilidad anunciada.
+- El modelo **supera** a la referencia ingenua y quedó mejor calibrado tras el ajuste, aunque en el tramo alto
+  de confianza la frecuencia real de acierto sigue algo por debajo de la probabilidad anunciada.
 - En torneos de sede neutral (p. ej. Mundiales) el modelo sigue aplicando ventaja de localía al equipo
   nominalmente "local", por lo que **sobreestima las victorias locales**.
 - Los datos de openfootball no distinguen sede neutral, y las variantes de nombre de equipo entre
   competiciones no se unifican; ambas cosas afectan a los números.
 - El desempeño agregado no garantiza ningún partido individual.
+- La calibración se hizo sobre el mismo dataset incluido; con datos nuevos (otras ligas, otras fechas) los
+  valores óptimos podrían cambiar. Conviene re-ejecutar el backtesting al ampliar la base.
