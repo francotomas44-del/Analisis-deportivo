@@ -82,7 +82,15 @@
   /* Agregados por equipo en una sola pasada (rápido con miles de partidos) */
   function buildTeamAggregates() {
     var agg = {};
-    function get(id) { return agg[id] || (agg[id] = { matches: 0, gf: 0, ga: 0, cornerForSum: 0, cornerForN: 0, cardForSum: 0, cardForN: 0 }); }
+    function get(id) {
+      return agg[id] || (agg[id] = {
+        matches: 0, gf: 0, ga: 0,
+        cornerForSum: 0, cornerForN: 0,
+        cardForSum: 0, cardForN: 0,
+        yellowForSum: 0, yellowForN: 0,
+        redForSum: 0, redForN: 0
+      });
+    }
     var ms = S.state.matches;
     for (var i = 0; i < ms.length; i++) {
       var m = ms[i];
@@ -97,6 +105,14 @@
       if (typeof m.homeCards === "number" && typeof m.awayCards === "number") {
         h.cardForSum += m.homeCards; h.cardForN++;
         a.cardForSum += m.awayCards; a.cardForN++;
+      }
+      if (typeof m.homeYellow === "number" && typeof m.awayYellow === "number") {
+        h.yellowForSum += m.homeYellow; h.yellowForN++;
+        a.yellowForSum += m.awayYellow; a.yellowForN++;
+      }
+      if (typeof m.homeRed === "number" && typeof m.awayRed === "number") {
+        h.redForSum += m.homeRed; h.redForN++;
+        a.redForSum += m.awayRed; a.redForN++;
       }
     }
     return agg;
@@ -113,7 +129,8 @@
       var gf = s.matches ? (s.gf / s.matches) : 0;
       var ga = s.matches ? (s.ga / s.matches) : 0;
       var cf = s.cornerForN ? (s.cornerForSum / s.cornerForN) : null;
-      var kf = s.cardForN ? (s.cardForSum / s.cardForN) : null;
+      var yf = s.yellowForN ? (s.yellowForSum / s.yellowForN) : null;
+      var rf = s.redForN ? (s.redForSum / s.redForN) : null;
       return "<tr>" +
         "<td><strong>" + esc(window.AD.v2 && window.AD.v2.teamDisplayName ? window.AD.v2.teamDisplayName(t.name) : t.name) + "</strong><br><span class='muted'>" + esc(t.league || "—") +
         (t.formedYear ? " · fund. " + t.formedYear : "") + "</span></td>" +
@@ -121,13 +138,14 @@
         "<td>" + (s.matches ? num2(gf) : "—") + "</td>" +
         "<td>" + (s.matches ? num2(ga) : "—") + "</td>" +
         "<td>" + (cf != null ? num2(cf) : "—") + "</td>" +
-        "<td>" + (kf != null ? num2(kf) : "—") + "</td>" +
+        "<td>" + (yf != null ? num2(yf) : "—") + "</td>" +
+        "<td>" + (rf != null ? num2(rf) : "—") + "</td>" +
         '<td><button class="btn btn-mini btn-danger-ghost" data-action="del-team" data-id="' + t.id + '">Eliminar</button></td>' +
         "</tr>";
     }).join("");
 
     host.innerHTML = '<div class="table-wrap"><table><thead><tr>' +
-      "<th>Equipo</th><th>PJ</th><th>GF/part.</th><th>GC/part.</th><th>Córners/part.</th><th>Tarjetas/part.</th><th></th>" +
+      "<th>Equipo</th><th>PJ</th><th>GF/part.</th><th>GC/part.</th><th>Córners/part.</th><th>Amarillas/part.</th><th>Rojas/part.</th><th></th>" +
       "</tr></thead><tbody>" + rows + "</tbody></table></div>";
   }
 
@@ -369,8 +387,11 @@
         kv("Local", num2(sp.corners.home)) + kv("Visitante", num2(sp.corners.away)) + kv("Total", num2(sp.corners.total)) +
         '<p class="muted">' + (sp.corners.hasData ? "Basado en datos históricos de córners." : "Sin datos: valores de referencia.") + "</p>") +
       card("Tarjetas",
-        kv("Local", num2(sp.cards.home)) + kv("Visitante", num2(sp.cards.away)) + kv("Total", num2(sp.cards.total)) +
-        '<p class="muted">' + (sp.cards.hasData ? "Basado en datos históricos de tarjetas." : "Sin datos: valores de referencia.") + "</p>") +
+        '<p class="muted" style="margin:0 0 .4rem">Amarillas (local / visitante / total)</p>' +
+        kv("Local", num2(sp.cards.yellow.home)) + kv("Visitante", num2(sp.cards.yellow.away)) + kv("Total", num2(sp.cards.yellow.total)) +
+        '<p class="muted" style="margin:.7rem 0 .4rem">Rojas (local / visitante / total)</p>' +
+        kv("Local", num2(sp.cards.red.home)) + kv("Visitante", num2(sp.cards.red.away)) + kv("Total", num2(sp.cards.red.total)) +
+        '<p class="muted" style="margin-top:.6rem">' + (sp.cards.hasData ? "Basado en datos históricos por equipo (amarillas y rojas)." : "Sin datos: valores de referencia.") + "</p>") +
       "</div></div>";
 
     // simulación
@@ -1014,6 +1035,8 @@
     L.push("   - Total esperado de goles: " + num2(o.expectedTotal));
     L.push("   - Córners estimados: " + num2(sp.corners.total) + " (local " + num2(sp.corners.home) + " / visitante " + num2(sp.corners.away) + ")");
     L.push("   - Tarjetas estimadas: " + num2(sp.cards.total) + " (local " + num2(sp.cards.home) + " / visitante " + num2(sp.cards.away) + ")");
+    L.push("       · Amarillas: " + num2(sp.cards.yellow.total) + " (local " + num2(sp.cards.yellow.home) + " / visitante " + num2(sp.cards.yellow.away) + ")");
+    L.push("       · Rojas: " + num2(sp.cards.red.total) + " (local " + num2(sp.cards.red.home) + " / visitante " + num2(sp.cards.red.away) + ")");
     L.push("");
     L.push("3. PREDICCIONES PROBABILÍSTICAS (categoría C)");
     L.push("   - Victoria " + p.homeName + " (1): " + pct(m.homeWin));
@@ -1162,6 +1185,7 @@
           res.totalComps + " competiciones, " + res.totalMatches.toLocaleString("es") + " partidos.";
       }
       if (res.filesFailed) msg += " (" + res.filesFailed + " archivos no se pudieron leer)";
+      if (res.cardsApplied) msg += " Tarjetas y córners cargados para " + res.cardsApplied.toLocaleString("es") + " partidos.";
       refreshAll();
       setBaseStatus(msg);
       return res;

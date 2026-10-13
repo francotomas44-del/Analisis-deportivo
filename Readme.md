@@ -182,6 +182,7 @@ El proyecto podrá desarrollarse progresivamente mediante los siguientes módulo
 - **Simulation Engine:** simulación de posibles desarrollos del partido.
 - **Markov Engine:** modelo de secuencia (cadena de Markov) sobre la racha del equipo (victoria/empate/derrota) y su proyección del próximo resultado.
 - **News Engine (Contexto):** análisis fundamental — últimas noticias del partido y de cada equipo desde la API pública de ESPN (en español), con enlace de búsqueda en Google News; se incluye en el informe.
+- **Cards Engine (tarjetas):** base de tarjetas amarillas y rojas (y córners) por partido y equipo, construida desde el detalle público de ESPN (`scripts/build-cards.ps1` → `data/cards/`); el análisis estima amarillas y rojas por separado y la pestaña Equipos muestra el promedio por partido.
 - **Confidence Engine:** evaluación de incertidumbre y fiabilidad de las predicciones.
 - **Reporting Engine:** generación de informes comprensibles y estructurados.
 - **Evaluation Engine:** seguimiento del rendimiento histórico de los modelos y detección de errores.

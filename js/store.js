@@ -311,6 +311,13 @@
   }
 
   function buildMatch(desc) {
+    var hy = numOrNull(desc.homeYellow), ay = numOrNull(desc.awayYellow);
+    var hr = numOrNull(desc.homeRed), ar = numOrNull(desc.awayRed);
+    var hCards = numOrNull(desc.homeCards);
+    var aCards = numOrNull(desc.awayCards);
+    // Si no vino el total pero sí el detalle, el total es amarillas + rojas.
+    if (hCards == null && hy != null) hCards = hy + (hr || 0);
+    if (aCards == null && ay != null) aCards = ay + (ar || 0);
     return {
       id: uid(),
       date: desc.date || "",
@@ -322,8 +329,12 @@
       awayGoals: Number(desc.awayGoals) || 0,
       homeCorners: numOrNull(desc.homeCorners),
       awayCorners: numOrNull(desc.awayCorners),
-      homeCards: numOrNull(desc.homeCards),
-      awayCards: numOrNull(desc.awayCards),
+      homeCards: hCards,
+      awayCards: aCards,
+      homeYellow: hy,
+      awayYellow: ay,
+      homeRed: hr,
+      awayRed: ar,
       refereeId: desc.refereeId || null,
       refereeName: desc.refereeName || "",
       neutral: !!desc.neutral,
@@ -475,6 +486,14 @@
         awayId: at.id,
         homeGoals: r.homeGoals,
         awayGoals: r.awayGoals,
+        homeCorners: r.homeCorners,
+        awayCorners: r.awayCorners,
+        homeCards: r.homeCards,
+        awayCards: r.awayCards,
+        homeYellow: r.homeYellow,
+        awayYellow: r.awayYellow,
+        homeRed: r.homeRed,
+        awayRed: r.awayRed,
         source: source || "bulk",
         externalId: r.externalId != null ? String(r.externalId) : null
       }));

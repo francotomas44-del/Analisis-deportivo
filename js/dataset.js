@@ -137,6 +137,47 @@
     return out;
   }
 
+  /* Tarjetas (amarillas/rojas) y córners por partido.
+     data/cards/<code>.json trae, por cada id de ESPN presente en la base, un
+     arreglo compacto: [id, amarillasLocal, amarillasVisitante, rojasLocal,
+     rojasVisitante, cornersLocal, cornersVisitante]. Se combinan por id externo
+     para enriquecer las filas de la base sin duplicar archivos de partidos. */
+  function loadCards(manifest) {
+    var entries = (manifest || []).filter(function (e) { return e && e.source === "cards"; });
+    var map = {};
+    var chain = Promise.resolve();
+    entries.forEach(function (entry) {
+      chain = chain.then(function () {
+        return fetch(BASE + "cards/" + entry.path, { cache: "force-cache" })
+          .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+          .then(function (p) {
+            var arr = (p && p.matches) || [];
+            for (var i = 0; i < arr.length; i++) {
+              var a = arr[i];
+              if (a && a[0]) map[a[0]] = a;
+            }
+          })
+          .catch(function () {});
+      });
+    });
+    return chain.then(function () { return map; });
+  }
+
+  function applyCards(rows, map) {
+    var applied = 0;
+    for (var i = 0; i < rows.length; i++) {
+      var r = rows[i];
+      if (!r.externalId) continue;
+      var c = map[r.externalId];
+      if (!c) continue;
+      if (typeof c[1] === "number" && typeof c[2] === "number") { r.homeYellow = c[1]; r.awayYellow = c[2]; }
+      if (typeof c[3] === "number" && typeof c[4] === "number") { r.homeRed = c[3]; r.awayRed = c[4]; }
+      if (typeof c[5] === "number" && typeof c[6] === "number") { r.homeCorners = c[5]; r.awayCorners = c[6]; }
+      applied++;
+    }
+    return applied;
+  }
+
   var loading = false;
 
   /* Carga la base completa. onProgress(done, total, matchesSoFar) */
@@ -151,7 +192,8 @@
       })
       .then(function (manifest) {
         if (!Array.isArray(manifest) || !manifest.length) throw new Error("El manifiesto de la base está vacío.");
-        var files = manifest.slice().sort(function (a, b) { return (a.path < b.path ? -1 : 1); });
+        var files = manifest.filter(function (e) { return !e || e.source !== "cards"; })
+          .sort(function (a, b) { return (a.path < b.path ? -1 : 1); });
         var rows = [];
         var done = 0, failed = 0;
         var chain = Promise.resolve();
@@ -173,20 +215,24 @@
           });
         });
 
-        return chain.then(function () { return { rows: rows, failed: failed, files: files.length }; });
+        return chain.then(function () { return { rows: rows, failed: failed, files: files.length, manifest: manifest }; });
       })
       .then(function (res) {
-        var out = window.AD.store.importBulk(dedupeRows(res.rows), "openfootball");
-        loading = false;
-        return {
-          inserted: out.added,
-          teamsAdded: out.teamsAdded,
-          totalTeams: out.teams,
-          totalMatches: out.matches,
-          totalComps: window.AD.store.state.competitions.length,
-          files: res.files,
-          filesFailed: res.failed
-        };
+        return loadCards(res.manifest).then(function (cardMap) {
+          var cardsApplied = applyCards(res.rows, cardMap);
+          var out = window.AD.store.importBulk(dedupeRows(res.rows), "openfootball");
+          loading = false;
+          return {
+            inserted: out.added,
+            teamsAdded: out.teamsAdded,
+            totalTeams: out.teams,
+            totalMatches: out.matches,
+            totalComps: window.AD.store.state.competitions.length,
+            files: res.files,
+            filesFailed: res.failed,
+            cardsApplied: cardsApplied
+          };
+        });
       })
       .catch(function (e) { loading = false; throw e; });
   }

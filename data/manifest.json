@@ -1513,5 +1513,115 @@
         "path":  "sa-py.json",
         "code":  "Primera División (Paraguay)",
         "source":  "openfootball-extra"
+    },
+    {
+        "path":  "en.1.json",
+        "code":  "en.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "es.1.json",
+        "code":  "es.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "de.1.json",
+        "code":  "de.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "it.1.json",
+        "code":  "it.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "fr.1.json",
+        "code":  "fr.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "nl.1.json",
+        "code":  "nl.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "pt.1.json",
+        "code":  "pt.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "at.1.json",
+        "code":  "at.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "be.1.json",
+        "code":  "be.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "ch.1.json",
+        "code":  "ch.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "gr.1.json",
+        "code":  "gr.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "tr.1.json",
+        "code":  "tr.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "sco.1.json",
+        "code":  "sco.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "ru.1.json",
+        "code":  "ru.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "mx.1.json",
+        "code":  "mx.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "br.1.json",
+        "code":  "br.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "cn.1.json",
+        "code":  "cn.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "jp.1.json",
+        "code":  "jp.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "au.1.json",
+        "code":  "au.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "co.1.json",
+        "code":  "co.1",
+        "source":  "cards"
+    },
+    {
+        "path":  "uefa.cl.json",
+        "code":  "uefa.cl",
+        "source":  "cards"
+    },
+    {
+        "path":  "ar.1.json",
+        "code":  "ar.1",
+        "source":  "cards"
     }
 ]

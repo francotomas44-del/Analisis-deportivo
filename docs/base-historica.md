@@ -23,7 +23,7 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
 - **ESPN — Liga Profesional Argentina** (`source: "arg-espn"`) — historial 2001 y
   2003–2026 por torneo (`scripts/build-arg-espn.ps1`, `data/arg-espn/<año>.json`).
 
-## Cobertura (303 archivos · ~70 MB · 5 fuentes)
+## Cobertura (303 archivos · ~70 MB · 5 fuentes + tarjetas)
 
 Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 
@@ -35,6 +35,10 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `espn-history` | 21 | 65.277 |
 | `openfootball-extra` | 33 | 30.437 |
 | **Total** | **303** | **160.025** |
+
+Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
+partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
+partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
 la app queda con **≈155.500 partidos**, **≈2.100 equipos/selecciones** y
@@ -83,6 +87,8 @@ powershell -ExecutionPolicy Bypass -File scripts\build-espn-history.ps1
 powershell -ExecutionPolicy Bypass -File scripts\build-openfootball-extra.ps1
 # 4) Temporada en curso de las ligas ya cubiertas (ESPN)
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-season.ps1
+# 5) Tarjetas (amarillas/rojas) y córners por partido (ESPN)
+powershell -ExecutionPolicy Bypass -File scripts\build-cards.ps1
 ```
 
 Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re)genera

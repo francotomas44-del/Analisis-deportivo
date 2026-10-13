@@ -361,7 +361,7 @@
         <h2>Acerca del sistema</h2>
         <p>Esta aplicación implementa, del lado del cliente, los principios descritos en el <code>Readme.md</code> del proyecto: evidencia antes que intuición, probabilidad antes que certeza, trazabilidad y honestidad estadística.</p>
         <h3>Modelo estadístico</h3>
-        <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía, con corrección <strong>Dixon-Coles</strong> para marcadores bajos. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas usan medias históricas por equipo. Sobre esa base se añaden dos lecturas independientes: una <strong>simulación de Monte Carlo</strong> (10.000 partidos) y una <strong>cadena de Markov</strong> que modela la racha del equipo (transiciones entre victoria, empate y derrota). Los parámetros del modelo (suavizado, temperatura y correlación) se <strong>calibraron con el backtesting</strong>.</p>
+        <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía, con corrección <strong>Dixon-Coles</strong> para marcadores bajos. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas se apoyan en una base de datos por partido y equipo. Sobre esa base se añaden dos lecturas independientes: una <strong>simulación de Monte Carlo</strong> (10.000 partidos) y una <strong>cadena de Markov</strong> que modela la racha del equipo (transiciones entre victoria, empate y derrota). Los parámetros del modelo (suavizado, temperatura y correlación) se <strong>calibraron con el backtesting</strong>.</p>
         <h3>Backtesting</h3>
         <p>La pestaña <strong>Backtesting</strong> evalúa el modelo sobre partidos ya jugados con <em>walk-forward</em>: para cada partido sólo usa la información anterior a su fecha (sin look-ahead). Reporta aciertos, Brier, Log Loss, error de goles y calibración, y los compara con una referencia ingenua (climatología del período). Los resultados no son una garantía: miden el desempeño agregado del modelo.</p>
         <h3>Clasificación de resultados (según el README)</h3>
@@ -373,7 +373,10 @@
           <li><strong>E. Contexto:</strong> noticias del partido y de cada equipo (cualitativo, no entra en las probabilidades).</li>
         </ul>
         <h3>Contexto (análisis fundamental)</h3>
+        <h3>Contexto (análisis fundamental)</h3>
         <p>La pestaña <strong>Analizar</strong> incluye las últimas <strong>noticias</strong> del partido y de cada equipo (mínimo 2 por equipo cuando las hay), con título, pequeño detalle, fuente, fecha y enlace. Se toman de la <strong>API pública de ESPN</strong> en español y se cachean. Google News no se puede leer desde el navegador (bloqueo CORS), por eso cada bloque ofrece un botón <strong>"Buscar en Google News"</strong>. Es una lectura complementaria: no modifica el modelo. También se incluye en el informe.</p>
+        <h3>Tarjetas amarillas y rojas</h3>
+        <p>La base incorpora <strong>tarjetas (amarillas y rojas) y córners por partido y equipo</strong> para las ligas con cobertura de ESPN, tomados del detalle público de cada partido. En <strong>Analizar</strong>, las tarjetas se estiman <strong>por separado</strong> (amarillas y rojas) combinando lo que recibe cada equipo con lo que concede su rival; si un equipo no tiene datos suficientes, se usan valores de referencia y se avisa en las notas. La pestaña <strong>Equipos</strong> muestra el promedio de amarillas y rojas por partido de cada equipo.</p>
         <h3>Límites</h3>
         <p>Ningún modelo puede garantizar un resultado exacto. Un modelo bien calibrado puede fallar en partidos individuales. La fiabilidad se demuestra sobre muestras amplias, no en un partido aislado.</p>
         <p class="muted">Esta app no genera estadísticas ni resultados: sólo procesa los datos que vos cargás.</p>
@@ -388,7 +391,7 @@
         <h3>Privacidad</h3>
         <p>No recolectamos ni transmitimos datos personales. Toda la información (equipos, partidos y predicciones) se guarda <strong>únicamente en tu navegador</strong> (IndexedDB, con respaldo en localStorage). No hay cuentas, cookies de seguimiento ni analítica. La copia de seguridad (JSON) se genera y queda en tu propio dispositivo.</p>
         <h3>Datos y fuentes</h3>
-        <p>La base histórica proviene de <strong>openfootball</strong>, dedicada al <strong>dominio público</strong> (&laquo;use as you please with no restrictions whatsoever&raquo;). Los nombres de equipos, ligas y competiciones se usan de forma <strong>nominativa</strong> (son hechos) y no implican afiliación ni respaldo. Esta app <strong>no</strong> usa escudos ni logos oficiales. Ver <code>docs/atribuciones.md</code>.</p>
+        <p>La base histórica proviene de <strong>openfootball</strong>, dedicada al <strong>dominio público</strong> (&laquo;use as you please with no restrictions whatsoever&raquo;). El detalle de <strong>tarjetas y córners</strong> por partido proviene de la <strong>API pública de ESPN</strong>. Los nombres de equipos, ligas y competiciones se usan de forma <strong>nominativa</strong> (son hechos) y no implican afiliación ni respaldo. Esta app <strong>no</strong> usa escudos ni logos oficiales. Ver <code>docs/atribuciones.md</code>.</p>
         <h3>Licencia</h3>
         <p>El código de Futbolityx se distribuye bajo licencia <strong>MIT</strong> (ver <code>LICENSE</code>). Los datos de terceros conservan su licencia original.</p>
         <p class="muted">Este aviso es orientativo y no constituye asesoramiento legal.</p>
@@ -417,14 +420,14 @@
     </p>
   </footer>
 
-  <script src="js/stats.js?v=6"></script>
+  <script src="js/stats.js?v=7"></script>
   <script src="js/metrics.js?v=5"></script>
   <script src="js/storage.js?v=7"></script>
-  <script src="js/store.js?v=7"></script>
-  <script src="js/dataset.js?v=10"></script>
+  <script src="js/store.js?v=8"></script>
+  <script src="js/dataset.js?v=12"></script>
   <script src="js/backtest.js?v=5"></script>
   <script src="js/news.js?v=1"></script>
-  <script src="js/app.js?v=10"></script>
+  <script src="js/app.js?v=11"></script>
   <script src="js/v2.js?v=10"></script>
 </body>
 </html>

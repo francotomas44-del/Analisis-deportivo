@@ -155,6 +155,7 @@
     var wHomeFor = 0, wHomeAg = 0, wHome = 0;
     var wAwayFor = 0, wAwayAg = 0, wAway = 0;
     var cornersFor = [], cornersAgainst = [], cardsFor = [], cardsAgainst = [];
+    var yellowFor = [], yellowAgainst = [], redFor = [], redAgainst = [];
 
     for (var j = 0; j < played.length; j++) {
       var mm = played[j];
@@ -176,6 +177,20 @@
         cardsFor.push(isHome ? mm.homeCards : mm.awayCards);
         cardsAgainst.push(isHome ? mm.awayCards : mm.homeCards);
       }
+      if (typeof mm.homeYellow === "number" && typeof mm.awayYellow === "number") {
+        var hy = isHome ? mm.homeYellow : mm.awayYellow;
+        var ay = isHome ? mm.awayYellow : mm.homeYellow;
+        var hr = typeof mm.homeRed === "number" ? mm.homeRed : 0;
+        var ar = typeof mm.awayRed === "number" ? mm.awayRed : 0;
+        var ry = isHome ? hr : ar;
+        var ra = isHome ? ar : hr;
+        yellowFor.push(hy); yellowAgainst.push(ay);
+        redFor.push(ry); redAgainst.push(ra);
+        // El total de tarjetas sale del detalle cuando está disponible.
+        if (!(typeof mm.homeCards === "number")) {
+          cardsFor.push(hy + ry); cardsAgainst.push(ay + ra);
+        }
+      }
     }
 
     var n = played.length;
@@ -194,6 +209,12 @@
       cardsFor: cardsFor.length ? mean(cardsFor) : null,
       cardsAgainst: cardsAgainst.length ? mean(cardsAgainst) : null,
       cardsMatches: cardsFor.length,
+      yellowFor: yellowFor.length ? mean(yellowFor) : null,
+      yellowAgainst: yellowAgainst.length ? mean(yellowAgainst) : null,
+      yellowMatches: yellowFor.length,
+      redFor: redFor.length ? mean(redFor) : null,
+      redAgainst: redAgainst.length ? mean(redAgainst) : null,
+      redMatches: redFor.length,
       homeGames: countSide(played, teamId, true),
       awayGames: countSide(played, teamId, false)
     };
@@ -359,7 +380,8 @@
   /* Córners y tarjetas estimados */
   function setPieces(homeStats, awayStats, base) {
     var lgCornersTotal = 10.4; // promedio genérico de referencia
-    var lgCardsTotal = 4.2;
+    var lgYellowTotal = 4.2;   // amarillas de referencia por partido
+    var lgRedTotal = 0.28;     // rojas de referencia por partido
     var hc = homeStats.cornersFor, ac = awayStats.cornersFor;
     var hcAgainst = homeStats.cornersAgainst, acAgainst = awayStats.cornersAgainst;
     var hasCorners = hc != null && ac != null;
@@ -367,14 +389,30 @@
     var homeCorners = hasCorners ? (hc + acAgainst) / 2 : lgCornersTotal / 2;
     var awayCorners = hasCorners ? (ac + hcAgainst) / 2 : lgCornersTotal / 2;
 
-    var ht = homeStats.cardsFor, at = awayStats.cardsFor;
-    var hasCards = ht != null && at != null;
-    var homeCards = hasCards ? (ht + awayStats.cardsAgainst) / 2 : lgCardsTotal / 2;
-    var awayCards = hasCards ? (at + homeStats.cardsAgainst) / 2 : lgCardsTotal / 2;
+    // Amarillas: media de "a favor" del equipo y "en contra" del rival.
+    var hy = homeStats.yellowFor, ay = awayStats.yellowFor;
+    var hasYellow = hy != null && ay != null;
+    var homeYellow = hasYellow ? (hy + awayStats.yellowAgainst) / 2 : lgYellowTotal / 2;
+    var awayYellow = hasYellow ? (ay + homeStats.yellowAgainst) / 2 : lgYellowTotal / 2;
+
+    // Rojas: igual criterio.
+    var hr = homeStats.redFor, ar = awayStats.redFor;
+    var hasRed = hr != null && ar != null;
+    var homeRed = hasRed ? (hr + awayStats.redAgainst) / 2 : lgRedTotal / 2;
+    var awayRed = hasRed ? (ar + homeStats.redAgainst) / 2 : lgRedTotal / 2;
+
+    var cards = {
+      home: homeYellow + homeRed,
+      away: awayYellow + awayRed,
+      total: homeYellow + awayYellow + homeRed + awayRed,
+      hasData: hasYellow || hasRed
+    };
+    cards.yellow = { home: homeYellow, away: awayYellow, total: homeYellow + awayYellow, hasData: hasYellow };
+    cards.red = { home: homeRed, away: awayRed, total: homeRed + awayRed, hasData: hasRed };
 
     return {
       corners: { home: homeCorners, away: awayCorners, total: homeCorners + awayCorners, hasData: hasCorners },
-      cards: { home: homeCards, away: awayCards, total: homeCards + awayCards, hasData: hasCards }
+      cards: cards
     };
   }
 

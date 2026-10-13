@@ -93,6 +93,24 @@ español (gratis, con CORS) y se cachea. Google News no se puede leer desde el n
 CORS), así que cada bloque incluye un botón **"Buscar en Google News →"**. También aparece en el
 informe exportable (sección 5). Ver [`contexto.md`](contexto.md).
 
+## Tarjetas amarillas y rojas (base nueva)
+
+La base histórica sólo guardaba equipos, fecha y resultado. Ahora incorpora **tarjetas (amarillas y
+rojas) y córners por partido y equipo** para las ligas con cobertura de ESPN, tomados del detalle
+público de cada partido (banderas `yellowCard`/`redCard` con su equipo, y `wonCorners`).
+
+- Se construye con `scripts/build-cards.ps1`, que reutiliza el mismo caché de `scoreboard` que la
+  historia (`%TEMP%\espn-cache-futbolityx`) y escribe `data/cards/<code>.json` (una entrada compacta
+  por partido: id de ESPN + amarillas/rojas/córners de cada equipo).
+- La app las une por `id` de ESPN en `js/dataset.js` y las integra a cada partido, así que el motor
+  (`js/stats.js`) deja de usar valores de referencia.
+- En **Analizar**, las tarjetas se estiman **por separado**: amarillas y rojas de cada equipo,
+  combinando lo que recibe con lo que concede el rival. En **Equipos** se ve el promedio por partido
+  de cada club. Si un equipo no tiene datos, se usa un valor de referencia y se avisa en las notas.
+
+Cobertura actual: **≈60.600 partidos** con tarjetas en 22 ligas (más Argentina), con promedios
+realistas (≈4,1 amarillas y ≈0,28 rojas por partido). Ver [`tarjetas.md`](tarjetas.md).
+
 ## Cambiar la marca
 
 En `js/v2.js`:
