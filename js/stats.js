@@ -468,6 +468,132 @@
     return { score: score, label: label };
   }
 
+  /* ---------- Cadena de Markov (secuencia de resultados V/E/D) ----------
+     Modela la "racha" de un equipo como una cadena de Markov: el estado es el
+     resultado de su partido anterior (W = victoria, D = empate, L = derrota) y la
+     matriz de transición se estima de su historial real (suavizado de Laplace).
+     Con el último estado se obtiene la distribución del PRÓXIMO resultado. */
+
+  var M_STATES = ["W", "D", "L"];
+
+  function resultFor(m, teamId) {
+    var isHome = m.homeId === teamId;
+    var gf = isHome ? m.homeGoals : m.awayGoals;
+    var ga = isHome ? m.awayGoals : m.homeGoals;
+    if (gf > ga) return "W";
+    if (gf < ga) return "L";
+    return "D";
+  }
+
+  /* Secuencia de resultados (más antiguo → más reciente). */
+  function resultSequence(matches, teamId) {
+    var seq = [];
+    for (var i = 0; i < matches.length; i++) {
+      var m = matches[i];
+      if (m.homeId !== teamId && m.awayId !== teamId) continue;
+      if (m.homeGoals == null || m.awayGoals == null) continue;
+      seq.push({ date: m.date || "", r: resultFor(m, teamId) });
+    }
+    seq.sort(function (a, b) { if (a.date === b.date) return 0; return a.date < b.date ? -1 : 1; });
+    return seq;
+  }
+
+  /* Racha actual: cuántos partidos seguidos con el mismo resultado. */
+  function trailingStreak(seq) {
+    if (!seq.length) return { r: null, n: 0 };
+    var r = seq[seq.length - 1].r, k = 1;
+    for (var i = seq.length - 2; i >= 0 && seq[i].r === r; i--) k++;
+    return { r: r, n: k };
+  }
+
+  /* Cadena de Markov de UN equipo. Devuelve matriz de transición, frecuencia,
+     distribución estacionaria y la del próximo resultado. */
+  function markovTeam(matches, teamId, opts) {
+    opts = opts || {};
+    var laplace = opts.laplace != null ? opts.laplace : 1;
+    var recency = clamp(opts.recency || 0, 0, 1);
+
+    var seq = resultSequence(matches, teamId);
+    var n = seq.length;
+
+    var counts = { W: 0, D: 0, L: 0 };
+    for (var i = 0; i < n; i++) counts[seq[i].r]++;
+
+    var trans = { W: { W: 0, D: 0, L: 0 }, D: { W: 0, D: 0, L: 0 }, L: { W: 0, D: 0, L: 0 } };
+    var pairs = n > 1 ? n - 1 : 0;
+    for (var j = 0; j + 1 < n; j++) {
+      var from = seq[j].r, to = seq[j + 1].r;
+      var dist = (pairs - 1) - j;                 // 0 = transición más reciente
+      var w = recency > 0 ? Math.exp(-recency * dist * 0.35) : 1;
+      trans[from][to] += w;
+    }
+
+    // Matriz normalizada con suavizado de Laplace (filas suman 1).
+    var matrix = {};
+    for (var a = 0; a < M_STATES.length; a++) {
+      var s = M_STATES[a], row = trans[s];
+      var tot = row.W + row.D + row.L + 3 * laplace;
+      matrix[s] = { W: (row.W + laplace) / tot, D: (row.D + laplace) / tot, L: (row.L + laplace) / tot };
+    }
+
+    var freq = n ? { W: counts.W / n, D: counts.D / n, L: counts.L / n } : { W: 1 / 3, D: 1 / 3, L: 1 / 3 };
+
+    var pairs_n = n > 1 ? n - 1 : 0;
+    var last = n ? seq[n - 1].r : null;
+    var next;
+    if (last && pairs_n > 0) {
+      // Mezcla hacia la frecuencia global cuando hay pocas transiciones (evita extremos).
+      var conf = pairs_n / (pairs_n + 4);
+      next = {
+        W: conf * matrix[last].W + (1 - conf) * freq.W,
+        D: conf * matrix[last].D + (1 - conf) * freq.D,
+        L: conf * matrix[last].L + (1 - conf) * freq.L
+      };
+    } else {
+      next = { W: freq.W, D: freq.D, L: freq.L };
+    }
+
+    // Distribución estacionaria (largo plazo) por iteración de potencias.
+    var pi = { W: 1 / 3, D: 1 / 3, L: 1 / 3 };
+    for (var it = 0; it < 60; it++) {
+      var nw = pi.W * matrix.W.W + pi.D * matrix.D.W + pi.L * matrix.L.W;
+      var nd = pi.W * matrix.W.D + pi.D * matrix.D.D + pi.L * matrix.L.D;
+      var nl = pi.W * matrix.W.L + pi.D * matrix.D.L + pi.L * matrix.L.L;
+      pi = { W: nw, D: nd, L: nl };
+    }
+
+    return {
+      teamId: teamId,
+      samples: n,
+      transitions: pairs_n,
+      reliable: n >= 8 && pairs_n >= 5,
+      counts: counts,
+      freq: freq,
+      matrix: matrix,
+      steady: pi,
+      last: last,
+      streak: trailingStreak(seq),
+      sequence: seq.slice(-10).map(function (x) { return x.r; }),
+      next: next
+    };
+  }
+
+  /* Combina las cadenas de local y visitante en una probabilidad 1X2.
+     Se normaliza el producto: local gana si su cadena marca W y la del visitante L;
+     empate si ambas marcan D; visitante gana si el local marca L y el visitante W. */
+  function markovForm(matches, homeId, awayId, opts) {
+    var home = markovTeam(matches, homeId, opts);
+    var away = markovTeam(matches, awayId, opts);
+    var hw = home.next.W * away.next.L;
+    var dr = home.next.D * away.next.D;
+    var aw = home.next.L * away.next.W;
+    var s = hw + dr + aw;
+    var combined = s > 0
+      ? { homeWin: hw / s, draw: dr / s, awayWin: aw / s }
+      : { homeWin: 1 / 3, draw: 1 / 3, awayWin: 1 / 3 };
+    return { home: home, away: away, combined: combined };
+  }
+
   window.AD.stats = {
     MAX_GOALS: MAX_GOALS,
     config: config,
@@ -488,6 +614,8 @@
     derived: derived,
     setPieces: setPieces,
     simulate: simulate,
+    markovForm: markovForm,
+    markovTeam: markovTeam,
     headToHead: headToHead,
     confidence: confidence
   };

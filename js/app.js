@@ -240,6 +240,7 @@
     }
     var sp = ST.setPieces(hs, as, base);
     var sim = ST.simulate(lh, la, 10000, { redCardProb: 0.06 });
+    var markov = ST.markovForm(matches, cfg.homeId, cfg.awayId, { recency: cfg.recency });
     var h2h = ST.headToHead(matches, cfg.homeId, cfg.awayId);
 
     var conf = ST.confidence({
@@ -269,6 +270,11 @@
     if (matches.length < 10) notes.push({ warn: true, text: "Pocos partidos en la liga (" + matches.length + "): los promedios base son frágiles." });
     if (h2h.total) notes.push({ warn: false, text: "Cruces directos registrados: " + h2h.total + " (" + h2h.aWins + " para " + (home ? home.name : "el local") + ", " + h2h.draws + " empates, " + h2h.bWins + " para " + (away ? away.name : "el visitante") + ")." });
     else notes.push({ warn: true, text: "Sin cruces directos registrados entre estos equipos: el historial de enfrentamientos no aporta información." });
+    if (!markov.home.reliable || !markov.away.reliable) {
+      notes.push({ warn: true, text: "Cadena de Markov con pocos resultados por equipo (" + markov.home.samples + " del local, " + markov.away.samples + " del visitante): la proyección de la racha es poco fiable." });
+    } else if (markov.home.streak.n >= 4 || markov.away.streak.n >= 4) {
+      notes.push({ warn: false, text: "Rachas en curso — " + (home ? home.name : "local") + ": " + markov.home.streak.n + " partidos; " + (away ? away.name : "visitante") + ": " + markov.away.streak.n + " partidos." });
+    }
 
     return {
       input: {
@@ -292,7 +298,8 @@
         firstGoalAway: d.firstGoalAway,
         firstGoalNone: d.firstGoalNone,
         setPieces: sp,
-        simulation: sim
+        simulation: sim,
+        markov: markov
       },
       homeStats: hs,
       awayStats: as,
@@ -425,7 +432,43 @@
         '<p class="muted">No hay cruces registrados entre estos equipos en la base.</p></div>';
     }
 
-    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + h2hPanel + ctx;
+    // cadena de Markov (secuencia de resultados V/E/D)
+    var mk = r.output.markov;
+    var markovPanel = "";
+    var comparePanel = "";
+    if (mk) {
+      markovPanel = '<div class="panel"><h2>Cadena de Markov (racha del equipo)</h2>' +
+        '<p class="muted">El estado es el <strong>último resultado</strong> de cada equipo (V = victoria, E = empate, D = derrota). La matriz de transición se estima de su historial real; con el último estado se proyecta el <strong>próximo resultado</strong> y se combinan ambas cadenas en una probabilidad 1X2.</p>' +
+        '<div class="market-grid">' +
+        markovCard(hn, mk.home) +
+        markovCard(an, mk.away) +
+        "</div>" +
+        '<div class="market-grid" style="margin-top:.6rem">' +
+        card("1X2 por cadena de Markov",
+          barRow(hn + " (1)", mk.combined.homeWin) + barRow("Empate (X)", mk.combined.draw) + barRow(an + " (2)", mk.combined.awayWin)) +
+        card("Lectura de la cadena",
+          kv("Último resultado " + hn, resultLabel(mk.home.last)) +
+          kv("Último resultado " + an, resultLabel(mk.away.last)) +
+          kv("Tendencia largo plazo " + hn, resultShort(modeOf(mk.home.steady))) +
+          kv("Tendencia largo plazo " + an, resultShort(modeOf(mk.away.steady))) +
+          '<p class="muted">Cada fila de la matriz es «desde» y cada columna «hacia» (V/E/D). Con pocos partidos, la fila se acerca a la frecuencia histórica del equipo.</p>') +
+        "</div></div>";
+    }
+
+    var cmpPanel = "";
+    if (mk) {
+      var mc = r.output.simulation;
+      cmpPanel = '<div class="panel"><h2>Comparación: Monte Carlo vs Markov</h2>' +
+        '<p class="muted">Mismo partido visto por dos métodos. La última columna es la diferencia en puntos porcentuales (Markov − Monte Carlo).</p>' +
+        '<div class="table-wrap"><table><thead><tr><th>Resultado</th><th>Modelo de goles</th><th>Monte Carlo</th><th>Markov</th><th>Markov − MC</th></tr></thead><tbody>' +
+        cmpRow(hn + " (1)", m.homeWin, mc.homeWin, mk.combined.homeWin) +
+        cmpRow("Empate (X)", m.draw, mc.draw, mk.combined.draw) +
+        cmpRow(an + " (2)", m.awayWin, mc.awayWin, mk.combined.awayWin) +
+        "</tbody></table></div>" +
+        '<p class="muted">Monte Carlo simula 10.000 partidos desde los goles esperados; Markov proyecta la racha según el historial de resultados. Si ambos coinciden, la estimación es más estable.</p></div>';
+    }
+
+    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + markovPanel + cmpPanel + h2hPanel + ctx;
   }
 
   function statRow(k, a, b) {
@@ -437,6 +480,42 @@
   function badgeClass(label) {
     return ({ "Alta": "alta", "Media": "media", "Baja": "baja", "Muy baja": "muy-baja" })[label] || "pending";
   }
+
+  /* ---------- Markov: helpers de presentación ---------- */
+  function resultShort(r) { return r === "W" ? "V" : r === "L" ? "D" : r === "D" ? "E" : "–"; }
+  function resultLabel(r) {
+    return r === "W" ? "Victoria" : r === "L" ? "Derrota" : r === "D" ? "Empate" : "sin datos";
+  }
+  function mkSeqText(t) {
+    return t.sequence.length ? t.sequence.map(resultShort).join(" ") : "sin datos";
+  }
+  function modeOf(dist) {
+    if (!dist) return null;
+    var best = null, bv = -1;
+    ["W", "D", "L"].forEach(function (k) { if (dist[k] > bv) { bv = dist[k]; best = k; } });
+    return best;
+  }
+  function markovCard(title, t) {
+    var seq = t.sequence.map(function (r) {
+      var cls = r === "W" ? "ok" : r === "L" ? "fail" : "pending";
+      return '<span class="badge ' + cls + '">' + resultShort(r) + "</span>";
+    }).join(" ");
+    var matRows = ["W", "D", "L"].map(function (from) {
+      var row = t.matrix[from];
+      return "<tr><td>" + resultShort(from) + "</td><td>" + pct(row.W) + "</td><td>" + pct(row.D) + "</td><td>" + pct(row.L) + "</td></tr>";
+    }).join("");
+    return card(title,
+      '<p class="muted">Últimos ' + t.sequence.length + " partidos: " + (seq || "—") + "</p>" +
+      barRow("Gana", t.next.W) + barRow("Empata", t.next.D) + barRow("Pierde", t.next.L) +
+      '<div class="table-wrap"><table><thead><tr><th>Desde \\ Hacia</th><th>V</th><th>E</th><th>D</th></tr></thead><tbody>' + matRows + "</tbody></table></div>" +
+      '<p class="muted">' + t.samples + " partidos · " + t.transitions + " transiciones" + (t.reliable ? "." : " (muestra baja).") + "</p>");
+  }
+  function cmpRow(label, base, mc, mk) {
+    var diff = mk - mc;
+    return "<tr><td>" + esc(label) + "</td><td>" + pct(base) + "</td><td>" + pct(mc) + "</td><td>" + pct(mk) +
+      "</td><td>" + ppSigned(diff) + "</td></tr>";
+  }
+  function ppSigned(x) { return (x >= 0 ? "+" : "") + (x * 100).toFixed(1) + " pp"; }
 
   /* ---------- guardar / listar predicciones ---------- */
   function savePrediction() {
@@ -868,10 +947,27 @@
     L.push("   - 1X2 simulado: " + pct(sim.homeWin) + " / " + pct(sim.draw) + " / " + pct(sim.awayWin));
     L.push("   - Total medio simulado: " + num2(sim.avgTotal));
     L.push("");
-    L.push("5. CONFIANZA");
+    L.push("5. CADENA DE MARKOV (categoría D) — secuencia de resultados V/E/D");
+    if (o.markov) {
+      var mk = o.markov;
+      L.push("   - Últimos resultados de " + p.homeName + ": " + mkSeqText(mk.home) + " (último: " + resultLabel(mk.home.last) + ", racha " + mk.home.streak.n + ")");
+      L.push("   - Últimos resultados de " + p.awayName + ": " + mkSeqText(mk.away) + " (último: " + resultLabel(mk.away.last) + ", racha " + mk.away.streak.n + ")");
+      L.push("   - Próximo resultado estimado — " + p.homeName + ": V " + pct(mk.home.next.W) + " | E " + pct(mk.home.next.D) + " | D " + pct(mk.home.next.L));
+      L.push("   - Próximo resultado estimado — " + p.awayName + ": V " + pct(mk.away.next.W) + " | E " + pct(mk.away.next.D) + " | D " + pct(mk.away.next.L));
+      L.push("   - 1X2 por cadena de Markov: " + pct(mk.combined.homeWin) + " / " + pct(mk.combined.draw) + " / " + pct(mk.combined.awayWin));
+      L.push("   - Diferencia Markov − Monte Carlo: 1 " + ppSigned(mk.combined.homeWin - sim.homeWin) +
+        " | X " + ppSigned(mk.combined.draw - sim.draw) + " | 2 " + ppSigned(mk.combined.awayWin - sim.awayWin));
+      if (!mk.home.reliable || !mk.away.reliable) {
+        L.push("   - Aviso: muestra de resultados reducida (" + mk.home.samples + " local / " + mk.away.samples + " visitante); proyección poco fiable.");
+      }
+    } else {
+      L.push("   - No disponible: predicción anterior a la incorporación de la cadena de Markov.");
+    }
+    L.push("");
+    L.push("6. CONFIANZA");
     L.push("   - Nivel: " + p.confidence.label + " (" + p.confidence.score.toFixed(0) + "/100)");
     L.push("");
-    L.push("6. FUNDAMENTOS");
+    L.push("7. FUNDAMENTOS");
     if (p.input && p.input.generatedAt) {
       L.push("   - Configuración: énfasis forma reciente " + (((p.input.recency || 0) * 100).toFixed(0)) + "%; descanso local " + (p.input.restHome) + " días, visitante " + (p.input.restAway) + " días.");
       L.push("   - Alineaciones confirmadas: " + (p.input.lineups ? "sí" : "no") + ".");
@@ -879,13 +975,13 @@
       L.push("   - Clima adverso: " + (p.input.meteo ? "sí" : "no") + ".");
     }
     L.push("");
-    L.push("7. LIMITACIONES");
+    L.push("8. LIMITACIONES");
     L.push("   - Las predicciones son estimaciones probabilísticas, no hechos confirmados.");
     L.push("   - Acontecimientos aleatorios (expulsiones, penales, errores) no pueden predecirse.");
     L.push("   - La fiabilidad del modelo se demuestra sobre muestras amplias de partidos.");
     if (p.result) {
       L.push("");
-      L.push("8. RESULTADO REAL Y EVALUACIÓN");
+      L.push("9. RESULTADO REAL Y EVALUACIÓN");
       L.push("   - Resultado: " + p.result.homeGoals + " - " + p.result.awayGoals);
       var actual = M.outcomeFromScore(p.result.homeGoals, p.result.awayGoals);
       L.push("   - Resultado observado: " + outcomeName(actual));

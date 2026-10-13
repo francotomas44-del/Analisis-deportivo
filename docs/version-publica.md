@@ -76,6 +76,14 @@ Los partidos de **Hoy** se muestran con la hora convertida a la zona horaria del
 - `sw.js` + `manifest.webmanifest`: PWA (instalable, offline para el shell).
 - `js/app.js`: cambios mínimos (la portada por defecto es `hoy` y se avisa a `AD.v2`).
 
+## Cadena de Markov (nueva)
+
+Además de la simulación de **Monte Carlo**, el motor incorpora una **cadena de Markov** sobre la secuencia de
+resultados (victoria/empate/derrota) de cada equipo: estima su matriz de transición, proyecta el próximo
+resultado y combina local y visitante en una probabilidad 1X2. Se muestra en un panel propio del análisis, en
+una tabla que la **compara con Monte Carlo** (diferencia en puntos porcentuales) y en el **informe exportable**.
+Ver [`markov.md`](markov.md).
+
 ## Cambiar la marca
 
 En `js/v2.js`:

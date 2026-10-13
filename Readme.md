@@ -165,7 +165,7 @@ El procesamiento de cada partido seguirá un flujo de trabajo estructurado:
 6. **Análisis comparativo:** identificar ventajas, debilidades y enfrentamientos tácticos relevantes.
 7. **Modelado estadístico:** estimar goles, resultados y otros eventos mediante métodos apropiados.
 8. **Evaluación contextual:** incorporar alineaciones, bajas, descanso y acontecimientos recientes.
-9. **Simulación:** generar escenarios alternativos y medir la variabilidad de los resultados.
+9. **Simulación:** generar escenarios alternativos (Monte Carlo) y proyectar secuencias con una cadena de Markov sobre la racha del equipo, midiendo la variabilidad de los resultados.
 10. **Informe final:** presentar predicciones, probabilidades, fundamentos y limitaciones.
 11. **Evaluación posterior:** comparar las estimaciones con el resultado real y registrar los errores.
 
@@ -180,6 +180,7 @@ El proyecto podrá desarrollarse progresivamente mediante los siguientes módulo
 - **Statistical Engine:** cálculo de métricas y estimaciones estadísticas.
 - **Prediction Engine:** generación de probabilidades y escenarios.
 - **Simulation Engine:** simulación de posibles desarrollos del partido.
+- **Markov Engine:** modelo de secuencia (cadena de Markov) sobre la racha del equipo (victoria/empate/derrota) y su proyección del próximo resultado.
 - **Confidence Engine:** evaluación de incertidumbre y fiabilidad de las predicciones.
 - **Reporting Engine:** generación de informes comprensibles y estructurados.
 - **Evaluation Engine:** seguimiento del rendimiento histórico de los modelos y detección de errores.
