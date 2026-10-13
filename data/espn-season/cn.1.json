@@ -1,0 +1,2465 @@
+{
+    "name":  "Super League (China) 2026",
+    "code":  "cn.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401861313",
+                        "date":  "2026-03-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861496",
+                        "date":  "2026-03-07",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861314",
+                        "date":  "2026-03-07",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861315",
+                        "date":  "2026-03-07",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861316",
+                        "date":  "2026-03-07",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861317",
+                        "date":  "2026-03-08",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861318",
+                        "date":  "2026-03-08",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861319",
+                        "date":  "2026-03-13",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861320",
+                        "date":  "2026-03-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861321",
+                        "date":  "2026-03-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861322",
+                        "date":  "2026-03-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861323",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861324",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861325",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861326",
+                        "date":  "2026-03-20",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861327",
+                        "date":  "2026-03-20",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861328",
+                        "date":  "2026-03-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861329",
+                        "date":  "2026-03-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861520",
+                        "date":  "2026-03-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861330",
+                        "date":  "2026-03-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861331",
+                        "date":  "2026-03-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861332",
+                        "date":  "2026-04-03",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861333",
+                        "date":  "2026-04-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861334",
+                        "date":  "2026-04-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861335",
+                        "date":  "2026-04-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861522",
+                        "date":  "2026-04-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861336",
+                        "date":  "2026-04-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861337",
+                        "date":  "2026-04-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861338",
+                        "date":  "2026-04-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861523",
+                        "date":  "2026-04-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861340",
+                        "date":  "2026-04-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861339",
+                        "date":  "2026-04-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861341",
+                        "date":  "2026-04-12",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861342",
+                        "date":  "2026-04-12",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861343",
+                        "date":  "2026-04-12",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861344",
+                        "date":  "2026-04-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861525",
+                        "date":  "2026-04-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861345",
+                        "date":  "2026-04-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861346",
+                        "date":  "2026-04-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861348",
+                        "date":  "2026-04-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861347",
+                        "date":  "2026-04-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861349",
+                        "date":  "2026-04-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861350",
+                        "date":  "2026-04-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861351",
+                        "date":  "2026-04-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861352",
+                        "date":  "2026-04-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861527",
+                        "date":  "2026-04-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861353",
+                        "date":  "2026-04-21",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861354",
+                        "date":  "2026-04-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861355",
+                        "date":  "2026-04-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861356",
+                        "date":  "2026-04-25",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861357",
+                        "date":  "2026-04-25",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861358",
+                        "date":  "2026-04-25",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861359",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861530",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861360",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861361",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861531",
+                        "date":  "2026-05-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861362",
+                        "date":  "2026-05-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861363",
+                        "date":  "2026-05-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861364",
+                        "date":  "2026-05-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861365",
+                        "date":  "2026-05-02",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861366",
+                        "date":  "2026-05-02",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861367",
+                        "date":  "2026-05-02",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861368",
+                        "date":  "2026-05-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861369",
+                        "date":  "2026-05-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861534",
+                        "date":  "2026-05-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861370",
+                        "date":  "2026-05-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861371",
+                        "date":  "2026-05-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861372",
+                        "date":  "2026-05-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861373",
+                        "date":  "2026-05-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861535",
+                        "date":  "2026-05-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861374",
+                        "date":  "2026-05-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861375",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861379",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861378",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861377",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861376",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861382",
+                        "date":  "2026-05-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861380",
+                        "date":  "2026-05-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861381",
+                        "date":  "2026-05-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861383",
+                        "date":  "2026-05-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861384",
+                        "date":  "2026-05-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861538",
+                        "date":  "2026-05-16",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861385",
+                        "date":  "2026-05-16",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861386",
+                        "date":  "2026-05-19",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861387",
+                        "date":  "2026-05-19",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861388",
+                        "date":  "2026-05-19",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861389",
+                        "date":  "2026-05-19",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861390",
+                        "date":  "2026-05-20",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861540",
+                        "date":  "2026-05-20",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861391",
+                        "date":  "2026-05-20",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861392",
+                        "date":  "2026-05-23",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861393",
+                        "date":  "2026-05-23",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861394",
+                        "date":  "2026-05-23",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861541",
+                        "date":  "2026-05-24",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861395",
+                        "date":  "2026-05-24",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861396",
+                        "date":  "2026-05-24",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861397",
+                        "date":  "2026-05-24",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861400",
+                        "date":  "2026-05-30",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861398",
+                        "date":  "2026-05-30",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861399",
+                        "date":  "2026-05-30",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861544",
+                        "date":  "2026-05-30",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861401",
+                        "date":  "2026-05-30",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861402",
+                        "date":  "2026-05-31",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861403",
+                        "date":  "2026-05-31",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861404",
+                        "date":  "2026-06-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861405",
+                        "date":  "2026-06-27",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861406",
+                        "date":  "2026-06-27",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861407",
+                        "date":  "2026-06-27",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861546",
+                        "date":  "2026-06-27",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861408",
+                        "date":  "2026-06-28",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861409",
+                        "date":  "2026-06-28",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861410",
+                        "date":  "2026-07-03",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861411",
+                        "date":  "2026-07-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861412",
+                        "date":  "2026-07-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861413",
+                        "date":  "2026-07-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861414",
+                        "date":  "2026-07-04",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861415",
+                        "date":  "2026-07-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861416",
+                        "date":  "2026-07-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861417",
+                        "date":  "2026-07-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861421",
+                        "date":  "2026-07-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861290",
+                        "date":  "2026-07-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861419",
+                        "date":  "2026-07-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861425",
+                        "date":  "2026-07-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861423",
+                        "date":  "2026-07-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861424",
+                        "date":  "2026-07-17",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861293",
+                        "date":  "2026-07-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861426",
+                        "date":  "2026-07-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861427",
+                        "date":  "2026-07-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861428",
+                        "date":  "2026-07-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861429",
+                        "date":  "2026-07-25",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861430",
+                        "date":  "2026-07-25",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861295",
+                        "date":  "2026-07-25",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861431",
+                        "date":  "2026-07-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861432",
+                        "date":  "2026-07-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861433",
+                        "date":  "2026-07-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861434",
+                        "date":  "2026-07-26",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861435",
+                        "date":  "2026-07-31",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861436",
+                        "date":  "2026-08-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861437",
+                        "date":  "2026-08-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861438",
+                        "date":  "2026-08-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861439",
+                        "date":  "2026-08-01",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861440",
+                        "date":  "2026-08-02",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861296",
+                        "date":  "2026-08-02",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861441",
+                        "date":  "2026-08-07",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861442",
+                        "date":  "2026-08-08",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861444",
+                        "date":  "2026-08-08",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861445",
+                        "date":  "2026-08-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861499",
+                        "date":  "2026-08-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861446",
+                        "date":  "2026-08-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861447",
+                        "date":  "2026-08-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861448",
+                        "date":  "2026-08-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861500",
+                        "date":  "2026-08-14",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861450",
+                        "date":  "2026-08-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861449",
+                        "date":  "2026-08-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861452",
+                        "date":  "2026-08-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861451",
+                        "date":  "2026-08-15",
+                        "competition":  "Super League (China)",
+                        "team1":  "Yunnan Yukun",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861420",
+                        "date":  "2026-08-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861422",
+                        "date":  "2026-08-19",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861453",
+                        "date":  "2026-08-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861454",
+                        "date":  "2026-08-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861455",
+                        "date":  "2026-08-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861456",
+                        "date":  "2026-08-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Beijing Guoan",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861457",
+                        "date":  "2026-08-22",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861458",
+                        "date":  "2026-08-23",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861503",
+                        "date":  "2026-08-23",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861459",
+                        "date":  "2026-08-28",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861463",
+                        "date":  "2026-08-28",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861460",
+                        "date":  "2026-08-28",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861464",
+                        "date":  "2026-08-29",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861461",
+                        "date":  "2026-08-29",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861462",
+                        "date":  "2026-08-29",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861505",
+                        "date":  "2026-08-29",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Chongqing Lifan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861465",
+                        "date":  "2026-09-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Qingdao West Coast",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861467",
+                        "date":  "2026-09-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Dalian Yingbo",
+                        "team2":  "Qingdao Hainiu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861466",
+                        "date":  "2026-09-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Port FC",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861468",
+                        "date":  "2026-09-05",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shandong Taishan",
+                        "team2":  "Shenzhen Peng City",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861506",
+                        "date":  "2026-09-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Shanghai Shenhua",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861469",
+                        "date":  "2026-09-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Henan FC",
+                        "team2":  "Chengdu Rongcheng",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861470",
+                        "date":  "2026-09-06",
+                        "competition":  "Super League (China)",
+                        "team1":  "Tianjin Jinmen Tiger",
+                        "team2":  "Zhejiang Professional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861418",
+                        "date":  "2026-09-12",
+                        "competition":  "Super League (China)",
+                        "team1":  "Wuhan Three Towns",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861443",
+                        "date":  "2026-09-18",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Wuhan Three Towns",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861475",
+                        "date":  "2026-10-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao Hainiu",
+                        "team2":  "Beijing Guoan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861471",
+                        "date":  "2026-10-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shenzhen Peng City",
+                        "team2":  "Henan FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861472",
+                        "date":  "2026-10-09",
+                        "competition":  "Super League (China)",
+                        "team1":  "Zhejiang Professional",
+                        "team2":  "Shanghai Port FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861473",
+                        "date":  "2026-10-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chengdu Rongcheng",
+                        "team2":  "Tianjin Jinmen Tiger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861474",
+                        "date":  "2026-10-10",
+                        "competition":  "Super League (China)",
+                        "team1":  "Shanghai Shenhua",
+                        "team2":  "Yunnan Yukun",
+                        "score":  {
+                                      "ft":  [
+                                                 7,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861476",
+                        "date":  "2026-10-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Qingdao West Coast",
+                        "team2":  "Dalian Yingbo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401861509",
+                        "date":  "2026-10-11",
+                        "competition":  "Super League (China)",
+                        "team1":  "Chongqing Lifan",
+                        "team2":  "Shandong Taishan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

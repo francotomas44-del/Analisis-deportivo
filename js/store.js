@@ -92,7 +92,21 @@
     Object.keys(map).forEach(function (id) { idsToRemove[id] = true; });
     var merged = Object.keys(map).length;
     if (!merged) {
-      return { merged: 0, removedMatches: 0, teamsAfter: state.teams.length, matchesAfter: state.matches.length };
+      // Sin variantes que fusionar, pero puede haber partidos repetidos entre
+      // fuentes (p. ej. openfootball y ESPN cubren la misma liga/temporada).
+      var removedDup = 0;
+      if (opts.dedupe) {
+        var seenDup = {}, beforeDup = state.matches.length;
+        state.matches = state.matches.filter(function (m) {
+          var key = (m.date || "") + "|" + m.homeId + "|" + m.awayId;
+          if (seenDup[key]) return false;
+          seenDup[key] = true;
+          return true;
+        });
+        removedDup = beforeDup - state.matches.length;
+        if (removedDup) saveNow();
+      }
+      return { merged: 0, removedMatches: removedDup, teamsAfter: state.teams.length, matchesAfter: state.matches.length };
     }
 
     var seen = {};

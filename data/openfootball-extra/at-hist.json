@@ -1,0 +1,4682 @@
+{
+    "name":  "Bundesliga (Austria) histórica",
+    "code":  "Bundesliga (Austria) histórica",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2000-07-05",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-05",
+                        "team1":  "SV Ried",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-05",
+                        "team1":  "Sturm Graz",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-05",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-12",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-12",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-12",
+                        "team1":  "GAK",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-12",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-18",
+                        "team1":  "Rapid Wien",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-19",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-19",
+                        "team1":  "Austria",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-19",
+                        "team1":  "WSG Tirol",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-25",
+                        "team1":  "LASK",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-26",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-05",
+                        "team1":  "Austria",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-05",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-29",
+                        "team1":  "Rapid Wien",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-29",
+                        "team1":  "LASK",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-29",
+                        "team1":  "Sturm Graz",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-07-30",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-02",
+                        "team1":  "GAK",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-02",
+                        "team1":  "SV Ried",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-09",
+                        "team1":  "Austria",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-09",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-12",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-12",
+                        "team1":  "Austria",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-12",
+                        "team1":  "Sturm Graz",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-13",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-19",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-19",
+                        "team1":  "GAK",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-19",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-20",
+                        "team1":  "SV Ried",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-26",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-26",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-26",
+                        "team1":  "LASK",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-27",
+                        "team1":  "Rapid Wien",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-25",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-05",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-06",
+                        "team1":  "Austria",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-06",
+                        "team1":  "SV Ried",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-08",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-15",
+                        "team1":  "LASK",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-16",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-16",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-17",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-22",
+                        "team1":  "SV Ried",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-23",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-23",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-24",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-30",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-01",
+                        "team1":  "LASK",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-01",
+                        "team1":  "GAK",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-01",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-14",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-14",
+                        "team1":  "WSG Tirol",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-14",
+                        "team1":  "SV Ried",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-15",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-20",
+                        "team1":  "GAK",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-21",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-21",
+                        "team1":  "SV Ried",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-22",
+                        "team1":  "Austria",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-28",
+                        "team1":  "Austria",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-28",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-29",
+                        "team1":  "WSG Tirol",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-10-29",
+                        "team1":  "LASK",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-01",
+                        "team1":  "GAK",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-01",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-01",
+                        "team1":  "SV Ried",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-01",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-04",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-29",
+                        "team1":  "Rapid Wien",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-29",
+                        "team1":  "Sturm Graz",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-29",
+                        "team1":  "Austria",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-10",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-11",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-12",
+                        "team1":  "GAK",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-12",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-17",
+                        "team1":  "Sturm Graz",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-18",
+                        "team1":  "SV Ried",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-18",
+                        "team1":  "Austria",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-19",
+                        "team1":  "Rapid Wien",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-24",
+                        "team1":  "LASK",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-25",
+                        "team1":  "WSG Tirol",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-25",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-11-26",
+                        "team1":  "Austria",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-12-02",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-12-02",
+                        "team1":  "SV Ried",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-12-02",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-12-03",
+                        "team1":  "GAK",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-03",
+                        "team1":  "Sturm Graz",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-03",
+                        "team1":  "LASK",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-03",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-04",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-10",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-10",
+                        "team1":  "SV Ried",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-10",
+                        "team1":  "WSG Tirol",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-10",
+                        "team1":  "GAK",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-02-24",
+                        "team1":  "Sturm Graz",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-13",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-14",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-14",
+                        "team1":  "LASK",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-16",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-17",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-17",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-18",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-31",
+                        "team1":  "Rapid Wien",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-31",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-03-31",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-01",
+                        "team1":  "Austria",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-07",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-07",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-07",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-08",
+                        "team1":  "SV Ried",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-14",
+                        "team1":  "Rapid Wien",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-14",
+                        "team1":  "SV Ried",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-14",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-14",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-20",
+                        "team1":  "LASK",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-21",
+                        "team1":  "GAK",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-21",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-08",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-28",
+                        "team1":  "GAK",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-28",
+                        "team1":  "Rapid Wien",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-28",
+                        "team1":  "Austria",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-28",
+                        "team1":  "SV Ried",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "Austria",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "WSG Tirol",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-02",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-04",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-05",
+                        "team1":  "GAK",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-05",
+                        "team1":  "SV Ried",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-06",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-12",
+                        "team1":  "LASK",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-12",
+                        "team1":  "Sturm Graz",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-12",
+                        "team1":  "Austria",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-12",
+                        "team1":  "Austria",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "WSG Tirol",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-01",
+                        "team1":  "SV Ried",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-24",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-24",
+                        "team1":  "LASK",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-24",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-24",
+                        "team1":  "Austria",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-01",
+                        "team1":  "Austria Lustenau",
+                        "team2":  "SC Kundl",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-01",
+                        "team1":  "SCR Altach",
+                        "team2":  "SPG Jenbach",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-01",
+                        "team1":  "FC Kufstein",
+                        "team2":  "FC Nenzing",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-01",
+                        "team1":  "SV Kirchbichl",
+                        "team2":  "SVG Reichenau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-01",
+                        "team1":  "FC Tirol Amat.",
+                        "team2":  "FC Feldkirch",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "Hofstetten-Grünau",
+                        "team2":  "FC Deutschkreutz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "SC Krems",
+                        "team2":  "SK Rapid Amateure",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "SV Schwechat",
+                        "team2":  "FAC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "SV Stockerau",
+                        "team2":  "SV Neuberg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "SC Zwettl",
+                        "team2":  "SV Leobendorf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "SC/ESV Parndorf",
+                        "team2":  "Horitschon",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-04",
+                        "team1":  "Rohrbach",
+                        "team2":  "ASC Kottingbrunn",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-05",
+                        "team1":  "FC Tulln",
+                        "team2":  "Polizei/Feuerwehr",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-05",
+                        "team1":  "FC Stadlau",
+                        "team2":  "SC Ostbahn XI",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-05",
+                        "team1":  "SV Hundsheim",
+                        "team2":  "Wiener Sport-Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-06",
+                        "team1":  "Austria Wien",
+                        "team2":  "FC Waidhofen/Ybbs",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-06",
+                        "team1":  "SV Würmla",
+                        "team2":  "SC Eisenstadt",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-08",
+                        "team1":  "SAK 1914",
+                        "team2":  "Donau Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-08",
+                        "team1":  "Union Vöcklamarkt",
+                        "team2":  "SV Seekirchen",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-08",
+                        "team1":  "FC Blau Weiß Linz",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-08",
+                        "team1":  "Sankt Florian",
+                        "team2":  "SKU Amstetten",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-09",
+                        "team1":  "Grieskirchen",
+                        "team2":  "Puch",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-12",
+                        "team1":  "Schwanenstadt",
+                        "team2":  "FC Blau Weiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Simmering",
+                        "team2":  "Sankt Peter/Au",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Sturm Graz",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Gratkorn",
+                        "team2":  "Sankt Veit",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Kindberg",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Zeltweg",
+                        "team2":  "Flavia Solva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Bleiburg",
+                        "team2":  "Voitsberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Köflach",
+                        "team2":  "SAK Klagenfurt",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Pasching",
+                        "team2":  "FC Zell am See",
+                        "score":  {
+                                      "ft":  [
+                                                 7,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Angers SCO",
+                        "team2":  "Rottenmann",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "FC Lendorf",
+                        "team2":  "Spittal",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Pöllau",
+                        "team2":  "GAK Amateure",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-08-15",
+                        "team1":  "Langenrohr",
+                        "team2":  "SV Horn",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-02",
+                        "team1":  "Tulln",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 8
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-06",
+                        "team1":  "Donau Linz",
+                        "team2":  "Union Vöcklamarkt",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Simmering",
+                        "team2":  "SV Wörgl",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "FC Kufstein",
+                        "team2":  "DSV Leoben",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Waidhofen/Ybbs",
+                        "team2":  "Kärnten",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "FC Blau Weiß Linz",
+                        "team2":  "Braunau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "FC Deutschkreutz",
+                        "team2":  "Austria Lustenau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Puch",
+                        "team2":  "First Vienna FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Eisenstadt",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Zwettl",
+                        "team2":  "Bad Bleiberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Sankt Florian",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Kapfenberger SV 1919",
+                        "team2":  "Tirol Amateure",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "SCR Altach",
+                        "team2":  "Zeltweg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Schwanenstadt",
+                        "team2":  "FAC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Ried Amateure",
+                        "team2":  "Stockerau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-12",
+                        "team1":  "Rohrbach",
+                        "team2":  "Langenrohr",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "Spittal",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "GAK Amateure",
+                        "team2":  "SV Mattersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "1. Wiener Neustädter SC",
+                        "team2":  "Austria Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "Austria Lustenau",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "Hundsheim",
+                        "team2":  "FC Stadlau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "Bleiburg",
+                        "team2":  "Sankt Veit",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "Köflach",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "Ranshofen",
+                        "team2":  "Krems",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2000-09-13",
+                        "team1":  "SVG Reichenau",
+                        "team2":  "Angers SCO",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Langenrohr",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Stockerau",
+                        "team2":  "SW Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Donau Linz",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "SVG Reichenau",
+                        "team2":  "A.W. Mödling",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "First Vienna FC",
+                        "team2":  "FC Kärnten",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Kapfenberger SV 1919",
+                        "team2":  "Untersiebenbrunn",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Hundsheim",
+                        "team2":  "Bad Bleiberg",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "St.Florian",
+                        "team2":  "Austria Lustenau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Bleiburg",
+                        "team2":  "DSV Leoben",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "GAK Amateure",
+                        "team2":  "SV Braunau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-03",
+                        "team1":  "Krems",
+                        "team2":  "SV Wörgl",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-04",
+                        "team1":  "SV Ried",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-04",
+                        "team1":  "Zeltweg",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-04",
+                        "team1":  "Floridsdorfer AC",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "Admira Mödling",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "FC Kärnten",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "Krems",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria Lustenau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "Zeltweg",
+                        "team2":  "Hundsheim",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "Braunau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-10",
+                        "team1":  "SV Leobendorf",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-11",
+                        "team1":  "Kapfenberger SV 1919",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-17",
+                        "team1":  "Hundsheim",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-17",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-04-17",
+                        "team1":  "Kärnten",
+                        "team2":  "Braunau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-08",
+                        "team1":  "Admira Mödling",
+                        "team2":  "Kärnten",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-09",
+                        "team1":  "Rapid Wien",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2001-05-09",
+                        "team1":  "Kärnten",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-02",
+                        "team1":  "GAK",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-03",
+                        "team1":  "SCR Altach",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-03",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-04",
+                        "team1":  "BW Linz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-10",
+                        "team1":  "WSG Wattens",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-10",
+                        "team1":  "RB Salzburg",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-11",
+                        "team1":  "Austria",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-11",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "GAK",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Rapid Wien",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "WSG Wattens",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "BW Linz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-31",
+                        "team1":  "Austria",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-31",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-31",
+                        "team1":  "Sturm Graz",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-01",
+                        "team1":  "SCR Altach",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "BW Linz",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "GAK",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-26",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "RB Salzburg",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "SCR Altach",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "LASK",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Austria",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "WSG Wattens",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "BW Linz",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "RB Salzburg",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-29",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-29",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-05",
+                        "team1":  "WSG Wattens",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-05",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-06",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-19",
+                        "team1":  "BW Linz",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-19",
+                        "team1":  "Sturm Graz",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-20",
+                        "team1":  "Austria",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-20",
+                        "team1":  "WSG Wattens",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "SCR Altach",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "Austria",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-27",
+                        "team1":  "GAK",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-02",
+                        "team1":  "RB Salzburg",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "WSG Wattens",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "Austria",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "Austria",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-09",
+                        "team1":  "GAK",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-09",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "BW Linz",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-23",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 7,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-23",
+                        "team1":  "WSG Wattens",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-24",
+                        "team1":  "BW Linz",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-24",
+                        "team1":  "Austria",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-30",
+                        "team1":  "GAK",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-01",
+                        "team1":  "Austria",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-01",
+                        "team1":  "Rapid Wien",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-01",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "WSG Wattens",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-08",
+                        "team1":  "BW Linz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-08",
+                        "team1":  "GAK",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-08",
+                        "team1":  "Austria",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-07",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-08",
+                        "team1":  "SCR Altach",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-09",
+                        "team1":  "Austria",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-09",
+                        "team1":  "WSG Wattens",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-09",
+                        "team1":  "LASK",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-15",
+                        "team1":  "BW Linz",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-15",
+                        "team1":  "RB Salzburg",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-16",
+                        "team1":  "GAK",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-16",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-16",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Austria",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "WSG Wattens",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-23",
+                        "team1":  "Sturm Graz",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Rapid Wien",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "BW Linz",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "RB Salzburg",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "LASK",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "Austria",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "GAK",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Rapid Wien",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "WSG Wattens",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "BW Linz",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Austria",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "BW Linz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "RB Salzburg",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "Austria",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-11",
+                        "team1":  "BW Linz",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-13",
+                        "team1":  "Rapid Wien",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Sturm Graz",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Austria",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-23",
+                        "team1":  "BW Linz",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-23",
+                        "team1":  "Austria",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "Rapid Wien",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "BW Linz",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "RB Salzburg",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-11",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-11",
+                        "team1":  "Austria",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-18",
+                        "team1":  "BW Linz",
+                        "team2":  "RB Salzburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-18",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-24",
+                        "team1":  "Austria",
+                        "team2":  "BW Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "GAK",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Austria",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "WSG Wattens",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "LASK",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-12",
+                        "team1":  "WSG Wattens",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-12",
+                        "team1":  "GAK",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-18",
+                        "team1":  "LASK",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Austria",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-22",
+                        "team1":  "WSG Wattens",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-22",
+                        "team1":  "GAK",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-22",
+                        "team1":  "Austria",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-25",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "SCR Altach",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "LASK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-02",
+                        "team1":  "GAK",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "WSG Wattens",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-10",
+                        "team1":  "Austria",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-10",
+                        "team1":  "SCR Altach",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-17",
+                        "team1":  "SCR Altach",
+                        "team2":  "Austria",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-17",
+                        "team1":  "GAK",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-17",
+                        "team1":  "TSV Hartberg",
+                        "team2":  "WSG Wattens",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-23",
+                        "team1":  "Austria",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-23",
+                        "team1":  "WSG Wattens",
+                        "team2":  "GAK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-06-01",
+                        "team1":  "Rapid Wien",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "Union Gurten",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "ATUS Velden",
+                        "team2":  "GAK 1902",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "FC Dornbirn",
+                        "team2":  "FC Red Bull Salzburg (AUT)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SV Gloggnitz",
+                        "team2":  "SK Austria Klagenfurt",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "Bischofshofener SK 1933",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 11
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SC Wiener Viktoria",
+                        "team2":  "DSV Leoben",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "ASKÖ Köttmannsdorf",
+                        "team2":  "SV Horn",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SK Treibach",
+                        "team2":  "Kapfenberger SV 1919",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SC Weiz",
+                        "team2":  "SV Lafnitz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SPG Wallern/St. Marienkirchen",
+                        "team2":  "FC Kitzbühel",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "FCM Traiskirchen",
+                        "team2":  "SKU Amstetten",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SV Wals-Grünau",
+                        "team2":  "Austria Lustenau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "SV Oberwart",
+                        "team2":  "SV Stripfing/Weiden",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-26",
+                        "team1":  "Deutschlandsberger SC",
+                        "team2":  "SC Korneuburg",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "Kremser SC",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "SR Donaufeld Wien",
+                        "team2":  "SCR Altach",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "SV Wildon",
+                        "team2":  "FC Blau Weiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "VfB Hohenems",
+                        "team2":  "ASKÖ Oedt",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "SV Leobendorf",
+                        "team2":  "SKN St. Pölten",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "SC Schwaz",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "SV Donau Wien",
+                        "team2":  "ASK Voitsberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "ASV Siegendorf",
+                        "team2":  "FAC Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-28",
+                        "team1":  "SC Röthis",
+                        "team2":  "SV Ried",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 11
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-28",
+                        "team1":  "FC Pinzgau Saalfelden",
+                        "team2":  "Austria Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-28",
+                        "team1":  "SC Imst",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-28",
+                        "team1":  "SC Neusiedl/See 1919",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-27",
+                        "team1":  "Deutschlandsberger SC",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-27",
+                        "team1":  "SV Lafnitz",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-27",
+                        "team1":  "ASV Siegendorf",
+                        "team2":  "SK Austria Klagenfurt",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-27",
+                        "team1":  "SV Horn",
+                        "team2":  "SKU Amstetten",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-27",
+                        "team1":  "FC Admira Wacker",
+                        "team2":  "Austria Lustenau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-27",
+                        "team1":  "SKN St. Pölten",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-28",
+                        "team1":  "SV Ried",
+                        "team2":  "Sturm Graz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-28",
+                        "team1":  "ASKÖ Oedt",
+                        "team2":  "Austria Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-28",
+                        "team1":  "Kapfenberger SV 1919",
+                        "team2":  "ASK Voitsberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-28",
+                        "team1":  "SPG Wallern/St. Marienkirchen",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-24",
+                        "team1":  "Sportunion Mauer",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "SC Wiener Viktoria",
+                        "team2":  "FC Red Bull Salzburg (AUT)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "SR Donaufeld Wien",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-29",
+                        "team1":  "Austria Lustenau",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "SV Horn",
+                        "team2":  "Austria Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "ASK Voitsberg",
+                        "team2":  "LASK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "SV Stripfing/Weiden",
+                        "team2":  "Rapid Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "Schwarz-Weiß Bregenz",
+                        "team2":  "GAK 1902",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "SK Austria Klagenfurt",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "FC Red Bull Salzburg (AUT)",
+                        "team2":  "WSG Tirol",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "Sturm Graz",
+                        "team2":  "FC Blau Weiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-31",
+                        "team1":  "SV Stripfing/Weiden",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-31",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "Schwarz-Weiß Bregenz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Sturm Graz",
+                        "team2":  "Austria Wien",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "LASK",
+                        "team2":  "FC Red Bull Salzburg (AUT)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-02",
+                        "team1":  "LASK",
+                        "team2":  "Wolfsberger AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-02",
+                        "team1":  "Austria Wien",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-02",
+                        "team1":  "Wolfsberger AC",
+                        "team2":  "TSV Hartberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

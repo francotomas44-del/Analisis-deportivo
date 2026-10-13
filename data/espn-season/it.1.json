@@ -1,0 +1,138 @@
+{
+    "name":  "Serie A (Italia) 2026",
+    "code":  "it.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401874947",
+                        "date":  "2026-10-10",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "Genoa CFC",
+                        "team2":  "ACF Fiorentina",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875021",
+                        "date":  "2026-10-10",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "FC Internazionale Milano",
+                        "team2":  "Parma FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874754",
+                        "date":  "2026-10-10",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "SSC Napoli",
+                        "team2":  "Frosinone Calcio",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874940",
+                        "date":  "2026-10-11",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "Como 1907",
+                        "team2":  "AS Roma",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874951",
+                        "date":  "2026-10-11",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "SS Lazio",
+                        "team2":  "AC Monza",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874776",
+                        "date":  "2026-10-11",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "US Lecce",
+                        "team2":  "Bologna FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874789",
+                        "date":  "2026-10-11",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "Sassuolo Calcio",
+                        "team2":  "AC Milan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874764",
+                        "date":  "2026-10-11",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "Cagliari Calcio",
+                        "team2":  "Juventus",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875005",
+                        "date":  "2026-10-12",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "Atalanta",
+                        "team2":  "Venezia FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401874763",
+                        "date":  "2026-10-12",
+                        "competition":  "Serie A (Italia)",
+                        "team1":  "Torino FC",
+                        "team2":  "Udinese Calcio",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

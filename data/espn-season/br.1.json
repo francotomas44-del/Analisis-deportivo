@@ -1,0 +1,268 @@
+{
+    "name":  "Brasileirão (Brasil) 2026",
+    "code":  "br.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401841169",
+                        "date":  "2026-10-02",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "São Paulo FC",
+                        "team2":  "Santos FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841168",
+                        "date":  "2026-10-03",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Atlético Mineiro",
+                        "team2":  "Red Bull Bragantino",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841255",
+                        "date":  "2026-10-07",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Internacional",
+                        "team2":  "Corinthians SP",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841253",
+                        "date":  "2026-10-07",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Red Bull Bragantino",
+                        "team2":  "Mirassol FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841252",
+                        "date":  "2026-10-07",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Clube do Remo",
+                        "team2":  "Grêmio FBPA",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841250",
+                        "date":  "2026-10-07",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "EC Vitória",
+                        "team2":  "Chapecoense",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841257",
+                        "date":  "2026-10-07",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Botafogo FR",
+                        "team2":  "CR Vasco da Gama",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841249",
+                        "date":  "2026-10-08",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Cruzeiro",
+                        "team2":  "São Paulo FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841251",
+                        "date":  "2026-10-08",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Santos FC",
+                        "team2":  "Flamengo RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841256",
+                        "date":  "2026-10-08",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Athletico Paranaense",
+                        "team2":  "Atlético Mineiro",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841248",
+                        "date":  "2026-10-09",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Fluminense FC",
+                        "team2":  "Coritiba PR",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841254",
+                        "date":  "2026-10-09",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Palmeiras",
+                        "team2":  "EC Bahia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841262",
+                        "date":  "2026-10-10",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "CR Vasco da Gama",
+                        "team2":  "Clube do Remo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841259",
+                        "date":  "2026-10-11",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "São Paulo FC",
+                        "team2":  "EC Vitória",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841258",
+                        "date":  "2026-10-11",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Atlético Mineiro",
+                        "team2":  "Santos FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841263",
+                        "date":  "2026-10-11",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Flamengo RJ",
+                        "team2":  "Fluminense FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841267",
+                        "date":  "2026-10-11",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Grêmio FBPA",
+                        "team2":  "Internacional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841261",
+                        "date":  "2026-10-11",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Palmeiras",
+                        "team2":  "Corinthians SP",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841266",
+                        "date":  "2026-10-11",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "EC Bahia",
+                        "team2":  "Mirassol FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401841264",
+                        "date":  "2026-10-12",
+                        "competition":  "Brasileirão (Brasil)",
+                        "team1":  "Coritiba PR",
+                        "team2":  "Botafogo FR",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

@@ -1,0 +1,125 @@
+{
+    "name":  "LaLiga (España) 2026",
+    "code":  "es.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401882851",
+                        "date":  "2026-10-09",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Málaga CF",
+                        "team2":  "RCD Espanyol de Barcelona",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882856",
+                        "date":  "2026-10-10",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "CD Alavés",
+                        "team2":  "Atlético Madrid",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882853",
+                        "date":  "2026-10-10",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "FC Barcelona",
+                        "team2":  "Getafe CF",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882848",
+                        "date":  "2026-10-10",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Real Madrid",
+                        "team2":  "Villarreal CF",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882854",
+                        "date":  "2026-10-11",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Elche CF",
+                        "team2":  "RC Celta de Vigo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882847",
+                        "date":  "2026-10-11",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Real Sociedad",
+                        "team2":  "Deportivo La Coruña",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882855",
+                        "date":  "2026-10-11",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Real Betis",
+                        "team2":  "CA Osasuna",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882850",
+                        "date":  "2026-10-11",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Real Racing Club de Santander",
+                        "team2":  "Valencia CF",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401882852",
+                        "date":  "2026-10-12",
+                        "competition":  "LaLiga (España)",
+                        "team1":  "Levante UD",
+                        "team2":  "Sevilla FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    }
+                ]
+}

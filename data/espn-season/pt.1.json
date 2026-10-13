@@ -1,0 +1,125 @@
+{
+    "name":  "Primeira Liga (Portugal) 2026",
+    "code":  "pt.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401885423",
+                        "date":  "2026-10-09",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "Moreirense FC",
+                        "team2":  "Gil Vicente",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885427",
+                        "date":  "2026-10-09",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "Sporting Braga",
+                        "team2":  "Sporting CP",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885424",
+                        "date":  "2026-10-10",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "CS Marítimo",
+                        "team2":  "FC Porto",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885429",
+                        "date":  "2026-10-10",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "Académico de Viseu FC",
+                        "team2":  "GD Estoril",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885426",
+                        "date":  "2026-10-10",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "Casa Pia AC",
+                        "team2":  "CD Santa Clara",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885422",
+                        "date":  "2026-10-11",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "Rio Ave FC",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885421",
+                        "date":  "2026-10-11",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "SL Benfica",
+                        "team2":  "Vitória Guimarães",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885428",
+                        "date":  "2026-10-11",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "FC Arouca",
+                        "team2":  "CF Estrela da Amadora",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401885425",
+                        "date":  "2026-10-12",
+                        "competition":  "Primeira Liga (Portugal)",
+                        "team1":  "FC Famalicão",
+                        "team2":  "FC Alverca",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    }
+                ]
+}

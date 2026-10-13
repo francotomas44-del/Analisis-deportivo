@@ -1,0 +1,125 @@
+{
+    "name":  "Ligue 1 (Francia) 2026",
+    "code":  "fr.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401876447",
+                        "date":  "2026-10-09",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "Racing Club de Lens",
+                        "team2":  "Olympique Lyonnais",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876446",
+                        "date":  "2026-10-10",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "Lille OSC",
+                        "team2":  "Le Havre AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876444",
+                        "date":  "2026-10-10",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "AS Monaco",
+                        "team2":  "Toulouse FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876448",
+                        "date":  "2026-10-10",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "Stade Brestois 29",
+                        "team2":  "Angers SCO",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876445",
+                        "date":  "2026-10-10",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "FC Lorient",
+                        "team2":  "Paris FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876442",
+                        "date":  "2026-10-10",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "Paris Saint-Germain",
+                        "team2":  "Le Mans FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876443",
+                        "date":  "2026-10-11",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "OGC Nice",
+                        "team2":  "RC Strasbourg Alsace",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876441",
+                        "date":  "2026-10-11",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "Stade Rennais",
+                        "team2":  "AJ Auxerre",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401876440",
+                        "date":  "2026-10-11",
+                        "competition":  "Ligue 1 (Francia)",
+                        "team1":  "ES Troyes AC",
+                        "team2":  "Olympique de Marseille",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

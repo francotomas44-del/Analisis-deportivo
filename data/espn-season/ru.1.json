@@ -1,0 +1,1373 @@
+{
+    "name":  "Premier League (Rusia) 2026",
+    "code":  "ru.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:743645",
+                        "date":  "2026-02-28",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Krasnodar",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743644",
+                        "date":  "2026-02-28",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743643",
+                        "date":  "2026-03-01",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743642",
+                        "date":  "2026-03-01",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "CSKA Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743647",
+                        "date":  "2026-03-02",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Sochi",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743657",
+                        "date":  "2026-03-08",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743651",
+                        "date":  "2026-03-08",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743655",
+                        "date":  "2026-03-08",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743650",
+                        "date":  "2026-03-08",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743652",
+                        "date":  "2026-03-09",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743660",
+                        "date":  "2026-03-13",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743664",
+                        "date":  "2026-03-14",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Sochi",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743665",
+                        "date":  "2026-03-14",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743662",
+                        "date":  "2026-03-14",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743663",
+                        "date":  "2026-03-15",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743666",
+                        "date":  "2026-03-21",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743668",
+                        "date":  "2026-03-21",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743673",
+                        "date":  "2026-03-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743669",
+                        "date":  "2026-03-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743671",
+                        "date":  "2026-03-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743681",
+                        "date":  "2026-04-04",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743676",
+                        "date":  "2026-04-04",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743674",
+                        "date":  "2026-04-04",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743680",
+                        "date":  "2026-04-05",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743679",
+                        "date":  "2026-04-06",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Sochi",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743685",
+                        "date":  "2026-04-11",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743688",
+                        "date":  "2026-04-11",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743684",
+                        "date":  "2026-04-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "FK Sochi",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743686",
+                        "date":  "2026-04-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743687",
+                        "date":  "2026-04-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743689",
+                        "date":  "2026-04-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743694",
+                        "date":  "2026-04-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "FK Sochi",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743697",
+                        "date":  "2026-04-18",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743692",
+                        "date":  "2026-04-18",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "CSKA Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743690",
+                        "date":  "2026-04-19",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743696",
+                        "date":  "2026-04-19",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743703",
+                        "date":  "2026-04-21",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Sochi",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743700",
+                        "date":  "2026-04-21",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743701",
+                        "date":  "2026-04-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743702",
+                        "date":  "2026-04-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743704",
+                        "date":  "2026-04-23",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743711",
+                        "date":  "2026-04-25",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743709",
+                        "date":  "2026-04-25",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743712",
+                        "date":  "2026-04-25",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "CSKA Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743707",
+                        "date":  "2026-04-26",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "FK Sochi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743708",
+                        "date":  "2026-04-26",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Krasnodar",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743713",
+                        "date":  "2026-04-26",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743719",
+                        "date":  "2026-05-01",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743720",
+                        "date":  "2026-05-01",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743718",
+                        "date":  "2026-05-02",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743717",
+                        "date":  "2026-05-02",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743721",
+                        "date":  "2026-05-03",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Sochi",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743728",
+                        "date":  "2026-05-10",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743729",
+                        "date":  "2026-05-10",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "FK Sochi",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743722",
+                        "date":  "2026-05-10",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743727",
+                        "date":  "2026-05-11",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743724",
+                        "date":  "2026-05-11",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743731",
+                        "date":  "2026-05-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743732",
+                        "date":  "2026-05-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743733",
+                        "date":  "2026-05-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Krasnodar",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743735",
+                        "date":  "2026-05-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:743737",
+                        "date":  "2026-05-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Sochi",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879919",
+                        "date":  "2026-07-25",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879916",
+                        "date":  "2026-07-26",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879917",
+                        "date":  "2026-07-26",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879914",
+                        "date":  "2026-07-26",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879906",
+                        "date":  "2026-08-01",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879911",
+                        "date":  "2026-08-01",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879909",
+                        "date":  "2026-08-02",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879907",
+                        "date":  "2026-08-02",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879777",
+                        "date":  "2026-08-08",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879903",
+                        "date":  "2026-08-09",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879902",
+                        "date":  "2026-08-09",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879898",
+                        "date":  "2026-08-09",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879892",
+                        "date":  "2026-08-14",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879894",
+                        "date":  "2026-08-15",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879891",
+                        "date":  "2026-08-15",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Krasnodar",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879888",
+                        "date":  "2026-08-16",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879895",
+                        "date":  "2026-08-16",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879881",
+                        "date":  "2026-08-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879880",
+                        "date":  "2026-08-22",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879883",
+                        "date":  "2026-08-23",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879884",
+                        "date":  "2026-08-23",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879877",
+                        "date":  "2026-08-29",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Krasnodar",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879876",
+                        "date":  "2026-08-29",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879878",
+                        "date":  "2026-08-29",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879879",
+                        "date":  "2026-08-30",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879874",
+                        "date":  "2026-08-30",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879870",
+                        "date":  "2026-09-05",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879864",
+                        "date":  "2026-09-05",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "CSKA Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879871",
+                        "date":  "2026-09-06",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879865",
+                        "date":  "2026-09-07",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "Akhmat Grozny",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879857",
+                        "date":  "2026-09-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Zenit St. Petersburg",
+                        "team2":  "Lokomotiv Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879863",
+                        "date":  "2026-09-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Dinamo Moskva",
+                        "team2":  "FK Orenburg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879858",
+                        "date":  "2026-09-12",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "CSKA Moskva",
+                        "team2":  "Rubin Kazan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879859",
+                        "date":  "2026-09-13",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Akhmat Grozny",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879862",
+                        "date":  "2026-09-13",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Spartak Moskva",
+                        "team2":  "FK Rostov",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879850",
+                        "date":  "2026-09-16",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Lokomotiv Moskva",
+                        "team2":  "Krylia Sovetov",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879851",
+                        "date":  "2026-09-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "FK Krasnodar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879853",
+                        "date":  "2026-09-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Rostov",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879854",
+                        "date":  "2026-09-17",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Anzhi Makhachkala",
+                        "team2":  "CSKA Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879845",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Orenburg",
+                        "team2":  "Anzhi Makhachkala",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879847",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Krylia Sovetov",
+                        "team2":  "Spartak Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879844",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "FK Krasnodar",
+                        "team2":  "Zenit St. Petersburg",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879841",
+                        "date":  "2026-10-11",
+                        "competition":  "Premier League (Rusia)",
+                        "team1":  "Rubin Kazan",
+                        "team2":  "Dinamo Moskva",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

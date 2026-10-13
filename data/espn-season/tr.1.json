@@ -1,0 +1,2972 @@
+{
+    "name":  "Süper Lig (Turquía) 2026",
+    "code":  "tr.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:750021",
+                        "date":  "2025-11-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750020",
+                        "date":  "2025-11-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750025",
+                        "date":  "2025-11-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750017",
+                        "date":  "2025-11-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750018",
+                        "date":  "2025-11-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750023",
+                        "date":  "2025-11-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750019",
+                        "date":  "2025-11-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750024",
+                        "date":  "2025-11-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750033",
+                        "date":  "2025-11-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750029",
+                        "date":  "2025-11-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750030",
+                        "date":  "2025-11-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750031",
+                        "date":  "2025-11-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750027",
+                        "date":  "2025-11-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750028",
+                        "date":  "2025-11-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750032",
+                        "date":  "2025-11-24",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750034",
+                        "date":  "2025-11-24",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750041",
+                        "date":  "2025-11-28",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750036",
+                        "date":  "2025-11-29",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750039",
+                        "date":  "2025-11-29",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750043",
+                        "date":  "2025-11-29",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750035",
+                        "date":  "2025-11-30",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750037",
+                        "date":  "2025-11-30",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750038",
+                        "date":  "2025-12-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750042",
+                        "date":  "2025-12-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750049",
+                        "date":  "2025-12-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750052",
+                        "date":  "2025-12-06",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750048",
+                        "date":  "2025-12-06",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750046",
+                        "date":  "2025-12-06",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750044",
+                        "date":  "2025-12-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750051",
+                        "date":  "2025-12-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750050",
+                        "date":  "2025-12-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750045",
+                        "date":  "2025-12-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750059",
+                        "date":  "2025-12-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750055",
+                        "date":  "2025-12-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750061",
+                        "date":  "2025-12-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750053",
+                        "date":  "2025-12-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750054",
+                        "date":  "2025-12-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750056",
+                        "date":  "2025-12-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750057",
+                        "date":  "2025-12-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750058",
+                        "date":  "2025-12-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750065",
+                        "date":  "2025-12-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750070",
+                        "date":  "2025-12-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750066",
+                        "date":  "2025-12-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750067",
+                        "date":  "2025-12-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750064",
+                        "date":  "2025-12-21",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750063",
+                        "date":  "2025-12-21",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750068",
+                        "date":  "2025-12-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750062",
+                        "date":  "2025-12-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750072",
+                        "date":  "2026-01-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750079",
+                        "date":  "2026-01-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750074",
+                        "date":  "2026-01-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750078",
+                        "date":  "2026-01-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750077",
+                        "date":  "2026-01-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750075",
+                        "date":  "2026-01-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750076",
+                        "date":  "2026-01-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750073",
+                        "date":  "2026-01-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750082",
+                        "date":  "2026-01-24",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750081",
+                        "date":  "2026-01-24",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750085",
+                        "date":  "2026-01-24",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750083",
+                        "date":  "2026-01-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750084",
+                        "date":  "2026-01-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750087",
+                        "date":  "2026-01-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750088",
+                        "date":  "2026-01-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750086",
+                        "date":  "2026-01-26",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750095",
+                        "date":  "2026-01-30",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750096",
+                        "date":  "2026-01-31",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750090",
+                        "date":  "2026-01-31",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750094",
+                        "date":  "2026-01-31",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750091",
+                        "date":  "2026-01-31",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750092",
+                        "date":  "2026-02-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750097",
+                        "date":  "2026-02-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750093",
+                        "date":  "2026-02-02",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750105",
+                        "date":  "2026-02-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750101",
+                        "date":  "2026-02-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750104",
+                        "date":  "2026-02-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750103",
+                        "date":  "2026-02-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750098",
+                        "date":  "2026-02-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750102",
+                        "date":  "2026-02-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750099",
+                        "date":  "2026-02-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750106",
+                        "date":  "2026-02-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750115",
+                        "date":  "2026-02-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750108",
+                        "date":  "2026-02-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750107",
+                        "date":  "2026-02-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750114",
+                        "date":  "2026-02-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750112",
+                        "date":  "2026-02-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750111",
+                        "date":  "2026-02-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750113",
+                        "date":  "2026-02-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750109",
+                        "date":  "2026-02-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750122",
+                        "date":  "2026-02-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750121",
+                        "date":  "2026-02-21",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750116",
+                        "date":  "2026-02-21",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750124",
+                        "date":  "2026-02-21",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750120",
+                        "date":  "2026-02-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750119",
+                        "date":  "2026-02-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750123",
+                        "date":  "2026-02-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750117",
+                        "date":  "2026-02-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750133",
+                        "date":  "2026-02-27",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750128",
+                        "date":  "2026-02-27",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750131",
+                        "date":  "2026-02-28",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750126",
+                        "date":  "2026-02-28",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750129",
+                        "date":  "2026-02-28",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750127",
+                        "date":  "2026-03-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750125",
+                        "date":  "2026-03-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750132",
+                        "date":  "2026-03-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750140",
+                        "date":  "2026-03-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750135",
+                        "date":  "2026-03-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750136",
+                        "date":  "2026-03-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750139",
+                        "date":  "2026-03-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750138",
+                        "date":  "2026-03-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750137",
+                        "date":  "2026-03-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750134",
+                        "date":  "2026-03-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750141",
+                        "date":  "2026-03-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750143",
+                        "date":  "2026-03-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750144",
+                        "date":  "2026-03-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750149",
+                        "date":  "2026-03-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750145",
+                        "date":  "2026-03-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750147",
+                        "date":  "2026-03-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750151",
+                        "date":  "2026-03-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750146",
+                        "date":  "2026-03-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750150",
+                        "date":  "2026-03-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750156",
+                        "date":  "2026-03-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750152",
+                        "date":  "2026-03-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750155",
+                        "date":  "2026-03-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750158",
+                        "date":  "2026-03-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750159",
+                        "date":  "2026-03-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750160",
+                        "date":  "2026-03-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750169",
+                        "date":  "2026-04-04",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750165",
+                        "date":  "2026-04-04",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750164",
+                        "date":  "2026-04-04",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750162",
+                        "date":  "2026-04-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750168",
+                        "date":  "2026-04-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750161",
+                        "date":  "2026-04-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750163",
+                        "date":  "2026-04-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750167",
+                        "date":  "2026-04-06",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750157",
+                        "date":  "2026-04-08",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750154",
+                        "date":  "2026-04-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750171",
+                        "date":  "2026-04-10",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750176",
+                        "date":  "2026-04-11",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750170",
+                        "date":  "2026-04-11",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750177",
+                        "date":  "2026-04-11",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750178",
+                        "date":  "2026-04-12",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750174",
+                        "date":  "2026-04-12",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750172",
+                        "date":  "2026-04-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750173",
+                        "date":  "2026-04-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750179",
+                        "date":  "2026-04-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750181",
+                        "date":  "2026-04-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750180",
+                        "date":  "2026-04-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750185",
+                        "date":  "2026-04-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750183",
+                        "date":  "2026-04-18",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750186",
+                        "date":  "2026-04-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750187",
+                        "date":  "2026-04-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750182",
+                        "date":  "2026-04-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750190",
+                        "date":  "2026-04-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750195",
+                        "date":  "2026-04-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750193",
+                        "date":  "2026-04-25",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750192",
+                        "date":  "2026-04-26",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750191",
+                        "date":  "2026-04-26",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750188",
+                        "date":  "2026-04-27",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750189",
+                        "date":  "2026-04-27",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750196",
+                        "date":  "2026-04-27",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750198",
+                        "date":  "2026-05-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750201",
+                        "date":  "2026-05-01",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750200",
+                        "date":  "2026-05-02",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750204",
+                        "date":  "2026-05-02",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750205",
+                        "date":  "2026-05-02",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750197",
+                        "date":  "2026-05-03",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750199",
+                        "date":  "2026-05-03",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750203",
+                        "date":  "2026-05-03",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750206",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Kayserispor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750207",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750208",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750209",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Antalyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750211",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750212",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750213",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Fatih Karagümrük",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750214",
+                        "date":  "2026-05-09",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750216",
+                        "date":  "2026-05-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750217",
+                        "date":  "2026-05-16",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fatih Karagümrük",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750223",
+                        "date":  "2026-05-16",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750219",
+                        "date":  "2026-05-16",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750221",
+                        "date":  "2026-05-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kayserispor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750215",
+                        "date":  "2026-05-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Antalyaspor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750218",
+                        "date":  "2026-05-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:750222",
+                        "date":  "2026-05-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888322",
+                        "date":  "2026-08-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888326",
+                        "date":  "2026-08-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888323",
+                        "date":  "2026-08-15",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888324",
+                        "date":  "2026-08-16",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888321",
+                        "date":  "2026-08-16",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888320",
+                        "date":  "2026-08-17",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888313",
+                        "date":  "2026-08-21",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "BB Erzurumspor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888316",
+                        "date":  "2026-08-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888314",
+                        "date":  "2026-08-22",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888318",
+                        "date":  "2026-08-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888319",
+                        "date":  "2026-08-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888317",
+                        "date":  "2026-08-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888315",
+                        "date":  "2026-08-23",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888309",
+                        "date":  "2026-08-28",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gençlerbirliği",
+                        "team2":  "BB Erzurumspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888308",
+                        "date":  "2026-08-29",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888307",
+                        "date":  "2026-08-29",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888312",
+                        "date":  "2026-08-29",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888311",
+                        "date":  "2026-08-30",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888306",
+                        "date":  "2026-08-30",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888304",
+                        "date":  "2026-09-04",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888299",
+                        "date":  "2026-09-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "BB Erzurumspor",
+                        "team2":  "Konyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888301",
+                        "date":  "2026-09-05",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Beşiktaş",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888300",
+                        "date":  "2026-09-06",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888305",
+                        "date":  "2026-09-06",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888303",
+                        "date":  "2026-09-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Alanyaspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888302",
+                        "date":  "2026-09-07",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888292",
+                        "date":  "2026-09-11",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "BB Erzurumspor",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888297",
+                        "date":  "2026-09-12",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888296",
+                        "date":  "2026-09-12",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888294",
+                        "date":  "2026-09-12",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888293",
+                        "date":  "2026-09-13",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Galatasaray",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888298",
+                        "date":  "2026-09-14",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Gaziantep FK",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888286",
+                        "date":  "2026-09-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Kocaelispor",
+                        "team2":  "Gaziantep FK",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888289",
+                        "date":  "2026-09-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "İstanbul Başakşehir",
+                        "team2":  "Gençlerbirliği",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888291",
+                        "date":  "2026-09-19",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Trabzonspor",
+                        "team2":  "Galatasaray",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888285",
+                        "date":  "2026-09-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "BB Erzurumspor",
+                        "team2":  "Samsunspor",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888287",
+                        "date":  "2026-09-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Fenerbahçe",
+                        "team2":  "Eyüpspor",
+                        "score":  {
+                                      "ft":  [
+                                                 8,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888288",
+                        "date":  "2026-09-20",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Göztepe",
+                        "team2":  "Çaykur Rizespor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888283",
+                        "date":  "2026-10-10",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Alanyaspor",
+                        "team2":  "BB Erzurumspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888278",
+                        "date":  "2026-10-10",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Samsunspor",
+                        "team2":  "Trabzonspor",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888282",
+                        "date":  "2026-10-10",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Çaykur Rizespor",
+                        "team2":  "Fenerbahçe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888281",
+                        "date":  "2026-10-11",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Konyaspor",
+                        "team2":  "İstanbul Başakşehir",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888279",
+                        "date":  "2026-10-11",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Beşiktaş",
+                        "team2":  "Kocaelispor",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401888284",
+                        "date":  "2026-10-12",
+                        "competition":  "Süper Lig (Turquía)",
+                        "team1":  "Eyüpspor",
+                        "team2":  "Göztepe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    }
+                ]
+}

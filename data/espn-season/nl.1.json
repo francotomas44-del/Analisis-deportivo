@@ -1,0 +1,125 @@
+{
+    "name":  "Eredivisie (Países Bajos) 2026",
+    "code":  "nl.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401875592",
+                        "date":  "2026-10-09",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "PSV Eindhoven",
+                        "team2":  "sc Heerenveen",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875590",
+                        "date":  "2026-10-10",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "Go Ahead Eagles",
+                        "team2":  "Sparta Rotterdam",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875591",
+                        "date":  "2026-10-10",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "Feyenoord Rotterdam",
+                        "team2":  "AZ Alkmaar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875588",
+                        "date":  "2026-10-10",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "Fortuna Sittard",
+                        "team2":  "FC Twente",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875589",
+                        "date":  "2026-10-10",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "AFC Ajax",
+                        "team2":  "NEC Nijmegen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875587",
+                        "date":  "2026-10-11",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "FC Utrecht",
+                        "team2":  "Willem II",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875586",
+                        "date":  "2026-10-11",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "PEC Zwolle",
+                        "team2":  "SC Cambuur",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875585",
+                        "date":  "2026-10-11",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "Telstar 1963",
+                        "team2":  "ADO Den Haag",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401875584",
+                        "date":  "2026-10-11",
+                        "competition":  "Eredivisie (Países Bajos)",
+                        "team1":  "SBV Excelsior",
+                        "team2":  "FC Groningen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    }
+                ]
+}

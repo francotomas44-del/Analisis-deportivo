@@ -1,0 +1,656 @@
+{
+    "name":  "Copa do Brasil",
+    "code":  "Copa do Brasil",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2025-02-18",
+                        "team1":  "Tocantinópolis TO",
+                        "team2":  "Atlético Mineiro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-18",
+                        "team1":  "União Rondonópolis MT",
+                        "team2":  "Vasco da Gama RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-19",
+                        "team1":  "Tuna Luso PA",
+                        "team2":  "Sampaio Corrêa MA",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-19",
+                        "team1":  "Santa Cruz de Natal RN",
+                        "team2":  "Náutico PE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-19",
+                        "team1":  "Sergipe SE",
+                        "team2":  "Ceará CE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-19",
+                        "team1":  "Trem AP",
+                        "team2":  "Brusque SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-20",
+                        "team1":  "Olária RJ",
+                        "team2":  "ABC RN",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-25",
+                        "team1":  "Maranhão MA",
+                        "team2":  "EC Vitória",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-25",
+                        "team1":  "Maringá PR",
+                        "team2":  "EC Juventude",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-25",
+                        "team1":  "Operário de Campo Grande MS",
+                        "team2":  "Criciúma SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Dourados MS",
+                        "team2":  "S.E.R. Caxias RS",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "CSE AL",
+                        "team2":  "Tombense MG",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Guarany de Bage RS",
+                        "team2":  "Altos PI",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Jequié BA",
+                        "team2":  "Retrô PE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Águia de Marabá PA",
+                        "team2":  "Fluminense RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 8
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Parnahyba PI",
+                        "team2":  "Confiança SE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "FC Barcelona",
+                        "team2":  "Nova Iguaçu RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Oratório AP",
+                        "team2":  "São José RS",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Concórdia SC",
+                        "team2":  "Ponte Preta",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-27",
+                        "team1":  "Rio Branco ES",
+                        "team2":  "Grêmio Novorizontino SP",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-04",
+                        "team1":  "Aparecidense GO",
+                        "team2":  "Cascavel FC PR",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "S.E.R. Caxias RS",
+                        "team2":  "Fluminense RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "Atlético Mineiro",
+                        "team2":  "Manaus AM",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "Nova Iguaçu RJ",
+                        "team2":  "Vasco da Gama RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-06",
+                        "team1":  "Maringá PR",
+                        "team2":  "União Carmolandense TO",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-06",
+                        "team1":  "Olária RJ",
+                        "team2":  "Brusque SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-11",
+                        "team1":  "Operário MT",
+                        "team2":  "Grêmio Novorizontino SP",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-12",
+                        "team1":  "EC Vitória",
+                        "team2":  "Náutico PE",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-12",
+                        "team1":  "Operário Ferroviário PR",
+                        "team2":  "Tombense MG",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-13",
+                        "team1":  "Athletico Paranaense",
+                        "team2":  "Guarany de Bage RS",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-13",
+                        "team1":  "CSA AL",
+                        "team2":  "Tuna Luso PA",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-13",
+                        "team1":  "Vila Nova GO",
+                        "team2":  "Rio Branco VN ES",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-29",
+                        "team1":  "Internacional",
+                        "team2":  "Maracanã CE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-29",
+                        "team1":  "Retrô PE",
+                        "team2":  "Fortaleza CE",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-29",
+                        "team1":  "Maringá PR",
+                        "team2":  "Atlético Mineiro",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-29",
+                        "team1":  "Fluminense RJ",
+                        "team2":  "Aparecidense GO",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-29",
+                        "team1":  "São Paulo FC",
+                        "team2":  "Náutico PE",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Botafogo RJ",
+                        "team2":  "Capital DF",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Ceará CE",
+                        "team2":  "Palmeiras",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Paysandu PA",
+                        "team2":  "Bahia BA",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Grêmio Novorizontino SP",
+                        "team2":  "Corinthians SP",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "CSA AL",
+                        "team2":  "Grêmio Porto Alegre",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-01",
+                        "team1":  "Operário Ferroviário PR",
+                        "team2":  "Vasco da Gama RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-01",
+                        "team1":  "Brusque SC",
+                        "team2":  "Athletico Paranaense",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-01",
+                        "team1":  "Santos FC",
+                        "team2":  "CR Brasil AL",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-01",
+                        "team1":  "Criciúma SC",
+                        "team2":  "Red Bull Bragantino",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-01",
+                        "team1":  "Cruzeiro",
+                        "team2":  "Vila Nova GO",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-20",
+                        "team1":  "Athletico Paranaense",
+                        "team2":  "Brusque SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-20",
+                        "team1":  "Náutico PE",
+                        "team2":  "São Paulo FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-20",
+                        "team1":  "Grêmio Porto Alegre",
+                        "team2":  "CSA AL",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-21",
+                        "team1":  "Aparecidense GO",
+                        "team2":  "Fluminense RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-21",
+                        "team1":  "Bahia BA",
+                        "team2":  "Paysandu PA",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-21",
+                        "team1":  "Atlético Mineiro",
+                        "team2":  "Maringá PR",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-21",
+                        "team1":  "Corinthians SP",
+                        "team2":  "Grêmio Novorizontino SP",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-22",
+                        "team1":  "Maracanã CE",
+                        "team2":  "Internacional",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-22",
+                        "team1":  "Vila Nova GO",
+                        "team2":  "Cruzeiro",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-22",
+                        "team1":  "Palmeiras",
+                        "team2":  "Ceará CE",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-22",
+                        "team1":  "Capital DF",
+                        "team2":  "Botafogo RJ",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-22",
+                        "team1":  "Red Bull Bragantino",
+                        "team2":  "Criciúma SC",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

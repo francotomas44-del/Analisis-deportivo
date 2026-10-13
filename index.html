@@ -33,7 +33,7 @@
         <select id="sel-country" aria-label="País desde el que usás la app (para los horarios)"></select>
       </label>
       <button id="btn-mode" class="btn btn-ghost btn-mini" type="button" aria-pressed="false">Modo avanzado</button>
-      <button id="btn-load-base" class="btn btn-ghost" type="button">Recargar datos</button>
+      <button id="btn-load-base" class="btn btn-ghost" type="button">Cargar base</button>
       <button id="btn-wipe" class="btn btn-danger-ghost" type="button">Borrar todo</button>
     </div>
   </header>
@@ -320,10 +320,13 @@
 
       <div class="panel">
         <h2>Fuentes de los datos</h2>
-        <p class="muted">La base histórica proviene de <strong>openfootball</strong> (GitHub, datos libres de dominio público), verificada y descargada localmente. La <strong>Liga Profesional Argentina</strong> se descarga de la API pública de <strong>ESPN</strong> (historial 2001 y 2003–2026) y queda separada por <strong>torneo</strong> (Apertura, Clausura, Inicial, Final, Superliga, Copa Diego Armando Maradona, Liga Profesional, etc.). Además, la portada <strong>"Hoy"</strong> consulta ESPN en vivo para los próximos partidos y los resultados de la temporada en curso (petición anónima y cacheada; se puede desactivar).</p>
+        <p class="muted">La base histórica integrada combina <strong>cinco fuentes</strong> descargadas localmente (≈155.500 partidos, ≈2.100 equipos y 100 competiciones tras deduplicar y unificar nombres). <strong>openfootball</strong> (GitHub, datos libres de dominio público) aporta Mundiales, Eurocopas, copas y primeras divisiones; su <strong>historia anterior</strong> y la <strong>temporada en curso</strong> de las ligas ya cubiertas se completan desde la API pública de <strong>ESPN</strong>; y un paso extra de openfootball agrega <strong>competiciones nuevas</strong> (África, MLS, CONCACAF, Sudamérica, Asia…). La <strong>Liga Profesional Argentina</strong> se descarga de ESPN (historial 2001 y 2003–2026) y queda separada por <strong>torneo</strong> (Apertura, Clausura, Inicial, Final, Superliga, Liga Profesional, etc.). La portada <strong>"Hoy"</strong> consulta ESPN en vivo para los próximos partidos (petición anónima y cacheada; se puede desactivar).</p>
         <ul class="notes">
-          <li><strong>openfootball</strong> — resultados de Copas del Mundo, Eurocopas, UEFA Champions League, copas nacionales y primeras divisiones (2010-11 a 2026-27).</li>
-          <li><strong>ESPN</strong> — Liga Profesional Argentina: historial descargado por torneo (2001 y 2003–2026, 9.506 partidos) y temporada en curso en vivo, para la portada "Hoy" y su historial.</li>
+          <li><strong>openfootball</strong> — Copas del Mundo (1930–2026), Eurocopas, UEFA Champions League, copas nacionales y primeras divisiones (2010-11 a 2026-27). 203 archivos, 52.015 partidos.</li>
+          <li><strong>openfootball — competiciones nuevas</strong> (<code>openfootball-extra</code>) — 33 competiciones: <strong>MLS</strong> (EE. UU.), <strong>CONCACAF Champions Cup</strong>, <strong>CAF Champions League</strong>, Brasil (Serie A y B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita, y ligas de <strong>Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda, Zambia, Zimbabue y Sudáfrica</strong>. 30.437 partidos.</li>
+          <li><strong>ESPN — historia previa</strong> (<code>espn-history</code>) — el tramo anterior a 2010-11 de las ligas ya presentes. 21 archivos, 65.277 partidos.</li>
+          <li><strong>ESPN</strong> — Liga Profesional Argentina por torneo (2001 y 2003–2026, 9.506 partidos, <code>arg-espn</code>). Ligas internacionales "al día" (solo partidos terminados, <code>espn-season</code>, 2.790 partidos): Inglaterra, España, Alemania, Italia, Francia, Países Bajos, Portugal, Austria, Bélgica, Grecia, Turquía, Escocia, Rusia, México, Brasil, China, Japón, Australia, Colombia, Suiza y UEFA Champions League.</li>
+          <li class="warn"><strong>Sin cobertura de ESPN (hoy):</strong> Hungría, Argelia, Egipto y Marruecos (ESPN no tiene esas ligas) y <strong>Chequia</strong> (la liga existe pero no devuelve partidos). Suiza se completó solo con historia. Esas ligas quedan con lo que aporta openfootball.</li>
           <li class="warn"><strong>football-data.org</strong> — no accesible desde el navegador (CORS); descartado.</li>
         </ul>
         <p class="muted">Promovemos un uso trazable y responsable: ver <code>docs/atribuciones.md</code> para licencias y condiciones de cada fuente.</p>
@@ -348,7 +351,7 @@
 
       <div class="panel">
         <h2>Recargar la base histórica</h2>
-        <p class="muted">Si necesitás volver a incorporar la base completa (por ejemplo, tras borrar todo), usá el botón <strong>Cargar base histórica</strong> de la barra superior o el de la pestaña <strong>Inicio</strong>. Reemplaza los datos actuales.</p>
+        <p class="muted">Si necesitás incorporar o volver a cargar la base completa (por ejemplo, tras borrar todo), usá el botón <strong>Cargar base</strong> de la barra superior (o el botón del primer uso, «Cargar partidos y empezar»). Reemplaza los datos actuales.</p>
       </div>
     </section>
 
@@ -414,10 +417,10 @@
   <script src="js/stats.js?v=5"></script>
   <script src="js/metrics.js?v=5"></script>
   <script src="js/storage.js?v=7"></script>
-  <script src="js/store.js?v=6"></script>
-  <script src="js/dataset.js?v=9"></script>
+  <script src="js/store.js?v=7"></script>
+  <script src="js/dataset.js?v=10"></script>
   <script src="js/backtest.js?v=5"></script>
   <script src="js/app.js?v=8"></script>
-  <script src="js/v2.js?v=9"></script>
+  <script src="js/v2.js?v=10"></script>
 </body>
 </html>

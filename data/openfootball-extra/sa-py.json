@@ -1,0 +1,755 @@
+{
+    "name":  "Primera División (Paraguay)",
+    "code":  "Primera División (Paraguay)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2025-01-24",
+                        "team1":  "Sportivo Trinidense",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-24",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-25",
+                        "team1":  "2 de Mayo",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-26",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-28",
+                        "team1":  "Atlético Tembetary",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-29",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "Cerro Porteño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-29",
+                        "team1":  "CD Nacional",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-30",
+                        "team1":  "Guaraní",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Sportivo Trinidense",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "General Caballero DJLM",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-03",
+                        "team1":  "2 de Mayo",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-08",
+                        "team1":  "Sportivo Trinidense",
+                        "team2":  "Cerro Porteño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-09",
+                        "team1":  "Guaraní",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-10",
+                        "team1":  "Atlético Tembetary",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-10",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "2 de Mayo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-14",
+                        "team1":  "2 de Mayo",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-14",
+                        "team1":  "General Caballero DJLM",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-15",
+                        "team1":  "CD Nacional",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-16",
+                        "team1":  "Libertad",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-21",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "2 de Mayo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Atlético Tembetary",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-24",
+                        "team1":  "Sportivo Trinidense",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-28",
+                        "team1":  "Libertad",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "CD Nacional",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "2 de Mayo",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "Sportivo Trinidense",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "General Caballero DJLM",
+                        "team2":  "Cerro Porteño",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-10",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-10",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-14",
+                        "team1":  "2 de Mayo",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-14",
+                        "team1":  "Guaraní",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-17",
+                        "team1":  "CD Nacional",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-22",
+                        "team1":  "General Caballero DJLM",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-23",
+                        "team1":  "2 de Mayo",
+                        "team2":  "Cerro Porteño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-23",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-24",
+                        "team1":  "Atlético Tembetary",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-27",
+                        "team1":  "Guaraní",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-28",
+                        "team1":  "Libertad",
+                        "team2":  "2 de Mayo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-28",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "CD Nacional",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-04",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Atlético Tembetary",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Libertad",
+                        "team2":  "Cerro Porteño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "CD Nacional",
+                        "team2":  "2 de Mayo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-10",
+                        "team1":  "Sportivo Trinidense",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-11",
+                        "team1":  "Libertad",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-12",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-13",
+                        "team1":  "General Caballero DJLM",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-15",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-15",
+                        "team1":  "CD Nacional",
+                        "team2":  "Cerro Porteño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-16",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-16",
+                        "team1":  "Guaraní",
+                        "team2":  "2 de Mayo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Libertad",
+                        "team2":  "Guaraní",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "General Caballero DJLM",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Cerro Porteño",
+                        "team2":  "Sportivo Trinidense",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-21",
+                        "team1":  "2 de Mayo",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-25",
+                        "team1":  "Atlético Tembetary",
+                        "team2":  "2 de Mayo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "Guaraní",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "Sportivo Luqueño",
+                        "team2":  "General Caballero DJLM",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "Sportivo Ameliano",
+                        "team2":  "Libertad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-02",
+                        "team1":  "2 de Mayo",
+                        "team2":  "Sportivo Luqueño",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "CD Nacional",
+                        "team2":  "Sportivo Ameliano",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "Libertad",
+                        "team2":  "Atlético Tembetary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

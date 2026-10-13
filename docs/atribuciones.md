@@ -15,10 +15,16 @@ respetuoso de las condiciones de cada fuente.
 
 - **Fuente:** `https://github.com/openfootball` (repositorios `football.json`,
   `worldcup`, `euro` y las ligas por país).
-  Descarga reproducida por `scripts/build-dataset.ps1`.
+  Descarga reproducida por `scripts/build-dataset.ps1`. Las competiciones adicionales se
+  descargan con `scripts/build-openfootball-extra.ps1` (misma fuente y licencia), según la
+  lista de `scripts/openfootball-extra.json`.
 - **Contenido:** resultados de Copas del Mundo (1930–2026), Eurocopas,
   UEFA Champions League, copas nacionales y primeras divisiones de varias ligas
-  (temporadas 2010-11 a 2026-27).
+  (temporadas 2010-11 a 2026-27). Las **competiciones nuevas** incluyen MLS (EE. UU.),
+  CONCACAF Champions Cup, CAF Champions League, Copa do Brasil, y ligas de Brasil,
+  Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita y varios
+  países de África (Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda,
+  Zambia, Zimbabue y Sudáfrica). Fuente `openfootball-extra` en el manifiesto.
 - **Licencia:** dominio público. Cita textual del repositorio
   `openfootball/football.json`:
   > *"The football.json schema, data and scripts are dedicated to the public
@@ -58,6 +64,46 @@ Profesional Argentina se arma desde la API pública de **ESPN** y se guarda
 - **Cómo desactivar lo "en vivo":** casilla "Liga Argentina (en vivo)" en la portada
   (el historial ya descargado queda como dato local).
 
+### ESPN "al día" para las demás ligas
+
+Para que la forma reciente de **todos** los equipos de la base quede actualizada,
+`scripts/build-espn-season.ps1` descarga de la misma API pública de ESPN la
+**temporada en curso** (y el tramo que openfootball todavía no publicó) de las
+primeras divisiones/competiciones que la base ya tiene:
+
+- **Cubiertas (21):** Inglaterra, España, Alemania, Italia, Francia, Países Bajos,
+  Portugal, Austria, Bélgica, Grecia, Turquía, Escocia, Rusia, México, Brasil,
+  China, Japón, Australia, Colombia, Suiza y UEFA Champions League.
+- **Cómo:** solo se agregan partidos **posteriores** al último que ya tiene la base
+  de esa liga, y solo **terminados en tiempo regular** (`STATUS_FULL_TIME`). Los
+  nombres de ESPN se mapean al **nombre exacto** que ya usa la base; si un equipo
+  no se reconoce, su partido se **descarta** (para no partir un club en dos).
+  Se guardan en `data/espn-season/<código>.json` (fuente `espn-season`).
+- **Sin cobertura de ESPN (hoy):** Hungría, Argelia, Egipto y Marruecos (ESPN no
+  tiene esas ligas) y Chequia (la liga existe pero ESPN devuelve 0 partidos).
+  Suiza se completó con historia hasta 2025. Estas ligas quedan con lo que aporta
+  openfootball, sin inventar datos.
+- **Condiciones:** las mismas de ESPN (uso **nominativo**, se muestra la fuente en
+  pantalla).
+
+### ESPN "historia previa" para las demás ligas
+
+Para ampliar hacia atrás el historial, `scripts/build-espn-history.ps1` descarga de la
+misma API pública de ESPN el tramo **anterior al primer partido** que ya tiene la base en
+cada liga:
+
+- **Cubiertas (21):** las mismas divisiones/competiciones que el "al día" (Europa,
+  México, Brasil, China, Japón, Australia, Colombia y UEFA Champions League).
+- **Cómo:** se busca hacia atrás temporada por temporada desde el año del primer partido
+  de la base, y se detiene al agotar la cobertura de ESPN. Solo partidos **terminados en
+  tiempo regular** (`STATUS_FULL_TIME`); los nombres de ESPN se mapean al nombre exacto
+  de la base y los equipos no reconocidos se descartan (o se agregan como nuevos, según
+  el umbral de similitud), para no partir un club en dos. Se guardan en
+  `data/espn-history/<código>.json` (fuente `espn-history`). Total: **65.277 partidos**.
+- **Sin cobertura de ESPN:** Hungría, Argelia, Egipto, Marruecos y Chequia; Argentina no
+  tiene historia previa a 2001.
+- **Condiciones:** las mismas de ESPN (uso **nominativo**, se muestra la fuente en
+  pantalla).
 > Nota: **olé.com.ar** se evaluó como fuente para las ligas argentinas, pero sus
 > datos los sirve su proveedor *LilaX* (`ole.lilax.io`) mediante JavaScript y
 > **no son accesibles desde el navegador** (bloqueo CORS y sin datos en el HTML);

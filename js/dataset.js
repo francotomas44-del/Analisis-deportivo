@@ -4,10 +4,18 @@
    carpeta de origen (`source`):
      - openfootball: resto del mundo (data/openfootball/…), descargado por
        scripts/build-dataset.ps1. Datos libres (dominio público/CC0).
+     - openfootball-extra: competiciones que la base no traía (África, MLS,
+       CONCACAF, Sudamérica, Asia…), mismas fuentes libres
+       (data/openfootball-extra/<slug>.json), por scripts/build-openfootball-extra.ps1.
      - arg-espn: Liga Profesional Argentina (data/arg-espn/<año>.json),
        descargada por scripts/build-arg-espn.ps1 desde la API pública de ESPN
        (2001 y 2003..2026). Cada partido guarda su id de ESPN en `id` para no
        duplicar lo que luego se refresca en vivo.
+     - espn-season: temporada en curso de las ligas ya presentes (data/espn-season/),
+       por scripts/build-espn-season.ps1.
+     - espn-history: tramo anterior al primer partido de cada liga (data/espn-history/),
+       por scripts/build-espn-history.ps1.
+   Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
    Namespace: window.AD.dataset */
@@ -111,6 +119,24 @@
     return out;
   }
 
+  /* Normaliza un nombre igual que el store (trim + minúsculas): así el dedupe por
+     filas coincide con la identidad de equipo que arma importBulk. */
+  function normName(s) { return String(s == null ? "" : s).trim().toLowerCase(); }
+
+  /* Quita el mismo partido cuando dos fuentes se solapan (p. ej. openfootball y ESPN
+     cubren la misma liga/temporada). Criterio: fecha + local + visitante normalizados.
+     Si hay dos copias, se conserva la que trae `externalId` (más trazable). */
+  function dedupeRows(rows) {
+    var seen = {}, out = [];
+    for (var i = 0; i < rows.length; i++) {
+      var m = rows[i];
+      var key = (m.date || "") + "|" + normName(m.home) + "|" + normName(m.away);
+      if (!(key in seen)) { seen[key] = out.length; out.push(m); continue; }
+      if (!out[seen[key]].externalId && m.externalId) out[seen[key]] = m;
+    }
+    return out;
+  }
+
   var loading = false;
 
   /* Carga la base completa. onProgress(done, total, matchesSoFar) */
@@ -150,7 +176,7 @@
         return chain.then(function () { return { rows: rows, failed: failed, files: files.length }; });
       })
       .then(function (res) {
-        var out = window.AD.store.importBulk(res.rows, "openfootball");
+        var out = window.AD.store.importBulk(dedupeRows(res.rows), "openfootball");
         loading = false;
         return {
           inserted: out.added,

@@ -1,0 +1,1932 @@
+{
+    "name":  "Super League (Grecia) 2026",
+    "code":  "gr.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:752342",
+                        "date":  "2025-11-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752337",
+                        "date":  "2025-11-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752340",
+                        "date":  "2025-11-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752338",
+                        "date":  "2025-11-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752343",
+                        "date":  "2025-11-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752345",
+                        "date":  "2025-11-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752349",
+                        "date":  "2025-11-23",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752348",
+                        "date":  "2025-11-23",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752344",
+                        "date":  "2025-11-23",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752350",
+                        "date":  "2025-11-24",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752356",
+                        "date":  "2025-11-29",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752354",
+                        "date":  "2025-11-29",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752355",
+                        "date":  "2025-11-30",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752353",
+                        "date":  "2025-11-30",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752357",
+                        "date":  "2025-11-30",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752364",
+                        "date":  "2025-12-06",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752359",
+                        "date":  "2025-12-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752358",
+                        "date":  "2025-12-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752362",
+                        "date":  "2025-12-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752360",
+                        "date":  "2025-12-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752363",
+                        "date":  "2025-12-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752368",
+                        "date":  "2025-12-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752365",
+                        "date":  "2025-12-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752370",
+                        "date":  "2025-12-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752366",
+                        "date":  "2025-12-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752369",
+                        "date":  "2025-12-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752373",
+                        "date":  "2025-12-20",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752378",
+                        "date":  "2025-12-20",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752374",
+                        "date":  "2025-12-21",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752376",
+                        "date":  "2025-12-21",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752375",
+                        "date":  "2025-12-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752379",
+                        "date":  "2026-01-10",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752384",
+                        "date":  "2026-01-10",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752382",
+                        "date":  "2026-01-11",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752381",
+                        "date":  "2026-01-11",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752385",
+                        "date":  "2026-01-11",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752391",
+                        "date":  "2026-01-17",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752388",
+                        "date":  "2026-01-18",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752386",
+                        "date":  "2026-01-18",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752390",
+                        "date":  "2026-01-19",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752392",
+                        "date":  "2026-01-19",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752394",
+                        "date":  "2026-01-24",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752397",
+                        "date":  "2026-01-24",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752393",
+                        "date":  "2026-01-25",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752395",
+                        "date":  "2026-01-25",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752404",
+                        "date":  "2026-01-31",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752406",
+                        "date":  "2026-01-31",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752402",
+                        "date":  "2026-02-01",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752405",
+                        "date":  "2026-02-01",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752403",
+                        "date":  "2026-02-01",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752409",
+                        "date":  "2026-02-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752407",
+                        "date":  "2026-02-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752413",
+                        "date":  "2026-02-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752410",
+                        "date":  "2026-02-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752408",
+                        "date":  "2026-02-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752418",
+                        "date":  "2026-02-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752420",
+                        "date":  "2026-02-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752417",
+                        "date":  "2026-02-15",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752419",
+                        "date":  "2026-02-15",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752414",
+                        "date":  "2026-02-16",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752424",
+                        "date":  "2026-02-21",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752427",
+                        "date":  "2026-02-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752423",
+                        "date":  "2026-02-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752425",
+                        "date":  "2026-02-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752426",
+                        "date":  "2026-02-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752433",
+                        "date":  "2026-02-28",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752432",
+                        "date":  "2026-02-28",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752434",
+                        "date":  "2026-03-01",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752430",
+                        "date":  "2026-03-01",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752429",
+                        "date":  "2026-03-01",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752396",
+                        "date":  "2026-03-04",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752436",
+                        "date":  "2026-03-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752437",
+                        "date":  "2026-03-07",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752435",
+                        "date":  "2026-03-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752440",
+                        "date":  "2026-03-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752438",
+                        "date":  "2026-03-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752447",
+                        "date":  "2026-03-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752443",
+                        "date":  "2026-03-14",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752444",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752445",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752446",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752448",
+                        "date":  "2026-03-15",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752449",
+                        "date":  "2026-03-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752451",
+                        "date":  "2026-03-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752455",
+                        "date":  "2026-03-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752452",
+                        "date":  "2026-03-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:752454",
+                        "date":  "2026-03-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866534",
+                        "date":  "2026-04-04",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866533",
+                        "date":  "2026-04-04",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866535",
+                        "date":  "2026-04-04",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866536",
+                        "date":  "2026-04-05",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866539",
+                        "date":  "2026-04-05",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866540",
+                        "date":  "2026-04-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866542",
+                        "date":  "2026-04-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866541",
+                        "date":  "2026-04-08",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866548",
+                        "date":  "2026-04-18",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866549",
+                        "date":  "2026-04-18",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866544",
+                        "date":  "2026-04-18",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866546",
+                        "date":  "2026-04-18",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866543",
+                        "date":  "2026-04-19",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866550",
+                        "date":  "2026-04-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866551",
+                        "date":  "2026-04-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866552",
+                        "date":  "2026-04-22",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866553",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866554",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866555",
+                        "date":  "2026-04-26",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866559",
+                        "date":  "2026-05-02",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866557",
+                        "date":  "2026-05-02",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866562",
+                        "date":  "2026-05-02",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866561",
+                        "date":  "2026-05-03",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866558",
+                        "date":  "2026-05-03",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866564",
+                        "date":  "2026-05-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866566",
+                        "date":  "2026-05-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866567",
+                        "date":  "2026-05-09",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866563",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866569",
+                        "date":  "2026-05-10",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866570",
+                        "date":  "2026-05-12",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866571",
+                        "date":  "2026-05-12",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866573",
+                        "date":  "2026-05-12",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866572",
+                        "date":  "2026-05-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866574",
+                        "date":  "2026-05-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866579",
+                        "date":  "2026-05-16",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866580",
+                        "date":  "2026-05-16",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Lárissa",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866583",
+                        "date":  "2026-05-17",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panserraikos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866582",
+                        "date":  "2026-05-17",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866578",
+                        "date":  "2026-05-17",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866584",
+                        "date":  "2026-05-21",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "Panserraikos",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866586",
+                        "date":  "2026-05-21",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "AE Lárissa",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401866585",
+                        "date":  "2026-05-21",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896775",
+                        "date":  "2026-08-23",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896776",
+                        "date":  "2026-08-23",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "Asteras Tripolis",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896772",
+                        "date":  "2026-08-30",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896771",
+                        "date":  "2026-08-30",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896770",
+                        "date":  "2026-08-31",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Panathinaikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896769",
+                        "date":  "2026-09-05",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AEK Athen",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896767",
+                        "date":  "2026-09-06",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Levadiakos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896765",
+                        "date":  "2026-09-06",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896777",
+                        "date":  "2026-09-10",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896764",
+                        "date":  "2026-09-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896763",
+                        "date":  "2026-09-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Levadiakos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896760",
+                        "date":  "2026-09-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "PAOK Saloniki",
+                        "team2":  "Aris Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896761",
+                        "date":  "2026-09-13",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panathinaikos",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896759",
+                        "date":  "2026-09-19",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Atromitos",
+                        "team2":  "AE Kifisias",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896758",
+                        "date":  "2026-09-20",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Volos NFC",
+                        "team2":  "AEK Athen",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896755",
+                        "date":  "2026-09-20",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Panetolikos",
+                        "team2":  "PAOK Saloniki",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896753",
+                        "date":  "2026-10-10",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Asteras Tripolis",
+                        "team2":  "Atromitos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896751",
+                        "date":  "2026-10-11",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "AE Kifisias",
+                        "team2":  "Panetolikos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401896752",
+                        "date":  "2026-10-11",
+                        "competition":  "Super League (Grecia)",
+                        "team1":  "Aris Saloniki",
+                        "team2":  "Volos NFC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

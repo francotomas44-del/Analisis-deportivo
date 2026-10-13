@@ -1,0 +1,2086 @@
+{
+    "name":  "Premier Division (Sudáfrica)",
+    "code":  "Premier Division (Sudáfrica)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-17",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-18",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-18",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-18",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Magesi FC",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Chippa United",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-08",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-08",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-08",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-11",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-24",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-24",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-25",
+                        "team1":  "SuperSport United",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-26",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-29",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-29",
+                        "team1":  "Chippa United",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-29",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-25",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "SuperSport United",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "Chippa United",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-27",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-27",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-29",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-29",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-29",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "Golden Arrows",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "Magesi FC",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-31",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-29",
+                        "team1":  "SuperSport United",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-30",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-30",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-30",
+                        "team1":  "Chippa United",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-01",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-01",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-01",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Chippa United",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-27",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-27",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-24",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-24",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 8,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "Magesi FC",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-06",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "TS Galaxy",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-08",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "Chippa United",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "SuperSport United",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-15",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-16",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-18",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-28",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-28",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-28",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-28",
+                        "team1":  "SuperSport United",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-29",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-29",
+                        "team1":  "Magesi FC",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-29",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-22",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-23",
+                        "team1":  "Chippa United",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-04",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-04",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-04",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-05",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-05",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-06",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-11",
+                        "team1":  "Magesi FC",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-11",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-12",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-12",
+                        "team1":  "SuperSport United",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-08",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-08",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-17",
+                        "team1":  "SuperSport United",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-17",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "Golden Arrows",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "Chippa United",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-19",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-22",
+                        "team1":  "Magesi FC",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-23",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-31",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-01",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-02",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-04",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-04",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-05",
+                        "team1":  "Magesi FC",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-05",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-05",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-05",
+                        "team1":  "SuperSport United",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-05",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-05",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-06",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-07",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-07",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-08",
+                        "team1":  "Magesi FC",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-08",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-09",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-18",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-18",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-18",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-18",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-19",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-19",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-21",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Chippa United",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-23",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-28",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "Magesi FC",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-04",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-04",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "Chippa United",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-05",
+                        "team1":  "SuperSport United",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-11",
+                        "team1":  "Magesi FC",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-11",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-11",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-11",
+                        "team1":  "TS Galaxy",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-12",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-12",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-12",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-14",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-15",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-15",
+                        "team1":  "Magesi FC",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-15",
+                        "team1":  "Chippa United",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Orlando Pirates",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-25",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Magesi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-26",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "Chippa United",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "SuperSport United",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-04",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-15",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-18",
+                        "team1":  "Richards Bay FC",
+                        "team2":  "Cape Town City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Marumo Gallants",
+                        "team2":  "Golden Arrows",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Chippa United",
+                        "team2":  "Kaizer Chiefs",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Sekhukhune United",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Magesi FC",
+                        "team2":  "TS Galaxy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Marumo Gallants",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "Polokwane City FC",
+                        "team2":  "SuperSport United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "Golden Arrows",
+                        "team2":  "AmaZulu FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Mamelodi Sundowns",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-30",
+                        "team1":  "Stellenbosch FC",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-02",
+                        "team1":  "AmaZulu FC",
+                        "team2":  "Polokwane City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "Golden Arrows",
+                        "team2":  "Stellenbosch FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "Kaizer Chiefs",
+                        "team2":  "Orlando Pirates",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "Magesi FC",
+                        "team2":  "Sekhukhune United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "SuperSport United",
+                        "team2":  "Chippa United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "Cape Town City FC",
+                        "team2":  "Mamelodi Sundowns",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "TS Galaxy",
+                        "team2":  "Richards Bay FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

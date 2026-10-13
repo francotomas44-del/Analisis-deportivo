@@ -1,0 +1,40 @@
+[
+  { "repo": "england", "include": "archive/", "name": "^1-", "code": "Premier League (Inglaterra)", "leagueCode": "en.1", "slug": "eng-top" },
+  { "repo": "england", "include": "rsssf/", "name": "^engcup", "code": "FA Cup (Inglaterra)", "slug": "eng-facup" },
+
+  { "repo": "deutschland", "include": "rsssf/", "name": "^duit6", "code": "Bundesliga (Alemania) histórica", "leagueCode": "de.1", "slug": "de-hist" },
+
+  { "repo": "austria", "include": "rsssf/", "code": "Bundesliga (Austria) histórica", "leagueCode": "at.1", "slug": "at-hist" },
+  { "repo": "austria", "include": "more/", "code": "Bundesliga (Austria) histórica", "leagueCode": "at.1", "slug": "at-hist" },
+
+  { "repo": "south-america", "include": "copa-libertadores/", "code": "Copa Libertadores", "slug": "sa-lib" },
+  { "repo": "south-america", "include": "brazil/", "name": "_br1", "code": "Brasileirão (Brasil)", "leagueCode": "br.1", "slug": "sa-br1" },
+  { "repo": "south-america", "include": "brazil/", "name": "_br2", "code": "Brasileirão Série B (Brasil)", "leagueCode": "br.1", "slug": "sa-br2" },
+  { "repo": "south-america", "include": "brazil/", "name": "brcup", "code": "Copa do Brasil", "slug": "sa-brcup" },
+  { "repo": "south-america", "include": "colombia/", "code": "Primera A (Colombia)", "leagueCode": "co.1", "slug": "sa-co" },
+  { "repo": "south-america", "include": "ecuador/", "code": "LigaPro (Ecuador)", "slug": "sa-ec" },
+  { "repo": "south-america", "include": "paraguay/", "code": "Primera División (Paraguay)", "slug": "sa-py" },
+
+  { "repo": "world", "include": "north-america/major-league-soccer/", "code": "Major League Soccer (EE. UU.)", "slug": "na-mls" },
+  { "repo": "world", "include": "north-america/champions-league/", "code": "Champions Cup (CONCACAF)", "slug": "na-concacaf" },
+  { "repo": "world", "include": "africa/champions-league/", "code": "Champions League (CAF)", "slug": "af-cafcl" },
+  { "repo": "world", "include": "africa/algeria/", "code": "Ligue 1 (Argelia)", "slug": "af-dz" },
+  { "repo": "world", "include": "africa/egypt/", "code": "Premier League (Egipto)", "slug": "af-eg" },
+  { "repo": "world", "include": "africa/morocco/", "code": "Botola (Marruecos)", "slug": "af-ma" },
+  { "repo": "world", "include": "africa/ghana/", "code": "Premier League (Ghana)", "slug": "af-gh" },
+  { "repo": "world", "include": "africa/kenya/", "code": "Premier League (Kenia)", "slug": "af-ke" },
+  { "repo": "world", "include": "africa/malawi/", "code": "Super League (Malaui)", "slug": "af-mw" },
+  { "repo": "world", "include": "africa/nigeria/", "name": "_ng1", "code": "Premier League (Nigeria)", "slug": "af-ng" },
+  { "repo": "world", "include": "africa/nigeria/", "name": "_ng2", "code": "National League (Nigeria)", "slug": "af-ng2" },
+  { "repo": "world", "include": "africa/rwanda/", "code": "Premier League (Ruanda)", "slug": "af-rw" },
+  { "repo": "world", "include": "africa/senegal/", "code": "Ligue 1 (Senegal)", "slug": "af-sn" },
+  { "repo": "world", "include": "africa/south-africa/", "code": "Premier Division (Sudáfrica)", "slug": "af-za" },
+  { "repo": "world", "include": "africa/tanzania/", "code": "Premier League (Tanzania)", "slug": "af-tz" },
+  { "repo": "world", "include": "africa/uganda/", "code": "Premier League (Uganda)", "slug": "af-ug" },
+  { "repo": "world", "include": "africa/zambia/", "code": "Super League (Zambia)", "slug": "af-zm" },
+  { "repo": "world", "include": "africa/zimbabwe/", "code": "Premier Soccer League (Zimbabue)", "slug": "af-zw" },
+  { "repo": "world", "include": "asia/kazakhstan/", "code": "Premier League (Kazajistán)", "slug": "as-kz" },
+  { "repo": "world", "include": "central-america/costa-rica/", "code": "Primera División (Costa Rica)", "slug": "ca-cr" },
+  { "repo": "world", "include": "middle-east/israel/", "code": "Ligat ha'Al (Israel)", "slug": "me-il" },
+  { "repo": "world", "include": "middle-east/saudi-arabia/", "code": "Saudi Pro League (Arabia Saudita)", "slug": "me-sa" }
+]

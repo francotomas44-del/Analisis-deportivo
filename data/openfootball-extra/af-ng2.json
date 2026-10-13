@@ -1,0 +1,2097 @@
+{
+    "name":  "National League (Nigeria)",
+    "code":  "National League (Nigeria)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Crown FC",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Crown FC",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Smart City FC",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Crown FC",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-13",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-13",
+                        "team1":  "Crown FC",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-03",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-03",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-03",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-10",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-10",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-10",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-15",
+                        "team1":  "Smart City FC",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Crown FC",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Smart City FC",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-21",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-21",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-21",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Crown FC",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Smart City FC",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Smart City FC",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Crown FC",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Smart City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "Abia Comets FC",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Gateway Utd.",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-29",
+                        "team1":  "Smart City FC",
+                        "team2":  "Beyond Limits FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-04",
+                        "team1":  "Beyond Limits FC",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-04",
+                        "team1":  "Union Edelweiß Linz",
+                        "team2":  "Heart of Midlothian",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-04",
+                        "team1":  "Gateway Utd.",
+                        "team2":  "Sunshine Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-11",
+                        "team1":  "Heart of Midlothian",
+                        "team2":  "Crown FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-11",
+                        "team1":  "Smart City FC",
+                        "team2":  "Abia Comets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-11",
+                        "team1":  "Sunshine Stars FC",
+                        "team2":  "Union Edelweiß Linz",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-16",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-16",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Solution FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-23",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-24",
+                        "team1":  "Stormers FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Osun FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-30",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-30",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Solution FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Stormers FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-07",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-09",
+                        "team1":  "First Bank FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Osun FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-13",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "Solution FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-19",
+                        "team1":  "Stormers FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Osun FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-22",
+                        "team1":  "First Bank FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-03",
+                        "team1":  "Solution FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-04",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-04",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-07",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-10",
+                        "team1":  "Osun FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-10",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-11",
+                        "team1":  "Stormers FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-01-12",
+                        "team1":  "First Bank FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-13",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-15",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-15",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-20",
+                        "team1":  "First Bank FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-21",
+                        "team1":  "Osun FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-21",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-22",
+                        "team1":  "Stormers FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-01",
+                        "team1":  "Akwa United FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-01",
+                        "team1":  "Solution FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-06",
+                        "team1":  "First Bank FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Osun FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-08",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-08",
+                        "team1":  "Stormers FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Solution FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-15",
+                        "team1":  "Stormers FC",
+                        "team2":  "First Bank FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Osun FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-26",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-01",
+                        "team1":  "First Bank FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "First Bank FC",
+                        "team2":  "Osun FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "Solution FC",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-29",
+                        "team1":  "Akwa United FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-29",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-04",
+                        "team1":  "Abakaliki FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-04",
+                        "team1":  "Osun FC",
+                        "team2":  "Solution FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-05",
+                        "team1":  "Godswill Akpabio FC",
+                        "team2":  "Stormers FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-12",
+                        "team1":  "Ekiti United FC",
+                        "team2":  "Blackburn Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-16",
+                        "team1":  "First Bank FC",
+                        "team2":  "Godswill Akpabio FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-16",
+                        "team1":  "Blackburn Rovers",
+                        "team2":  "Abakaliki FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-16",
+                        "team1":  "Solution FC",
+                        "team2":  "Akwa United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-16",
+                        "team1":  "Stormers FC",
+                        "team2":  "Ekiti United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-08",
+                        "team1":  "Basira FC",
+                        "team2":  "Mighty Jets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "ABS FC",
+                        "team2":  "Sokoto FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Lobi Stars FC",
+                        "team2":  "City FC Abuja",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "ABS FC",
+                        "team2":  "Basira FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Kada Warriors FC",
+                        "team2":  "Lobi Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Sokoto FC",
+                        "team2":  "City FC Abuja",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Basira FC",
+                        "team2":  "Sokoto FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "City FC Abuja",
+                        "team2":  "Kada Warriors FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-30",
+                        "team1":  "Lobi Stars FC",
+                        "team2":  "Mighty Jets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "ABS FC",
+                        "team2":  "Lobi Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Sokoto FC",
+                        "team2":  "Kada Warriors FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-08",
+                        "team1":  "Mighty Jets FC",
+                        "team2":  "City FC Abuja",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Lobi Stars FC",
+                        "team2":  "Basira FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-11",
+                        "team1":  "City FC Abuja",
+                        "team2":  "ABS FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-11",
+                        "team1":  "Kada Warriors FC",
+                        "team2":  "Mighty Jets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "ABS FC",
+                        "team2":  "Kada Warriors FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "Basira FC",
+                        "team2":  "City FC Abuja",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "Sokoto FC",
+                        "team2":  "Mighty Jets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Kada Warriors FC",
+                        "team2":  "Basira FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Lobi Stars FC",
+                        "team2":  "Sokoto FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-20",
+                        "team1":  "Mighty Jets FC",
+                        "team2":  "ABS FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "ABS FC",
+                        "team2":  "Mighty Jets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Basira FC",
+                        "team2":  "Kada Warriors FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Sokoto FC",
+                        "team2":  "Lobi Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-21",
+                        "team1":  "Mighty Jets FC",
+                        "team2":  "Sokoto FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-22",
+                        "team1":  "City FC Abuja",
+                        "team2":  "Basira FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-23",
+                        "team1":  "Kada Warriors FC",
+                        "team2":  "ABS FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "ABS FC",
+                        "team2":  "City FC Abuja",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Basira FC",
+                        "team2":  "Lobi Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Mighty Jets FC",
+                        "team2":  "Kada Warriors FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "City FC Abuja",
+                        "team2":  "Mighty Jets FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Kada Warriors FC",
+                        "team2":  "Sokoto FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Lobi Stars FC",
+                        "team2":  "ABS FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Kada Warriors FC",
+                        "team2":  "City FC Abuja",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Mighty Jets FC",
+                        "team2":  "Lobi Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Sokoto FC",
+                        "team2":  "Basira FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Basira FC",
+                        "team2":  "ABS FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "City FC Abuja",
+                        "team2":  "Sokoto FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Lobi Stars FC",
+                        "team2":  "Kada Warriors FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "City FC Abuja",
+                        "team2":  "Lobi Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "Mighty Jets FC",
+                        "team2":  "Basira FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-28",
+                        "team1":  "Sokoto FC",
+                        "team2":  "ABS FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Bichi First FC",
+                        "team2":  "Yobe Desert Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-15",
+                        "team1":  "Jigawa Golden Stars FC",
+                        "team2":  "Kebbi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-21",
+                        "team1":  "Kebbi FC",
+                        "team2":  "Ranchers Bees FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-22",
+                        "team1":  "Bichi First FC",
+                        "team2":  "Jigawa Golden Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-29",
+                        "team1":  "Jigawa Golden Stars FC",
+                        "team2":  "Yobe Desert Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-11-30",
+                        "team1":  "Ranchers Bees FC",
+                        "team2":  "Bichi First FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-06",
+                        "team1":  "Jigawa Golden Stars FC",
+                        "team2":  "Ranchers Bees FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-10",
+                        "team1":  "Ranchers Bees FC",
+                        "team2":  "Yobe Desert Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-14",
+                        "team1":  "Yobe Desert Stars FC",
+                        "team2":  "Kebbi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-12-19",
+                        "team1":  "Kebbi FC",
+                        "team2":  "Bichi First FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-14",
+                        "team1":  "Bichi First FC",
+                        "team2":  "Kebbi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-20",
+                        "team1":  "Kebbi FC",
+                        "team2":  "Yobe Desert Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-02-28",
+                        "team1":  "Yobe Desert Stars FC",
+                        "team2":  "Ranchers Bees FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-07",
+                        "team1":  "Ranchers Bees FC",
+                        "team2":  "Jigawa Golden Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Bichi First FC",
+                        "team2":  "Ranchers Bees FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-14",
+                        "team1":  "Yobe Desert Stars FC",
+                        "team2":  "Jigawa Golden Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Jigawa Golden Stars FC",
+                        "team2":  "Bichi First FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-03-25",
+                        "team1":  "Ranchers Bees FC",
+                        "team2":  "Kebbi FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-22",
+                        "team1":  "Kebbi FC",
+                        "team2":  "Jigawa Golden Stars FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2026-04-22",
+                        "team1":  "Yobe Desert Stars FC",
+                        "team2":  "Bichi First FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

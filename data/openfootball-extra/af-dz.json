@@ -1,0 +1,2647 @@
+{
+    "name":  "Ligue 1 (Argelia)",
+    "code":  "Ligue 1 (Argelia)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2023-09-15",
+                        "team1":  "USM Khenchela",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-15",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-15",
+                        "team1":  "ASO Chlef",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "NC Magra",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "MC Alger",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "JS Saoura",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-27",
+                        "team1":  "Paradou AC",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-13",
+                        "team1":  "US Souf",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-22",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-22",
+                        "team1":  "CS Constantine",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-22",
+                        "team1":  "JS Kabylie",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "US Biskra",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "MC Oran",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "ES Sétif",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-14",
+                        "team1":  "USM Alger",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-29",
+                        "team1":  "USM Khenchela",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-29",
+                        "team1":  "US Souf",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-29",
+                        "team1":  "NC Magra",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "MC Alger",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "JS Saoura",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "ASO Chlef",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-14",
+                        "team1":  "Paradou AC",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-14",
+                        "team1":  "ES Sétif",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-06",
+                        "team1":  "MC Alger",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-06",
+                        "team1":  "CS Constantine",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-06",
+                        "team1":  "US Biskra",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-06",
+                        "team1":  "MC Oran",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "JS Kabylie",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-10",
+                        "team1":  "Paradou AC",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-10",
+                        "team1":  "US Souf",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-10",
+                        "team1":  "ES Sétif",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-10",
+                        "team1":  "USM Alger",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-11",
+                        "team1":  "USM Khenchela",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-11",
+                        "team1":  "NC Magra",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-11",
+                        "team1":  "ASO Chlef",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-11",
+                        "team1":  "JS Saoura",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-17",
+                        "team1":  "CS Constantine",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-17",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-17",
+                        "team1":  "MC Oran",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-17",
+                        "team1":  "MC Alger",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-18",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-18",
+                        "team1":  "ASO Chlef",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-18",
+                        "team1":  "US Biskra",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-19",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-24",
+                        "team1":  "Paradou AC",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-24",
+                        "team1":  "NC Magra",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "USM Khenchela",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "US Souf",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "JS Kabylie",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "JS Saoura",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-09",
+                        "team1":  "ES Sétif",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-15",
+                        "team1":  "USM Alger",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "MC Alger",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "CS Constantine",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "ASO Chlef",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "JS Saoura",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "MC Oran",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-23",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-23",
+                        "team1":  "US Biskra",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-07",
+                        "team1":  "Paradou AC",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-08",
+                        "team1":  "USM Khenchela",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-08",
+                        "team1":  "JS Kabylie",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-09",
+                        "team1":  "NC Magra",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-09",
+                        "team1":  "US Souf",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-09",
+                        "team1":  "ES Sétif",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-30",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-31",
+                        "team1":  "USM Alger",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "CS Constantine",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "ASO Chlef",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-16",
+                        "team1":  "US Souf",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-16",
+                        "team1":  "JS Saoura",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-16",
+                        "team1":  "MC Alger",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-16",
+                        "team1":  "MC Oran",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-28",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-29",
+                        "team1":  "USM Khenchela",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-29",
+                        "team1":  "Paradou AC",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-29",
+                        "team1":  "NC Magra",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-29",
+                        "team1":  "ES Sétif",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-29",
+                        "team1":  "USM Alger",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-29",
+                        "team1":  "US Biskra",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-23",
+                        "team1":  "JS Kabylie",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-05",
+                        "team1":  "US Souf",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-05",
+                        "team1":  "NC Magra",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-05",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-05",
+                        "team1":  "ASO Chlef",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-05",
+                        "team1":  "CS Constantine",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-06",
+                        "team1":  "JS Saoura",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-06",
+                        "team1":  "MC Alger",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-04",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-11",
+                        "team1":  "MC Oran",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-11",
+                        "team1":  "USM Alger",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-12",
+                        "team1":  "Paradou AC",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-13",
+                        "team1":  "USM Khenchela",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-13",
+                        "team1":  "US Biskra",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-13",
+                        "team1":  "JS Kabylie",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-13",
+                        "team1":  "ES Sétif",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-14",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "NC Magra",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "Paradou AC",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "US Souf",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "ASO Chlef",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "JS Saoura",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "CS Constantine",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-19",
+                        "team1":  "MC Alger",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-26",
+                        "team1":  "USM Khenchela",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-26",
+                        "team1":  "ES Sétif",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-26",
+                        "team1":  "MC Oran",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-27",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-27",
+                        "team1":  "JS Kabylie",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-27",
+                        "team1":  "US Biskra",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-27",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-28",
+                        "team1":  "USM Alger",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-09",
+                        "team1":  "MC Oran",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-09",
+                        "team1":  "ES Sétif",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-10",
+                        "team1":  "CS Constantine",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-10",
+                        "team1":  "JS Kabylie",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-10",
+                        "team1":  "US Biskra",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-10",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-11",
+                        "team1":  "USM Alger",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-20",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-15",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-16",
+                        "team1":  "Paradou AC",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-16",
+                        "team1":  "USM Khenchela",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-16",
+                        "team1":  "ASO Chlef",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-17",
+                        "team1":  "US Souf",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-17",
+                        "team1":  "JS Saoura",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-17",
+                        "team1":  "MC Alger",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-19",
+                        "team1":  "NC Magra",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-23",
+                        "team1":  "US Biskra",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-23",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "JS Kabylie",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "MC Oran",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "CS Constantine",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-19",
+                        "team1":  "USM Alger",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-16",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "NC Magra",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "US Souf",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "ASO Chlef",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "JS Saoura",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Paradou AC",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "ES Sétif",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "USM Khenchela",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-06",
+                        "team1":  "USM Alger",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-14",
+                        "team1":  "MC Alger",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-15",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-15",
+                        "team1":  "MC Oran",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-15",
+                        "team1":  "CS Constantine",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-15",
+                        "team1":  "JS Kabylie",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-15",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-16",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-16",
+                        "team1":  "US Biskra",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-23",
+                        "team1":  "US Souf",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-23",
+                        "team1":  "USM Khenchela",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-24",
+                        "team1":  "NC Magra",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-24",
+                        "team1":  "ES Sétif",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-24",
+                        "team1":  "USM Alger",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-24",
+                        "team1":  "JS Kabylie",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-25",
+                        "team1":  "JS Saoura",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-25",
+                        "team1":  "Paradou AC",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-04",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-05",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-05",
+                        "team1":  "MC Alger",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-05",
+                        "team1":  "US Biskra",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-05",
+                        "team1":  "ASO Chlef",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-06",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-06",
+                        "team1":  "CS Constantine",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-21",
+                        "team1":  "MC Oran",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-16",
+                        "team1":  "JS Kabylie",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-19",
+                        "team1":  "USM Khenchela",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-19",
+                        "team1":  "NC Magra",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-19",
+                        "team1":  "US Souf",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-19",
+                        "team1":  "ES Sétif",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-19",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "Paradou AC",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-30",
+                        "team1":  "USM Alger",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-26",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-26",
+                        "team1":  "US Biskra",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-26",
+                        "team1":  "JS Saoura",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "ASO Chlef",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "MC Alger",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-28",
+                        "team1":  "MC Oran",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-03",
+                        "team1":  "CS Constantine",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-10",
+                        "team1":  "USM Alger",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-10",
+                        "team1":  "ES Sétif",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "JS Kabylie",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "US Biskra",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "USM Khenchela",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "Paradou AC",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "NC Magra",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "ASO Chlef",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "JS Saoura",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "US Souf",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "MC Oran",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "CS Constantine",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-17",
+                        "team1":  "MC Alger",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-25",
+                        "team1":  "USM Alger",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "USM Khenchela",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "Paradou AC",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "ES Sétif",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "JS Kabylie",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "US Biskra",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "MC Oran",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "US Souf",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "NC Magra",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "JS Saoura",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "ASO Chlef",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "MC Alger",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-07",
+                        "team1":  "CS Constantine",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "USM Khenchela",
+                        "team2":  "NC Magra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "ES Sétif",
+                        "team2":  "Paradou AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "USM Alger",
+                        "team2":  "US Souf",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "JS Kabylie",
+                        "team2":  "JS Saoura",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "ASO Chlef",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "US Biskra",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "MC Oran",
+                        "team2":  "MC El Bayadh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-11",
+                        "team1":  "ES Ben Aknoun",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "Paradou AC",
+                        "team2":  "USM Khenchela",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "NC Magra",
+                        "team2":  "USM Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "US Souf",
+                        "team2":  "JS Kabylie",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "JS Saoura",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "ASO Chlef",
+                        "team2":  "US Biskra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "MC El Bayadh",
+                        "team2":  "ES Ben Aknoun",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "CS Constantine",
+                        "team2":  "ES Sétif",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "MC Alger",
+                        "team2":  "MC Oran",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

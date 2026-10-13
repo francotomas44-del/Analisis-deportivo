@@ -1,0 +1,138 @@
+{
+    "name":  "Premier League (Inglaterra) 2026",
+    "code":  "en.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401879268",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Arsenal FC",
+                        "team2":  "Leeds United FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401878776",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Aston Villa",
+                        "team2":  "Brentford FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401878775",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Chelsea FC",
+                        "team2":  "AFC Bournemouth",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879265",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Ipswich Town FC",
+                        "team2":  "Fulham FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401878772",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Sunderland AFC",
+                        "team2":  "Brighton \u0026 Hove Albion",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401878773",
+                        "date":  "2026-10-10",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Manchester United",
+                        "team2":  "Tottenham Hotspur",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879266",
+                        "date":  "2026-10-11",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Crystal Palace",
+                        "team2":  "Nottingham Forest FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401878774",
+                        "date":  "2026-10-11",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Hull City",
+                        "team2":  "Everton FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879264",
+                        "date":  "2026-10-11",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Liverpool FC",
+                        "team2":  "Manchester City",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401879267",
+                        "date":  "2026-10-12",
+                        "competition":  "Premier League (Inglaterra)",
+                        "team1":  "Coventry City FC",
+                        "team2":  "Newcastle United",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

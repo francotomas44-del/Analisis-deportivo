@@ -1138,5 +1138,380 @@
         "path":  "2026.json",
         "code":  "ar.1",
         "source":  "arg-espn"
+    },
+    {
+        "path":  "en.1.json",
+        "code":  "en.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "es.1.json",
+        "code":  "es.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "de.1.json",
+        "code":  "de.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "it.1.json",
+        "code":  "it.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "fr.1.json",
+        "code":  "fr.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "nl.1.json",
+        "code":  "nl.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "pt.1.json",
+        "code":  "pt.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "at.1.json",
+        "code":  "at.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "be.1.json",
+        "code":  "be.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "ch.1.json",
+        "code":  "ch.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "gr.1.json",
+        "code":  "gr.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "tr.1.json",
+        "code":  "tr.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "sco.1.json",
+        "code":  "sco.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "ru.1.json",
+        "code":  "ru.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "mx.1.json",
+        "code":  "mx.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "br.1.json",
+        "code":  "br.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "cn.1.json",
+        "code":  "cn.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "jp.1.json",
+        "code":  "jp.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "au.1.json",
+        "code":  "au.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "co.1.json",
+        "code":  "co.1",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "uefa.cl.json",
+        "code":  "uefa.cl",
+        "source":  "espn-season"
+    },
+    {
+        "path":  "en.1.json",
+        "code":  "en.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "es.1.json",
+        "code":  "es.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "de.1.json",
+        "code":  "de.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "it.1.json",
+        "code":  "it.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "fr.1.json",
+        "code":  "fr.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "nl.1.json",
+        "code":  "nl.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "pt.1.json",
+        "code":  "pt.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "at.1.json",
+        "code":  "at.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "be.1.json",
+        "code":  "be.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "ch.1.json",
+        "code":  "ch.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "gr.1.json",
+        "code":  "gr.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "tr.1.json",
+        "code":  "tr.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "sco.1.json",
+        "code":  "sco.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "ru.1.json",
+        "code":  "ru.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "mx.1.json",
+        "code":  "mx.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "br.1.json",
+        "code":  "br.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "cn.1.json",
+        "code":  "cn.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "jp.1.json",
+        "code":  "jp.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "au.1.json",
+        "code":  "au.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "co.1.json",
+        "code":  "co.1",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "uefa.cl.json",
+        "code":  "uefa.cl",
+        "source":  "espn-history"
+    },
+    {
+        "path":  "af-cafcl.json",
+        "code":  "Champions League (CAF)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-dz.json",
+        "code":  "Ligue 1 (Argelia)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-eg.json",
+        "code":  "Premier League (Egipto)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-gh.json",
+        "code":  "Premier League (Ghana)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-ke.json",
+        "code":  "Premier League (Kenia)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-ma.json",
+        "code":  "Botola (Marruecos)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-mw.json",
+        "code":  "Super League (Malaui)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-ng.json",
+        "code":  "Premier League (Nigeria)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-ng2.json",
+        "code":  "National League (Nigeria)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-rw.json",
+        "code":  "Premier League (Ruanda)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-sn.json",
+        "code":  "Ligue 1 (Senegal)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-tz.json",
+        "code":  "Premier League (Tanzania)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-ug.json",
+        "code":  "Premier League (Uganda)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-za.json",
+        "code":  "Premier Division (Sudáfrica)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-zm.json",
+        "code":  "Super League (Zambia)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "af-zw.json",
+        "code":  "Premier Soccer League (Zimbabue)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "as-kz.json",
+        "code":  "Premier League (Kazajistán)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "at-hist.json",
+        "code":  "Bundesliga (Austria) histórica",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "ca-cr.json",
+        "code":  "Primera División (Costa Rica)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "de-hist.json",
+        "code":  "Bundesliga (Alemania) histórica",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "eng-facup.json",
+        "code":  "FA Cup (Inglaterra)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "eng-top.json",
+        "code":  "Premier League (Inglaterra)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "me-il.json",
+        "code":  "Ligat ha\u0027Al (Israel)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "me-sa.json",
+        "code":  "Saudi Pro League (Arabia Saudita)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "na-concacaf.json",
+        "code":  "Champions Cup (CONCACAF)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "na-mls.json",
+        "code":  "Major League Soccer (EE. UU.)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-br1.json",
+        "code":  "Brasileirão (Brasil)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-br2.json",
+        "code":  "Brasileirão Série B (Brasil)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-brcup.json",
+        "code":  "Copa do Brasil",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-co.json",
+        "code":  "Primera A (Colombia)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-ec.json",
+        "code":  "LigaPro (Ecuador)",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-lib.json",
+        "code":  "Copa Libertadores",
+        "source":  "openfootball-extra"
+    },
+    {
+        "path":  "sa-py.json",
+        "code":  "Primera División (Paraguay)",
+        "source":  "openfootball-extra"
     }
 ]

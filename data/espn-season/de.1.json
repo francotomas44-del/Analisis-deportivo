@@ -1,0 +1,112 @@
+{
+    "name":  "Bundesliga (Alemania) 2026",
+    "code":  "de.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401884781",
+                        "date":  "2026-10-09",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "Borussia Dortmund",
+                        "team2":  "Werder Bremen",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884775",
+                        "date":  "2026-10-10",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "1. FC Union Berlin",
+                        "team2":  "SV 07 Elversberg",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884776",
+                        "date":  "2026-10-10",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "1. FSV Mainz 05",
+                        "team2":  "Bayer Leverkusen",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884773",
+                        "date":  "2026-10-10",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "SC Paderborn 07",
+                        "team2":  "VfB Stuttgart",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884779",
+                        "date":  "2026-10-10",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "1899 Hoffenheim",
+                        "team2":  "Hamburger SV",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884780",
+                        "date":  "2026-10-10",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "RB Leipzig",
+                        "team2":  "Eintracht Frankfurt",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884774",
+                        "date":  "2026-10-11",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "1. FC Köln",
+                        "team2":  "Borussia Mönchengladbach",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401884778",
+                        "date":  "2026-10-11",
+                        "competition":  "Bundesliga (Alemania)",
+                        "team1":  "SC Freiburg",
+                        "team2":  "FC Schalke 04",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

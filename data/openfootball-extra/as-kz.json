@@ -1,0 +1,3879 @@
+{
+    "name":  "Premier League (Kazajistán)",
+    "code":  "Premier League (Kazajistán)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2023-03-04",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-04",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-04",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-04",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-05",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-05",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-05",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-09",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-09",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-09",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-09",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-10",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-10",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-10",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-14",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-14",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-14",
+                        "team1":  "FK Kairat",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-14",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-14",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-15",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-03-15",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-01",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-01",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-01",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-02",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-02",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-02",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-02",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-08",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-08",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-08",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-08",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-09",
+                        "team1":  "FK Kairat",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-09",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-09",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-15",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-15",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-15",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-16",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-16",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-16",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-16",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-22",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-22",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-23",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-23",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-23",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-23",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-04-23",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-06",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-06",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-06",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-06",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-07",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-07",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-07",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-13",
+                        "team1":  "FK Aksu",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-13",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-13",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-13",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-14",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-14",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-14",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-20",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-20",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-20",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-21",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-21",
+                        "team1":  "FK Kairat",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-21",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-21",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-27",
+                        "team1":  "FK Aksu",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-27",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-27",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-28",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-28",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-28",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-28",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-03",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-03",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-03",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-03",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-03",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-04",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-04",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-24",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-24",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-24",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-25",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-25",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-02",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-02",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-24",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-06-24",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-01",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-01",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-01",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-02",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-02",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-24",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-15",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-15",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-15",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-15",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-16",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-27",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-23",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-23",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-23",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-10",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-29",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-29",
+                        "team1":  "FK Aksu",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-29",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-30",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-30",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-05",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-05",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-05",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-05",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-06",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-06",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-27",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-27",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-05-10",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-12",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-12",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "FK Kairat",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-15",
+                        "team1":  "FK Aksu",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-15",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "FK Kairat",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-23",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-24",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-24",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-24",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "FK Aksu",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "FK Makhtaaral",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Aksu",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Kaspiy Aktau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-22",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-22",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-22",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "FK Aksu",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "Kaspiy Aktau",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Makhtaaral",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-05",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-06",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-06",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-06",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-07",
+                        "team1":  "FK Zhenis",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-07",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-30",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-30",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-31",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-31",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-31",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-31",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-06",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-06",
+                        "team1":  "FK Yelimay",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-06",
+                        "team1":  "FK Kairat",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-07",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-07",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-07",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-21",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-21",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-28",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-28",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-05",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "FK Turan",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-12",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-12",
+                        "team1":  "FK Yelimay",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-12",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-12",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-12",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-18",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-18",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-18",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-19",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-19",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-19",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-01",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-01",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-02",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-02",
+                        "team1":  "FK Kairat",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-02",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-02",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-15",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-15",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-15",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-16",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-16",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-16",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-22",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-22",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-29",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-29",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-29",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-30",
+                        "team1":  "FK Yelimay",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-30",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-01",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-13",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-13",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-14",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-11",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-11",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-27",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-27",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-28",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-07-28",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-18",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-23",
+                        "team1":  "FK Turan",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-03",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-03",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-03",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-04",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-04",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-28",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-30",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "FK Atyrau",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "FK Kairat",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-29",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-31",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-31",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-31",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-01",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-01",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-01",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "FK Zhenis",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "FK Turan",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "FK Yelimay",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "FK Aktobe",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "FK Kairat",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-03",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-03",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-04",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-04",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-04",
+                        "team1":  "FK Zhenis",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-16",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-19",
+                        "team1":  "FK Zhenis",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-19",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-19",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-20",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-20",
+                        "team1":  "FK Yelimay",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-20",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Shakter Karaganda",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-26",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-27",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-27",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-10-27",
+                        "team1":  "FK Turan",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-02",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-02",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "Shakter Karaganda",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-03",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-10",
+                        "team1":  "FK Zhenis",
+                        "team2":  "FK Kyzylzhar",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "FK Atyrau",
+                        "team2":  "FK Yelimay",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "FK Ordabasy",
+                        "team2":  "FK Aktobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "Tobyl Kostanay",
+                        "team2":  "FK Ulytau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "Kaysar Kyzylorda",
+                        "team2":  "FK Zhenis",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "FK Turan",
+                        "team2":  "FK Okzhetpes",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "Zhetysu Taldykorgan",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "FK Astana (KAZ)",
+                        "team2":  "FK Kairat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "FK Okzhetpes",
+                        "team2":  "FK Atyrau",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "Zhetysu Taldykorgan",
+                        "team2":  "FK Ulytau",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "FK Zhenis",
+                        "team2":  "Tobyl Kostanay",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "FK Kairat",
+                        "team2":  "FK Ordabasy",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "FK Aktobe",
+                        "team2":  "FK Turan",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "FK Yelimay",
+                        "team2":  "Kaysar Kyzylorda",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "FK Kyzylzhar",
+                        "team2":  "FK Astana (KAZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

@@ -15,9 +15,9 @@ ya están integradas en la app y cuáles requieren una **API key**.
 |---|---|---|---|---|---|
 | **TheSportsDB** | test `3` | ~30 req/min | ✅ `*` | Equipos, **año de fundación** (`intFormedYear`), ligas, historial de resultados, escudos | Sí (`strOfficial`, si está cargado) |
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
-| **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930** y ligas europeas, con goles y estadios | No |
+| **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930**, ligas europeas y **competiciones nuevas** (`openfootball-extra`): MLS, CONCACAF, CAF, Brasil (A/B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita y ligas de África | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (Liga Argentina) | No | — | ✅ `*` | Liga Profesional Argentina: **historial 2001 y 2003–2026** (descargado a `data/arg-espn/`) + temporada en curso en vivo | No |
+| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + temporada en curso en vivo | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -51,6 +51,25 @@ Profesional Argentina se arma desde la API pública de **ESPN**:
   portada y el historial siguen funcionando con lo último guardado y con el resto
   de la base local.
 - Condiciones de uso: **ESPN**.
+
+### Base histórica ampliada (actualizada)
+
+Además del paquete original de openfootball y de la Liga Argentina, la base integrada se
+amplió con dos pasos reproducibles:
+
+- **Historia previa (`espn-history`)** — `scripts/build-espn-history.ps1` baja de ESPN el
+  tramo anterior al primer partido que ya tenía cada liga (21 ligas/competiciones,
+  **65.277 partidos**), guardado en `data/espn-history/<código>.json`.
+- **Competiciones nuevas (`openfootball-extra`)** — `scripts/build-openfootball-extra.ps1`
+  descarga de openfootball (misma licencia de dominio público) 33 competiciones que la base
+  no traía —**MLS**, **CONCACAF Champions Cup**, **CAF Champions League**, Brasil (Serie A
+  y B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia
+  Saudita y ligas de **Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda,
+  Zambia, Zimbabue y Sudáfrica**— (**30.437 partidos**), en `data/openfootball-extra/<slug>.json`.
+
+En total, la base queda con **303 archivos** (≈70 MB) y, tras deduplicar los solapamientos
+entre fuentes y unificar variantes de nombre, **≈155.500 partidos**, **≈2.100 equipos** y
+**100 competiciones**. Ver `docs/base-historica.md`.
 
 ---
 

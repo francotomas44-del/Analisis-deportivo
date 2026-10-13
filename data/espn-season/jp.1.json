@@ -1,0 +1,2179 @@
+{
+    "name":  "J1 League (Japón) 2026",
+    "code":  "jp.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:401859264",
+                        "date":  "2026-02-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859268",
+                        "date":  "2026-02-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859269",
+                        "date":  "2026-02-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859274",
+                        "date":  "2026-02-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859275",
+                        "date":  "2026-02-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859276",
+                        "date":  "2026-02-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859279",
+                        "date":  "2026-02-21",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859280",
+                        "date":  "2026-02-21",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859282",
+                        "date":  "2026-02-21",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859283",
+                        "date":  "2026-02-21",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859284",
+                        "date":  "2026-02-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859285",
+                        "date":  "2026-02-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859286",
+                        "date":  "2026-02-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859288",
+                        "date":  "2026-02-27",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859287",
+                        "date":  "2026-02-27",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859289",
+                        "date":  "2026-02-28",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859290",
+                        "date":  "2026-02-28",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859292",
+                        "date":  "2026-02-28",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859295",
+                        "date":  "2026-03-07",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859298",
+                        "date":  "2026-03-07",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859299",
+                        "date":  "2026-03-07",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859300",
+                        "date":  "2026-03-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859303",
+                        "date":  "2026-03-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859302",
+                        "date":  "2026-03-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859305",
+                        "date":  "2026-03-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859307",
+                        "date":  "2026-03-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859306",
+                        "date":  "2026-03-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859308",
+                        "date":  "2026-03-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859310",
+                        "date":  "2026-03-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859312",
+                        "date":  "2026-03-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859315",
+                        "date":  "2026-03-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859317",
+                        "date":  "2026-03-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859320",
+                        "date":  "2026-03-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859323",
+                        "date":  "2026-03-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859325",
+                        "date":  "2026-03-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859326",
+                        "date":  "2026-03-27",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859347",
+                        "date":  "2026-04-01",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859349",
+                        "date":  "2026-04-01",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859327",
+                        "date":  "2026-04-04",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859328",
+                        "date":  "2026-04-04",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859330",
+                        "date":  "2026-04-05",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859332",
+                        "date":  "2026-04-05",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859331",
+                        "date":  "2026-04-05",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859334",
+                        "date":  "2026-04-05",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859336",
+                        "date":  "2026-04-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859338",
+                        "date":  "2026-04-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859339",
+                        "date":  "2026-04-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859340",
+                        "date":  "2026-04-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859341",
+                        "date":  "2026-04-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859343",
+                        "date":  "2026-04-12",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859344",
+                        "date":  "2026-04-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859345",
+                        "date":  "2026-04-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859348",
+                        "date":  "2026-04-18",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859398",
+                        "date":  "2026-04-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859352",
+                        "date":  "2026-04-24",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859354",
+                        "date":  "2026-04-25",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859353",
+                        "date":  "2026-04-25",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859355",
+                        "date":  "2026-04-25",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859357",
+                        "date":  "2026-04-25",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859360",
+                        "date":  "2026-04-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859366",
+                        "date":  "2026-04-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859367",
+                        "date":  "2026-04-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859368",
+                        "date":  "2026-05-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859369",
+                        "date":  "2026-05-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859370",
+                        "date":  "2026-05-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859371",
+                        "date":  "2026-05-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859372",
+                        "date":  "2026-05-03",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859378",
+                        "date":  "2026-05-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859381",
+                        "date":  "2026-05-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859382",
+                        "date":  "2026-05-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859383",
+                        "date":  "2026-05-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859386",
+                        "date":  "2026-05-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859388",
+                        "date":  "2026-05-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859389",
+                        "date":  "2026-05-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859390",
+                        "date":  "2026-05-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859391",
+                        "date":  "2026-05-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859359",
+                        "date":  "2026-05-13",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859393",
+                        "date":  "2026-05-16",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859395",
+                        "date":  "2026-05-17",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859397",
+                        "date":  "2026-05-17",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859396",
+                        "date":  "2026-05-17",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859400",
+                        "date":  "2026-05-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859401",
+                        "date":  "2026-05-23",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859402",
+                        "date":  "2026-05-23",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859403",
+                        "date":  "2026-05-23",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859405",
+                        "date":  "2026-05-24",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859406",
+                        "date":  "2026-05-24",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401859407",
+                        "date":  "2026-05-24",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873664",
+                        "date":  "2026-05-30",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873663",
+                        "date":  "2026-05-30",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873662",
+                        "date":  "2026-05-30",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873665",
+                        "date":  "2026-05-30",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873666",
+                        "date":  "2026-05-30",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873669",
+                        "date":  "2026-05-30",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873671",
+                        "date":  "2026-05-31",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873670",
+                        "date":  "2026-05-31",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873672",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873694",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873697",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873698",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873699",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873700",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873701",
+                        "date":  "2026-06-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877182",
+                        "date":  "2026-08-07",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877177",
+                        "date":  "2026-08-07",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877174",
+                        "date":  "2026-08-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877176",
+                        "date":  "2026-08-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877180",
+                        "date":  "2026-08-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877178",
+                        "date":  "2026-08-08",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877179",
+                        "date":  "2026-08-09",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877687",
+                        "date":  "2026-08-14",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877671",
+                        "date":  "2026-08-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877684",
+                        "date":  "2026-08-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877666",
+                        "date":  "2026-08-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877669",
+                        "date":  "2026-08-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877685",
+                        "date":  "2026-08-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877668",
+                        "date":  "2026-08-15",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877682",
+                        "date":  "2026-08-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877657",
+                        "date":  "2026-08-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877678",
+                        "date":  "2026-08-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877680",
+                        "date":  "2026-08-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877656",
+                        "date":  "2026-08-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877681",
+                        "date":  "2026-08-22",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877664",
+                        "date":  "2026-08-23",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877637",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877660",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877658",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877659",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877655",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877662",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877654",
+                        "date":  "2026-08-29",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877632",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877649",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877635",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Kawasaki Frontale",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877633",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877634",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877636",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877650",
+                        "date":  "2026-09-02",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Yokohama F. Marinos",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877642",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877646",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877629",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Nagoya Grampus",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877644",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877630",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877641",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Shimizu S-Pulse",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877645",
+                        "date":  "2026-09-06",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877647",
+                        "date":  "2026-09-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877638",
+                        "date":  "2026-09-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Vissel Kobe",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877639",
+                        "date":  "2026-09-12",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Shimizu S-Pulse",
+                        "team2":  "Avispa Fukuoka",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877624",
+                        "date":  "2026-09-12",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "FC Tokyo",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877640",
+                        "date":  "2026-09-12",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877623",
+                        "date":  "2026-09-12",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Sanfrecce Hiroshima",
+                        "team2":  "Cerezo Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877626",
+                        "date":  "2026-09-13",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877620",
+                        "date":  "2026-09-19",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877622",
+                        "date":  "2026-09-19",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Kashima Antlers",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877615",
+                        "date":  "2026-09-19",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Urawa Red Diamonds",
+                        "team2":  "Tokyo Verdy",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877611",
+                        "date":  "2026-09-19",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Fagiano Okayama",
+                        "team2":  "Kyoto Sanga FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877616",
+                        "date":  "2026-09-19",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877612",
+                        "date":  "2026-09-20",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Gamba Osaka",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877614",
+                        "date":  "2026-09-20",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Machida Zelvia",
+                        "team2":  "Kashiwa Reysol",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877610",
+                        "date":  "2026-10-09",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashima Antlers",
+                        "team2":  "Gamba Osaka",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877609",
+                        "date":  "2026-10-09",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kashiwa Reysol",
+                        "team2":  "Vissel Kobe",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877606",
+                        "date":  "2026-10-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Cerezo Osaka",
+                        "team2":  "Yokohama F. Marinos",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877605",
+                        "date":  "2026-10-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Avispa Fukuoka",
+                        "team2":  "Fagiano Okayama",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877575",
+                        "date":  "2026-10-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "FC Tokyo",
+                        "team2":  "Urawa Red Diamonds",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877607",
+                        "date":  "2026-10-10",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kyoto Sanga FC",
+                        "team2":  "FC Machida Zelvia",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877574",
+                        "date":  "2026-10-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Tokyo Verdy",
+                        "team2":  "Sanfrecce Hiroshima",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401877608",
+                        "date":  "2026-10-11",
+                        "competition":  "J1 League (Japón)",
+                        "team1":  "Kawasaki Frontale",
+                        "team2":  "Nagoya Grampus",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

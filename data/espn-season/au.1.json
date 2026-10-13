@@ -1,0 +1,1321 @@
+{
+    "name":  "A-League (Australia) 2026",
+    "code":  "au.1",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:758477",
+                        "date":  "2026-01-01",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758478",
+                        "date":  "2026-01-02",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758479",
+                        "date":  "2026-01-03",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758475",
+                        "date":  "2026-01-03",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758480",
+                        "date":  "2026-01-04",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758511",
+                        "date":  "2026-01-05",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758530",
+                        "date":  "2026-01-06",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758481",
+                        "date":  "2026-01-09",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758482",
+                        "date":  "2026-01-10",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758483",
+                        "date":  "2026-01-10",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758484",
+                        "date":  "2026-01-10",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758485",
+                        "date":  "2026-01-11",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758486",
+                        "date":  "2026-01-11",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758487",
+                        "date":  "2026-01-16",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758488",
+                        "date":  "2026-01-16",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758489",
+                        "date":  "2026-01-17",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758491",
+                        "date":  "2026-01-17",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758490",
+                        "date":  "2026-01-18",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758492",
+                        "date":  "2026-01-18",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758493",
+                        "date":  "2026-01-23",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758494",
+                        "date":  "2026-01-24",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758495",
+                        "date":  "2026-01-24",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758496",
+                        "date":  "2026-01-24",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758497",
+                        "date":  "2026-01-25",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758498",
+                        "date":  "2026-01-26",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758499",
+                        "date":  "2026-01-30",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758500",
+                        "date":  "2026-01-30",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758501",
+                        "date":  "2026-01-31",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758502",
+                        "date":  "2026-01-31",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758503",
+                        "date":  "2026-01-31",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758504",
+                        "date":  "2026-02-01",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758505",
+                        "date":  "2026-02-06",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758506",
+                        "date":  "2026-02-06",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758507",
+                        "date":  "2026-02-07",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758508",
+                        "date":  "2026-02-07",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758509",
+                        "date":  "2026-02-07",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758510",
+                        "date":  "2026-02-08",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758513",
+                        "date":  "2026-02-13",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758514",
+                        "date":  "2026-02-13",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758515",
+                        "date":  "2026-02-14",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758516",
+                        "date":  "2026-02-14",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758470",
+                        "date":  "2026-02-17",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758517",
+                        "date":  "2026-02-20",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758518",
+                        "date":  "2026-02-21",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758519",
+                        "date":  "2026-02-21",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758520",
+                        "date":  "2026-02-21",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758521",
+                        "date":  "2026-02-22",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758522",
+                        "date":  "2026-02-22",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758523",
+                        "date":  "2026-02-27",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758524",
+                        "date":  "2026-02-28",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758525",
+                        "date":  "2026-02-28",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758526",
+                        "date":  "2026-02-28",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758527",
+                        "date":  "2026-02-28",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758528",
+                        "date":  "2026-03-01",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758529",
+                        "date":  "2026-03-04",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758531",
+                        "date":  "2026-03-06",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758532",
+                        "date":  "2026-03-07",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758533",
+                        "date":  "2026-03-07",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758534",
+                        "date":  "2026-03-08",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758536",
+                        "date":  "2026-03-13",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758535",
+                        "date":  "2026-03-14",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758537",
+                        "date":  "2026-03-14",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758539",
+                        "date":  "2026-03-14",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758540",
+                        "date":  "2026-03-15",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758538",
+                        "date":  "2026-03-17",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758541",
+                        "date":  "2026-03-20",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758542",
+                        "date":  "2026-03-21",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758543",
+                        "date":  "2026-03-21",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758544",
+                        "date":  "2026-03-21",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758545",
+                        "date":  "2026-03-22",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758546",
+                        "date":  "2026-03-22",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758547",
+                        "date":  "2026-04-02",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758550",
+                        "date":  "2026-04-02",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758548",
+                        "date":  "2026-04-03",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758549",
+                        "date":  "2026-04-04",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758551",
+                        "date":  "2026-04-04",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758552",
+                        "date":  "2026-04-05",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758512",
+                        "date":  "2026-04-07",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758553",
+                        "date":  "2026-04-10",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Central Coast Mariners",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758554",
+                        "date":  "2026-04-11",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758555",
+                        "date":  "2026-04-11",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758556",
+                        "date":  "2026-04-11",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758557",
+                        "date":  "2026-04-12",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758558",
+                        "date":  "2026-04-12",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758559",
+                        "date":  "2026-04-17",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758560",
+                        "date":  "2026-04-18",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Wellington Phoenix",
+                        "team2":  "Western Sydney Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758561",
+                        "date":  "2026-04-18",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Brisbane Roar",
+                        "team2":  "Melbourne City FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758562",
+                        "date":  "2026-04-18",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Perth Glory",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758563",
+                        "date":  "2026-04-19",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758564",
+                        "date":  "2026-04-19",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Macarthur FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758565",
+                        "date":  "2026-04-24",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Macarthur FC",
+                        "team2":  "Wellington Phoenix",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758566",
+                        "date":  "2026-04-25",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Newcastle United Jets",
+                        "team2":  "Central Coast Mariners",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758567",
+                        "date":  "2026-04-25",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Western Sydney Wanderers",
+                        "team2":  "Melbourne Victory",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758568",
+                        "date":  "2026-04-25",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Perth Glory",
+                        "team2":  "Brisbane Roar",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758569",
+                        "date":  "2026-04-26",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:758570",
+                        "date":  "2026-04-26",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne City FC",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401870489",
+                        "date":  "2026-05-02",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Melbourne Victory",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401870491",
+                        "date":  "2026-05-09",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Adelaide United",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401870490",
+                        "date":  "2026-05-09",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Sydney FC",
+                        "team2":  "Newcastle United Jets",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401870492",
+                        "date":  "2026-05-15",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Adelaide United",
+                        "team2":  "Auckland FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401873206",
+                        "date":  "2026-05-23",
+                        "competition":  "A-League (Australia)",
+                        "team1":  "Auckland FC",
+                        "team2":  "Sydney FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

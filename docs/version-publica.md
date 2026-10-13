@@ -9,6 +9,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 |---|---|---|
 | **Portada** | Texto sobre "estadística honesta" | **"Hoy": próximos partidos con pronóstico 1X2** |
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
+| **Base ampliada** | ~31 competiciones / ~49.000 partidos | **100 competiciones / ≈155.500 partidos**: historia previa desde ESPN (`espn-history`, 65.277) + competiciones nuevas de openfootball (`openfootball-extra`, 30.437: MLS, CONCACAF, CAF, Sudamérica, Asia y África) |
 | **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | **Historial completo 2001 y 2003–2026 desde ESPN** (9.505 partidos, descargado) + temporada en curso en vivo, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |
@@ -23,7 +24,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 
 - Público: **https://francotomas44-del.github.io/Futbolityx/** (GitHub Pages, desde `main`).
 - Local: **http://localhost:8766/** (o el servidor LAN).
-- La primera vez carga la base histórica (~17 MB, una sola vez).
+- La primera vez carga la base histórica (~70 MB, una sola vez).
 - El botón **Modo avanzado** (arriba) muestra las herramientas técnicas (Evaluación, Rendimiento, Informe, Datos).
 
 ## Liga Argentina (ESPN)

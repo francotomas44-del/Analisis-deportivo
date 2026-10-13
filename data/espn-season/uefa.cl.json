@@ -1,0 +1,814 @@
+{
+    "name":  "UEFA Champions League 2026",
+    "code":  "uefa.cl",
+    "source":  "espn",
+    "season":  2026,
+    "matches":  [
+                    {
+                        "id":  "espn:757767",
+                        "date":  "2026-01-20",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "FC København (DEN)",
+                        "team2":  "SSC Napoli (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757763",
+                        "date":  "2026-01-20",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "FC Internazionale Milano (ITA)",
+                        "team2":  "Arsenal FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757764",
+                        "date":  "2026-01-20",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Real Madrid (ESP)",
+                        "team2":  "AS Monaco FC (MCO)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757768",
+                        "date":  "2026-01-20",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Sporting CP (POR)",
+                        "team2":  "Paris Saint-Germain FC (FRA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757769",
+                        "date":  "2026-01-20",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Tottenham Hotspur (ENG)",
+                        "team2":  "Borussia Dortmund (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757771",
+                        "date":  "2026-01-21",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Galatasaray (TUR)",
+                        "team2":  "Atlético Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757772",
+                        "date":  "2026-01-21",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atalanta (ITA)",
+                        "team2":  "Athletic Club (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757775",
+                        "date":  "2026-01-21",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Juventus FC (ITA)",
+                        "team2":  "SL Benfica (POR)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757778",
+                        "date":  "2026-01-21",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Slavia Praha (CZE)",
+                        "team2":  "FC Barcelona (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757791",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "AS Monaco FC (MCO)",
+                        "team2":  "Juventus FC (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757781",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Athletic Club (ESP)",
+                        "team2":  "Sporting CP (POR)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757783",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "FC Barcelona (ESP)",
+                        "team2":  "FC København (DEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757784",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Bayer Leverkusen (GER)",
+                        "team2":  "Villarreal CF (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757785",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "SL Benfica (POR)",
+                        "team2":  "Real Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757786",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Borussia Dortmund (GER)",
+                        "team2":  "FC Internazionale Milano (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757789",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Liverpool FC (ENG)",
+                        "team2":  "Qarabağ FK (AZE)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757790",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Manchester City FC (ENG)",
+                        "team2":  "Galatasaray (TUR)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757792",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "SSC Napoli (ITA)",
+                        "team2":  "Chelsea FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:757793",
+                        "date":  "2026-01-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "PSV Eindhoven (NED)",
+                        "team2":  "Bayern München (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858759",
+                        "date":  "2026-02-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Galatasaray (TUR)",
+                        "team2":  "Juventus FC (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858758",
+                        "date":  "2026-02-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "AS Monaco FC (MCO)",
+                        "team2":  "Paris Saint-Germain FC (FRA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858735",
+                        "date":  "2026-02-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "SL Benfica (POR)",
+                        "team2":  "Real Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858761",
+                        "date":  "2026-02-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Borussia Dortmund (GER)",
+                        "team2":  "Atalanta (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858760",
+                        "date":  "2026-02-18",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Club Brugge KV (BEL)",
+                        "team2":  "Atlético Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858768",
+                        "date":  "2026-02-24",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atlético Madrid (ESP)",
+                        "team2":  "Club Brugge KV (BEL)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858762",
+                        "date":  "2026-02-25",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atalanta (ITA)",
+                        "team2":  "Borussia Dortmund (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858763",
+                        "date":  "2026-02-25",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Paris Saint-Germain FC (FRA)",
+                        "team2":  "AS Monaco FC (MCO)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401858769",
+                        "date":  "2026-02-25",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Real Madrid (ESP)",
+                        "team2":  "SL Benfica (POR)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862667",
+                        "date":  "2026-03-10",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Galatasaray (TUR)",
+                        "team2":  "Liverpool FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862641",
+                        "date":  "2026-03-10",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atalanta (ITA)",
+                        "team2":  "Bayern München (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862579",
+                        "date":  "2026-03-10",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atlético Madrid (ESP)",
+                        "team2":  "Tottenham Hotspur (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862578",
+                        "date":  "2026-03-11",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Bayer Leverkusen (GER)",
+                        "team2":  "Arsenal FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862646",
+                        "date":  "2026-03-11",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Paris Saint-Germain FC (FRA)",
+                        "team2":  "Chelsea FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862645",
+                        "date":  "2026-03-11",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Real Madrid (ESP)",
+                        "team2":  "Manchester City FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862581",
+                        "date":  "2026-03-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Arsenal FC (ENG)",
+                        "team2":  "Bayer Leverkusen (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862648",
+                        "date":  "2026-03-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Chelsea FC (ENG)",
+                        "team2":  "Paris Saint-Germain FC (FRA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862647",
+                        "date":  "2026-03-17",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Manchester City FC (ENG)",
+                        "team2":  "Real Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862642",
+                        "date":  "2026-03-18",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Bayern München (GER)",
+                        "team2":  "Atalanta (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862668",
+                        "date":  "2026-03-18",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Liverpool FC (ENG)",
+                        "team2":  "Galatasaray (TUR)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862580",
+                        "date":  "2026-03-18",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Tottenham Hotspur (ENG)",
+                        "team2":  "Atlético Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862886",
+                        "date":  "2026-04-07",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Real Madrid (ESP)",
+                        "team2":  "Bayern München (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862888",
+                        "date":  "2026-04-07",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Sporting CP (POR)",
+                        "team2":  "Arsenal FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862887",
+                        "date":  "2026-04-08",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "FC Barcelona (ESP)",
+                        "team2":  "Atlético Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862885",
+                        "date":  "2026-04-08",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Paris Saint-Germain FC (FRA)",
+                        "team2":  "Liverpool FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862892",
+                        "date":  "2026-04-14",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atlético Madrid (ESP)",
+                        "team2":  "FC Barcelona (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862889",
+                        "date":  "2026-04-14",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Liverpool FC (ENG)",
+                        "team2":  "Paris Saint-Germain FC (FRA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862890",
+                        "date":  "2026-04-15",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Arsenal FC (ENG)",
+                        "team2":  "Sporting CP (POR)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862891",
+                        "date":  "2026-04-15",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Bayern München (GER)",
+                        "team2":  "Real Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862893",
+                        "date":  "2026-04-28",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Paris Saint-Germain FC (FRA)",
+                        "team2":  "Bayern München (GER)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862894",
+                        "date":  "2026-04-29",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Atlético Madrid (ESP)",
+                        "team2":  "Arsenal FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862896",
+                        "date":  "2026-05-05",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Arsenal FC (ENG)",
+                        "team2":  "Atlético Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401862895",
+                        "date":  "2026-05-06",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Bayern München (GER)",
+                        "team2":  "Paris Saint-Germain FC (FRA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915426",
+                        "date":  "2026-09-08",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Club Brugge KV (BEL)",
+                        "team2":  "Aston Villa FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915449",
+                        "date":  "2026-09-08",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Borussia Dortmund (GER)",
+                        "team2":  "Villarreal CF (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915425",
+                        "date":  "2026-09-08",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "FC Porto (POR)",
+                        "team2":  "Manchester City FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915451",
+                        "date":  "2026-09-08",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Real Madrid (ESP)",
+                        "team2":  "FC Internazionale Milano (ITA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915424",
+                        "date":  "2026-09-09",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "FC Barcelona (ESP)",
+                        "team2":  "Feyenoord Rotterdam (NED)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915446",
+                        "date":  "2026-09-09",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Liverpool FC (ENG)",
+                        "team2":  "Atlético Madrid (ESP)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915423",
+                        "date":  "2026-09-09",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "SSC Napoli (ITA)",
+                        "team2":  "Arsenal FC (ENG)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915445",
+                        "date":  "2026-09-09",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Paris Saint-Germain FC (FRA)",
+                        "team2":  "ŠK Slovan Bratislava (SVK)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915447",
+                        "date":  "2026-09-09",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "Sporting CP (POR)",
+                        "team2":  "Galatasaray (TUR)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "id":  "espn:401915422",
+                        "date":  "2026-09-10",
+                        "competition":  "UEFA Champions League",
+                        "team1":  "PSV Eindhoven (NED)",
+                        "team2":  "FK Shakhtar Donetsk (UKR)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

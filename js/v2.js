@@ -617,7 +617,7 @@
           '<button class="btn btn-primary btn-lg" id="onboard-start" type="button">Cargar partidos y empezar</button>' +
           '<button class="btn btn-ghost btn-lg" type="button" data-goto="acerca">Cómo funciona</button>' +
         "</div>" +
-        '<p class="muted onboard-note">La primera vez descarga la base histórica (~14 MB, una sola vez). ' +
+        '<p class="muted onboard-note">La primera vez descarga la base histórica (~70 MB, una sola vez). ' +
         "Después queda guardada en este navegador y abre al instante.</p>" +
         '<p class="muted" id="base-status"></p>' +
       "</section>";

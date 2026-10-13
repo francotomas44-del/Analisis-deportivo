@@ -1,0 +1,304 @@
+{
+    "name":  "FA Cup (Inglaterra)",
+    "code":  "FA Cup (Inglaterra)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "1871-11-11",
+                        "team1":  "Barnes",
+                        "team2":  "Civil Service",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1871-11-11",
+                        "team1":  "Crystal Palace",
+                        "team2":  "Hitchin",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1871-11-11",
+                        "team1":  "Maidenhead",
+                        "team2":  "Great Marlow",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1871-11-11",
+                        "team1":  "Upton Park",
+                        "team2":  "Clapham Rovers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1871-12-16",
+                        "team1":  "Clapham Rovers",
+                        "team2":  "Bolton Wanderers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1871-12-16",
+                        "team1":  "Crystal Palace",
+                        "team2":  "Maidenhead",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1871-12-23",
+                        "team1":  "Barnes",
+                        "team2":  "Hampstead Heathens",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-01-10",
+                        "team1":  "Hitchin",
+                        "team2":  "Royal Engineers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-01-06",
+                        "team1":  "Hampstead Heathens",
+                        "team2":  "Barnes",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-01-20",
+                        "team1":  "Bolton Wanderers",
+                        "team2":  "Crystal Palace",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-01-27",
+                        "team1":  "Royal Engineers",
+                        "team2":  "Hampstead Heathens",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-02-17",
+                        "team1":  "Crystal Palace",
+                        "team2":  "Royal Engineers",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-03-09",
+                        "team1":  "Royal Engineers",
+                        "team2":  "Crystal Palace",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-03-16",
+                        "team1":  "Bolton Wanderers",
+                        "team2":  "Royal Engineers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-10-19",
+                        "team1":  "Barnes",
+                        "team2":  "South Norwood",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-10-26",
+                        "team1":  "1st Surrey Rifles",
+                        "team2":  "Upton Park",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-10-26",
+                        "team1":  "Maidenhead",
+                        "team2":  "Marlow",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-10-26",
+                        "team1":  "Oxford University",
+                        "team2":  "Crystal Palace",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-10-26",
+                        "team1":  "Royal Engineers",
+                        "team2":  "Civil Service",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-10-26",
+                        "team1":  "Windsor Home Park",
+                        "team2":  "Reigate Priory",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-11-23",
+                        "team1":  "Clapham Rovers",
+                        "team2":  "Oxford University",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-11-23",
+                        "team1":  "Maidenhead",
+                        "team2":  "1st Surrey Rifles",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-12-07",
+                        "team1":  "Windsor Home Park",
+                        "team2":  "South Norwood",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-12-09",
+                        "team1":  "Oxford University",
+                        "team2":  "Royal Engineers",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1872-12-21",
+                        "team1":  "Windsor Home Park",
+                        "team2":  "Maidenhead",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1873-02-03",
+                        "team1":  "Oxford University",
+                        "team2":  "Maidenhead",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "1873-03-29",
+                        "team1":  "Bolton Wanderers",
+                        "team2":  "Oxford University",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    }
+                ]
+}

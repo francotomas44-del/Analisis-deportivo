@@ -1,0 +1,3373 @@
+{
+    "name":  "Premier League (Egipto)",
+    "code":  "Premier League (Egipto)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2023-09-18",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-19",
+                        "team1":  "ZED FC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-19",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-20",
+                        "team1":  "El Daklyeh",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-20",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-20",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-21",
+                        "team1":  "Pharco FC",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-21",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-21",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-25",
+                        "team1":  "National Bank SC",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-25",
+                        "team1":  "Zamalek",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-26",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-26",
+                        "team1":  "Future FC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-27",
+                        "team1":  "ENPPI",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-27",
+                        "team1":  "El Gouna",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-28",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-28",
+                        "team1":  "Ismaily",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-08",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-05",
+                        "team1":  "ZED FC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-05",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-06",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-06",
+                        "team1":  "Pharco FC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-07",
+                        "team1":  "National Bank SC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-08",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-08",
+                        "team1":  "Pyramids FC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-20",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-20",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "ENPPI",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-21",
+                        "team1":  "Zamalek",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-22",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-22",
+                        "team1":  "Future FC",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-22",
+                        "team1":  "Ismaily",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-11",
+                        "team1":  "El Gouna",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-27",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-27",
+                        "team1":  "ENPPI",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-28",
+                        "team1":  "Pharco FC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-28",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-28",
+                        "team1":  "ZED FC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-29",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-30",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-30",
+                        "team1":  "National Bank SC",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-27",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-03",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-03",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-03",
+                        "team1":  "Zamalek",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-04",
+                        "team1":  "El Gouna",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-04",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-04",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-05",
+                        "team1":  "Ismaily",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-05",
+                        "team1":  "Future FC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-05",
+                        "team1":  "Al Masry Club",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-28",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-28",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-29",
+                        "team1":  "Future FC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-30",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-30",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-30",
+                        "team1":  "Pharco FC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "ENPPI",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "National Bank SC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-04",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-05",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-05",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-05",
+                        "team1":  "Ismaily",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-06",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-09",
+                        "team1":  "El Gouna",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-11",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-11",
+                        "team1":  "ZED FC",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-11",
+                        "team1":  "Zamalek",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-14",
+                        "team1":  "National Bank SC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-14",
+                        "team1":  "Future FC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-14",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-14",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-15",
+                        "team1":  "Pharco FC",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-16",
+                        "team1":  "ENPPI",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-07",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-25",
+                        "team1":  "El Gouna",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-25",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-26",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-27",
+                        "team1":  "ZED FC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-27",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-14",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-14",
+                        "team1":  "Ismaily",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-15",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-15",
+                        "team1":  "Zamalek",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-30",
+                        "team1":  "National Bank SC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-30",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-30",
+                        "team1":  "ENPPI",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-01",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-01-01",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-13",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-13",
+                        "team1":  "Future FC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "Pharco FC",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-14",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-13",
+                        "team1":  "El Gouna",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-13",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-14",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-14",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-14",
+                        "team1":  "ZED FC",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-15",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-15",
+                        "team1":  "Ismaily",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-21",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-21",
+                        "team1":  "Zamalek",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-18",
+                        "team1":  "ENPPI",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-18",
+                        "team1":  "National Bank SC",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-18",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-19",
+                        "team1":  "Future FC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-19",
+                        "team1":  "Ismaily",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-20",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-20",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-20",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-01",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-23",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-25",
+                        "team1":  "Pharco FC",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-25",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-26",
+                        "team1":  "El Gouna",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-26",
+                        "team1":  "ZED FC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-26",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-29",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-29",
+                        "team1":  "Zamalek",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-12",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Ismaily",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-03",
+                        "team1":  "ENPPI",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-05",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-05",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-06",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-07",
+                        "team1":  "Future FC",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-12",
+                        "team1":  "El Gouna",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-12",
+                        "team1":  "National Bank SC",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "Pharco FC",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-08",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-09",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-10",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-10",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-11",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-12",
+                        "team1":  "ZED FC",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-08",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-11",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-03",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-03",
+                        "team1":  "El Gouna",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-03",
+                        "team1":  "Ismaily",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-04",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-04",
+                        "team1":  "ENPPI",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-04",
+                        "team1":  "National Bank SC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-05",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-15",
+                        "team1":  "Zamalek",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-16",
+                        "team1":  "Future FC",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-17",
+                        "team1":  "El Gouna",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-17",
+                        "team1":  "National Bank SC",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-17",
+                        "team1":  "ENPPI",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-18",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-18",
+                        "team1":  "Ismaily",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-18",
+                        "team1":  "Future FC",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-19",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-26",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-26",
+                        "team1":  "Zamalek",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-22",
+                        "team1":  "ZED FC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-22",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-22",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-23",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-23",
+                        "team1":  "Pharco FC",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-24",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-24",
+                        "team1":  "Pyramids FC",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-29",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-29",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-27",
+                        "team1":  "El Gouna",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-28",
+                        "team1":  "Al Masry Club",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-28",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-29",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-01",
+                        "team1":  "Ismaily",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-01",
+                        "team1":  "ENPPI",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-02",
+                        "team1":  "Future FC",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-02",
+                        "team1":  "Zamalek",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-03",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-03",
+                        "team1":  "ZED FC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "Pharco FC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-04",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-05",
+                        "team1":  "National Bank SC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-05",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-06",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-06",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-09",
+                        "team1":  "Ismaily",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-09",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-10",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-10",
+                        "team1":  "El Gouna",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-10",
+                        "team1":  "Future FC",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-11",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-05",
+                        "team1":  "Zamalek",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-14",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-14",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-15",
+                        "team1":  "El Daklyeh",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-15",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-15",
+                        "team1":  "Pharco FC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-16",
+                        "team1":  "ENPPI",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-16",
+                        "team1":  "National Bank SC",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-04",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-08",
+                        "team1":  "ZED FC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-19",
+                        "team1":  "Ismaily",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-20",
+                        "team1":  "Al Masry Club",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-20",
+                        "team1":  "ZED FC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-20",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-21",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-21",
+                        "team1":  "El Gouna",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-21",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-23",
+                        "team1":  "Zamalek",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-08",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-24",
+                        "team1":  "Pharco FC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-24",
+                        "team1":  "ENPPI",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-25",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "National Bank SC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-26",
+                        "team1":  "Future FC",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-27",
+                        "team1":  "Pyramids FC",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-27",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-11",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-16",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-17",
+                        "team1":  "El Gouna",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-17",
+                        "team1":  "Zamalek",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-17",
+                        "team1":  "Ismaily",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-18",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-18",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-18",
+                        "team1":  "ZED FC",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-19",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-19",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-22",
+                        "team1":  "ENPPI",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-22",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "Future FC",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-23",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-24",
+                        "team1":  "National Bank SC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-24",
+                        "team1":  "Pharco FC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-24",
+                        "team1":  "El Daklyeh",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-25",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-27",
+                        "team1":  "El Gouna",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-27",
+                        "team1":  "ZED FC",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-27",
+                        "team1":  "Ismaily",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-28",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-28",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-29",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-29",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-06-29",
+                        "team1":  "Zamalek",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-02",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-01",
+                        "team1":  "Al Masry Club",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-02",
+                        "team1":  "ENPPI",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-03",
+                        "team1":  "Future FC",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-03",
+                        "team1":  "Pharco FC",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-03",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-04",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-04",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-13",
+                        "team1":  "National Bank SC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-04",
+                        "team1":  "Pyramids FC",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-06",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-06",
+                        "team1":  "ZED FC",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-07",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-07",
+                        "team1":  "Zamalek",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-07",
+                        "team1":  "El Gouna",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-08",
+                        "team1":  "Pharco FC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-08",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-08",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-11",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-20",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-20",
+                        "team1":  "National Bank SC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-20",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-21",
+                        "team1":  "Al Masry Club",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-21",
+                        "team1":  "ENPPI",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-21",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "Ismaily",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-22",
+                        "team1":  "Future FC",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-30",
+                        "team1":  "El Daklyeh",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-30",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-30",
+                        "team1":  "Pharco FC",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-31",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-07-31",
+                        "team1":  "ZED FC",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-01",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-01",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-01",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-02",
+                        "team1":  "Zamalek",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-12",
+                        "team1":  "Ceramica Cleopatra",
+                        "team2":  "Smouha Sporting Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-12",
+                        "team1":  "Future FC",
+                        "team2":  "Ittihad El Iskandary",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "National Bank SC",
+                        "team2":  "Pharco FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "Ismaily",
+                        "team2":  "Al Mokawloon",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-13",
+                        "team1":  "El Gouna",
+                        "team2":  "Baladeyet Al Mahalla",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-14",
+                        "team1":  "Al Masry Club",
+                        "team2":  "ZED FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-14",
+                        "team1":  "Zamalek",
+                        "team2":  "Tala\u0027ea El Gaish SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-14",
+                        "team1":  "Pyramids FC",
+                        "team2":  "El Daklyeh",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-14",
+                        "team1":  "ENPPI",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-11",
+                        "team1":  "Tala\u0027ea El Gaish SC",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 5
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-16",
+                        "team1":  "Smouha Sporting Club",
+                        "team2":  "Ismaily",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-17",
+                        "team1":  "Pharco FC",
+                        "team2":  "ENPPI",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-17",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Future FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-17",
+                        "team1":  "Baladeyet Al Mahalla",
+                        "team2":  "Zamalek",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-18",
+                        "team1":  "El Daklyeh",
+                        "team2":  "National Bank SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-18",
+                        "team1":  "Al Mokawloon",
+                        "team2":  "El Gouna",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-18",
+                        "team1":  "ZED FC",
+                        "team2":  "Ceramica Cleopatra",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-18",
+                        "team1":  "Ittihad El Iskandary",
+                        "team2":  "Al Masry Club",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}

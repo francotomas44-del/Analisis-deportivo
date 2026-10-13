@@ -1,0 +1,722 @@
+{
+    "name":  "LigaPro (Ecuador)",
+    "code":  "LigaPro (Ecuador)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2025-02-14",
+                        "team1":  "Manta",
+                        "team2":  "FC Barcelona",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-15",
+                        "team1":  "Aucas",
+                        "team2":  "Técnico Universitario",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-15",
+                        "team1":  "Macará",
+                        "team2":  "Orense SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-16",
+                        "team1":  "LDU Quito",
+                        "team2":  "Vinotinto",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-16",
+                        "team1":  "Emelec",
+                        "team2":  "Universidad Catolica",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-17",
+                        "team1":  "Mushuc Runa",
+                        "team2":  "Delfino Pescara",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Vinotinto",
+                        "team2":  "Macará",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-22",
+                        "team1":  "Delfino Pescara",
+                        "team2":  "Emelec",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-23",
+                        "team1":  "Universidad Catolica",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-23",
+                        "team1":  "Orense SC",
+                        "team2":  "Manta",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-23",
+                        "team1":  "FC Barcelona",
+                        "team2":  "Mushuc Runa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-24",
+                        "team1":  "Técnico Universitario",
+                        "team2":  "Libertad de Loja",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-02-28",
+                        "team1":  "Emelec",
+                        "team2":  "Macará",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "LDU Quito",
+                        "team2":  "Orense SC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-01",
+                        "team1":  "Libertad de Loja",
+                        "team2":  "FC Barcelona",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "Aucas",
+                        "team2":  "Vinotinto",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-02",
+                        "team1":  "CD Nacional",
+                        "team2":  "Técnico Universitario",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-03",
+                        "team1":  "Manta",
+                        "team2":  "Delfino Pescara",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "LDU Quito",
+                        "team2":  "Delfino Pescara",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-08",
+                        "team1":  "Manta",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "Universidad Catolica",
+                        "team2":  "Mushuc Runa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "Macará",
+                        "team2":  "Aucas",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-09",
+                        "team1":  "Vinotinto",
+                        "team2":  "Emelec",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-10",
+                        "team1":  "Orense SC",
+                        "team2":  "Técnico Universitario",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-14",
+                        "team1":  "Mushuc Runa",
+                        "team2":  "Vinotinto",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-15",
+                        "team1":  "Libertad de Loja",
+                        "team2":  "Orense SC",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-15",
+                        "team1":  "Universidad Catolica",
+                        "team2":  "Manta",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "CD Nacional",
+                        "team2":  "Aucas",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-16",
+                        "team1":  "Emelec",
+                        "team2":  "LDU Quito",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-17",
+                        "team1":  "Técnico Universitario",
+                        "team2":  "FC Barcelona",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-28",
+                        "team1":  "FC Barcelona",
+                        "team2":  "Delfino Pescara",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "Vinotinto",
+                        "team2":  "Universidad Catolica",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-29",
+                        "team1":  "Mushuc Runa",
+                        "team2":  "Emelec",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "Macará",
+                        "team2":  "Técnico Universitario",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "Manta",
+                        "team2":  "Libertad de Loja",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-03-30",
+                        "team1":  "CD Nacional",
+                        "team2":  "Orense SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-04",
+                        "team1":  "Libertad de Loja",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Delfino Pescara",
+                        "team2":  "Aucas",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-05",
+                        "team1":  "Orense SC",
+                        "team2":  "Vinotinto",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "Técnico Universitario",
+                        "team2":  "Mushuc Runa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "Universidad Catolica",
+                        "team2":  "Macará",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-06",
+                        "team1":  "Emelec",
+                        "team2":  "Manta",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-09",
+                        "team1":  "Vinotinto",
+                        "team2":  "Delfino Pescara",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-10",
+                        "team1":  "Manta",
+                        "team2":  "Técnico Universitario",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-11",
+                        "team1":  "Emelec",
+                        "team2":  "Libertad de Loja",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-14",
+                        "team1":  "Mushuc Runa",
+                        "team2":  "LDU Quito",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-14",
+                        "team1":  "Orense SC",
+                        "team2":  "FC Barcelona",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-15",
+                        "team1":  "Aucas",
+                        "team2":  "Universidad Catolica",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-18",
+                        "team1":  "LDU Quito",
+                        "team2":  "Aucas",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-18",
+                        "team1":  "FC Barcelona",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Libertad de Loja",
+                        "team2":  "Mushuc Runa",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Técnico Universitario",
+                        "team2":  "Vinotinto",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Universidad Catolica",
+                        "team2":  "Orense SC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-20",
+                        "team1":  "Delfino Pescara",
+                        "team2":  "Macará",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-25",
+                        "team1":  "CD Nacional",
+                        "team2":  "Delfino Pescara",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "Manta",
+                        "team2":  "LDU Quito",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-26",
+                        "team1":  "Macará",
+                        "team2":  "FC Barcelona",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "Aucas",
+                        "team2":  "Mushuc Runa",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-27",
+                        "team1":  "Emelec",
+                        "team2":  "Técnico Universitario",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-28",
+                        "team1":  "Libertad de Loja",
+                        "team2":  "Universidad Catolica",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "LDU Quito",
+                        "team2":  "CD Nacional",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "Técnico Universitario",
+                        "team2":  "Universidad Catolica",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-03",
+                        "team1":  "Mushuc Runa",
+                        "team2":  "Macará",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "Delfino Pescara",
+                        "team2":  "Orense SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-05-04",
+                        "team1":  "FC Barcelona",
+                        "team2":  "Vinotinto",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    }
+                ]
+}

@@ -1,0 +1,2614 @@
+{
+    "name":  "Champions League (CAF)",
+    "code":  "Champions League (CAF)",
+    "source":  "openfootball-extra",
+    "matches":  [
+                    {
+                        "date":  "2023-08-18",
+                        "team1":  "KMKM (ZAN)",
+                        "team2":  "St. George SC (ETH)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-18",
+                        "team1":  "CS Constantine",
+                        "team2":  "Étoile du Sahel (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "Djabal Club (COM)",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "APR FC (RWA)",
+                        "team2":  "Gaadiidka FC (SOM)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "African Stars (NAM)",
+                        "team2":  "Power Dynamos (ZAM)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "CS Bendjé (GAB)",
+                        "team2":  "Bumamuru FC (BDI)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-19",
+                        "team1":  "AS Real Bamako (MLI)",
+                        "team2":  "Coton Sport Garoua (CMR)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "UD Songo (MOZ)",
+                        "team2":  "Green Mamba FC (SWZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Jwaneng Galaxy (BOT)",
+                        "team2":  "Vipers SC (UGA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "CD 1º de Agosto (ANG)",
+                        "team2":  "AS Vita Club (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "AS Ali Sabieh (DJI)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "AS Otôho (CGO)",
+                        "team2":  "Al Merrikh SC (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Medeama SC (GHA)",
+                        "team2":  "Remo Stars (NGA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Dragons Bata (EQG)",
+                        "team2":  "Big Bullets FC (MWI)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "ASKO Kara (TOG)",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Hafia FC (GUI)",
+                        "team2":  "AS Génération Foot (SEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Coton FC (BEN)",
+                        "team2":  "ASEC Mimosas (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-20",
+                        "team1":  "Wau Salaam FC (SSD)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-01",
+                        "team1":  "AS GNN Niamey (NIG)",
+                        "team2":  "AS Douanes (BFA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-24",
+                        "team1":  "Gaadiidka FC (SOM)",
+                        "team2":  "APR FC (RWA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-25",
+                        "team1":  "Bumamuru FC (BDI)",
+                        "team2":  "CS Bendjé (GAB)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-25",
+                        "team1":  "Al Merrikh SC (SDN)",
+                        "team2":  "AS Otôho (CGO)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-25",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "Djabal Club (COM)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Power Dynamos (ZAM)",
+                        "team2":  "African Stars (NAM)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Green Mamba FC (SWZ)",
+                        "team2":  "UD Songo (MOZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "Wau Salaam FC (SSD)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "AS Ali Sabieh (DJI)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Étoile du Sahel (TUN)",
+                        "team2":  "CS Constantine",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "Vipers SC (UGA)",
+                        "team2":  "Jwaneng Galaxy (BOT)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-26",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "ASKO Kara (TOG)",
+                        "score":  {
+                                      "ft":  [
+                                                 7,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "St. George SC (ETH)",
+                        "team2":  "KMKM (ZAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "Big Bullets FC (MWI)",
+                        "team2":  "Dragons Bata (EQG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "Coton Sport Garoua (CMR)",
+                        "team2":  "AS Real Bamako (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "AS Vita Club (COD)",
+                        "team2":  "CD 1º de Agosto (ANG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "ASEC Mimosas (CIV)",
+                        "team2":  "Coton FC (BEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-27",
+                        "team1":  "AS Génération Foot (SEN)",
+                        "team2":  "Hafia FC (GUI)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-08-29",
+                        "team1":  "AS Douanes (BFA)",
+                        "team2":  "AS GNN Niamey (NIG)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-15",
+                        "team1":  "Bumamuru FC (BDI)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "Power Dynamos (ZAM)",
+                        "team2":  "Simba SC (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "Al Merrikh SC (SDN)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "Étoile du Sahel (TUN)",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-16",
+                        "team1":  "AS Real Bamako (MLI)",
+                        "team2":  "FC Nouadhibou (MTN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "APR FC (RWA)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "Big Bullets FC (MWI)",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "Jwaneng Galaxy (BOT)",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "Medeama SC (GHA)",
+                        "team2":  "Horoya AC (GUI)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "CD 1º de Agosto (ANG)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "Hafia FC (GUI)",
+                        "team2":  "Wydad AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-17",
+                        "team1":  "AS Douanes (BFA)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-24",
+                        "team1":  "St. George SC (ETH)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-29",
+                        "team1":  "Pyramids FC",
+                        "team2":  "APR FC (RWA)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-29",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "St. George SC (ETH)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Big Bullets FC (MWI)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "AS Douanes (BFA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "Horoya AC (GUI)",
+                        "team2":  "Medeama SC (GHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Bumamuru FC (BDI)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "Al Merrikh SC (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "Étoile du Sahel (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-09-30",
+                        "team1":  "Wydad AC",
+                        "team2":  "Hafia FC (GUI)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "Simba SC (TAN)",
+                        "team2":  "Power Dynamos (ZAM)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "FC Nouadhibou (MTN)",
+                        "team2":  "AS Real Bamako (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-10-01",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "CD 1º de Agosto (ANG)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-24",
+                        "team1":  "Pyramids FC",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-26",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "FC Nouadhibou (MTN)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "FC Nouadhibou (MTN)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-09",
+                        "team1":  "FC Nouadhibou (MTN)",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-10",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-19",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "FC Nouadhibou (MTN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-19",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "FC Nouadhibou (MTN)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Pyramids FC",
+                        "team2":  "FC Nouadhibou (MTN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "Simba SC (TAN)",
+                        "team2":  "ASEC Mimosas (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "Wydad AC",
+                        "team2":  "Jwaneng Galaxy (BOT)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "Jwaneng Galaxy (BOT)",
+                        "team2":  "Simba SC (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "ASEC Mimosas (CIV)",
+                        "team2":  "Wydad AC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-09",
+                        "team1":  "Jwaneng Galaxy (BOT)",
+                        "team2":  "ASEC Mimosas (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-09",
+                        "team1":  "Wydad AC",
+                        "team2":  "Simba SC (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-19",
+                        "team1":  "Simba SC (TAN)",
+                        "team2":  "Wydad AC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-19",
+                        "team1":  "ASEC Mimosas (CIV)",
+                        "team2":  "Jwaneng Galaxy (BOT)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-23",
+                        "team1":  "ASEC Mimosas (CIV)",
+                        "team2":  "Simba SC (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "Jwaneng Galaxy (BOT)",
+                        "team2":  "Wydad AC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Wydad AC",
+                        "team2":  "ASEC Mimosas (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Simba SC (TAN)",
+                        "team2":  "Jwaneng Galaxy (BOT)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Étoile du Sahel (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-08",
+                        "team1":  "Étoile du Sahel (TUN)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-19",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "Étoile du Sahel (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "Étoile du Sahel (TUN)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-02",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-24",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-11-25",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Medeama SC (GHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-01",
+                        "team1":  "Medeama SC (GHA)",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-02",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-08",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-08",
+                        "team1":  "Medeama SC (GHA)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2023-12-20",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "Medeama SC (GHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-16",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-23",
+                        "team1":  "Medeama SC (GHA)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-02-24",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-01",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Medeama SC (GHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-29",
+                        "team1":  "Simba SC (TAN)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-30",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-03-30",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "ASEC Mimosas (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-05",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Simba SC (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-20",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-26",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-04-26",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-18",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-05-25",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-16",
+                        "team1":  "AS Arta (DJI)",
+                        "team2":  "Dekedaha FC (SOM)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-16",
+                        "team1":  "Milo FC (GUI)",
+                        "team2":  "FC Nouadhibou (MTN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-16",
+                        "team1":  "Mbabane Swallows (SWZ)",
+                        "team2":  "Ferroviário da Beira (MOZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Vital\u0027O (BDI)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "African Stars (NAM)",
+                        "team2":  "Jwaneng Galaxy (BOT)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Aston Villa",
+                        "team2":  "CBE SA Addis Abeba (ETH)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Saint Louis Suns United (SEY)",
+                        "team2":  "GD Sagrada Esperança (ANG)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Red Star Bangui (CTA)",
+                        "team2":  "Djoliba AC (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "AS GNN Niamey (NIG)",
+                        "team2":  "Raja Casablanca",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "AS Douanes (BFA)",
+                        "team2":  "Coton FC (BEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Stade Abidjan (CIV)",
+                        "team2":  "Teungueth FC (SEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-17",
+                        "team1":  "Al Nasr Benghazi (LBY)",
+                        "team2":  "Al Merrikh SC (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Disciples FC (MAD)",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Al Merreikh Juba (SSD)",
+                        "team2":  "Gor Mahia FC (KEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Big Bullets FC (MWI)",
+                        "team2":  "Red Arrows (ZAM)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "AC Léopards (CGO)",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Victoria United (CMR)",
+                        "team2":  "Samartex (GHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "AS PSI (CHA)",
+                        "team2":  "US Monastir (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Azam FC (TAN)",
+                        "team2":  "APR FC (RWA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Remo Stars (NGA)",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "JKU FC (ZAN)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 6
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-18",
+                        "team1":  "Watanga FC (LBR)",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-22",
+                        "team1":  "MC Alger",
+                        "team2":  "Watanga FC (LBR)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-23",
+                        "team1":  "Dekedaha FC (SOM)",
+                        "team2":  "AS Arta (DJI)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-23",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "Disciples FC (MAD)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "CBE SA Addis Abeba (ETH)",
+                        "team2":  "Aston Villa",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "Red Arrows (ZAM)",
+                        "team2":  "Big Bullets FC (MWI)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "Al Merrikh SC (SDN)",
+                        "team2":  "Al Nasr Benghazi (LBY)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "GD Sagrada Esperança (ANG)",
+                        "team2":  "Saint Louis Suns United (SEY)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "Vital\u0027O (BDI)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "APR FC (RWA)",
+                        "team2":  "Azam FC (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "Pyramids FC",
+                        "team2":  "JKU FC (ZAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-24",
+                        "team1":  "Raja Casablanca",
+                        "team2":  "AS GNN Niamey (NIG)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Gor Mahia FC (KEN)",
+                        "team2":  "Al Merreikh Juba (SSD)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Ferroviário da Beira (MOZ)",
+                        "team2":  "Mbabane Swallows (SWZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Coton FC (BEN)",
+                        "team2":  "AS Douanes (BFA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Samartex (GHA)",
+                        "team2":  "Victoria United (CMR)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "US Monastir (TUN)",
+                        "team2":  "AS PSI (CHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "Djoliba AC (MLI)",
+                        "team2":  "Red Star Bangui (CTA)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "FC Nouadhibou (MTN)",
+                        "team2":  "Milo FC (GUI)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "AC Léopards (CGO)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-08-25",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "Remo Stars (NGA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-13",
+                        "team1":  "US Monastir (TUN)",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "CBE SA Addis Abeba (ETH)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Red Arrows (ZAM)",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Al Merrikh SC (SDN)",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Jwaneng Galaxy (BOT)",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "APR FC (RWA)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "AS Douanes (BFA)",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Djoliba AC (MLI)",
+                        "team2":  "ASKO Kara (TOG)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-14",
+                        "team1":  "Mbabane Swallows (SWZ)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "Gor Mahia FC (KEN)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "Samartex (GHA)",
+                        "team2":  "Raja Casablanca",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "Dekedaha FC (SOM)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 4
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "FC San Pédro (CIV)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-15",
+                        "team1":  "Stade Abidjan (CIV)",
+                        "team2":  "Milo FC (GUI)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Red Arrows (ZAM)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Gor Mahia FC (KEN)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Mbabane Swallows (SWZ)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "Jwaneng Galaxy (BOT)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "CBE SA Addis Abeba (ETH)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Dekedaha FC (SOM)",
+                        "score":  {
+                                      "ft":  [
+                                                 8,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Pyramids FC",
+                        "team2":  "APR FC (RWA)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "Raja Casablanca",
+                        "team2":  "Samartex (GHA)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-21",
+                        "team1":  "MC Alger",
+                        "team2":  "US Monastir (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "ASKO Kara (TOG)",
+                        "team2":  "Djoliba AC (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "Milo FC (GUI)",
+                        "team2":  "Stade Abidjan (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "Al Merrikh SC (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-09-22",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "FC San Pédro (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "MC Alger",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-08",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "MC Alger",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-04",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-05",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-10",
+                        "team1":  "MC Alger",
+                        "team2":  "TP Mazembe (COD)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-12",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "Young Africans (TAN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "TP Mazembe (COD)",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "Young Africans (TAN)",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Raja Casablanca",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-15",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Raja Casablanca",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-04",
+                        "team1":  "Raja Casablanca",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-11",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "Raja Casablanca",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-19",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Stade Abidjan (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-07",
+                        "team1":  "Stade Abidjan (CIV)",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "Stade Abidjan (CIV)",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-22",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-03",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-04",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "Stade Abidjan (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-11",
+                        "team1":  "Stade Abidjan (CIV)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 3
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-12",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "CR Bélouizdad",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 2
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "CR Bélouizdad",
+                        "team2":  "Stade Abidjan (CIV)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Pyramids FC",
+                        "team2":  "GD Sagrada Esperança (ANG)",
+                        "score":  {
+                                      "ft":  [
+                                                 5,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-11-26",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Djoliba AC (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-06",
+                        "team1":  "GD Sagrada Esperança (ANG)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-08",
+                        "team1":  "Djoliba AC (MLI)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-14",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2024-12-15",
+                        "team1":  "Djoliba AC (MLI)",
+                        "team2":  "GD Sagrada Esperança (ANG)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-05",
+                        "team1":  "GD Sagrada Esperança (ANG)",
+                        "team2":  "Djoliba AC (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-05",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-11",
+                        "team1":  "GD Sagrada Esperança (ANG)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-12",
+                        "team1":  "Djoliba AC (MLI)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "GD Sagrada Esperança (ANG)",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-01-18",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Djoliba AC (MLI)",
+                        "score":  {
+                                      "ft":  [
+                                                 6,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-01",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Espérance de Tunis (TUN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-01",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Al Hilal Omdurman (SDN)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-01",
+                        "team1":  "Pyramids FC",
+                        "team2":  "FAR de Rabat",
+                        "score":  {
+                                      "ft":  [
+                                                 4,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-01",
+                        "team1":  "MC Alger",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-08",
+                        "team1":  "Al Hilal Omdurman (SDN)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-08",
+                        "team1":  "FAR de Rabat",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 2,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-08",
+                        "team1":  "Espérance de Tunis (TUN)",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-09",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "MC Alger",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Mamelodi Sundowns (RSA)",
+                        "team2":  "Al Ahly SC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-19",
+                        "team1":  "Orlando Pirates (RSA)",
+                        "team2":  "Pyramids FC",
+                        "score":  {
+                                      "ft":  [
+                                                 0,
+                                                 0
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-25",
+                        "team1":  "Al Ahly SC",
+                        "team2":  "Mamelodi Sundowns (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 1,
+                                                 1
+                                             ]
+                                  }
+                    },
+                    {
+                        "date":  "2025-04-25",
+                        "team1":  "Pyramids FC",
+                        "team2":  "Orlando Pirates (RSA)",
+                        "score":  {
+                                      "ft":  [
+                                                 3,
+                                                 2
+                                             ]
+                                  }
+                    }
+                ]
+}
