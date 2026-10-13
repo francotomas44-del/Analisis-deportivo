@@ -31,8 +31,8 @@
       '<span class="bar-val">' + pct(p) + '</span></div>';
   }
 
-  function card(title, inner, extraClass) {
-    return '<div class="market' + (extraClass ? " " + extraClass : "") + '"><div class="title">' + esc(title) + '</div>' + inner + '</div>';
+  function card(title, inner, extraClass, tip) {
+    return '<div class="market' + (extraClass ? " " + extraClass : "") + '"><div class="title"' + (tip ? ' data-tip="' + esc(tip) + '"' : "") + '>' + esc(title) + '</div>' + inner + '</div>';
   }
 
   /* ---------- navegación ---------- */
@@ -351,15 +351,19 @@
       "</div>";
 
     var market =
-      '<div class="panel"><h2>Probabilidades principales</h2><div class="market-grid">' +
+      '<div class="panel"><h2 data-tip="Las apuestas centrales del partido: resultado 1X2, goles, ambos marcan y primer gol.">Probabilidades principales</h2><div class="market-grid">' +
       card("Resultado final (1X2)",
-        barRow(hn + " (1)", m.homeWin) + barRow("Empate (X)", m.draw) + barRow(an + " (2)", m.awayWin), "market--wide") +
+        barRow(hn + " (1)", m.homeWin) + barRow("Empate (X)", m.draw) + barRow(an + " (2)", m.awayWin), "market--wide",
+        "Probabilidad de que gane el local (1), empate (X) o gane el visitante (2), según el modelo de goles.") +
       card("Más / menos goles",
-        barRow("Más 2.5", m.over25) + barRow("Menos 2.5", m.under25)) +
+        barRow("Más 2.5", m.over25) + barRow("Menos 2.5", m.under25), null,
+        "Probabilidad de que se marquen más o menos de 2.5 goles en total.") +
       card("Ambos marcan",
-        barRow("Sí", m.btts) + barRow("No", m.noBtts)) +
+        barRow("Sí", m.btts) + barRow("No", m.noBtts), null,
+        "Probabilidad de que los dos equipos anoten al menos un gol.") +
       card("Primer gol",
-        barRow(hn, r.output.firstGoalHome) + barRow(an, r.output.firstGoalAway) + barRow("Sin goles", r.output.firstGoalNone)) +
+        barRow(hn, r.output.firstGoalHome) + barRow(an, r.output.firstGoalAway) + barRow("Sin goles", r.output.firstGoalNone), null,
+        "Qué equipo marca primero o si el partido termina sin goles.") +
       "</div></div>";
 
     // líneas de goles
@@ -373,47 +377,53 @@
       return "<tr><td>" + c.h + " - " + c.a + "</td><td>" + pct(c.p) + "</td></tr>";
     }).join("");
 
-    var markets2 = '<div class="panel"><h2>Goles y marcadores</h2><div class="market-grid">' +
+    var markets2 = '<div class="panel"><h2 data-tip="Distribución de goles totales por línea y los marcadores exactos más probables.">Goles y marcadores</h2><div class="market-grid">' +
       card("Líneas de goles totales",
-        '<div class="table-wrap"><table><thead><tr><th>Línea</th><th>Más</th><th>Menos</th></tr></thead><tbody>' + linesRows + "</tbody></table></div>") +
+        '<div class="table-wrap"><table><thead><tr><th>Línea</th><th>Más</th><th>Menos</th></tr></thead><tbody>' + linesRows + "</tbody></table></div>", null,
+        "Probabilidad de más/menos goles para distintas líneas totales (1.5, 2.5, 3.5…).") +
       card("Marcadores más probables",
-        '<div class="table-wrap"><table><thead><tr><th>Resultado</th><th>Prob.</th></tr></thead><tbody>' + scores + "</tbody></table></div>") +
+        '<div class="table-wrap"><table><thead><tr><th>Resultado</th><th>Prob.</th></tr></thead><tbody>' + scores + "</tbody></table></div>", null,
+        "Los marcadores exactos con mayor probabilidad según el modelo.") +
       "</div></div>";
 
     // córners y tarjetas
     var sp = r.output.setPieces;
-    var setp = '<div class="panel"><h2>Córners y tarjetas (estimaciones)</h2><div class="market-grid">' +
+    var setp = '<div class="panel"><h2 data-tip="Córners y tarjetas esperados por equipo, estimados desde el historial (amarillas y rojas por separado).">Córners y tarjetas (estimaciones)</h2><div class="market-grid">' +
       card("Córners",
         kv("Local", num2(sp.corners.home)) + kv("Visitante", num2(sp.corners.away)) + kv("Total", num2(sp.corners.total)) +
-        '<p class="muted">' + (sp.corners.hasData ? "Basado en datos históricos de córners." : "Sin datos: valores de referencia.") + "</p>") +
+        '<p class="muted">' + (sp.corners.hasData ? "Basado en datos históricos de córners." : "Sin datos: valores de referencia.") + "</p>", null,
+        "Córners esperados del local, el visitante y el total, según el historial.") +
       card("Tarjetas",
         '<p class="muted" style="margin:0 0 .4rem">Amarillas (local / visitante / total)</p>' +
         kv("Local", num2(sp.cards.yellow.home)) + kv("Visitante", num2(sp.cards.yellow.away)) + kv("Total", num2(sp.cards.yellow.total)) +
         '<p class="muted" style="margin:.7rem 0 .4rem">Rojas (local / visitante / total)</p>' +
         kv("Local", num2(sp.cards.red.home)) + kv("Visitante", num2(sp.cards.red.away)) + kv("Total", num2(sp.cards.red.total)) +
-        '<p class="muted" style="margin-top:.6rem">' + (sp.cards.hasData ? "Basado en datos históricos por equipo (amarillas y rojas)." : "Sin datos: valores de referencia.") + "</p>") +
+        '<p class="muted" style="margin-top:.6rem">' + (sp.cards.hasData ? "Basado en datos históricos por equipo (amarillas y rojas)." : "Sin datos: valores de referencia.") + "</p>", null,
+        "Tarjetas esperadas por equipo, con las amarillas y las rojas estimadas por separado.") +
       "</div></div>";
 
     // simulación
     var sim = r.output.simulation;
-    var simPanel = '<div class="panel"><h2>Escenarios (simulación de Monte Carlo)</h2>' +
+    var simPanel = '<div class="panel"><h2 data-tip="10.000 partidos simulados desde los goles esperados, incluyendo un escenario de expulsión temprana.">Escenarios (simulación de Monte Carlo)</h2>' +
       '<p class="muted">' + sim.runs.toLocaleString() + " partidos simulados. Incluye un escenario de expulsión temprana (prob. 6%).</p>" +
       '<div class="market-grid">' +
       card("1X2 simulado",
-        barRow(hn, sim.homeWin) + barRow("Empate", sim.draw) + barRow(an, sim.awayWin)) +
+        barRow(hn, sim.homeWin) + barRow("Empate", sim.draw) + barRow(an, sim.awayWin), null,
+        "Resultado 1X2 obtenido de la simulación de Monte Carlo (10.000 partidos).") +
       card("Otros escenarios",
         kv("Total medio de goles", num2(sim.avgTotal)) +
         kv("Portería a cero " + hn, pct(sim.cleanSheetHome)) +
-        kv("Portería a cero " + an, pct(sim.cleanSheetAway))) +
+        kv("Portería a cero " + an, pct(sim.cleanSheetAway)), null,
+        "Promedio de goles y probabilidad de que cada equipo deje su portería a cero, según la simulación.") +
       "</div></div>";
 
     // contexto
-    var ctx = '<div class="panel"><h2>Contexto y datos usados</h2>';
-    ctx += "<h3>Ajustes contextuales</h3>";
+    var ctx = '<div class="panel"><h2 data-tip="Qué ajustes se aplicaron, los datos base de cada equipo y las advertencias del cálculo.">Contexto y datos usados</h2>';
+    ctx += '<h3 data-tip="Ajustes aplicados al modelo: forma reciente, descanso, bajas y clima, entre otros.">Ajustes contextuales</h3>';
     ctx += r.adjustments.length
       ? '<ul class="steps">' + r.adjustments.map(function (a) { return "<li>" + esc(a) + "</li>"; }).join("") + "</ul>"
       : '<p class="muted">No se aplicaron ajustes contextuales.</p>';
-    ctx += "<h3>Datos base</h3>";
+    ctx += '<h3 data-tip="Promedios de goles e historial de cada equipo que alimentan el modelo.">Datos base</h3>';
     ctx += '<div class="table-wrap"><table><thead><tr><th>Métrica</th><th>' + esc(hn) + "</th><th>" + esc(an) + "</th></tr></thead><tbody>" +
       statRow("Partidos registrados", r.homeStats.matches, r.awayStats.matches) +
       statRow("Goles a favor / part.", num2(r.homeStats.goalsForAvg), num2(r.awayStats.goalsForAvg)) +
@@ -422,7 +432,7 @@
       "</tbody></table></div>";
     ctx += '<p class="muted">Promedio de goles de la liga — local: ' + num2(r.baseline.homeGoals) + " · visitante: " + num2(r.baseline.awayGoals) + " (sobre " + r.baseline.matches + " partidos).</p>";
     if (r.notes.length) {
-      ctx += "<h3>Advertencias y limitaciones</h3><ul class='notes'>" +
+      ctx += '<h3 data-tip="Avisos sobre datos faltantes o poco fiables en este análisis.">Advertencias y limitaciones</h3><ul class="notes">' +
         r.notes.map(function (n) { return '<li class="' + (n.warn ? "warn" : "") + '">' + esc(n.text) + "</li>"; }).join("") + "</ul>";
     }
     ctx += "</div>";
@@ -437,7 +447,7 @@
           "</td><td><strong>" + mm.homeGoals + " - " + mm.awayGoals + "</strong></td><td>" + esc(aa ? aa.name : "?") +
           "</td><td>" + esc(mm.competition || "") + "</td></tr>";
       }).join("");
-      h2hPanel = '<div class="panel"><h2>Enfrentamientos directos (historial)</h2>' +
+      h2hPanel = '<div class="panel"><h2 data-tip="Partidos previos entre ambos equipos tomados de la base (datos exactos).">Enfrentamientos directos (historial)</h2>' +
         '<div class="kv">' +
         kv("Partidos totales", h2h.total) +
         kv("Victorias " + hn, h2h.aWins) +
@@ -450,7 +460,7 @@
         h2hRows + "</tbody></table></div>" +
         '<p class="muted">Resultados ya ocurridos (categoría A). Cuantos más cruces cargues, más sólida es esta lectura.</p></div>';
     } else {
-      h2hPanel = '<div class="panel"><h2>Enfrentamientos directos (historial)</h2>' +
+      h2hPanel = '<div class="panel"><h2 data-tip="Partidos previos entre ambos equipos tomados de la base (datos exactos).">Enfrentamientos directos (historial)</h2>' +
         '<p class="muted">No hay cruces registrados entre estos equipos en la base.</p></div>';
     }
 
@@ -459,7 +469,7 @@
     var markovPanel = "";
     var comparePanel = "";
     if (mk) {
-      markovPanel = '<div class="panel"><h2>Cadena de Markov (racha del equipo)</h2>' +
+      markovPanel = '<div class="panel"><h2 data-tip="Proyección 1X2 según la secuencia de resultados de cada equipo (victoria, empate, derrota).">Cadena de Markov (racha del equipo)</h2>' +
         '<p class="muted">El estado es el <strong>último resultado</strong> de cada equipo (V = victoria, E = empate, D = derrota). La matriz de transición se estima de su historial real; con el último estado se proyecta el <strong>próximo resultado</strong> y se combinan ambas cadenas en una probabilidad 1X2.</p>' +
         '<div class="market-grid">' +
         markovCard(hn, mk.home) +
@@ -467,20 +477,22 @@
         "</div>" +
         '<div class="market-grid" style="margin-top:.6rem">' +
         card("1X2 por cadena de Markov",
-          barRow(hn + " (1)", mk.combined.homeWin) + barRow("Empate (X)", mk.combined.draw) + barRow(an + " (2)", mk.combined.awayWin)) +
+          barRow(hn + " (1)", mk.combined.homeWin) + barRow("Empate (X)", mk.combined.draw) + barRow(an + " (2)", mk.combined.awayWin), null,
+          "Resultado 1X2 proyectado por la cadena de Markov a partir de la racha de cada equipo.") +
         card("Lectura de la cadena",
           kv("Último resultado " + hn, resultLabel(mk.home.last)) +
           kv("Último resultado " + an, resultLabel(mk.away.last)) +
           kv("Tendencia largo plazo " + hn, resultShort(modeOf(mk.home.steady))) +
           kv("Tendencia largo plazo " + an, resultShort(modeOf(mk.away.steady))) +
-          '<p class="muted">Cada fila de la matriz es «desde» y cada columna «hacia» (V/E/D). Con pocos partidos, la fila se acerca a la frecuencia histórica del equipo.</p>') +
+          '<p class="muted">Cada fila de la matriz es «desde» y cada columna «hacia» (V/E/D). Con pocos partidos, la fila se acerca a la frecuencia histórica del equipo.</p>', null,
+          "Último resultado y tendencia de largo plazo de cada equipo.") +
         "</div></div>";
     }
 
     var cmpPanel = "";
     if (mk) {
       var mc = r.output.simulation;
-      cmpPanel = '<div class="panel"><h2>Comparación: Monte Carlo vs Markov</h2>' +
+      cmpPanel = '<div class="panel"><h2 data-tip="Compara los dos métodos del sistema: Monte Carlo (desde los goles) y Markov (desde la racha).">Comparación: Monte Carlo vs Markov</h2>' +
         '<p class="muted">Mismo partido visto por dos métodos. La última columna es la diferencia en puntos porcentuales (Markov − Monte Carlo).</p>' +
         '<div class="table-wrap"><table><thead><tr><th>Resultado</th><th>Modelo de goles</th><th>Monte Carlo</th><th>Markov</th><th>Markov − MC</th></tr></thead><tbody>' +
         cmpRow(hn + " (1)", m.homeWin, mc.homeWin, mk.combined.homeWin) +
@@ -491,7 +503,7 @@
     }
 
     // contexto (análisis fundamental): se completa de forma asíncrona
-    var contextoPanel = '<div class="panel"><h2>Contexto (análisis fundamental)</h2>' +
+    var contextoPanel = '<div class="panel"><h2 data-tip="Noticias del cruce y de cada equipo (ESPN). Es contexto cualitativo: no modifica el modelo.">Contexto (análisis fundamental)</h2>' +
       '<p class="muted">Últimas noticias por equipo y del cruce, desde la API pública de ESPN (en español). Google News no es consultable desde el navegador (CORS): cada bloque incluye un enlace de búsqueda.</p>' +
       '<p style="margin:.4rem 0"><button id="btn-contexto-refresh" class="btn btn-mini" type="button">Actualizar noticias</button></p>' +
       '<div id="contexto-cuerpo"><p class="muted">Cargando noticias…</p></div></div>';
@@ -540,7 +552,9 @@
       '<p class="muted">Últimos ' + t.sequence.length + " partidos: " + (seq || "—") + "</p>" +
       barRow("Gana", t.next.W) + barRow("Empata", t.next.D) + barRow("Pierde", t.next.L) +
       '<div class="table-wrap"><table><thead><tr><th>Desde \\ Hacia</th><th>V</th><th>E</th><th>D</th></tr></thead><tbody>' + matRows + "</tbody></table></div>" +
-      '<p class="muted">' + t.samples + " partidos · " + t.transitions + " transiciones" + (t.reliable ? "." : " (muestra baja).") + "</p>");
+      '<p class="muted">' + t.samples + " partidos · " + t.transitions + " transiciones" + (t.reliable ? "." : " (muestra baja).") + "</p>",
+      null,
+      "Racha reciente y matriz de transición del equipo (V/E/D): cómo cambia su próximo resultado según el último.");
   }
   function cmpRow(label, base, mc, mk) {
     var diff = mk - mc;
@@ -564,23 +578,23 @@
       (n.detail ? '<div class="muted">' + esc(n.detail) + "</div>" : "") +
       '<div class="news-meta">' + meta + "</div></li>";
   }
-  function newsBlock(title, items, searchQuery) {
+  function newsBlock(title, items, searchQuery, tip) {
     var body = (items && items.length)
       ? '<ul class="news-list">' + items.map(newsItemHtml).join("") + "</ul>"
       : '<p class="muted">Sin noticias recientes en la fuente disponible.</p>';
     var link = (AD.news && AD.news.googleNewsUrl)
       ? '<p class="news-meta"><a href="' + esc(AD.news.googleNewsUrl(searchQuery)) + '" target="_blank" rel="noopener">Buscar en Google News →</a></p>'
       : "";
-    return '<div class="market"><div class="title">' + esc(title) + "</div>" + body + link + "</div>";
+    return '<div class="market"><div class="title"' + (tip ? ' data-tip="' + esc(tip) + '"' : "") + ">" + esc(title) + "</div>" + body + link + "</div>";
   }
   function renderContexto(r, res) {
     var host = $("contexto-cuerpo");
     if (!host) return;
     var hn = r.input.homeName, an = r.input.awayName;
     host.innerHTML = '<div class="market-grid">' +
-      newsBlock("Partido: " + hn + " vs " + an, res.match, hn + " vs " + an) +
-      newsBlock(hn, res.home.items, hn) +
-      newsBlock(an, res.away.items, an) +
+      newsBlock("Partido: " + hn + " vs " + an, res.match, hn + " vs " + an, "Noticias que mencionan a los dos equipos del cruce.") +
+      newsBlock(hn, res.home.items, hn, "Últimas noticias del equipo local.") +
+      newsBlock(an, res.away.items, an, "Últimas noticias del equipo visitante.") +
       "</div>";
   }
   function contextoFallback(r, msg) {
@@ -968,7 +982,7 @@
 
     var h = res.headToHead;
     if (h && h.n) {
-      html += "<h3>Historial directo (" + h.n.toLocaleString("es") + " partidos)</h3>";
+      html += '<h3 data-tip="Enfrentamientos previos entre ambos equipos y cómo se portó el modelo en esos cruces.">Historial directo (' + h.n.toLocaleString("es") + " partidos)</h3>";
       html += '<p class="muted">' + esc(nA) + " " + h.aWins + " · empates " + h.draws + " · " + esc(nB) + " " + h.bWins +
         ". Modelo en esos partidos: aciertos " + (h.accuracy * 100).toFixed(1) + "%, Brier " + h.brier.toFixed(3) + ".</p>";
       html += '<p class="muted">Goles de ' + esc(nA) + ": esperado " + h.expForAvg.toFixed(2) + " → real " + h.actForAvg.toFixed(2) +

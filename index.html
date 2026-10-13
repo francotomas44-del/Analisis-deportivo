@@ -14,7 +14,7 @@
   <link rel="icon" href="img/logo.png?v=2" type="image/png" />
   <link rel="apple-touch-icon" href="img/icon-192.png" />
   <link rel="manifest" href="manifest.webmanifest" />
-  <link rel="stylesheet" href="css/styles.css?v=8" />
+  <link rel="stylesheet" href="css/styles.css?v=11" />
   <link rel="stylesheet" href="css/v2.css?v=4" />
 </head>
 <body>
@@ -22,7 +22,7 @@
     <div class="brand">
       <img class="brand-logo" src="img/logo.png?v=2" alt="Futbolityx" width="48" height="48" />
       <div>
-        <h1>Futbolityx</h1>
+        <h1 data-tip="Pronósticos de fútbol con base histórica, simulación e informes; todo se calcula en tu navegador.">Futbolityx</h1>
         <p class="brand-sub">Pronósticos de fútbol, claros y honestos</p>
       </div>
     </div>
@@ -62,7 +62,7 @@
     <!-- EQUIPOS -->
     <section class="view" id="view-equipos">
       <div class="panel">
-        <h2>Nuevo equipo</h2>
+        <h2 data-tip="Cargá un equipo a mano (nombre y liga opcional) para usarlo en análisis y partidos.">Nuevo equipo</h2>
         <form id="form-equipo" class="form-row">
           <label class="field">
             <span>Nombre del equipo</span>
@@ -76,7 +76,7 @@
         </form>
       </div>
       <div class="panel">
-        <h2>Equipos cargados</h2>
+        <h2 data-tip="Lista de todos los equipos de la base con su historial; desde acá podés eliminarlos.">Equipos cargados</h2>
         <div id="tabla-equipos"></div>
       </div>
     </section>
@@ -84,7 +84,7 @@
     <!-- PARTIDOS -->
     <section class="view" id="view-partidos">
       <div class="panel">
-        <h2>Registrar resultado de un partido</h2>
+        <h2 data-tip="Cargá un partido ya jugado con su resultado y, si querés, córners, tarjetas y árbitro. Alimenta el modelo.">Registrar resultado de un partido</h2>
         <form id="form-partido" class="form-grid">
           <label class="field">
             <span>Fecha</span>
@@ -133,7 +133,7 @@
         <p class="muted" id="partido-hint"></p>
       </div>
       <div class="panel">
-        <h2>Historial de partidos</h2>
+        <h2 data-tip="Todos los partidos registrados con resultado, córners y tarjetas. Se puede filtrar por equipo o competición.">Historial de partidos</h2>
         <div class="form-row">
           <label class="field" style="flex:1">
             <span>Filtrar por equipo o competición</span>
@@ -148,7 +148,7 @@
     <!-- ANALISIS -->
     <section class="view" id="view-analisis">
       <div class="panel">
-        <h2>Configurar análisis</h2>
+        <h2 data-tip="Elegí los equipos y el contexto (competición, descanso, forma reciente, bajas, clima) y generá el pronóstico completo.">Configurar análisis</h2>
         <div class="form-grid">
           <label class="field">
             <span>Equipo local</span>
@@ -197,7 +197,7 @@
     <!-- PREDICCIONES -->
     <section class="view" id="view-predicciones">
       <div class="panel">
-        <h2>Predicciones registradas</h2>
+        <h2 data-tip="Tus pronósticos guardados. Quedan congelados al guardarse; cargá el resultado real para evaluarlos.">Predicciones registradas</h2>
         <p class="muted">Cada predicción queda congelada al guardarse. Cargá el resultado real para habilitar la evaluación.</p>
         <div id="tabla-predicciones"></div>
       </div>
@@ -206,12 +206,12 @@
     <!-- EVALUACION -->
     <section class="view" id="view-evaluacion" data-adv="1">
       <div class="panel">
-        <h2>Métricas globales</h2>
+        <h2 data-tip="Resumen de tu desempeño: aciertos, error y calibración de todas las predicciones cerradas.">Métricas globales</h2>
         <p class="muted">Se calculan sobre predicciones cerradas (con resultado real cargado).</p>
         <div id="metricas-globales"></div>
       </div>
       <div class="panel">
-        <h2>Detalle por predicción</h2>
+        <h2 data-tip="Desglose de cada predicción cerrada: probabilidades, escenario elegido y si acertó.">Detalle por predicción</h2>
         <div id="tabla-evaluacion"></div>
       </div>
     </section>
@@ -219,7 +219,7 @@
     <!-- BACKTESTING -->
     <section class="view" id="view-backtesting" data-adv="1">
       <div class="panel">
-        <h2>Backtesting del modelo</h2>
+        <h2 data-tip="Evalúa el modelo sobre partidos ya jugados usando sólo información previa a cada fecha (walk-forward): aciertos, Brier, Log Loss, error de goles y calibración.">Backtesting del modelo</h2>
         <p class="muted">Evalúa las predicciones del sistema sobre partidos <strong>ya jugados</strong>, usando para cada partido <strong>solo la información anterior a su fecha</strong> (walk-forward, sin mirar el futuro ni hacer trampa con el resultado). Mide qué tan bien calibrado está el modelo sobre una muestra amplia; no garantiza resultados individuales.</p>
         <div class="form-grid">
           <label class="field">
@@ -255,7 +255,7 @@
       </div>
 
       <div class="panel">
-        <h2>Comparar dos equipos</h2>
+        <h2 data-tip="Informe histórico de un cruce: cómo se portó el modelo con cada equipo y sus enfrentamientos directos.">Comparar dos equipos</h2>
         <p class="muted">Elegí <strong>dos equipos cualesquiera</strong> para comparar cómo le fue al modelo en sus partidos (mismo criterio walk-forward, con los filtros de arriba) y su historial directo entre sí.</p>
         <div class="form-grid">
           <label class="field">
@@ -275,19 +275,19 @@
       </div>
 
       <div class="panel">
-        <h2>Resultados globales</h2>
+        <h2 data-tip="Resumen agregado del backtesting: métricas globales y comparación con la referencia ingenua.">Resultados globales</h2>
         <div id="bt-metricas" class="grid-cards"></div>
         <p class="muted" id="bt-baseline"></p>
       </div>
 
       <div class="panel">
-        <h2>Calibración</h2>
+        <h2 data-tip="Compara la probabilidad que el modelo asigna al resultado más probable con la frecuencia real de acierto.">Calibración</h2>
         <p class="muted">Compara la probabilidad que el modelo asigna al resultado que considera más probable con la frecuencia real de acierto. Cuanto más cerca estén <em>prob. media</em> y <em>frec. observada</em>, mejor calibrado.</p>
         <div id="bt-calibracion"></div>
       </div>
 
       <div class="panel">
-        <h2>Detalle (muestra)</h2>
+        <h2 data-tip="Muestra de partidos evaluados con su predicción y resultado, para revisar caso por caso.">Detalle (muestra)</h2>
         <p class="muted" id="bt-detalle-nota"></p>
         <div id="bt-detalle"></div>
       </div>
@@ -296,7 +296,7 @@
     <!-- INFORME -->
     <section class="view" id="view-informe" data-adv="1">
       <div class="panel">
-        <h2>Generar informe</h2>
+        <h2 data-tip="Elegí una predicción guardada y generá un informe completo (datos, estimaciones, contexto y probabilidades), listo para copiar o imprimir.">Generar informe</h2>
         <div class="form-row">
           <label class="field">
             <span>Predicción</span>
@@ -313,13 +313,13 @@
     <!-- FUENTES -->
     <section class="view" id="view-fuentes" data-adv="1">
       <div class="panel">
-        <h2>Resumen de datos cargados</h2>
+        <h2 data-tip="Cuántos equipos, partidos y competiciones hay cargados, y dónde se guardan.">Resumen de datos cargados</h2>
         <div class="grid-cards" id="fuentes-resumen"></div>
         <p class="muted">Persistencia en <strong>IndexedDB</strong> (con respaldo en localStorage). Ver <code>docs/apis-datos.md</code> para el detalle de fuentes y límites.</p>
       </div>
 
       <div class="panel">
-        <h2>Fuentes de los datos</h2>
+        <h2 data-tip="De dónde sale cada dato (openfootball y ESPN), su cobertura y sus límites.">Fuentes de los datos</h2>
         <p class="muted">La base histórica integrada combina <strong>cinco fuentes</strong> descargadas localmente (≈155.500 partidos, ≈2.100 equipos y 100 competiciones tras deduplicar y unificar nombres). <strong>openfootball</strong> (GitHub, datos libres de dominio público) aporta Mundiales, Eurocopas, copas y primeras divisiones; su <strong>historia anterior</strong> y la <strong>temporada en curso</strong> de las ligas ya cubiertas se completan desde la API pública de <strong>ESPN</strong>; y un paso extra de openfootball agrega <strong>competiciones nuevas</strong> (África, MLS, CONCACAF, Sudamérica, Asia…). La <strong>Liga Profesional Argentina</strong> se descarga de ESPN (historial 2001 y 2003–2026) y queda separada por <strong>torneo</strong> (Apertura, Clausura, Inicial, Final, Superliga, Liga Profesional, etc.). La portada <strong>"Hoy"</strong> consulta ESPN en vivo para los próximos partidos (petición anónima y cacheada; se puede desactivar).</p>
         <ul class="notes">
           <li><strong>openfootball</strong> — Copas del Mundo (1930–2026), Eurocopas, UEFA Champions League, copas nacionales y primeras divisiones (2010-11 a 2026-27). 203 archivos, 52.015 partidos.</li>
@@ -334,7 +334,7 @@
       </div>
 
       <div class="panel">
-        <h2>Copia de seguridad y guardado</h2>
+        <h2 data-tip="Descargá o restaurá una copia de tus datos (equipos, partidos y predicciones) en formato JSON.">Copia de seguridad y guardado</h2>
         <p class="muted">Tus datos se guardan solos en este navegador (<strong>IndexedDB</strong> + respaldo en <strong>localStorage</strong>) y se conservan al recargar. Aun así conviene tener una copia: descargala y, si algún día abrís la app desde <strong>otra dirección u otro navegador</strong>, restáurala acá.</p>
         <div class="form-actions">
           <button class="btn btn-primary" id="btn-export" type="button">Descargar copia (JSON)</button>
@@ -350,7 +350,7 @@
       </div>
 
       <div class="panel">
-        <h2>Recargar la base histórica</h2>
+        <h2 data-tip="Volvé a cargar la base histórica completa. Reemplaza los datos actuales.">Recargar la base histórica</h2>
         <p class="muted">Si necesitás incorporar o volver a cargar la base completa (por ejemplo, tras borrar todo), usá el botón <strong>Cargar base</strong> de la barra superior (o el botón del primer uso, «Cargar partidos y empezar»). Reemplaza los datos actuales.</p>
       </div>
     </section>
@@ -358,13 +358,13 @@
     <!-- ACERCA -->
     <section class="view" id="view-acerca">
       <div class="panel">
-        <h2>Acerca del sistema</h2>
+        <h2 data-tip="Cómo funciona el modelo, qué mide el backtesting y qué límites tiene.">Acerca del sistema</h2>
         <p>Esta aplicación implementa, del lado del cliente, los principios descritos en el <code>Readme.md</code> del proyecto: evidencia antes que intuición, probabilidad antes que certeza, trazabilidad y honestidad estadística.</p>
-        <h3>Modelo estadístico</h3>
+        <h3 data-tip="Poisson con corrección Dixon-Coles, más Monte Carlo y una cadena de Markov sobre el historial.">Modelo estadístico</h3>
         <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía, con corrección <strong>Dixon-Coles</strong> para marcadores bajos. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas se apoyan en una base de datos por partido y equipo. Sobre esa base se añaden dos lecturas independientes: una <strong>simulación de Monte Carlo</strong> (10.000 partidos) y una <strong>cadena de Markov</strong> que modela la racha del equipo (transiciones entre victoria, empate y derrota). Los parámetros del modelo (suavizado, temperatura y correlación) se <strong>calibraron con el backtesting</strong>.</p>
-        <h3>Backtesting</h3>
+        <h3 data-tip="Evalúa el modelo con walk-forward: para cada partido usa sólo información anterior a su fecha.">Backtesting</h3>
         <p>La pestaña <strong>Backtesting</strong> evalúa el modelo sobre partidos ya jugados con <em>walk-forward</em>: para cada partido sólo usa la información anterior a su fecha (sin look-ahead). Reporta aciertos, Brier, Log Loss, error de goles y calibración, y los compara con una referencia ingenua (climatología del período). Los resultados no son una garantía: miden el desempeño agregado del modelo.</p>
-        <h3>Clasificación de resultados (según el README)</h3>
+        <h3 data-tip="Distingue datos exactos, estimaciones, predicciones, escenarios y contexto. Cada cosa con su nivel de certeza.">Clasificación de resultados (según el README)</h3>
         <ul>
           <li><strong>A. Datos exactos:</strong> resultados y estadísticas ya ocurridas.</li>
           <li><strong>B. Estimaciones cuantitativas:</strong> goles esperados, córners y tarjetas estimados.</li>
@@ -372,27 +372,26 @@
           <li><strong>D. Escenarios condicionales:</strong> simulación de Monte Carlo y cadena de Markov (racha del equipo).</li>
           <li><strong>E. Contexto:</strong> noticias del partido y de cada equipo (cualitativo, no entra en las probabilidades).</li>
         </ul>
-        <h3>Contexto (análisis fundamental)</h3>
-        <h3>Contexto (análisis fundamental)</h3>
+        <h3 data-tip="Últimas noticias del partido y de cada equipo (título, detalle, fuente y enlace). Es contexto cualitativo: no modifica el modelo.">Contexto (análisis fundamental)</h3>
         <p>La pestaña <strong>Analizar</strong> incluye las últimas <strong>noticias</strong> del partido y de cada equipo (mínimo 2 por equipo cuando las hay), con título, pequeño detalle, fuente, fecha y enlace. Se toman de la <strong>API pública de ESPN</strong> en español y se cachean. Google News no se puede leer desde el navegador (bloqueo CORS), por eso cada bloque ofrece un botón <strong>"Buscar en Google News"</strong>. Es una lectura complementaria: no modifica el modelo. También se incluye en el informe.</p>
-        <h3>Tarjetas amarillas y rojas</h3>
+        <h3 data-tip="Tarjetas y córners por partido y equipo; las tarjetas se estiman por separado (amarillas y rojas).">Tarjetas amarillas y rojas</h3>
         <p>La base incorpora <strong>tarjetas (amarillas y rojas) y córners por partido y equipo</strong> para las ligas con cobertura de ESPN, tomados del detalle público de cada partido. En <strong>Analizar</strong>, las tarjetas se estiman <strong>por separado</strong> (amarillas y rojas) combinando lo que recibe cada equipo con lo que concede su rival; si un equipo no tiene datos suficientes, se usan valores de referencia y se avisa en las notas. La pestaña <strong>Equipos</strong> muestra el promedio de amarillas y rojas por partido de cada equipo.</p>
-        <h3>Límites</h3>
+        <h3 data-tip="Ningún modelo garantiza un resultado exacto; la fiabilidad se mide en muestras amplias, no en un partido.">Límites</h3>
         <p>Ningún modelo puede garantizar un resultado exacto. Un modelo bien calibrado puede fallar en partidos individuales. La fiabilidad se demuestra sobre muestras amplias, no en un partido aislado.</p>
         <p class="muted">Esta app no genera estadísticas ni resultados: sólo procesa los datos que vos cargás.</p>
       </div>
 
       <div class="panel" id="aviso-legal">
-        <h2>Aviso legal y privacidad</h2>
-        <h3>Naturaleza del contenido</h3>
+        <h2 data-tip="Naturaleza del contenido, apuestas, privacidad, fuentes y licencia.">Aviso legal y privacidad</h2>
+        <h3 data-tip="Futbolityx da estimaciones probabilísticas, no hechos ni garantías.">Naturaleza del contenido</h3>
         <p>Futbolityx es una herramienta <strong>informativa y estadística</strong>. Genera <strong>estimaciones probabilísticas</strong>, no hechos ni garantías. Un modelo bien calibrado puede fallar en partidos individuales. No prometemos predicciones infalibles.</p>
-        <h3>Sin asesoramiento de apuestas</h3>
+        <h3 data-tip="La app no es un servicio de apuestas ni da consejos; el uso es responsabilidad de cada persona.">Sin asesoramiento de apuestas</h3>
         <p>Esta app <strong>no es un servicio de apuestas</strong>: no procesa pagos ni apuestas, no muestra cuotas de casas de apuestas y no ofrece consejos de apuestas. Si decidís usar la información con fines de apuestas, es tu entera responsabilidad: debe ser <strong>legal en tu país</strong> y debés ser <strong>mayor de 18 años</strong>. Apostar conlleva riesgo de pérdida y puede generar adicción; si lo necesitás, buscá ayuda profesional.</p>
-        <h3>Privacidad</h3>
+        <h3 data-tip="No se recolectan ni transmiten datos: todo se guarda sólo en tu navegador.">Privacidad</h3>
         <p>No recolectamos ni transmitimos datos personales. Toda la información (equipos, partidos y predicciones) se guarda <strong>únicamente en tu navegador</strong> (IndexedDB, con respaldo en localStorage). No hay cuentas, cookies de seguimiento ni analítica. La copia de seguridad (JSON) se genera y queda en tu propio dispositivo.</p>
-        <h3>Datos y fuentes</h3>
+        <h3 data-tip="De dónde salen los datos (openfootball y ESPN) y su uso nominativo.">Datos y fuentes</h3>
         <p>La base histórica proviene de <strong>openfootball</strong>, dedicada al <strong>dominio público</strong> (&laquo;use as you please with no restrictions whatsoever&raquo;). El detalle de <strong>tarjetas y córners</strong> por partido proviene de la <strong>API pública de ESPN</strong>. Los nombres de equipos, ligas y competiciones se usan de forma <strong>nominativa</strong> (son hechos) y no implican afiliación ni respaldo. Esta app <strong>no</strong> usa escudos ni logos oficiales. Ver <code>docs/atribuciones.md</code>.</p>
-        <h3>Licencia</h3>
+        <h3 data-tip="Código bajo licencia MIT; los datos de terceros conservan su licencia.">Licencia</h3>
         <p>El código de Futbolityx se distribuye bajo licencia <strong>MIT</strong> (ver <code>LICENSE</code>). Los datos de terceros conservan su licencia original.</p>
         <p class="muted">Este aviso es orientativo y no constituye asesoramiento legal.</p>
       </div>
@@ -427,7 +426,8 @@
   <script src="js/dataset.js?v=12"></script>
   <script src="js/backtest.js?v=5"></script>
   <script src="js/news.js?v=1"></script>
-  <script src="js/app.js?v=11"></script>
-  <script src="js/v2.js?v=10"></script>
+  <script src="js/tips.js?v=2"></script>
+  <script src="js/app.js?v=12"></script>
+  <script src="js/v2.js?v=11"></script>
 </body>
 </html>

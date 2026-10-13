@@ -269,7 +269,11 @@
     try {
       document.title = BRAND.name + " — " + BRAND.claim;
       var h1 = document.querySelector(".brand h1");
-      if (h1) h1.textContent = BRAND.name;
+      if (h1) {
+        var first = h1.firstChild;
+        if (first && first.nodeType === 3) first.nodeValue = BRAND.name;
+        else h1.insertBefore(document.createTextNode(BRAND.name), h1.firstChild);
+      }
       var sub = document.querySelector(".brand-sub");
       if (sub) sub.textContent = BRAND.claim;
       var logo = document.querySelector(".brand img");
@@ -589,7 +593,7 @@
 
     host.innerHTML =
       '<div class="hoy-head">' +
-        '<div><h2 class="hoy-title">Partidos y pronósticos</h2>' +
+        '<div><h2 class="hoy-title" data-tip="Partidos próximos con su pronóstico 1X2 (local, empate, visita), marcador más probable y nivel de confianza.">Partidos y pronósticos</h2>' +
         '<p class="muted" id="hoy-sub">Cargando próximos partidos…</p></div>' +
       "</div>" +
       '<div id="hoy-list">' + skeleton(4) + "</div>";
@@ -610,7 +614,7 @@
       '<section class="onboard">' +
         '<div class="onboard-orb" aria-hidden="true"></div>' +
         '<span class="hero-pill">&#9917; ' + esc(BRAND.name) + "</span>" +
-        '<h2 class="onboard-title">Pronósticos de fútbol en segundos</h2>' +
+        '<h2 class="onboard-title" data-tip="Futbolityx calcula pronósticos de fútbol con datos históricos, simulación e informes. Todo se procesa en tu navegador.">Pronósticos de fútbol en segundos</h2>' +
         '<p class="onboard-sub">Mirá las probabilidades de los próximos partidos, calculadas 100% en tu navegador. ' +
           "Sin registro, sin cuentas, gratis.</p>" +
         '<div class="onboard-actions">' +

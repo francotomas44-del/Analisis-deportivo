@@ -111,6 +111,17 @@ público de cada partido (banderas `yellowCard`/`redCard` con su equipo, y `wonC
 Cobertura actual: **≈60.600 partidos** con tarjetas en 22 ligas (más Argentina), con promedios
 realistas (≈4,1 amarillas y ≈0,28 rojas por partido). Ver [`tarjetas.md`](tarjetas.md).
 
+## Ayuda en cada sección (icono «!»)
+
+Al lado del título de **cada sección y microsección** hay un pequeño círculo blanco con un signo **!**
+(más chico que el título). Al pasar el cursor por encima —o al enfocarlo— aparece un **resumen** de para
+qué sirve esa parte: qué mide, de dónde salen los datos y cómo leerla.
+
+- Se implementa en `js/tips.js`: cualquier elemento marcado con `data-tip="..."` recibe el botón, tanto en
+  el HTML estático como en lo que se genera después (paneles del análisis, tarjetas de mercados, noticias
+  y portada «Hoy»), mediante un `MutationObserver`.
+- Estilos en `css/styles.css` (`.info-tip` + tooltip con `::after`). Se oculta al imprimir.
+
 ## Cambiar la marca
 
 En `js/v2.js`:

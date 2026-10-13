@@ -484,6 +484,8 @@ td strong { color: #fff; }
   box-shadow: 0 0 10px 0 rgba(34, 227, 154, 0.8);
   flex: none;
 }
+/* El círculo de ayuda ya queda separado por el "gap" del flex del título. */
+.market .title .info-tip { margin-left: 0; }
 /* Tarjeta protagonista (1X2) */
 .market--wide { grid-column: 1 / -1; }
 .market--wide .bar-row { font-size: 1rem; margin: 0.5rem 0; }
@@ -703,4 +705,86 @@ td strong { color: #fff; }
   .topbar, .tabs, .footer, .panel:not(.print-area), #view-informe > .panel:not(.print-area) { display: none !important; }
   body { background: #fff; color: #000; }
   .print-area { border: none; box-shadow: none; color: #000; background: #fff; }
+  .info-tip { display: none !important; }
+}
+
+/* =========================================================
+   Botón de ayuda "!" con tooltip
+   Círculo blanco pequeño junto al título de cada sección y
+   microsección. Al pasar el cursor (o enfocar con teclado)
+   muestra un resumen de para qué sirve esa sección.
+   ========================================================= */
+.info-tip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 1.15em;
+  height: 1.15em;
+  margin-left: 0.5em;
+  vertical-align: middle;
+  border-radius: 50%;
+  background: #ffffff;
+  color: #0b1220;
+  font-size: 0.66em;
+  font-weight: 800;
+  line-height: 1;
+  font-style: normal;
+  cursor: help;
+  user-select: none;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+.info-tip:hover,
+.info-tip:focus,
+.info-tip:focus-visible {
+  transform: translateY(-1px);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.16);
+  outline: none;
+}
+.info-tip::after {
+  content: attr(data-tip);
+  position: absolute;
+  top: calc(100% + 9px);
+  left: 50%;
+  z-index: 80;
+  width: max-content;
+  max-width: min(280px, 78vw);
+  padding: 0.55rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: #0b1220;
+  color: var(--text);
+  font-size: 0.82rem;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: 0;
+  text-align: left;
+  white-space: normal;
+  text-transform: none;
+  box-shadow: 0 18px 40px -20px rgba(0, 0, 0, 0.95);
+  transform: translateX(calc(-50% + var(--info-tip-shift, 0px))) translateY(-4px);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+/* Si el título está cerca del borde derecho, el JS corre el globo lo justo
+   para que no se salga de la pantalla. Si no hay lugar abajo, lo muestra arriba. */
+.info-tip--up::after {
+  top: auto;
+  bottom: calc(100% + 9px);
+  transform: translateX(calc(-50% + var(--info-tip-shift, 0px))) translateY(4px);
+}
+.info-tip:hover::after,
+.info-tip:focus::after,
+.info-tip:focus-visible::after {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(calc(-50% + var(--info-tip-shift, 0px))) translateY(0);
+}
+@media (hover: none) {
+  /* En táctil, el toque mantiene el foco y muestra el tooltip. */
+  .info-tip { cursor: pointer; }
 }
