@@ -9,7 +9,7 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
   (licencia CC0), sin API key, en JSON estático. Se descargan y quedan **locales** en
   `data/openfootball/`, por lo que la app **no consulta internet en tiempo de uso**.
   Reproducido por `scripts/build-dataset.ps1`.
-- **openfootball — historia anterior** (`source: "espn-history"`) — tramo que
+- **ESPN — historia anterior** (`source: "espn-history"`) — tramo que
   openfootball no publica (divisiones antiguas y temporadas previas a 2010-11),
   descargado de la API pública de **ESPN** por `scripts/build-espn-history.ps1` y
   guardado en `data/espn-history/<código>.json`.
@@ -59,7 +59,7 @@ Cobertura por tipo:
   previos a 2010-11, ancladas al primer partido que ya tiene cada liga.
 - **Copas nacionales** — FA Cup (Inglaterra), Copa do Brasil y copas de Austria.
 
-Cada partido real es un dato real; nada se inventa.
+Cada dato es real; nada se inventa.
 
 ## Cómo se carga
 
