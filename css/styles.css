@@ -488,12 +488,14 @@ td strong { color: #fff; }
 .market--wide { grid-column: 1 / -1; }
 .market--wide .bar-row { font-size: 1rem; margin: 0.5rem 0; }
 .market--wide .bar-track { height: 15px; }
-.market--wide .bar-label { width: 150px; color: var(--text); font-weight: 600; }
+.market--wide .bar-label { color: var(--text); font-weight: 600; }
 .market--wide .bar-val { width: 68px; font-size: 1.05rem; }
 
-.bar-row { display: flex; align-items: center; gap: 0.6rem; margin: 0.4rem 0; font-size: 0.86rem; }
-.bar-row .bar-label { width: 100px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.bar-row .bar-track { flex: 1; height: 10px; background: rgba(255, 255, 255, 0.06); border-radius: 999px; overflow: hidden; }
+/* Barras con etiqueta legible: la etiqueta NUNCA se recorta. Si el nombre es
+   largo, el texto se envuelve y la barra pasa a la línea siguiente. */
+.bar-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem 0.6rem; margin: 0.4rem 0; font-size: 0.86rem; }
+.bar-row .bar-label { flex: 0 1 auto; min-width: 0; overflow-wrap: anywhere; color: var(--muted); }
+.bar-row .bar-track { flex: 1 1 70px; min-width: 70px; height: 10px; background: rgba(255, 255, 255, 0.06); border-radius: 999px; overflow: hidden; }
 .bar-row .bar-fill {
   height: 100%;
   border-radius: 999px;
@@ -501,7 +503,7 @@ td strong { color: #fff; }
   box-shadow: 0 0 12px -2px rgba(34, 227, 154, 0.7);
   transition: width 0.4s ease;
 }
-.bar-row .bar-val { width: 58px; text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+.bar-row .bar-val { flex: 0 0 auto; width: 58px; text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
 
 /* Contexto: noticias (análisis fundamental) */
 .news-list { list-style: none; margin: 0; padding: 0; }
