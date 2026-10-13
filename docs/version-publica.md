@@ -84,6 +84,15 @@ resultado y combina local y visitante en una probabilidad 1X2. Se muestra en un 
 una tabla que la **compara con Monte Carlo** (diferencia en puntos porcentuales) y en el **informe exportable**.
 Ver [`markov.md`](markov.md).
 
+## Contexto — análisis fundamental (noticias)
+
+La pestaña **Analizar** suma una sección de **análisis fundamental** llamada **"Contexto"**: las
+últimas noticias del **partido** y de **cada equipo** (mínimo 2 por equipo cuando hay), con
+título, pequeño detalle, fuente, fecha y enlace. Se alimenta de la **API pública de ESPN** en
+español (gratis, con CORS) y se cachea. Google News no se puede leer desde el navegador (bloqueo
+CORS), así que cada bloque incluye un botón **"Buscar en Google News →"**. También aparece en el
+informe exportable (sección 5). Ver [`contexto.md`](contexto.md).
+
 ## Cambiar la marca
 
 En `js/v2.js`:

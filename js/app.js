@@ -10,6 +10,7 @@
   var BT = window.AD.backtest;
 
   var lastAnalysis = null; // resultado del último análisis (para guardar)
+  var contextoToken = 0;   // evita pisar noticias si se analiza otro partido mientras cargan
 
   /* ---------- utilidades ---------- */
   function $(id) { return document.getElementById(id); }
@@ -468,7 +469,17 @@
         '<p class="muted">Monte Carlo simula 10.000 partidos desde los goles esperados; Markov proyecta la racha según el historial de resultados. Si ambos coinciden, la estimación es más estable.</p></div>';
     }
 
-    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + markovPanel + cmpPanel + h2hPanel + ctx;
+    // contexto (análisis fundamental): se completa de forma asíncrona
+    var contextoPanel = '<div class="panel"><h2>Contexto (análisis fundamental)</h2>' +
+      '<p class="muted">Últimas noticias por equipo y del cruce, desde la API pública de ESPN (en español). Google News no es consultable desde el navegador (CORS): cada bloque incluye un enlace de búsqueda.</p>' +
+      '<p style="margin:.4rem 0"><button id="btn-contexto-refresh" class="btn btn-mini" type="button">Actualizar noticias</button></p>' +
+      '<div id="contexto-cuerpo"><p class="muted">Cargando noticias…</p></div></div>';
+
+    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + markovPanel + cmpPanel + contextoPanel + h2hPanel + ctx;
+
+    var ctxBtn = $("btn-contexto-refresh");
+    if (ctxBtn) ctxBtn.addEventListener("click", refreshContexto);
+    loadContexto(r);
   }
 
   function statRow(k, a, b) {
@@ -516,6 +527,79 @@
       "</td><td>" + ppSigned(diff) + "</td></tr>";
   }
   function ppSigned(x) { return (x >= 0 ? "+" : "") + (x * 100).toFixed(1) + " pp"; }
+
+  /* ---------- contexto: noticias (análisis fundamental) ---------- */
+  function newsDate(d) {
+    var t = Date.parse(d);
+    if (!t) return d;
+    return new Date(t).toLocaleDateString("es", { day: "2-digit", month: "short", year: "numeric" });
+  }
+  function newsItemHtml(n) {
+    var meta = esc(n.source || "ESPN") + (n.date ? " · " + esc(newsDate(n.date)) : "");
+    var title = n.url
+      ? '<a href="' + esc(n.url) + '" target="_blank" rel="noopener">' + esc(n.title) + "</a>"
+      : esc(n.title);
+    return "<li>" + title +
+      (n.detail ? '<div class="muted">' + esc(n.detail) + "</div>" : "") +
+      '<div class="news-meta">' + meta + "</div></li>";
+  }
+  function newsBlock(title, items, searchQuery) {
+    var body = (items && items.length)
+      ? '<ul class="news-list">' + items.map(newsItemHtml).join("") + "</ul>"
+      : '<p class="muted">Sin noticias recientes en la fuente disponible.</p>';
+    var link = (AD.news && AD.news.googleNewsUrl)
+      ? '<p class="news-meta"><a href="' + esc(AD.news.googleNewsUrl(searchQuery)) + '" target="_blank" rel="noopener">Buscar en Google News →</a></p>'
+      : "";
+    return '<div class="market"><div class="title">' + esc(title) + "</div>" + body + link + "</div>";
+  }
+  function renderContexto(r, res) {
+    var host = $("contexto-cuerpo");
+    if (!host) return;
+    var hn = r.input.homeName, an = r.input.awayName;
+    host.innerHTML = '<div class="market-grid">' +
+      newsBlock("Partido: " + hn + " vs " + an, res.match, hn + " vs " + an) +
+      newsBlock(hn, res.home.items, hn) +
+      newsBlock(an, res.away.items, an) +
+      "</div>";
+  }
+  function contextoFallback(r, msg) {
+    var host = $("contexto-cuerpo");
+    if (!host) return;
+    var q = r ? (r.input.homeName + " vs " + r.input.awayName) : "futbol";
+    var link = (AD.news && AD.news.googleNewsUrl)
+      ? '<p class="news-meta"><a href="' + esc(AD.news.googleNewsUrl(q)) + '" target="_blank" rel="noopener">Buscar en Google News →</a></p>'
+      : "";
+    host.innerHTML = '<p class="muted">' + esc(msg) + "</p>" + link;
+  }
+  function loadContexto(r) {
+    if (!AD.news || !AD.news.forMatch) { contextoFallback(r, "Módulo de noticias no disponible."); return; }
+    contextoToken += 1;
+    var token = contextoToken;
+    AD.news.forMatch(r.input.homeName, r.input.awayName).then(function (res) {
+      if (token !== contextoToken) return;
+      if (r.output) r.output.contexto = res;
+      renderContexto(r, res);
+    }).catch(function () {
+      if (token !== contextoToken) return;
+      contextoFallback(r, "No se pudieron cargar las noticias (sin conexión o fuente no disponible).");
+    });
+  }
+  function refreshContexto() {
+    var r = lastAnalysis;
+    if (!r || !AD.news || !AD.news.forMatch) return;
+    var host = $("contexto-cuerpo");
+    if (host) host.innerHTML = '<p class="muted">Actualizando noticias…</p>';
+    contextoToken += 1;
+    var token = contextoToken;
+    AD.news.forMatch(r.input.homeName, r.input.awayName, { fresh: true }).then(function (res) {
+      if (token !== contextoToken) return;
+      if (r.output) r.output.contexto = res;
+      renderContexto(r, res);
+    }).catch(function () {
+      if (token !== contextoToken) return;
+      contextoFallback(r, "No se pudieron actualizar las noticias.");
+    });
+  }
 
   /* ---------- guardar / listar predicciones ---------- */
   function savePrediction() {
@@ -947,7 +1031,23 @@
     L.push("   - 1X2 simulado: " + pct(sim.homeWin) + " / " + pct(sim.draw) + " / " + pct(sim.awayWin));
     L.push("   - Total medio simulado: " + num2(sim.avgTotal));
     L.push("");
-    L.push("5. CADENA DE MARKOV (categoría D) — secuencia de resultados V/E/D");
+    L.push("5. CONTEXTO (análisis fundamental) — noticias recientes");
+    if (o.contexto) {
+      var ctx = o.contexto;
+      var newsParts = [["Partido", ctx.match], [p.homeName, ctx.home && ctx.home.items], [p.awayName, ctx.away && ctx.away.items]];
+      newsParts.forEach(function (pr) {
+        var items = pr[1] || [];
+        L.push("   - " + pr[0] + ": " + (items.length ? items.length + " nota(s)" : "sin noticias recientes"));
+        items.forEach(function (n) {
+          L.push("       · " + n.title + (n.detail ? " — " + n.detail : "") + (n.date ? " (" + String(n.date).slice(0, 10) + ")" : ""));
+        });
+      });
+      L.push("   - Fuente: ESPN. Los enlaces se ven en pantalla (pestaña Analizar).");
+    } else {
+      L.push("   - No disponible: las noticias se cargan en la pestaña Analizar; si guardaste la predicción antes de que cargaran, no quedaron registradas.");
+    }
+    L.push("");
+    L.push("6. CADENA DE MARKOV (categoría D) — secuencia de resultados V/E/D");
     if (o.markov) {
       var mk = o.markov;
       L.push("   - Últimos resultados de " + p.homeName + ": " + mkSeqText(mk.home) + " (último: " + resultLabel(mk.home.last) + ", racha " + mk.home.streak.n + ")");
@@ -964,10 +1064,10 @@
       L.push("   - No disponible: predicción anterior a la incorporación de la cadena de Markov.");
     }
     L.push("");
-    L.push("6. CONFIANZA");
+    L.push("7. CONFIANZA");
     L.push("   - Nivel: " + p.confidence.label + " (" + p.confidence.score.toFixed(0) + "/100)");
     L.push("");
-    L.push("7. FUNDAMENTOS");
+    L.push("8. FUNDAMENTOS");
     if (p.input && p.input.generatedAt) {
       L.push("   - Configuración: énfasis forma reciente " + (((p.input.recency || 0) * 100).toFixed(0)) + "%; descanso local " + (p.input.restHome) + " días, visitante " + (p.input.restAway) + " días.");
       L.push("   - Alineaciones confirmadas: " + (p.input.lineups ? "sí" : "no") + ".");
@@ -975,13 +1075,13 @@
       L.push("   - Clima adverso: " + (p.input.meteo ? "sí" : "no") + ".");
     }
     L.push("");
-    L.push("8. LIMITACIONES");
+    L.push("9. LIMITACIONES");
     L.push("   - Las predicciones son estimaciones probabilísticas, no hechos confirmados.");
     L.push("   - Acontecimientos aleatorios (expulsiones, penales, errores) no pueden predecirse.");
     L.push("   - La fiabilidad del modelo se demuestra sobre muestras amplias de partidos.");
     if (p.result) {
       L.push("");
-      L.push("9. RESULTADO REAL Y EVALUACIÓN");
+      L.push("10. RESULTADO REAL Y EVALUACIÓN");
       L.push("   - Resultado: " + p.result.homeGoals + " - " + p.result.awayGoals);
       var actual = M.outcomeFromScore(p.result.homeGoals, p.result.awayGoals);
       L.push("   - Resultado observado: " + outcomeName(actual));

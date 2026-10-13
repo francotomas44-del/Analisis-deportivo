@@ -370,7 +370,10 @@
           <li><strong>B. Estimaciones cuantitativas:</strong> goles esperados, córners y tarjetas estimados.</li>
           <li><strong>C. Predicciones probabilísticas:</strong> 1X2, más/menos, ambos marcan.</li>
           <li><strong>D. Escenarios condicionales:</strong> simulación de Monte Carlo y cadena de Markov (racha del equipo).</li>
+          <li><strong>E. Contexto:</strong> noticias del partido y de cada equipo (cualitativo, no entra en las probabilidades).</li>
         </ul>
+        <h3>Contexto (análisis fundamental)</h3>
+        <p>La pestaña <strong>Analizar</strong> incluye las últimas <strong>noticias</strong> del partido y de cada equipo (mínimo 2 por equipo cuando las hay), con título, pequeño detalle, fuente, fecha y enlace. Se toman de la <strong>API pública de ESPN</strong> en español y se cachean. Google News no se puede leer desde el navegador (bloqueo CORS), por eso cada bloque ofrece un botón <strong>"Buscar en Google News"</strong>. Es una lectura complementaria: no modifica el modelo. También se incluye en el informe.</p>
         <h3>Límites</h3>
         <p>Ningún modelo puede garantizar un resultado exacto. Un modelo bien calibrado puede fallar en partidos individuales. La fiabilidad se demuestra sobre muestras amplias, no en un partido aislado.</p>
         <p class="muted">Esta app no genera estadísticas ni resultados: sólo procesa los datos que vos cargás.</p>
@@ -420,7 +423,8 @@
   <script src="js/store.js?v=7"></script>
   <script src="js/dataset.js?v=10"></script>
   <script src="js/backtest.js?v=5"></script>
-  <script src="js/app.js?v=9"></script>
+  <script src="js/news.js?v=1"></script>
+  <script src="js/app.js?v=10"></script>
   <script src="js/v2.js?v=10"></script>
 </body>
 </html>

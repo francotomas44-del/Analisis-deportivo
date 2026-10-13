@@ -503,6 +503,16 @@ td strong { color: #fff; }
 }
 .bar-row .bar-val { width: 58px; text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
 
+/* Contexto: noticias (análisis fundamental) */
+.news-list { list-style: none; margin: 0; padding: 0; }
+.news-list li { padding: 0.55rem 0; border-top: 1px solid var(--border-soft); }
+.news-list li:first-child { border-top: 0; padding-top: 0; }
+.news-list a { color: var(--text); font-weight: 600; text-decoration: none; }
+.news-list a:hover { color: var(--accent); text-decoration: underline; }
+.news-list .muted { font-size: 0.82rem; line-height: 1.35; margin-top: 0.2rem; }
+.news-meta { font-size: 0.72rem; color: var(--muted); margin-top: 0.25rem; }
+.news-meta a { color: var(--accent-2); }
+
 /* =========================================================
    Etiquetas, chips, listas
    ========================================================= */
