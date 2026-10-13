@@ -122,6 +122,33 @@ qué sirve esa parte: qué mide, de dónde salen los datos y cómo leerla.
   y portada «Hoy»), mediante un `MutationObserver`.
 - Estilos en `css/styles.css` (`.info-tip` + tooltip con `::after`). Se oculta al imprimir.
 
+## Cuotas y valor (EV + Kelly)
+
+El análisis pasó de "probabilidades" a **decisiones de apuesta**. En **Analizar**, debajo de las
+probabilidades, hay un panel **Cuotas y valor**:
+
+- Se ingresan las cuotas **1 / X / 2** que ofrece la casa (y, opcionalmente, **Más/Menos 2.5** y
+  **Ambos marcan**). Acepta coma o punto decimal (`3,10` o `3.10`).
+- Para cada mercado se calcula: **cuota justa** (1 ÷ probabilidad), **Edge** (puntos porcentuales
+  por encima/debajo de lo que paga), **valor esperado (EV)** y **stake de Kelly** (completo, medio o
+  cuarto) según la **banca** que se indique.
+- Cada mercado se marca como **Valor** (EV ≥ +2%), **Justo** o **Sin valor** (EV ≤ −2%), se destaca
+  la **mejor apuesta** y se muestra el **margen de la casa** (1X2).
+- Las cuotas ingresadas quedan guardadas en el pronóstico (**Guardar predicción**).
+- Es una herramienta **estadística**, no una recomendación de apuesta (ver texto de responsabilidad
+  en *Acerca de*). Fórmulas: `EV = p × cuota − 1`; `Kelly = (p × cuota − 1) ÷ (cuota − 1)`.
+
+## Equipos unificados por defecto
+
+Un mismo club podía aparecer partido en varias fichas (`Liverpool FC` y `Liverpool FC (ENG)`,
+`Peñarol (URU)` y `CA Peñarol (URU)`, nombres contaminados con goleadores, etc.), fragmentando su
+historial y haciendo fácil elegir la ficha equivocada. Ahora `AD.stats.config.unifyTeams` está
+**encendido por defecto**: al iniciar (o al cargar la base) se fusionan las variantes y se remapean
+sus partidos. Se ampliaron los tokens genéricos de club (`CA`, `CR`, `SC`, `SE`, `CD`, `SV`, …) en
+`js/store.js`. Resultado sobre la base actual: **263 equipos fusionados**, sin fusiones entre clubes
+de países distintos (la única coincidencia entre países es **AS Monaco (FRA/MCO)**, el mismo club).
+Ver [`backtesting.md`](backtesting.md).
+
 ## Cambiar la marca
 
 En `js/v2.js`:

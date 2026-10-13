@@ -135,8 +135,10 @@ precisión, sólo reduce el error de forma medible. El MAE de goles no cambia po
 
 Con el objetivo de **subir la tasa de aciertos** se exploraron varias mejoras. El **ensamble con Elo** (sección
 anterior) sí funciona y **se adoptó**; las **dos** de abajo no suben los aciertos, así que **quedaron apagadas
-por defecto** (flags experimentales en `AD.stats.config`, ambos en `false`: `compHomeAdv` y `unifyTeams`) y
-disponibles para experimentar desde la consola del navegador.
+para el backtesting** (flag `compHomeAdv` en `false` en `AD.stats.config`). La **unificación de nombres**
+(`unifyTeams`) **sí se activó por defecto** en la app por **calidad de datos** —evita que un mismo club quede
+partido en varias fichas y que el usuario elija la equivocada—, aunque su efecto medido en las métricas del
+backtesting sea neutro/levemente negativo.
 
 ### 1) Unificar nombres de equipos
 
@@ -146,6 +148,9 @@ variante. Se implementó `store.canonicalName` / `store.canonicalMap` / `store.u
 `unifyTeams` del backtesting (remapea los ids en memoria, sin tocar los datos persistidos).
 
 - Se auditaron los **91 grupos** de fusión: todos son el mismo club, sin falsos positivos.
+- Con los tokens genéricos ampliados (`CA`, `CR`, `SC`, `SE`, `CD`, `SV`, …) la base deduplica **194 grupos /
+  263 equipos**: el mismo club con/sin código de país, con/sin sigla, y nombres contaminados con goleadores
+  (`"Meidericher (Metzger 83…)"`). La única coincidencia entre países es **AS Monaco (FRA/MCO)**, el mismo club.
 - Con más historia por club se evalúan 245 partidos adicionales (menos descartes por historial mínimo).
 - Pero el remapeo **no mejora las métricas**: al mezclar competiciones en la fuerza del club (p. ej. forma en
   Champions vs doméstica) empeora un poco incluso sobre el **mismo conjunto evaluado** (`minHistory=0`):

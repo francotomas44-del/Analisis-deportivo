@@ -12,7 +12,7 @@
      temperature: escalado de las probabilidades 1X2 (1 = sin cambios, >1 = menos confiado).
      smoothing: constante k de suavizado hacia la media (mayor = más regularizado).
      compHomeAdv: localía por competición (0 = off, usar la global). */
-  var config = { rho: -0.03, temperature: 1.06, smoothing: 12, compHomeAdv: false, unifyTeams: false,
+  var config = { rho: -0.03, temperature: 1.06, smoothing: 12, compHomeAdv: false, unifyTeams: true,
     // Segundo modelo (rating Elo) ensamblado con el de goles. Medido y adoptado por subir aciertos
     // y mejorar Brier/LogLoss (ver docs/backtesting.md). weight = 0 lo desactiva.
     elo: { weight: 0.55, K: 25, hfa: 70, nu: 0.7 } };

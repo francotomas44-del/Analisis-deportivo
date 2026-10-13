@@ -508,7 +508,12 @@
       '<p style="margin:.4rem 0"><button id="btn-contexto-refresh" class="btn btn-mini" type="button">Actualizar noticias</button></p>' +
       '<div id="contexto-cuerpo"><p class="muted">Cargando noticias…</p></div></div>';
 
-    $("resultado-analisis").innerHTML = head + market + markets2 + setp + simPanel + markovPanel + cmpPanel + contextoPanel + h2hPanel + ctx;
+    // cuotas y valor (EV + Kelly)
+    var valuePanel = valuePanelHTML(r);
+
+    $("resultado-analisis").innerHTML = head + market + valuePanel + markets2 + setp + simPanel + markovPanel + cmpPanel + contextoPanel + h2hPanel + ctx;
+
+    wireValuePanel(r);
 
     var ctxBtn = $("btn-contexto-refresh");
     if (ctxBtn) ctxBtn.addEventListener("click", refreshContexto);
@@ -524,6 +529,147 @@
   function badgeClass(label) {
     return ({ "Alta": "alta", "Media": "media", "Baja": "baja", "Muy baja": "muy-baja" })[label] || "pending";
   }
+
+  /* ---------- Valor vs cuotas: EV + Kelly ----------
+     Convierte las probabilidades del modelo en decisiones de apuesta: si la
+     cuota que ofrece la casa paga más de lo que vale (EV>0), cuánto conviene
+     arriesgar (Kelly) y una cuota justa de referencia (1/probabilidad). */
+  var VALUE_IDS = ["valor-o1", "valor-ox", "valor-o2", "valor-oover", "valor-ounder",
+    "valor-obtts", "valor-onobtts", "valor-bank", "valor-kelly"];
+
+  function valueMarkets(r) {
+    var m = r.output.markets, hn = r.input.homeName, an = r.input.awayName;
+    return [
+      { id: "valor-o1", label: hn + " (1)", p: m.homeWin, grp: "1x2" },
+      { id: "valor-ox", label: "Empate (X)", p: m.draw, grp: "1x2" },
+      { id: "valor-o2", label: an + " (2)", p: m.awayWin, grp: "1x2" },
+      { id: "valor-oover", label: "Más 2.5 goles", p: m.over25 },
+      { id: "valor-ounder", label: "Menos 2.5 goles", p: m.under25 },
+      { id: "valor-obtts", label: "Ambos marcan: Sí", p: m.btts },
+      { id: "valor-onobtts", label: "Ambos marcan: No", p: m.noBtts }
+    ];
+  }
+
+  function oddsVal(id) {
+    var e = $(id);
+    if (!e) return NaN;
+    var n = parseFloat(String(e.value).replace(",", "."));
+    return isFinite(n) && n > 1 ? n : NaN;
+  }
+  function money(x) { return "$" + Math.round(x).toLocaleString("es-AR"); }
+
+  function valuePanelHTML(r) {
+    function field(x) {
+      return '<label class="field"><span>' + esc(x.label) + "</span>" +
+        '<input type="text" inputmode="decimal" autocomplete="off" id="' + x.id + '" placeholder="cuota (ej. 2,10)" /></label>';
+    }
+    var mk = valueMarkets(r);
+    var main = mk.filter(function (x) { return x.grp === "1x2"; }).map(field).join("");
+    var other = mk.filter(function (x) { return x.grp !== "1x2"; }).map(field).join("");
+    return '<div class="panel" id="valor-panel">' +
+      '<h2 data-tip="Cargá las cuotas de tu casa de apuestas: el sistema calcula el valor esperado (EV), la cuota justa y el stake de Kelly para cada mercado.">Cuotas y valor (EV + Kelly)</h2>' +
+      '<p class="muted">Acá las probabilidades se vuelven <strong>decisiones</strong>: ingresá las cuotas que te ofrece la casa y el sistema marca dónde la cuota <strong>paga más de lo que vale</strong> según el modelo, con la cuota justa y el stake sugerido.</p>' +
+      '<div class="form-grid">' + main + "</div>" +
+      '<details class="valor-more"><summary>Más mercados (opcional): goles y ambos marcan</summary>' +
+        '<div class="form-grid" style="margin-top:.6rem">' + other + "</div></details>" +
+      '<div class="form-grid" style="margin-top:.6rem">' +
+        '<label class="field"><span>Banca total (para el stake)</span><input type="number" inputmode="numeric" min="0" step="100" id="valor-bank" value="10000" /></label>' +
+        '<label class="field"><span>Fracción de Kelly</span><select id="valor-kelly">' +
+          '<option value="1">Kelly completo</option><option value="0.5" selected>Medio Kelly</option>' +
+          '<option value="0.25">Cuarto de Kelly</option><option value="0">Solo EV (sin stake)</option></select></label>' +
+      "</div>" +
+      '<div id="valor-out" class="valor-out"><p class="muted">Cargá al menos una cuota para ver si hay valor.</p></div>' +
+      '<p class="muted valor-help">EV = probabilidad del modelo × cuota − 1 · Cuota justa = 1 ÷ probabilidad · ' +
+        "Kelly = (probabilidad × cuota − 1) ÷ (cuota − 1). El stake es una sugerencia matemática, no una garantía: apostá solo lo que puedas perder (18+).</p>" +
+    "</div>";
+  }
+
+  function wireValuePanel(r) {
+    if (!$("valor-panel")) return;
+    var saved = r.input.odds || {};
+    VALUE_IDS.forEach(function (id) {
+      var e = $(id);
+      if (!e) return;
+      if (saved[id] != null && saved[id] !== "") e.value = saved[id];
+      var h = function () { persistOdds(r); renderValue(r); };
+      e.addEventListener("input", h);
+      e.addEventListener("change", h);
+    });
+    renderValue(r);
+  }
+
+  function persistOdds(r) {
+    var o = {};
+    VALUE_IDS.forEach(function (id) { var e = $(id); if (e) o[id] = e.value; });
+    r.input.odds = o;
+  }
+
+  function renderValue(r) {
+    var host = $("valor-out");
+    if (!host) return;
+    var mk = valueMarkets(r);
+    var bankEl = $("valor-bank"), kEl = $("valor-kelly");
+    var bank = bankEl ? (parseFloat(bankEl.value) || 0) : 0;
+    var kf = kEl ? parseFloat(kEl.value) : 0.5;
+    if (!isFinite(kf)) kf = 0.5;
+
+    var rows = [];
+    mk.forEach(function (x) {
+      var odd = oddsVal(x.id);
+      if (!isFinite(odd)) return;
+      var ev = x.p * odd - 1;
+      var kelly = Math.max(0, ev / (odd - 1));
+      rows.push({
+        label: x.label, p: x.p, odd: odd, fair: 1 / x.p,
+        ev: ev, edge: (x.p - 1 / odd) * 100,
+        kelly: kelly, stake: bank * kf * Math.min(kelly, 1)
+      });
+    });
+
+    var o1 = oddsVal("valor-o1"), ox = oddsVal("valor-ox"), o2 = oddsVal("valor-o2");
+    var margin = (isFinite(o1) && isFinite(ox) && isFinite(o2)) ? ((1 / o1 + 1 / ox + 1 / o2) - 1) * 100 : null;
+
+    if (!rows.length) {
+      host.innerHTML = '<p class="muted">Cargá al menos una cuota para ver si hay valor.</p>';
+      return;
+    }
+
+    rows.sort(function (a, b) { return b.ev - a.ev; });
+    var best = rows[0];
+    var header = "";
+    if (margin != null) {
+      header = '<p class="valor-margin">Margen de la casa (1X2): <strong>' + margin.toFixed(1) + "%</strong>" +
+        (margin > 8 ? " — alto, la casa cobra caro." : margin < 5 ? " — bajo, cuotas competitivas." : ".") + "</p>";
+    }
+    var banner = best.ev >= 0.02
+      ? '<div class="valor-best">&#128161; <strong>Mejor apuesta: ' + esc(best.label) + "</strong> a cuota " + best.odd.toFixed(2) +
+        " · EV <strong>+" + (best.ev * 100).toFixed(1) + "%</strong>" +
+        (kf > 0 ? " · stake sugerido <strong>" + money(best.stake) + "</strong>" : "") + "</div>"
+      : '<div class="valor-best valor-best--none">Ninguna cuota le gana al modelo: <strong>no hay valor</strong> con estas cuotas. Mejor pasar de largo.</div>';
+
+    var body = rows.map(function (x) {
+      var cls = x.ev >= 0.02 ? "ok" : (x.ev <= -0.02 ? "fail" : "media");
+      var verdict = x.ev >= 0.02 ? "Valor" : (x.ev <= -0.02 ? "Sin valor" : "Justo");
+      return "<tr>" +
+        "<td>" + esc(x.label) + "</td>" +
+        "<td>" + pct(x.p) + "</td>" +
+        "<td>" + x.fair.toFixed(2) + "</td>" +
+        "<td><strong>" + x.odd.toFixed(2) + "</strong></td>" +
+        "<td>" + (x.edge >= 0 ? "+" : "") + x.edge.toFixed(1) + " pp</td>" +
+        '<td class="valor-ev' + (x.ev >= 0.02 ? " is-value" : x.ev <= -0.02 ? " is-avoid" : "") + '">' +
+          (x.ev >= 0 ? "+" : "") + (x.ev * 100).toFixed(1) + "%</td>" +
+        "<td>" + (x.kelly * 100).toFixed(1) + "%</td>" +
+        "<td>" + (kf > 0 ? money(x.stake) : "—") + "</td>" +
+        '<td><span class="badge ' + cls + '">' + verdict + "</span></td>" +
+      "</tr>";
+    }).join("");
+
+    host.innerHTML = header + banner +
+      '<div class="table-wrap"><table class="valor-table"><thead><tr>' +
+      "<th>Mercado</th><th>Modelo</th><th>Cuota justa</th><th>Tu cuota</th><th>Edge</th><th>EV</th><th>Kelly</th><th>Stake</th><th></th>" +
+      "</tr></thead><tbody>" + body + "</tbody></table></div>";
+  }
+
 
   /* ---------- Markov: helpers de presentación ---------- */
   function resultShort(r) { return r === "W" ? "V" : r === "L" ? "D" : r === "D" ? "E" : "–"; }

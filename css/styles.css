@@ -788,3 +788,37 @@ td strong { color: #fff; }
   /* En táctil, el toque mantiene el foco y muestra el tooltip. */
   .info-tip { cursor: pointer; }
 }
+
+/* =========================================================
+   Cuotas y valor (EV + Kelly)
+   Convierte las probabilidades del modelo en decisiones:
+   valor esperado, cuota justa, stake de Kelly y veredicto.
+   ========================================================= */
+.valor-more { margin-top: 0.6rem; }
+.valor-more > summary {
+  cursor: pointer;
+  color: var(--accent-2);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.2rem 0;
+}
+.valor-out { margin-top: 0.85rem; }
+.valor-margin { margin: 0.2rem 0 0.7rem; font-size: 0.86rem; }
+.valor-best {
+  margin: 0 0 0.85rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(34, 227, 154, 0.4);
+  background: rgba(34, 227, 154, 0.12);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+.valor-best--none { border-color: rgba(255, 196, 0, 0.38); background: rgba(255, 196, 0, 0.1); }
+.valor-table td, .valor-table th { white-space: nowrap; }
+.valor-table td.valor-ev { font-variant-numeric: tabular-nums; font-weight: 700; }
+.valor-table td.valor-ev.is-value { color: var(--accent); }
+.valor-table td.valor-ev.is-avoid { color: var(--danger); }
+.valor-help { margin-top: .7rem; font-size: 0.78rem; line-height: 1.5; }
+@media print {
+  #valor-panel { display: none !important; }
+}

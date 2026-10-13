@@ -41,8 +41,13 @@
      "Bayern München") se guardaban cada una con su propio id, fragmentando el
      historial del club. canonicalName() colapsa esas variantes a una misma clave;
      canonicalMap() y unifyTeams() la usan para agrupar/fusionar. */
-  var TEAM_TOKENS = ["fc", "cf", "ac", "sad", "sdc", "cc", "club", "calcio",
-    "football", "futebol", "clube", "utd", "recreativo"];
+  var TEAM_TOKENS = ["fc", "cf", "ac", "afc", "sad", "sdc", "cc", "club", "calcio",
+    "football", "futebol", "clube", "utd", "recreativo",
+    // prefijos/sufijos genéricos de club (no aportan identidad): CA/CR/CD/SC/SE/...
+    // Se verificó que en la base no producen fusiones entre clubes de países distintos.
+    "ca", "cr", "cd", "rc", "sd", "ud", "rcd", "as", "bc", "cp", "kv", "sv",
+    "sc", "se", "ssc", "ss", "cs", "tsv", "vfl", "vfb", "bsc", "rsc", "tsg",
+    "ifk", "fk", "sk", "nk", "msv", "vfr", "fsv", "hsc", "osc"];
 
   function canonicalName(name) {
     var s = String(name == null ? "" : name).toLowerCase();

@@ -14,7 +14,7 @@
   <link rel="icon" href="img/logo.png?v=2" type="image/png" />
   <link rel="apple-touch-icon" href="img/icon-192.png" />
   <link rel="manifest" href="manifest.webmanifest" />
-  <link rel="stylesheet" href="css/styles.css?v=11" />
+  <link rel="stylesheet" href="css/styles.css?v=12" />
   <link rel="stylesheet" href="css/v2.css?v=4" />
 </head>
 <body>
@@ -361,9 +361,11 @@
         <h2 data-tip="Cómo funciona el modelo, qué mide el backtesting y qué límites tiene.">Acerca del sistema</h2>
         <p>Esta aplicación implementa, del lado del cliente, los principios descritos en el <code>Readme.md</code> del proyecto: evidencia antes que intuición, probabilidad antes que certeza, trazabilidad y honestidad estadística.</p>
         <h3 data-tip="Poisson con corrección Dixon-Coles, más Monte Carlo y una cadena de Markov sobre el historial.">Modelo estadístico</h3>
-        <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía, con corrección <strong>Dixon-Coles</strong> para marcadores bajos. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas se apoyan en una base de datos por partido y equipo. Sobre esa base se añaden dos lecturas independientes: una <strong>simulación de Monte Carlo</strong> (10.000 partidos) y una <strong>cadena de Markov</strong> que modela la racha del equipo (transiciones entre victoria, empate y derrota). Los parámetros del modelo (suavizado, temperatura y correlación) se <strong>calibraron con el backtesting</strong>.</p>
+        <p>Se usa un modelo de <strong>Poisson</strong> independiente con fuerzas de ataque y defensa calculadas a partir del historial de goles, ajustando por localía, con corrección <strong>Dixon-Coles</strong> para marcadores bajos. Los goles esperados de cada equipo alimentan una matriz de marcadores que produce las probabilidades de resultado, goles, "ambos marcan", marcadores exactos y primer gol. Las estimaciones de córners y tarjetas se apoyan en una base de datos por partido y equipo. Sobre esa base se añaden dos lecturas independientes: una <strong>simulación de Monte Carlo</strong> (10.000 partidos) y una <strong>cadena de Markov</strong> que modela la racha del equipo (transiciones entre victoria, empate y derrota). Los parámetros del modelo (suavizado, temperatura y correlación) se <strong>calibraron con el backtesting</strong>. El resultado <strong>1X2 final</strong> es un <strong>ensamble</strong> entre el modelo de goles y un <strong>rating Elo</strong> (peso 55%), que resume la fuerza relativa de cada equipo según sus resultados; los demás mercados derivan del modelo de goles.</p>
         <h3 data-tip="Evalúa el modelo con walk-forward: para cada partido usa sólo información anterior a su fecha.">Backtesting</h3>
         <p>La pestaña <strong>Backtesting</strong> evalúa el modelo sobre partidos ya jugados con <em>walk-forward</em>: para cada partido sólo usa la información anterior a su fecha (sin look-ahead). Reporta aciertos, Brier, Log Loss, error de goles y calibración, y los compara con una referencia ingenua (climatología del período). Los resultados no son una garantía: miden el desempeño agregado del modelo.</p>
+        <h3 data-tip="Ingresá las cuotas de tu casa y el sistema calcula el valor esperado (EV), la cuota justa y el stake de Kelly de cada mercado.">Cuotas y valor (EV + Kelly)</h3>
+        <p>En <strong>Analizar</strong> podés ingresar las <strong>cuotas que te ofrece tu casa de apuestas</strong> y el sistema las compara con sus probabilidades: calcula el <strong>valor esperado (EV)</strong>, la <strong>cuota justa</strong> (1 ÷ probabilidad), el <strong>margen de la casa</strong> y el <strong>stake sugerido por Kelly</strong> (completo, medio o cuarto). Marca cada mercado como <em>Valor</em>, <em>Justo</em> o <em>Sin valor</em>. Es una herramienta <strong>estadística</strong> para decidir mejor, no una recomendación de apuesta ni una promesa de ganancia.</p>
         <h3 data-tip="Distingue datos exactos, estimaciones, predicciones, escenarios y contexto. Cada cosa con su nivel de certeza.">Clasificación de resultados (según el README)</h3>
         <ul>
           <li><strong>A. Datos exactos:</strong> resultados y estadísticas ya ocurridas.</li>
@@ -386,7 +388,7 @@
         <h3 data-tip="Futbolityx da estimaciones probabilísticas, no hechos ni garantías.">Naturaleza del contenido</h3>
         <p>Futbolityx es una herramienta <strong>informativa y estadística</strong>. Genera <strong>estimaciones probabilísticas</strong>, no hechos ni garantías. Un modelo bien calibrado puede fallar en partidos individuales. No prometemos predicciones infalibles.</p>
         <h3 data-tip="La app no es un servicio de apuestas ni da consejos; el uso es responsabilidad de cada persona.">Sin asesoramiento de apuestas</h3>
-        <p>Esta app <strong>no es un servicio de apuestas</strong>: no procesa pagos ni apuestas, no muestra cuotas de casas de apuestas y no ofrece consejos de apuestas. Si decidís usar la información con fines de apuestas, es tu entera responsabilidad: debe ser <strong>legal en tu país</strong> y debés ser <strong>mayor de 18 años</strong>. Apostar conlleva riesgo de pérdida y puede generar adicción; si lo necesitás, buscá ayuda profesional.</p>
+        <p>Esta app <strong>no es un servicio de apuestas</strong>: no procesa pagos ni apuestas, no publica ni recomienda cuotas, y no ofrece consejos de apuestas. La sección <strong>Cuotas y valor</strong> sólo calcula indicadores estadísticos (EV, cuota justa, Kelly) a partir de los números que vos ingresás: son <strong>estimaciones</strong>, no recomendaciones. Si decidís usar la información con fines de apuestas, es tu entera responsabilidad: debe ser <strong>legal en tu país</strong> y debés ser <strong>mayor de 18 años</strong>. Apostar conlleva riesgo de pérdida y puede generar adicción; si lo necesitás, buscá ayuda profesional.</p>
         <h3 data-tip="No se recolectan ni transmiten datos: todo se guarda sólo en tu navegador.">Privacidad</h3>
         <p>No recolectamos ni transmitimos datos personales. Toda la información (equipos, partidos y predicciones) se guarda <strong>únicamente en tu navegador</strong> (IndexedDB, con respaldo en localStorage). No hay cuentas, cookies de seguimiento ni analítica. La copia de seguridad (JSON) se genera y queda en tu propio dispositivo.</p>
         <h3 data-tip="De dónde salen los datos (openfootball y ESPN) y su uso nominativo.">Datos y fuentes</h3>
@@ -419,15 +421,15 @@
     </p>
   </footer>
 
-  <script src="js/stats.js?v=7"></script>
+  <script src="js/stats.js?v=8"></script>
   <script src="js/metrics.js?v=5"></script>
   <script src="js/storage.js?v=7"></script>
-  <script src="js/store.js?v=8"></script>
+  <script src="js/store.js?v=9"></script>
   <script src="js/dataset.js?v=12"></script>
   <script src="js/backtest.js?v=5"></script>
   <script src="js/news.js?v=1"></script>
   <script src="js/tips.js?v=2"></script>
-  <script src="js/app.js?v=12"></script>
+  <script src="js/app.js?v=13"></script>
   <script src="js/v2.js?v=11"></script>
 </body>
 </html>
