@@ -17,7 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930**, ligas europeas y **competiciones nuevas** (`openfootball-extra`): MLS, CONCACAF, CAF, Brasil (A/B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita y ligas de África | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + temporada en curso en vivo | No |
+| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`, historial 2005–2026) + temporada en curso en vivo | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -66,6 +66,12 @@ amplió con dos pasos reproducibles:
   y B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia
   Saudita y ligas de **Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda,
   Zambia, Zimbabue y Sudáfrica**— (**30.437 partidos**), en `data/openfootball-extra/<slug>.json`.
+- **CONMEBOL Sudamericana (`espn-sudamericana`)** — openfootball no la publica, así que
+  `scripts/build-espn-sudamericana.ps1` baja de ESPN las **22 temporadas 2005–2026**
+  (**2.175 partidos**, solo `STATUS_FULL_TIME`) a `data/espn-sudamericana/conmebol.sudamericana.json`.
+  Los equipos se mapean contra un índice ampliado (openfootball + arg-espn + openfootball-extra,
+  porque la juegan clubes de esas ligas) más los alias de
+  `scripts/espn-sudamericana-team-map.json`; un equipo no reconocido se agrega como nuevo.
 
 En total, la base queda con **303 archivos** (≈70 MB) y, tras deduplicar los solapamientos
 entre fuentes y unificar variantes de nombre, **≈155.500 partidos**, **≈2.100 equipos** y

@@ -1623,5 +1623,10 @@
         "path":  "ar.1.json",
         "code":  "ar.1",
         "source":  "cards"
+    },
+    {
+        "path":  "conmebol.sudamericana.json",
+        "code":  "conmebol.sudamericana",
+        "source":  "espn-sudamericana"
     }
 ]

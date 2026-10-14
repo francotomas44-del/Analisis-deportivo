@@ -22,8 +22,12 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
   (`scripts/build-espn-season.ps1`, `data/espn-season/<código>.json`).
 - **ESPN — Liga Profesional Argentina** (`source: "arg-espn"`) — historial 2001 y
   2003–2026 por torneo (`scripts/build-arg-espn.ps1`, `data/arg-espn/<año>.json`).
+- **ESPN — CONMEBOL Sudamericana** (`source: "espn-sudamericana"`) — la Sudamericana no
+  está en openfootball, así que se baja de la API pública de **ESPN** por
+  `scripts/build-espn-sudamericana.ps1` (temporadas **2005–2026**) y se guarda en
+  `data/espn-sudamericana/conmebol.sudamericana.json`.
 
-## Cobertura (303 archivos · ~70 MB · 5 fuentes + tarjetas)
+## Cobertura (304 archivos · ~71 MB · 6 fuentes + tarjetas)
 
 Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 
@@ -34,15 +38,16 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `espn-season` | 21 | 2.790 |
 | `espn-history` | 21 | 65.277 |
 | `openfootball-extra` | 33 | 30.437 |
-| **Total** | **303** | **160.025** |
+| `espn-sudamericana` | 1 | 2.175 |
+| **Total** | **304** | **162.200** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈155.500 partidos**, **≈2.100 equipos/selecciones** y
-**100 competiciones**.
+la app queda con **≈157.700 partidos**, **≈2.145 equipos/selecciones** y
+**101 competiciones**.
 
 Cobertura por tipo:
 
@@ -51,6 +56,7 @@ Cobertura por tipo:
   - **Eurocopa UEFA** — ediciones disponibles (2020, 2024, 2028).
 - **Clubes (internacional)**
   - **UEFA Champions League**, **CAF Champions League** y **CONCACAF Champions Cup**.
+  - **Copa Libertadores** y **CONMEBOL Sudamericana** (esta última, de ESPN, 2005 → 2026).
 - **Ligas nacionales — primera división**
   - **Europa** (2010-11 → 2026-27, según disponibilidad): Inglaterra, España, Alemania,
     Italia, Francia, Países Bajos, Portugal, Austria, Bélgica, Suiza, Grecia, Turquía,
@@ -89,6 +95,8 @@ powershell -ExecutionPolicy Bypass -File scripts\build-openfootball-extra.ps1
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-season.ps1
 # 5) Tarjetas (amarillas/rojas) y córners por partido (ESPN)
 powershell -ExecutionPolicy Bypass -File scripts\build-cards.ps1
+# 6) CONMEBOL Sudamericana (ESPN; openfootball no la publica)
+powershell -ExecutionPolicy Bypass -File scripts\build-espn-sudamericana.ps1
 ```
 
 Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re)genera
@@ -96,7 +104,7 @@ Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re
 fuente queda identificada en cada paso. `scripts/openfootball-extra.json` lista las
 competiciones del paso 3 y `scripts/espn-leagues.json` las del paso 2.
 
-> Solo una corrida a la vez: los pasos 2 y 3 reescriben `data/manifest.json`; correrlos
+> Solo una corrida a la vez: los pasos 2, 3 y 6 reescriben `data/manifest.json`; correrlos
 > en paralelo deja el manifiesto inconsistente.
 
 ## Límites (honestidad estadística)

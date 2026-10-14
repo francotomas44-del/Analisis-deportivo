@@ -15,6 +15,9 @@
        por scripts/build-espn-season.ps1.
      - espn-history: tramo anterior al primer partido de cada liga (data/espn-history/),
        por scripts/build-espn-history.ps1.
+     - espn-sudamericana: CONMEBOL Sudamericana (data/espn-sudamericana/), de la API
+       pública de ESPN; openfootball no la publica. La baja
+       scripts/build-espn-sudamericana.ps1 (historial 2005..2026).
    Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
@@ -59,7 +62,8 @@
     "at.cup": "Copa de Austria",
     "de.cup": "DFB-Pokal (Alemania)",
     "worldcup": "Copa Mundial FIFA",
-    "euro": "Eurocopa UEFA"
+    "euro": "Eurocopa UEFA",
+    "conmebol.sudamericana": "CONMEBOL Sudamericana"
   };
 
   function compName(code) { return LEAGUES[code] || code; }
