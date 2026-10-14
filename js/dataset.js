@@ -17,7 +17,11 @@
        por scripts/build-espn-history.ps1.
      - espn-sudamericana: CONMEBOL Sudamericana (data/espn-sudamericana/), de la API
        pública de ESPN; openfootball no la publica. La baja
-       scripts/build-espn-sudamericana.ps1 (historial 2005..2026).
+       scripts/build-espn-sudamericana.ps1 (historial 2005..2026). Es la única
+       fuente que **cambia** (suma resultados y cruces a medida que se juega),
+       así que su entrada del manifiesto lleva `rev` (hash del contenido); la app
+       la agrega como query (?v=rev) para refrescar el archivo, y sus partidos por
+       jugar (sin marcador) alimentan la portada "Hoy".
    Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
@@ -67,6 +71,16 @@
   };
 
   function compName(code) { return LEAGUES[code] || code; }
+
+  /* URL de un archivo de datos. Si la entrada del manifiesto trae `rev`
+     (revisión del contenido), se agrega como query para forzar la descarga
+     cuando el archivo cambió: los data/ se cachean de forma agresiva
+     (force-cache + service worker), y una URL nueva es la única forma de
+     refrescar un archivo que sí cambia (p. ej. CONMEBOL Sudamericana, con
+     partidos por jugar y resultados recientes). */
+  function dataURL(source, entry) {
+    return BASE + (source || "openfootball") + "/" + entry.path + (entry.rev ? ("?v=" + entry.rev) : "");
+  }
 
   /* Convierte el JSON de openfootball en partidos SIN resultado (fixtures futuros).
      Son los que todavía no se jugaron: no tienen "score". Se usan para la portada
@@ -205,7 +219,7 @@
         files.forEach(function (entry) {
           chain = chain.then(function () {
             var comp = compName(entry.code);
-            return fetch(BASE + (entry.source || "openfootball") + "/" + entry.path, { cache: "force-cache" })
+            return fetch(dataURL(entry.source, entry), { cache: "force-cache" })
               .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
               .then(function (p) {
                 var c = convert(p, comp);
@@ -243,6 +257,8 @@
 
   /* Próximos partidos (fixtures sin resultado) de la temporada en curso.
      Carga liviana: lee solo los archivos de las temporadas recientes (no las 207).
+     Incluye las competiciones que traen partidos por jugar de otra fuente
+     (p. ej. CONMEBOL Sudamericana, de ESPN, en data/espn-sudamericana/).
      No persiste nada: es para la portada "Hoy". */
   var upcomingCache = null;
 
@@ -250,7 +266,7 @@
     opts = opts || {};
     if (upcomingCache && !opts.force) return Promise.resolve(upcomingCache);
 
-    return fetch(MANIFEST, { cache: "force-cache" })
+    return fetch(MANIFEST, { cache: "no-store" })
       .then(function (r) {
         if (!r.ok) throw new Error("No se encontró data/manifest.json (HTTP " + r.status + ").");
         return r.json();
@@ -258,19 +274,28 @@
       .then(function (manifest) {
         if (!Array.isArray(manifest) || !manifest.length) return [];
         var today = new Date().toISOString().slice(0, 10);
-        var entries = manifest.filter(function (e) {
-          if (!e || typeof e.path !== "string") return false;
-          return e.path.indexOf("2026-27/") === 0 || e.path.indexOf("2026/") === 0;
+
+        /* Cada trabajo lleva su carpeta de origen: openfootball (temporada en
+           curso) o fuentes que publican sus propios partidos por jugar. */
+        var jobs = [];
+        manifest.forEach(function (e) {
+          if (!e || typeof e.path !== "string") return;
+          var src = e.source || "openfootball";
+          if (src === "espn-sudamericana") { jobs.push({ folder: src, entry: e }); return; }
+          if (src !== "openfootball") return;
+          if (e.path.indexOf("2026-27/") === 0 || e.path.indexOf("2026/") === 0) {
+            jobs.push({ folder: "openfootball", entry: e });
+          }
         });
 
         var fixtures = [];
         var chain = Promise.resolve();
-        entries.forEach(function (entry) {
+        jobs.forEach(function (job) {
           chain = chain.then(function () {
-            return fetch(BASE + "openfootball/" + entry.path, { cache: "force-cache" })
+            return fetch(dataURL(job.folder, job.entry), { cache: "force-cache" })
               .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
               .then(function (p) {
-                var f = convertFixtures(p, compName(entry.code), entry.code);
+                var f = convertFixtures(p, compName(job.entry.code), job.entry.code);
                 for (var i = 0; i < f.length; i++) {
                   if (f[i].date >= today) fixtures.push(f[i]);
                 }

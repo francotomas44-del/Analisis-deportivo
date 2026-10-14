@@ -1627,6 +1627,7 @@
     {
         "path":  "conmebol.sudamericana.json",
         "code":  "conmebol.sudamericana",
-        "source":  "espn-sudamericana"
+        "source":  "espn-sudamericana",
+        "rev":  "171a3004e088"
     }
 ]

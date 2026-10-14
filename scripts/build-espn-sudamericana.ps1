@@ -8,8 +8,16 @@ param(
 # CONMEBOL Sudamericana (source = "espn-sudamericana").
 #
 # openfootball no publica la Sudamericana, asi que se baja de la API publica de
-# ESPN (slug "conmebol.sudamericana"), temporadas $FromYear..$ToYear. Solo
-# partidos TERMINADOS (STATUS_FULL_TIME).
+# ESPN (slug "conmebol.sudamericana"), temporadas $FromYear..$ToYear.
+#
+#   - Partidos jugados: STATUS_FULL_TIME y STATUS_FINAL_PEN (este ultimo es un
+#     empate definido por penales en una llave a doble partido; se guarda el
+#     resultado de ESE partido). Se incluye como partido con marcador.
+#   - Partidos por jugar: lo que ESPN marca como programado / en juego
+#     (STATUS_SCHEDULED, FIRST/SECOND_HALF, HALFTIME, IN_PROGRESS...). Se
+#     guardan SIN marcador y con horario, para que la portada "Hoy" los muestre
+#     con su pronostico. Se descartan cruces con "TBD" (final aun sin equipos).
+#   - STATUS_CANCELED / POSTPONED / ABANDONED / SUSPENDED no se incluyen.
 #
 # Los nombres de equipo se mapean al nombre EXACTO de la base con un indice
 # AMPLIADO (openfootball + arg-espn + openfootball-extra: la Sudamericana la
@@ -35,6 +43,11 @@ $code = "conmebol.sudamericana"
 $name = "CONMEBOL Sudamericana"
 $source = "espn-sudamericana"
 
+# Estados de ESPN.
+$finalStates = @("STATUS_FULL_TIME", "STATUS_FINAL_PEN")
+$skipStates = @("STATUS_CANCELED", "STATUS_POSTPONED", "STATUS_ABANDONED", "STATUS_SUSPENDED")
+$today = (Get-Date).ToString("yyyy-MM-dd")
+
 $outDir = Join-Path $Root ("data\" + $source)
 New-Item -ItemType Directory -Force -Path $outDir | Out-Null
 
@@ -51,61 +64,103 @@ $Index = New-BaseIndex $Root $manifest @("openfootball", "arg-espn", "openfootba
 $rows = New-Object System.Collections.Generic.List[object]
 $seen = New-Object 'System.Collections.Generic.HashSet[string]'
 $newTeams = New-Object 'System.Collections.Generic.HashSet[string]'
-$events = 0; $dropped = 0
+$results = 0; $fixtures = 0; $dropped = 0
 
 foreach ($yr in ($FromYear..$ToYear)) {
   $ev = Get-EspnEvents $slug $yr $CacheDir
   if ($null -eq $ev) { Write-Host ("{0}  SIN RESPUESTA" -f $yr); continue }
-  $yadd = 0
+  $yRes = 0; $yFix = 0
   foreach ($e in $ev) {
     $st = ""
     if ($e.status -and $e.status.type) { $st = [string]$e.status.type.name }
-    if ($st -ne "STATUS_FULL_TIME") { continue }
+    if ($skipStates -contains $st) { continue }
+    $isFinal = $finalStates -contains $st
+
     if (-not $e.competitions -or $e.competitions.Count -eq 0) { continue }
     $cp = $e.competitions[0]
     if (-not $cp.competitors) { continue }
-    $d = [string]$e.date
-    if ($d.Length -ge 10) { $d = $d.Substring(0, 10) }
+
+    # Fecha (YYYY-MM-DD) y horario (HH:MM en UTC) a partir del ISO de ESPN.
+    $iso = [string]$e.date
+    $mD = [regex]::Match($iso, '^(\d{4})-(\d{2})-(\d{2})(?:T(\d{2}):(\d{2}))?')
+    if (-not $mD.Success) { $dropped++; continue }
+    $d = $mD.Groups[1].Value + "-" + $mD.Groups[2].Value + "-" + $mD.Groups[3].Value
+    $time = ""
+    if ($mD.Groups[4].Success -and $mD.Groups[4].Value -ne "") {
+      $time = $mD.Groups[4].Value + ":" + $mD.Groups[5].Value + " UTC+0"
+    }
+
     $rawH = $null; $rawA = $null; $hg = 0; $ag = 0; $bad = $false
     foreach ($c in @($cp.competitors)) {
       $cn = ""
       if ($c.team -and $c.team.displayName) { $cn = [string]$c.team.displayName }
       $sv = 0
-      if (-not [int]::TryParse([string]$c.score, [ref]$sv)) { $bad = $true; break }
+      if ($isFinal -and -not [int]::TryParse([string]$c.score, [ref]$sv)) { $bad = $true; break }
       if ($c.homeAway -eq "home") { $rawH = $cn; $hg = $sv }
       elseif ($c.homeAway -eq "away") { $rawA = $cn; $ag = $sv }
     }
-    if ($bad -or [string]::IsNullOrWhiteSpace($rawH) -or [string]::IsNullOrWhiteSpace($rawA)) { $dropped++; continue }
+
+    if ($isFinal) {
+      if ($bad -or [string]::IsNullOrWhiteSpace($rawH) -or [string]::IsNullOrWhiteSpace($rawA)) { $dropped++; continue }
+    } else {
+      # Proximo partido: solo con fecha de hoy en adelante y equipos reales.
+      if ($d -lt $today) { continue }
+      if ([string]::IsNullOrWhiteSpace($rawH) -or [string]::IsNullOrWhiteSpace($rawA)) { continue }
+      if ($rawH -match '(?i)^\s*TBD' -or $rawA -match '(?i)^\s*TBD') { continue }
+    }
+
     $hb = Resolve-TeamName $rawH $code $Index $alias
     $ab = Resolve-TeamName $rawA $code $Index $alias
     if (-not $hb) { $hb = $rawH.Trim(); [void]$newTeams.Add($hb) }
     if (-not $ab) { $ab = $rawA.Trim(); [void]$newTeams.Add($ab) }
+
     $id = "espn:" + $e.id
     if ($seen.Contains($id)) { continue }
     [void]$seen.Add($id)
-    $rows.Add([pscustomobject]@{
-      id = $id; date = $d; competition = $name; team1 = $hb; team2 = $ab
-      score = [pscustomobject]@{ ft = @($hg, $ag) }
-    })
-    $events++; $yadd++
+
+    if ($isFinal) {
+      $rows.Add([pscustomobject]@{
+        id = $id; date = $d; competition = $name; team1 = $hb; team2 = $ab
+        score = [pscustomobject]@{ ft = @($hg, $ag) }
+      })
+      $results++; $yRes++
+    } else {
+      $rows.Add([pscustomobject]@{
+        id = $id; date = $d; time = $time; competition = $name; team1 = $hb; team2 = $ab
+      })
+      $fixtures++; $yFix++
+    }
   }
-  Write-Host ("{0}  agregados={1}  acumulado={2}" -f $yr, $yadd, $rows.Count)
+  Write-Host ("{0}  jugados=+{1}  por jugar=+{2}  acumulado={3}" -f $yr, $yRes, $yFix, $rows.Count)
 }
 
 if ($rows.Count -gt 0) {
   $obj = [pscustomobject]@{ name = $name; code = $code; source = $source; matches = $rows }
-  [System.IO.File]::WriteAllText((Join-Path $outDir "$code.json"), (ConvertTo-Json -InputObject $obj -Depth 6), $utf8)
+  $json = ConvertTo-Json -InputObject $obj -Depth 6
+  $outFile = Join-Path $outDir "$code.json"
+  [System.IO.File]::WriteAllText($outFile, $json, $utf8)
 } elseif (Test-Path (Join-Path $outDir "$code.json")) {
   Remove-Item (Join-Path $outDir "$code.json") -Force
+}
+
+# Revision del contenido (SHA1 corto). La app la usa como query (?v=rev) para
+# refrescar el archivo cuando cambia: a diferencia del resto de data/ (inmutable),
+# la Sudamericana suma resultados y partidos por jugar en cada corrida.
+$rev = ""
+if ($rows.Count -gt 0) {
+  $sha = [System.Security.Cryptography.SHA1]::Create()
+  $hash = $sha.ComputeHash([System.IO.File]::ReadAllBytes($outFile))
+  $rev = ([System.BitConverter]::ToString($hash) -replace "-", "").ToLower().Substring(0, 12)
 }
 
 # Manifiesto: reemplaza la entrada de esta competicion (cualquier source previo).
 $keep = New-Object System.Collections.Generic.List[object]
 foreach ($e in $manifest) { if ([string]$e.code -eq $code) { continue }; $keep.Add($e) }
-if ($rows.Count -gt 0) { $keep.Add([pscustomobject]@{ path = "$code.json"; code = $code; source = $source }) }
+if ($rows.Count -gt 0) { $keep.Add([pscustomobject]@{ path = "$code.json"; code = $code; source = $source; rev = $rev }) }
 [System.IO.File]::WriteAllText($manPath, (ConvertTo-Json -InputObject $keep -Depth 6), $utf8)
 
 Write-Host ""
-Write-Host ("Listo: {0} partidos en data\{1}\{2}.json  ({3} eventos ESPN, {4} descartados)." -f $rows.Count, $source, $code, $events, $dropped)
+Write-Host ("Listo: {0} partidos ({1} jugados, {2} por jugar) en data\{3}\{4}.json  ({5} descartados)." -f $rows.Count, $results, $fixtures, $source, $code, $dropped)
+Write-Host ("Revision (rev): {0}" -f $rev)
 Write-Host ("Equipos nuevos ({0}): {1}" -f $newTeams.Count, (($newTeams | Sort-Object) -join ", "))
 Write-Host ("Manifest: {0} entradas." -f $keep.Count)

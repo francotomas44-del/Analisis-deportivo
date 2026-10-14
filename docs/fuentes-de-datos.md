@@ -67,15 +67,21 @@ amplió con dos pasos reproducibles:
   Saudita y ligas de **Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda,
   Zambia, Zimbabue y Sudáfrica**— (**30.437 partidos**), en `data/openfootball-extra/<slug>.json`.
 - **CONMEBOL Sudamericana (`espn-sudamericana`)** — openfootball no la publica, así que
-  `scripts/build-espn-sudamericana.ps1` baja de ESPN las **22 temporadas 2005–2026**
-  (**2.175 partidos**, solo `STATUS_FULL_TIME`) a `data/espn-sudamericana/conmebol.sudamericana.json`.
+  `scripts/build-espn-sudamericana.ps1` baja de ESPN las **22 temporadas 2005–2026** a
+  `data/espn-sudamericana/conmebol.sudamericana.json`: **2.293 partidos jugados**
+  (`STATUS_FULL_TIME` + `STATUS_FINAL_PEN`, estos últimos son llaves a doble partido
+  definidas por penales, y se guarda el resultado de ese partido) **+ los partidos por
+  jugar** sin marcador, para que la portada **"Hoy"** los muestre con su pronóstico.
   Los equipos se mapean contra un índice ampliado (openfootball + arg-espn + openfootball-extra,
   porque la juegan clubes de esas ligas) más los alias de
   `scripts/espn-sudamericana-team-map.json`; un equipo no reconocido se agrega como nuevo.
+  Como esta copa **sí cambia** (suma resultados y cruces a medida que se juega), su entrada
+  del manifiesto lleva una **`rev`** (hash del contenido) que la app usa como query (`?v=rev`)
+  para refrescar el archivo: el resto de `data/` es inmutable y se cachea de forma agresiva.
 
-En total, la base queda con **303 archivos** (≈70 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈155.500 partidos**, **≈2.100 equipos** y
-**100 competiciones**. Ver `docs/base-historica.md`.
+En total, la base queda con **304 archivos** (≈73 MB) y, tras deduplicar los solapamientos
+entre fuentes y unificar variantes de nombre, **≈157.400 partidos**, **≈2.130 equipos** y
+**101 competiciones**. Ver `docs/base-historica.md`.
 
 ---
 

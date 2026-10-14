@@ -25,9 +25,12 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
 - **ESPN — CONMEBOL Sudamericana** (`source: "espn-sudamericana"`) — la Sudamericana no
   está en openfootball, así que se baja de la API pública de **ESPN** por
   `scripts/build-espn-sudamericana.ps1` (temporadas **2005–2026**) y se guarda en
-  `data/espn-sudamericana/conmebol.sudamericana.json`.
+  `data/espn-sudamericana/conmebol.sudamericana.json`. Incluye los partidos jugados
+  (`STATUS_FULL_TIME` + `STATUS_FINAL_PEN`) **y los cruces por jugar** sin marcador, que
+  alimentan la portada **"Hoy"**. Su entrada del manifiesto lleva **`rev`** (hash del
+  contenido) porque es la única fuente que cambia con el tiempo.
 
-## Cobertura (304 archivos · ~71 MB · 6 fuentes + tarjetas)
+## Cobertura (304 archivos · ~73 MB · 6 fuentes + tarjetas)
 
 Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 
@@ -38,15 +41,15 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `espn-season` | 21 | 2.790 |
 | `espn-history` | 21 | 65.277 |
 | `openfootball-extra` | 33 | 30.437 |
-| `espn-sudamericana` | 1 | 2.175 |
-| **Total** | **304** | **162.200** |
+| `espn-sudamericana` | 1 | 2.293 |
+| **Total** | **304** | **162.318** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈157.700 partidos**, **≈2.145 equipos/selecciones** y
+la app queda con **≈157.400 partidos**, **≈2.130 equipos/selecciones** y
 **101 competiciones**.
 
 Cobertura por tipo:
