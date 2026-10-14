@@ -24,7 +24,7 @@ importadores guardan **inmediatamente** al terminar. Arriba a la derecha verás
 El navegador guarda los datos **por origen**. Son orígenes **distintos** (y por lo
 tanto almacenamientos distintos):
 
-- `file:///C:/Analisis Deportivo/index.html` (abrir el archivo directamente)
+- `file:///C:/Futbolityx/index.html` (abrir el archivo directamente)
 - `http://localhost:8765/`
 - `http://localhost:8766/`
 
