@@ -26,6 +26,11 @@
   var LS_LIMIT = 4500000; // ~4.5 MB: más que esto puede fallar el espejo
   var OLD_OPEN_TIMEOUT = 2500; // ms: si la base vieja no abre, seguimos igual
   var OPEN_TIMEOUT = 6000;     // ms: red de seguridad para la base nueva
+  // Marca ligera (cabe siempre en localStorage): indica que HAY datos guardados,
+  // aunque el estado completo no pueda espejarse en localStorage. Sirve para no
+  // confundir "primer uso" con "no se pudieron leer los datos" (evita que la app
+  // reimporte la base y borre las predicciones por una lectura fallida).
+  var HASDATA_KEY = "futbolunaki:hasData";
 
   // Claves del nombre anterior ("Analisis Deportivo"): sólo para migrar.
   var OLD_DB_NAME = "analisisDeportivo";
@@ -63,7 +68,12 @@
 
   function openDB() {
     if (dbPromise) return dbPromise;
-    dbPromise = openRaw(DB_NAME, OPEN_TIMEOUT);
+    dbPromise = openRaw(DB_NAME, OPEN_TIMEOUT).then(function (db) {
+      // Si la apertura falló (timeout/bloqueo), no la memorizamos: así un
+      // reintento posterior (p. ej. tras una recarga) puede volver a intentar.
+      if (!db) dbPromise = null;
+      return db;
+    });
     return dbPromise;
   }
 
@@ -131,6 +141,20 @@
       return true;
     } catch (e) { return false; }
   }
+
+  /* Marca de "hay datos": se pone cuando algo se guardó de verdad (IndexedDB o
+     espejo) y se quita al quedar vacío. Siempre cabe en localStorage. */
+  function setHasDataFlag(on) {
+    try { if (on) localStorage.setItem(HASDATA_KEY, "1"); else localStorage.removeItem(HASDATA_KEY); } catch (e) {}
+  }
+  function hasStoredData() {
+    try { return localStorage.getItem(HASDATA_KEY) === "1"; } catch (e) { return false; }
+  }
+  function hasContent(state) {
+    return !!(state && ((state.teams && state.teams.length) ||
+      (state.matches && state.matches.length) || (state.predictions && state.predictions.length)));
+  }
+  function isVacant(state) { return !hasContent(state); }
 
   /* ---- migración desde el nombre anterior ("Analisis Deportivo") ---- */
   function readOldLsRaw() {
@@ -231,15 +255,24 @@
 
           var chosen, chosenRec;
           if (idbVal && lsVal) {
-            if (recTime(idbRec) >= recTime(lsRec)) { chosen = idbVal; chosenRec = idbRec; }
+            // Nunca dejar que una copia vacía/zombi (p. ej. un espejo viejo en
+            // localStorage) le gane a una copia con contenido, aunque su fecha
+            // sea más nueva: eso hacía que la app reimportara y borrara datos.
+            var idbVacant = isVacant(idbVal), lsVacant = isVacant(lsVal);
+            if (idbVacant && !lsVacant) { chosen = lsVal; chosenRec = lsRec; }
+            else if (lsVacant && !idbVacant) { chosen = idbVal; chosenRec = idbRec; }
+            else if (recTime(idbRec) >= recTime(lsRec)) { chosen = idbVal; chosenRec = idbRec; }
             else { chosen = lsVal; chosenRec = lsRec; }
           } else if (idbVal) { chosen = idbVal; chosenRec = idbRec; }
           else { chosen = lsVal; chosenRec = lsRec; }
 
-          // Si lo elegido vino de localStorage y hay IndexedDB, migrarlo.
-          if (db && chosenRec === lsRec && recTime(lsRec) > recTime(idbRec)) {
+          // Si lo elegido vino de localStorage y hay IndexedDB, migrarlo... pero
+          // nunca sobrescribir con un estado vacío un IndexedDB que tenía datos.
+          if (db && chosenRec === lsRec && recTime(lsRec) > recTime(idbRec) &&
+              !(isVacant(chosen) && !isVacant(idbVal))) {
             idbPut(db, wrap(chosen));
           }
+          if (hasContent(chosen)) setHasDataFlag(true);
           // Limpia la clave heredada una vez migrada.
           try { if (lsRec && localStorage.getItem(LS_LEGACY)) localStorage.removeItem(LS_LEGACY); } catch (e) {}
           lastLoadedAt = recTime(chosenRec) || null;
@@ -252,15 +285,25 @@
   /* Guarda el estado en ambos almacenes. Devuelve una promesa. */
   function save(state) {
     var rec = wrap(state);
-    lsWrite(rec);
+    var mirrored = lsWrite(rec);
+    if (!mirrored) {
+      // El estado no cabe en localStorage (base grande). Quitamos el registro
+      // viejo para que un estado vacío/zombi no "gane" por fecha a IndexedDB.
+      try { localStorage.removeItem(LS_KEY); localStorage.removeItem(LS_LEGACY); } catch (e) {}
+    }
     return openDB().then(function (db) {
-      if (!db) return false;
-      return idbPut(db, rec);
+      var p = db ? idbPut(db, rec) : Promise.resolve(false);
+      return p.then(function (ok) {
+        // Marca "hay datos" sólo si algo se guardó de verdad.
+        setHasDataFlag((ok || mirrored) && hasContent(state));
+        return ok;
+      });
     });
   }
 
   function clear() {
     removeOldKeys();
+    setHasDataFlag(false);
     try { localStorage.removeItem(LS_KEY); localStorage.removeItem(LS_LEGACY); } catch (e) {}
     return Promise.all([
       openDB().then(function (db) { return db ? idbClear(db) : true; }),
@@ -273,6 +316,7 @@
     save: save,
     clear: clear,
     hasIndexedDB: function () { return !!window.indexedDB; },
+    hasStoredData: hasStoredData,
     lastLoadedAt: function () { return lastLoadedAt; }
   };
 })();

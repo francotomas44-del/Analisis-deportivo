@@ -1180,7 +1180,7 @@
   function buildReportText(p) {
     var o = p.output, m = o.markets, sp = o.setPieces, sim = o.simulation;
     var L = [];
-    L.push("INFORME DE ANÁLISIS — ANÁLISIS DEPORTIVO");
+    L.push("INFORME DE ANÁLISIS — FUTBOLITYX");
     L.push("=========================================");
     L.push("Partido: " + p.homeName + " (local) vs " + p.awayName + " (visitante)");
     L.push("Fecha del partido: " + (p.kickoff || "no especificada"));
@@ -1615,7 +1615,22 @@
       updateSaveIndicator();
       // Primera vez (base vacía): cargar automáticamente la base histórica integrada.
       if (S.state.matches.length === 0 && S.state.teams.length === 0) {
-        loadBase(true);
+        if (window.AD.storage.hasStoredData && window.AD.storage.hasStoredData()) {
+          // Hay datos guardados pero no se pudieron leer (p. ej. IndexedDB ocupada
+          // durante una recarga). Reintentamos en vez de reimportar: reimportar
+          // llamaría a S.reset() y borraría las predicciones.
+          S.init().then(function () {
+            if (S.state.matches.length === 0 && S.state.teams.length === 0) {
+              setBaseStatus("No se pudieron leer los datos guardados. Recargá la página para reintentar.");
+            } else {
+              if (ST.config.unifyTeams && S.state.matches.length) S.unifyTeams({ dedupe: true });
+              refreshAll();
+              updateSaveIndicator();
+            }
+          });
+        } else {
+          loadBase(true);
+        }
       }
     });
     showView("hoy");
