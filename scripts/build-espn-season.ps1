@@ -80,7 +80,8 @@ foreach ($lg in $leagues) {
       $cn = ""
       if ($c.team -and $c.team.displayName) { $cn = [string]$c.team.displayName }
       $sv = 0
-      if (-not [int]::TryParse([string]$c.score, [ref]$sv)) { $bad = $true; break }
+      # ESPN devuelve -1 cuando no tiene el marcador: no es un resultado valido.
+      if (-not [int]::TryParse([string]$c.score, [ref]$sv) -or $sv -lt 0) { $bad = $true; break }
       if ($c.homeAway -eq "home") { $rawH = $cn; $hg = $sv }
       elseif ($c.homeAway -eq "away") { $rawA = $cn; $ag = $sv }
     }

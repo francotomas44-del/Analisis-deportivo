@@ -241,7 +241,7 @@
               .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
               .then(function (p) {
                 var c = convert(p, comp);
-                for (var i = 0; i < c.length; i++) rows.push(c[i]);
+                for (var i = 0; i < c.length; i++) { c[i].source = entry.source; rows.push(c[i]); }
               })
               .catch(function () { failed++; })
               .then(function () {

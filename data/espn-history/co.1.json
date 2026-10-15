@@ -10391,19 +10391,6 @@
                                   }
                     },
                     {
-                        "id":  "espn:247106",
-                        "date":  "2008-10-26",
-                        "competition":  "Primera A (Colombia)",
-                        "team1":  "Once Caldas",
-                        "team2":  "Deportes Tolima",
-                        "score":  {
-                                      "ft":  [
-                                                 2,
-                                                 -2
-                                             ]
-                                  }
-                    },
-                    {
                         "id":  "espn:247113",
                         "date":  "2008-11-01",
                         "competition":  "Primera A (Colombia)",

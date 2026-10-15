@@ -59,7 +59,7 @@ amplió con dos pasos reproducibles:
 
 - **Historia previa (`espn-history`)** — `scripts/build-espn-history.ps1` baja de ESPN el
   tramo anterior al primer partido que ya tenía cada liga (21 ligas/competiciones,
-  **65.277 partidos**), guardado en `data/espn-history/<código>.json`.
+  **65.276 partidos**), guardado en `data/espn-history/<código>.json`.
 - **Competiciones nuevas (`openfootball-extra`)** — `scripts/build-openfootball-extra.ps1`
   descarga de openfootball (misma licencia de dominio público) 32 competiciones que la base
   no traía —**MLS**, **CONCACAF Champions Cup**, **CAF Champions League**, Brasil (Serie A
@@ -95,7 +95,7 @@ amplió con dos pasos reproducibles:
   Reutiliza los alias de las copas y lleva **`rev`**, igual que las dos copas.
 
 En total, la base queda con **309 archivos** (≈93 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈188.425 partidos**, **≈2.030 equipos** y
+entre fuentes y unificar variantes de nombre, **≈188.424 partidos**, **≈2.030 equipos** y
 **106 competiciones**. Ver `docs/base-historica.md`.
 
 ---

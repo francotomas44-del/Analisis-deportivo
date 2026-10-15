@@ -55,19 +55,19 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `openfootball` | 203 | 52.015 |
 | `arg-espn` | 25 | 9.506 |
 | `espn-season` | 21 | 2.790 |
-| `espn-history` | 21 | 65.277 |
+| `espn-history` | 21 | 65.276 |
 | `openfootball-extra` | 32 | 27.582 |
 | `espn-sudamericana` | 1 | 2.296 |
 | `espn-libertadores` | 1 | 3.200 |
-| `espn-southamerica` | 5 | 30.631 |
-| **Total** | **309** | **193.297** |
+| `espn-southamerica` | 5 | 30.630 |
+| **Total** | **309** | **193.295** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈188.425 partidos**, **≈2.030 equipos/selecciones** y
+la app queda con **≈188.424 partidos**, **≈2.030 equipos/selecciones** y
 **106 competiciones**.
 
 **Variantes de nombre.** Las fuentes escriben al mismo club de dos formas
@@ -106,6 +106,21 @@ partidos de una liga bajo un club de otro país. Se corrigió a mano el caso má
 entre países** que la app fusiona por nombre (`CD Nacional` Portugal/Uruguay/Paraguay,
 `River Plate` Argentina/Uruguay, `Llaneros` Colombia/Venezuela): requiere desambiguar en el
 origen con el sufijo `(PAÍS)`.
+
+**Marcadores inválidos (ESPN).** Cuando ESPN no tiene el resultado de un partido
+devuelve `score: -1` para el equipo sin dato (no `null`). Los generadores solo
+comprobaban que el marcador fuera un entero, así que el `-1` pasaba y dejaba
+partidos con goles negativos (dos casos: `Universidad de Concepción (CHI)` y
+`Once Caldas`). Se endurecieron los seis generadores de ESPN
+(`build-espn-*.ps1`) para descartar `score < 0`, se limpiaron los archivos
+afectados y el almacén (`store.importBulk`/`importMatches` e `init`) descarta
+cualquier partido con marcador negativo, de modo que instalaciones ya guardadas
+se sanean al cargar.
+
+**Procedencia por partido.** Cada partido guarda su `source`. Antes el cargador
+etiquetaba todos los partidos como `openfootball`; ahora cada fila conserva la
+`source` de su archivo del manifiesto (`espn-history`, `espn-season`,
+`espn-southamerica`, `openfootball-extra`, `arg-espn`, etc.).
 
 Cobertura por tipo:
 

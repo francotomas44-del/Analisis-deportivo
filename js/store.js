@@ -295,6 +295,13 @@
         if (!t.external) t.external = {};
         if (t.formedYear === undefined) t.formedYear = null;
       });
+      // Descarta partidos con marcador inválido (p. ej. el -1 que ESPN devuelve
+      // cuando no tiene el resultado). Sanea instalaciones ya guardadas.
+      var matchCount = state.matches.length;
+      state.matches = state.matches.filter(function (m) {
+        return !(Number(m.homeGoals) < 0 || Number(m.awayGoals) < 0);
+      });
+      if (state.matches.length !== matchCount) saveNow();
       return state;
     });
   }
@@ -550,6 +557,8 @@
       var d = descriptors[i];
       if (!d.homeName || !d.awayName) { skipped++; continue; }
       if (d.homeGoals == null || d.awayGoals == null) { skipped++; continue; }
+      // Un marcador negativo (p. ej. el -1 que usa ESPN para "sin resultado") no es válido.
+      if (Number(d.homeGoals) < 0 || Number(d.awayGoals) < 0) { skipped++; continue; }
 
       var homeExt = d.homeExternal != null ? { source: d.source, id: d.homeExternal } : null;
       var awayExt = d.awayExternal != null ? { source: d.source, id: d.awayExternal } : null;
@@ -592,9 +601,10 @@
 
   /* ---------- carga masiva (base histórica) ----------
      Eficiente: usa índices por nombre en memoria (O(n) en total, no O(n²)).
-     rows: [{date, competition, league, home, away, homeGoals, awayGoals, externalId}]
-     `competition` es el torneo del partido; `league` (opcional) es la liga a la
-     que se asigna el equipo nuevo (por defecto, la competición). */
+     rows: [{date, competition, league, home, away, homeGoals, awayGoals, source, externalId}]
+     `source` (opcional) etiqueta el origen de cada partido; si falta se usa el
+     `source` del lote. `competition` es el torneo del partido; `league` (opcional)
+     es la liga a la que se asigna el equipo nuevo (por defecto, la competición). */
   function importBulk(rows, source) {
     var byName = {};
     state.teams.forEach(function (t) { var k = norm(t.name); if (!(k in byName)) byName[k] = t; });
@@ -606,6 +616,8 @@
       var r = rows[i];
       if (!r || !r.home || !r.away) continue;
       if (r.homeGoals == null || r.awayGoals == null) continue;
+      // Un marcador negativo (p. ej. el -1 que usa ESPN para "sin resultado") no es válido.
+      if (Number(r.homeGoals) < 0 || Number(r.awayGoals) < 0) continue;
       var hk = norm(r.home), ak = norm(r.away);
       if (!hk || !ak || hk === ak) continue;
 
@@ -638,7 +650,7 @@
         awayYellow: r.awayYellow,
         homeRed: r.homeRed,
         awayRed: r.awayRed,
-        source: source || "bulk",
+        source: r.source || source || "bulk",
         externalId: r.externalId != null ? String(r.externalId) : null
       }));
       added++;

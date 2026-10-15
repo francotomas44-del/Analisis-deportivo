@@ -115,7 +115,8 @@ foreach ($y in $years) {
       if ($c.team -and $c.team.displayName) { $n = [string]$c.team.displayName }
       if ($exclude.ContainsKey($n)) { $bad = $true; break }
       $sv = 0
-      if (-not [int]::TryParse([string]$c.score, [ref]$sv)) { $bad = $true; break }
+      # ESPN devuelve -1 cuando no tiene el marcador: no es un resultado valido.
+      if (-not [int]::TryParse([string]$c.score, [ref]$sv) -or $sv -lt 0) { $bad = $true; break }
       if ($c.homeAway -eq "home") { $hTeam = Get-Canon $n; $hg = $sv }
       elseif ($c.homeAway -eq "away") { $aTeam = Get-Canon $n; $ag = $sv }
     }

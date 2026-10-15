@@ -99,7 +99,7 @@ cada liga:
   tiempo regular** (`STATUS_FULL_TIME`); los nombres de ESPN se mapean al nombre exacto
   de la base y los equipos no reconocidos se descartan (o se agregan como nuevos, según
   el umbral de similitud), para no partir un club en dos. Se guardan en
-  `data/espn-history/<código>.json` (fuente `espn-history`). Total: **65.277 partidos**.
+  `data/espn-history/<código>.json` (fuente `espn-history`). Total: **65.276 partidos**.
 - **Sin cobertura de ESPN:** Hungría, Argelia, Egipto, Marruecos y Chequia; Argentina no
   tiene historia previa a 2001.
 - **Condiciones:** las mismas de ESPN (uso **nominativo**, se muestra la fuente en

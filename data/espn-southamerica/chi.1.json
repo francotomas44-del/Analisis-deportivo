@@ -15500,19 +15500,6 @@
                                   }
                     },
                     {
-                        "id":  "espn:235810",
-                        "date":  "2008-05-01",
-                        "competition":  "Primera División (Chile)",
-                        "team1":  "Universidad de Concepción (CHI)",
-                        "team2":  "Cobresal (CHI)",
-                        "score":  {
-                                      "ft":  [
-                                                 5,
-                                                 -1
-                                             ]
-                                  }
-                    },
-                    {
                         "id":  "espn:235818",
                         "date":  "2008-05-03",
                         "competition":  "Primera División (Chile)",
