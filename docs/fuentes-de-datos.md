@@ -88,7 +88,7 @@ amplió con dos pasos reproducibles:
   Antes de este paso se quitó la entrada `sa-lib` de `scripts/openfootball-extra.json`.
 
 En total, la base queda con **304 archivos** (≈73 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈158.200 partidos**, **≈2.130 equipos** y
+entre fuentes y unificar variantes de nombre, **≈158.100 partidos**, **≈2.110 equipos** y
 **101 competiciones**. Ver `docs/base-historica.md`.
 
 ---

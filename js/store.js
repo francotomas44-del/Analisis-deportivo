@@ -49,7 +49,48 @@
     "sc", "se", "ssc", "ss", "cs", "tsv", "vfl", "vfb", "bsc", "rsc", "tsg",
     "ifk", "fk", "sk", "nk", "msv", "vfr", "fsv", "hsc", "osc"];
 
+  /* Alias curado para clubes que TEAM_TOKENS no alcanza a unificar porque cada
+     fuente los abrevia distinto (sufijos de estado/provincia, siglas propias):
+     p. ej. "Flamengo RJ" / "CR Flamengo", "Atlético Mineiro" / "CA Mineiro".
+     La clave es el nombre en minúsculas y sin acentos; el valor es el nombre al
+     que se reduce el equipo antes de aplicar el stripping habitual (o sea, la
+     clave canónica compartida). Se verificó que no fusiona clubes distintos
+     (América Mineiro ≠ Atlético Mineiro, Botafogo-SP ≠ Botafogo-RJ, Fortaleza FC
+     de Colombia ≠ Fortaleza CE de Brasil, Grêmio Barueri ≠ Grêmio Porto Alegre).
+     Son 19 clubes brasileños cuyo historial quedaba partido entre dos nombres. */
+  var TEAM_ALIAS = {
+    "flamengo rj": "flamengo", "cr flamengo": "flamengo",
+    "botafogo rj": "botafogo", "botafogo fr": "botafogo",
+    "atletico mineiro": "atletico mineiro", "ca mineiro": "atletico mineiro",
+    "cruzeiro": "cruzeiro", "cruzeiro ec": "cruzeiro",
+    "corinthians sp": "corinthians", "sc corinthians paulista": "corinthians",
+    "coritiba pr": "coritiba", "coritiba fbc": "coritiba",
+    "criciuma": "criciuma", "criciuma ec": "criciuma",
+    "cuiaba ec": "cuiaba", "cuiaba mt": "cuiaba",
+    "ceara ce": "ceara", "ceara sc": "ceara",
+    "chapecoense": "chapecoense", "chapecoense af": "chapecoense",
+    "fluminense rj": "fluminense", "fluminense fc": "fluminense",
+    "fortaleza ce": "fortaleza ce", "fortaleza ec": "fortaleza ce",
+    "gremio fbpa": "gremio fbpa", "gremio porto alegre": "gremio fbpa",
+    "nautico": "nautico", "nautico pe": "nautico",
+    "vasco da gama rj": "vasco da gama", "cr vasco da gama": "vasco da gama",
+    "athletico paranaense": "athletico paranaense", "ca paranaense": "athletico paranaense",
+    "sport recife pe": "sport recife", "sc recife": "sport recife",
+    "bahia ba": "bahia", "ec bahia": "bahia",
+    "red bull bragantino": "bragantino", "rb bragantino": "bragantino"
+  };
+
+  /* Nombre en minúsculas, sin acentos y con espacios normalizados. Se usa solo
+     para consultar TEAM_ALIAS; no cambia el nombre que se guarda ni se muestra. */
+  function deaccentLower(s) {
+    s = String(s == null ? "" : s).toLowerCase();
+    if (s.normalize) s = s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    return s.replace(/\s+/g, " ").trim();
+  }
+
   function canonicalName(name) {
+    var probe = deaccentLower(name);
+    if (Object.prototype.hasOwnProperty.call(TEAM_ALIAS, probe)) name = TEAM_ALIAS[probe];
     var s = String(name == null ? "" : name).toLowerCase();
     s = s.replace(/\s*\([^)]*\)\s*/g, " ");                // quita "(ESP)", "(AUT)", "(GER)"...
     s = s.replace(/(^|[\s.])f\.?c\.?($|[\s.])/g, " ");     // f.c. / fc
@@ -65,6 +106,27 @@
     return out.join(" ").replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
   }
 
+  /* Cuenta partidos por equipo (una sola pasada). Se usa para elegir, entre
+     varias variantes del mismo club, el nombre con más historial. */
+  function teamMatchCounts() {
+    var c = {};
+    state.matches.forEach(function (m) {
+      c[m.homeId] = (c[m.homeId] || 0) + 1;
+      c[m.awayId] = (c[m.awayId] || 0) + 1;
+    });
+    return c;
+  }
+
+  /* ¿Es `a` un nombre "mejor" que `b` para representar al club unificado?
+     Primero el que no lleva paréntesis ("Bayern München" sobre "FC Bayern
+     München (GER)"); después el que tiene más partidos, así sobrevive el nombre
+     con más historial (p. ej. "Flamengo RJ" 602 sobre "CR Flamengo" 301). */
+  function betterTeamName(a, b, counts) {
+    var pa = a.name.indexOf("(") !== -1, pb = b.name.indexOf("(") !== -1;
+    if (pa !== pb) return !pa;
+    return (counts[a.id] || 0) > (counts[b.id] || 0);
+  }
+
   /* Mapa id -> id canónico. Solo incluye variantes duplicadas; no muta nada. */
   function canonicalMap() {
     var map = {}, groups = {};
@@ -73,13 +135,14 @@
       if (!k) return;
       (groups[k] = groups[k] || []).push(t);
     });
+    var counts = null;
     Object.keys(groups).forEach(function (k) {
       var g = groups[k];
       if (g.length < 2) return;
+      if (!counts) counts = teamMatchCounts();
       var best = g[0];
-      // prefiere el nombre sin paréntesis ("Bayern München" sobre "FC Bayern München (GER)")
-      for (var i = 0; i < g.length; i++) {
-        if (g[i].name.indexOf("(") === -1) { best = g[i]; break; }
+      for (var i = 1; i < g.length; i++) {
+        if (betterTeamName(g[i], best, counts)) best = g[i];
       }
       for (var j = 0; j < g.length; j++) {
         if (g[j].id !== best.id) map[g[j].id] = best.id;

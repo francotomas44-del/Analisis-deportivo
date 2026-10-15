@@ -58,8 +58,15 @@ partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈158.200 partidos**, **≈2.130 equipos/selecciones** y
+la app queda con **≈158.100 partidos**, **≈2.110 equipos/selecciones** y
 **101 competiciones**.
+
+**Variantes de nombre brasileñas.** Las fuentes escriben al mismo club de dos formas
+distintas (`Flamengo RJ` / `CR Flamengo`, `Botafogo RJ` / `Botafogo FR`, `Atlético Mineiro` /
+`CA Mineiro`, …). La normalización genérica de `canonicalName()` (quita FC/SC/…) no siempre los
+colapsa, así que el club quedaba partido en dos equipos. `js/store.js` incluye ahora una tabla
+curada (`TEAM_ALIAS`, 19 clubes brasileños) y `canonicalMap()` elige como **nombre
+superviviente** el del club con **más partidos**.
 
 Cobertura por tipo:
 
