@@ -67,18 +67,21 @@ partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈188.400 partidos**, **≈2.060 equipos/selecciones** y
+la app queda con **≈188.425 partidos**, **≈2.030 equipos/selecciones** y
 **106 competiciones**.
 
 **Variantes de nombre.** Las fuentes escriben al mismo club de dos formas
 distintas (`Flamengo RJ` / `CR Flamengo`, `Botafogo RJ` / `Botafogo FR`, `Atlético Mineiro` /
 `CA Mineiro`, …). La normalización genérica de `canonicalName()` (quita FC/SC/…) no siempre los
 colapsa, así que el club quedaba partido en dos equipos. `js/store.js` incluye una tabla
-curada (`TEAM_ALIAS`: 19 clubes brasileños, 2 sudamericanos, 6 alemanes y 5 austríacos
-partidos entre su liga y las copas) y `canonicalMap()` elige como **nombre superviviente** el que no lleva paréntesis y,
-a igualdad, el del club con **más partidos**. Los clubes que ESPN nombra distinto según la
-temporada dentro de una misma liga se corrigen en el origen, con
-`scripts/espn-southamerica-team-map.json` (p. ej. `Unión Wanderers` 2020 = `Santiago
+curada (`TEAM_ALIAS`, 87 claves: 19 clubes brasileños y 2 sudamericanos; 6 alemanes, 5
+austríacos y 36 más que cada fuente renombra u abrevia —openfootball pasó a usar el nombre
+«largo» con ciudad o sufijo legal desde 2020-21, y ESPN añade la sigla o el país— partidos
+entre su liga y las copas) y `canonicalMap()` elige como **nombre superviviente** el que no lleva paréntesis y,
+a igualdad, el del club con **más partidos**. El alias se aplica también sin el sufijo
+`(PAÍS)`, de modo que `AFC Ajax (NED)` y `AFC Ajax` caen en el mismo club. Los clubes que
+ESPN nombra distinto según la temporada dentro de una misma liga se corrigen en el origen,
+con `scripts/espn-southamerica-team-map.json` (p. ej. `Unión Wanderers` 2020 = `Santiago
 Wanderers (CHI)`, `Melipilla` 2021 = `Deportes Melipilla`, `El Vigia` = `Atlético Vigía`).
 
 **Colisiones club / selección.** Cuando un club y una selección nacional comparten
@@ -89,6 +92,20 @@ resolutor de nombres degradaba el club zimbabuense **Scottland FC** (así, con d
 `Scotland` (`data/openfootball-extra/af-zw.json`). Los alias de origen
 (`scripts/espn-team-alias.json`, `scripts/openfootball-extra-team-map.json`) evitan que
 vuelvan a ocurrir en las próximas descargas.
+
+**Mapeos erróneos del resolutor ESPN (pendiente).** El resolutor de ESPN
+(`scripts/espn-common.ps1`) empareja la similitud por tokens con una regla de «cobertura» que
+da falsos positivos cuando el nombre de entrada empieza con un token corto del candidato:
+`Portsmouth` → `Shanghai Port FC`, `Portuguesa` → `Shanghai Port FC`, `América (MG)` →
+`CF América`, `Platanias` → `Gimnasia de La Plata`, `Tigres FC` → `Tigre`,
+`Desportivo Aves` → `Deportivo Alavés` y `Atlético Minero` → `Atlético Mineiro`. Deja
+partidos de una liga bajo un club de otro país. Se corrigió a mano el caso más claro
+(`data/espn-history/pt.1.json`: los 34 partidos de `Deportivo Alavés` en la Primeira Liga
+2017-18 pasaron a `CD Aves`), pero el arreglo de fondo es endurecer la regla de cobertura y
+**reconstruir** `espn-history`/`espn-southamerica`. Aparte existe una clase de **homónimos
+entre países** que la app fusiona por nombre (`CD Nacional` Portugal/Uruguay/Paraguay,
+`River Plate` Argentina/Uruguay, `Llaneros` Colombia/Venezuela): requiere desambiguar en el
+origen con el sufijo `(PAÍS)`.
 
 Cobertura por tipo:
 

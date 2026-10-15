@@ -95,7 +95,7 @@ amplió con dos pasos reproducibles:
   Reutiliza los alias de las copas y lleva **`rev`**, igual que las dos copas.
 
 En total, la base queda con **309 archivos** (≈93 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈188.400 partidos**, **≈2.060 equipos** y
+entre fuentes y unificar variantes de nombre, **≈188.425 partidos**, **≈2.030 equipos** y
 **106 competiciones**. Ver `docs/base-historica.md`.
 
 ---

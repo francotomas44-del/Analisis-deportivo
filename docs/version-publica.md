@@ -9,7 +9,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 |---|---|---|
 | **Portada** | Texto sobre "estadística honesta" | **"Hoy": próximos partidos con pronóstico 1X2** |
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
-| **Base ampliada** | ~31 competiciones / ~49.000 partidos | **106 competiciones / ≈188.400 partidos**: historia previa desde ESPN (`espn-history`, 65.277) + competiciones nuevas de openfootball (`openfootball-extra`, 27.582: MLS, CONCACAF, CAF, Brasil, Colombia, Ecuador, Paraguay, Asia y África) + **CONMEBOL Sudamericana y Libertadores** desde ESPN (2.293 + 3.196) + **primeras divisiones de Chile, Uruguay, Perú, Bolivia y Venezuela** desde ESPN (30.631) |
+| **Base ampliada** | ~31 competiciones / ~49.000 partidos | **106 competiciones / ≈188.425 partidos**: historia previa desde ESPN (`espn-history`, 65.277) + competiciones nuevas de openfootball (`openfootball-extra`, 27.582: MLS, CONCACAF, CAF, Brasil, Colombia, Ecuador, Paraguay, Asia y África) + **CONMEBOL Sudamericana y Libertadores** desde ESPN (2.293 + 3.196) + **primeras divisiones de Chile, Uruguay, Perú, Bolivia y Venezuela** desde ESPN (30.631) |
 | **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | **Historial completo 2001 y 2003–2026 desde ESPN** (9.505 partidos, descargado) + temporada en curso en vivo, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |

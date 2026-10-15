@@ -63,8 +63,13 @@
      - Los 2 siguientes son clubes sudamericanos partidos entre su liga nueva y las
        copas CONMEBOL (cada fuente los nombra distinto). Los demás casos de esas
        ligas se corrigen en el origen, con scripts/espn-southamerica-team-map.json.
-     - Los 6 siguientes son alemanes y los 5 últimos austríacos: el mismo club
-       escrito distinto según la fuente (año de fundación, país, renombres). */
+     - Los 6 siguientes son alemanes y los 5 siguientes austríacos: el mismo club
+       escrito distinto según la fuente (año de fundación, país, renombres).
+     - Los 23 siguientes son clubes que openfootball fue renombrando temporada a
+       temporada (sobre todo desde 2020-21, cuando pasó a usar el nombre "largo",
+       con ciudad o sufijo legal): el historial del mismo club quedaba partido en
+       dos. Verificado por fuentes/competiciones (temporadas complementarias).
+     - Los 13 últimos separan el mismo club por sigla, año de fundación o país. */
   var TEAM_ALIAS = {
     "flamengo rj": "flamengo", "cr flamengo": "flamengo",
     "botafogo rj": "botafogo", "botafogo fr": "botafogo",
@@ -102,7 +107,45 @@
     "wsg wattens": "WSG Tirol",
     "sc magna wiener neustadt": "1. Wiener Neustädter SC",
     "fc trenkwalder admira": "FC Admira Wacker",
-    "fc red bull salzburg (aut)": "RB Salzburg"
+    "fc red bull salzburg (aut)": "RB Salzburg",
+    // openfootball, nombre corto -> nombre "largo" (temporadas complementarias).
+    "afc ajax": "Ajax Amsterdam",
+    "bologna fc 1909": "Bologna FC",
+    "central espanol futbol club": "Central Español",
+    "derby": "Derby County FC",
+    "fc twente '65": "FC Twente",
+    "feyenoord": "Feyenoord Rotterdam",
+    "kairat almaty": "FK Kairat",
+    "fk ural": "FC Ural Ekaterinburg",
+    "gd estoril praia": "GD Estoril",
+    "henan jianye": "Henan FC",
+    "parma calcio 1913": "Parma FC",
+    "rc celta": "RC Celta de Vigo",
+    "rc strasbourg alsace": "RC Strasbourg",
+    "rayo vallecano de madrid": "Rayo Vallecano",
+    "real betis balompie": "Real Betis",
+    "real sociedad de futbol": "Real Sociedad",
+    "sc cambuur-leeuwarden": "SC Cambuur",
+    "lazio roma": "SS Lazio",
+    "samartex (gha)": "FC Samartex 1996",
+    "sporting clube de portugal": "Sporting CP",
+    "sporting clube de braga": "Sporting Braga",
+    "stade rennais fc 1901": "Stade Rennais",
+    "willem ii tilburg": "Willem II",
+    // Sigla / año de fundación / país por delante del mismo club.
+    "cd alaves": "Deportivo Alavés",
+    "club atletico de madrid": "Atlético Madrid",
+    "rcd espanyol de barcelona": "Espanyol Barcelona",
+    "uc sampdoria": "Sampdoria",
+    "sbv vitesse": "Vitesse",
+    "jorge wilstermann (bol)": "Wilstermann",
+    "us sassuolo calcio": "Sassuolo Calcio",
+    "big bullets fc (mwi)": "Nyasa Big Bullets FC",
+    "csd comunicaciones (gua)": "Comunicaciones (GUA)",
+    "gnk dinamo zagreb (cro)": "Dinamo Zagreb (CRO)",
+    "atiker konyaspor": "Konyaspor",
+    "ska-energiya khabarovsk": "SKA-Khabarovsk",
+    "olympique de marseille": "Olympique Marseille"
   };
 
   /* Nombre en minúsculas, sin acentos y con espacios normalizados. Se usa solo
@@ -115,6 +158,14 @@
 
   function canonicalName(name) {
     var probe = deaccentLower(name);
+    if (!Object.prototype.hasOwnProperty.call(TEAM_ALIAS, probe)) {
+      // Segundo intento sin el sufijo de pais/estado entre parentesis: asi las
+      // variantes tipo "AFC Ajax (NED)" o "Bologna FC 1909 (ITA)" tambien pasan
+      // por el alias (el primer intento las conserva tal cual por las claves que
+      // SI llevan parentesis, p. ej. "Samartex (GHA)").
+      var stripped = deaccentLower(String(name == null ? "" : name).replace(/\([^)]*\)/g, " "));
+      if (stripped !== probe && Object.prototype.hasOwnProperty.call(TEAM_ALIAS, stripped)) probe = stripped;
+    }
     if (Object.prototype.hasOwnProperty.call(TEAM_ALIAS, probe)) name = TEAM_ALIAS[probe];
     var s = String(name == null ? "" : name).toLowerCase();
     s = s.replace(/\s*\([^)]*\)\s*/g, " ");                // quita "(ESP)", "(AUT)", "(GER)"...
