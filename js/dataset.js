@@ -17,8 +17,9 @@
        por scripts/build-espn-history.ps1.
      - espn-sudamericana: CONMEBOL Sudamericana (data/espn-sudamericana/), de la API
        pública de ESPN; openfootball no la publica. La baja
-       scripts/build-espn-sudamericana.ps1 (historial 2005..2026). Es la única
-       fuente que **cambia** (suma resultados y cruces a medida que se juega),
+       scripts/build-espn-sudamericana.ps1 (historial 2005..2026). Junto con la
+       Libertadores, es una de las fuentes que **cambia** (suma resultados y cruces
+       a medida que se juega),
        así que su entrada del manifiesto lleva `rev` (hash del contenido); la app
        la agrega como query (?v=rev) para refrescar el archivo, y sus partidos por
        jugar (sin marcador) alimentan la portada "Hoy".
