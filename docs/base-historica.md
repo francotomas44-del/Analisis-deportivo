@@ -28,7 +28,7 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
   `data/espn-sudamericana/conmebol.sudamericana.json`. Incluye los partidos jugados
   (`STATUS_FULL_TIME` + `STATUS_FINAL_PEN`) **y los cruces por jugar** sin marcador, que
   alimentan la portada **"Hoy"**. Su entrada del manifiesto lleva **`rev`** (hash del
-  contenido) porque es la única fuente que cambia con el tiempo.
+  contenido) porque cambia con el tiempo (suma resultados y cruces por jugar).
 - **ESPN — CONMEBOL Libertadores** (`source: "espn-libertadores"`) — también de la API
   pública de **ESPN** por `scripts/build-espn-libertadores.ps1` (temporadas **2005–2026**),
   guardada en `data/espn-libertadores/conmebol.libertadores.json`. Reemplaza a la antigua
@@ -37,8 +37,16 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
   mismo código "Copa Libertadores", con lo que el historial quedaba contaminado con partidos
   de la Sudamericana. Igual que la Sudamericana, incluye jugados (`STATUS_FULL_TIME` +
   `STATUS_FINAL_PEN`) y cruces por jugar, y su entrada lleva **`rev`**.
+- **ESPN — Sudamérica doméstica** (`source: "espn-southamerica"`) — primeras divisiones de
+  **Chile** (`chi.1`), **Uruguay** (`uru.1`), **Perú** (`per.1`), **Bolivia** (`bol.1`) y
+  **Venezuela** (`ven.1`), que la base no traía: sus clubes aparecían **solo** en las copas
+  CONMEBOL. Se bajan de la API pública de **ESPN** por `scripts/build-espn-southamerica.ps1`
+  (temporadas **2005–2026**) a `data/espn-southamerica/<código>.json` (~30.600 partidos).
+  Reutiliza los alias de las copas para no partir clubes, incluye los jugados
+  (`STATUS_FULL_TIME` + `STATUS_FINAL_PEN`) **y los cruces por jugar**, y su entrada lleva
+  **`rev`**.
 
-## Cobertura (304 archivos · ~73 MB · 7 fuentes + tarjetas)
+## Cobertura (309 archivos · ~93 MB · 8 fuentes + tarjetas)
 
 Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 
@@ -51,15 +59,16 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `openfootball-extra` | 32 | 27.639 |
 | `espn-sudamericana` | 1 | 2.296 |
 | `espn-libertadores` | 1 | 3.200 |
-| **Total** | **304** | **162.723** |
+| `espn-southamerica` | 5 | 30.631 |
+| **Total** | **309** | **193.354** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈158.100 partidos**, **≈2.110 equipos/selecciones** y
-**101 competiciones**.
+la app queda con **≈188.500 partidos**, **≈2.190 equipos/selecciones** y
+**106 competiciones**.
 
 **Variantes de nombre brasileñas.** Las fuentes escriben al mismo club de dos formas
 distintas (`Flamengo RJ` / `CR Flamengo`, `Botafogo RJ` / `Botafogo FR`, `Atlético Mineiro` /
@@ -118,6 +127,8 @@ powershell -ExecutionPolicy Bypass -File scripts\build-cards.ps1
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-sudamericana.ps1
 # 7) CONMEBOL Libertadores (ESPN; reemplaza la antigua entrada sa-lib de openfootball-extra)
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-libertadores.ps1
+# 8) Sudamérica doméstica: Chile, Uruguay, Perú, Bolivia y Venezuela (ESPN)
+powershell -ExecutionPolicy Bypass -File scripts\build-espn-southamerica.ps1
 ```
 
 Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re)genera
@@ -125,7 +136,7 @@ Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re
 fuente queda identificada en cada paso. `scripts/openfootball-extra.json` lista las
 competiciones del paso 3 y `scripts/espn-leagues.json` las del paso 2.
 
-> Solo una corrida a la vez: los pasos 2, 3 y 6 reescriben `data/manifest.json`; correrlos
+> Solo una corrida a la vez: los pasos 2, 3, 6, 7 y 8 reescriben `data/manifest.json`; correrlos
 > en paralelo deja el manifiesto inconsistente.
 
 ## Límites (honestidad estadística)

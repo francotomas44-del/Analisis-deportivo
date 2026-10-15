@@ -1630,5 +1630,35 @@
         "code":  "conmebol.libertadores",
         "source":  "espn-libertadores",
         "rev":  "e134c4e3af42"
+    },
+    {
+        "path":  "chi.1.json",
+        "code":  "chi.1",
+        "source":  "espn-southamerica",
+        "rev":  "746c9cb3dc73"
+    },
+    {
+        "path":  "uru.1.json",
+        "code":  "uru.1",
+        "source":  "espn-southamerica",
+        "rev":  "bf5b1f695235"
+    },
+    {
+        "path":  "per.1.json",
+        "code":  "per.1",
+        "source":  "espn-southamerica",
+        "rev":  "ff03754962d8"
+    },
+    {
+        "path":  "bol.1.json",
+        "code":  "bol.1",
+        "source":  "espn-southamerica",
+        "rev":  "210fb5d36025"
+    },
+    {
+        "path":  "ven.1.json",
+        "code":  "ven.1",
+        "source":  "espn-southamerica",
+        "rev":  "b2ed3797d39b"
     }
 ]

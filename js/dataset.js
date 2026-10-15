@@ -29,7 +29,12 @@
        openfootball-extra (sa-lib.json), que mezclaba Libertadores y Sudamericana
        bajo un mismo código; igual que la Sudamericana, lleva `rev` y sus
        fixtures alimentan "Hoy".
-   Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
+   - espn-southamerica: primeras divisiones de Chile, Uruguay, Perú, Bolivia y
+      Venezuela (data/espn-southamerica/<código>.json), que la base no traía
+      (sus clubes aparecían SOLO en las copas CONMEBOL). De la API pública de
+      ESPN (2005..hoy), por scripts/build-espn-southamerica.ps1. Lleva `rev` y
+      sus cruces por jugar alimentan la portada "Hoy".
+    Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
    Namespace: window.AD.dataset */
@@ -66,6 +71,11 @@
     "jp.1": "J1 League (Japón)",
     "au.1": "A-League (Australia)",
     "co.1": "Primera A (Colombia)",
+    "chi.1": "Primera División (Chile)",
+    "uru.1": "Primera División (Uruguay)",
+    "per.1": "Liga 1 (Perú)",
+    "bol.1": "Primera División (Bolivia)",
+    "ven.1": "Primera División (Venezuela)",
     "dz.1": "Ligue 1 (Argelia)",
     "eg.1": "Premier League (Egipto)",
     "ma.1": "Botola (Marruecos)",
@@ -290,7 +300,7 @@
         manifest.forEach(function (e) {
           if (!e || typeof e.path !== "string") return;
           var src = e.source || "openfootball";
-          if (src === "espn-sudamericana" || src === "espn-libertadores") { jobs.push({ folder: src, entry: e }); return; }
+          if (src === "espn-sudamericana" || src === "espn-libertadores" || src === "espn-southamerica") { jobs.push({ folder: src, entry: e }); return; }
           if (src !== "openfootball") return;
           if (e.path.indexOf("2026-27/") === 0 || e.path.indexOf("2026/") === 0) {
             jobs.push({ folder: "openfootball", entry: e });

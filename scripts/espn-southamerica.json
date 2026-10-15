@@ -1,0 +1,7 @@
+[
+  { "code": "chi.1", "slug": "chi.1", "name": "Primera División (Chile)" },
+  { "code": "uru.1", "slug": "uru.1", "name": "Primera División (Uruguay)" },
+  { "code": "per.1", "slug": "per.1", "name": "Liga 1 (Perú)" },
+  { "code": "bol.1", "slug": "bol.1", "name": "Primera División (Bolivia)" },
+  { "code": "ven.1", "slug": "ven.1", "name": "Primera División (Venezuela)" }
+]

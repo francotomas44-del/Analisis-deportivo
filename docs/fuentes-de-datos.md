@@ -17,7 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930**, ligas europeas y **competiciones nuevas** (`openfootball-extra`): MLS, CONCACAF, CAF, Brasil (A/B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita y ligas de África | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`) y **CONMEBOL Libertadores** (`data/espn-libertadores/`), ambas con historial 2005–2026 + temporada en curso en vivo | No |
+| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`), **CONMEBOL Libertadores** (`data/espn-libertadores/`) y **Sudamérica doméstica** (`data/espn-southamerica/`: Chile, Uruguay, Perú, Bolivia y Venezuela), todas con historial 2005–2026 + temporada en curso en vivo | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -87,9 +87,16 @@ amplió con dos pasos reproducibles:
   que además reutiliza los del archivo de la Sudamericana) y de **`rev`** que la Sudamericana.
   Antes de este paso se quitó la entrada `sa-lib` de `scripts/openfootball-extra.json`.
 
-En total, la base queda con **304 archivos** (≈73 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈158.100 partidos**, **≈2.110 equipos** y
-**101 competiciones**. Ver `docs/base-historica.md`.
+- **Sudamérica doméstica (`espn-southamerica`)** — las primeras divisiones de **Chile**
+  (`chi.1`), **Uruguay** (`uru.1`), **Perú** (`per.1`), **Bolivia** (`bol.1`) y **Venezuela**
+  (`ven.1`), que la base no traía (sus clubes aparecían solo en las copas CONMEBOL).
+  `scripts/build-espn-southamerica.ps1` baja de ESPN las temporadas **2005–2026** a
+  `data/espn-southamerica/<código>.json`: **≈30.600 partidos** y **≈76 equipos nuevos**.
+  Reutiliza los alias de las copas y lleva **`rev`**, igual que las dos copas.
+
+En total, la base queda con **309 archivos** (≈93 MB) y, tras deduplicar los solapamientos
+entre fuentes y unificar variantes de nombre, **≈188.500 partidos**, **≈2.190 equipos** y
+**106 competiciones**. Ver `docs/base-historica.md`.
 
 ---
 
