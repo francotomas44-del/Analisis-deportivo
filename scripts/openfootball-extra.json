@@ -7,7 +7,6 @@
   { "repo": "austria", "include": "rsssf/", "code": "Bundesliga (Austria) histórica", "leagueCode": "at.1", "slug": "at-hist" },
   { "repo": "austria", "include": "more/", "code": "Bundesliga (Austria) histórica", "leagueCode": "at.1", "slug": "at-hist" },
 
-  { "repo": "south-america", "include": "copa-libertadores/", "code": "Copa Libertadores", "slug": "sa-lib" },
   { "repo": "south-america", "include": "brazil/", "name": "_br1", "code": "Brasileirão (Brasil)", "leagueCode": "br.1", "slug": "sa-br1" },
   { "repo": "south-america", "include": "brazil/", "name": "_br2", "code": "Brasileirão Série B (Brasil)", "leagueCode": "br.1", "slug": "sa-br2" },
   { "repo": "south-america", "include": "brazil/", "name": "brcup", "code": "Copa do Brasil", "slug": "sa-brcup" },

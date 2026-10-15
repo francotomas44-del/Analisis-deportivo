@@ -22,6 +22,12 @@
        así que su entrada del manifiesto lleva `rev` (hash del contenido); la app
        la agrega como query (?v=rev) para refrescar el archivo, y sus partidos por
        jugar (sin marcador) alimentan la portada "Hoy".
+     - espn-libertadores: CONMEBOL Libertadores (data/espn-libertadores/), de la
+       API pública de ESPN (historial 2005..2026), por
+       scripts/build-espn-libertadores.ps1. Reemplaza a la antigua entrada de
+       openfootball-extra (sa-lib.json), que mezclaba Libertadores y Sudamericana
+       bajo un mismo código; igual que la Sudamericana, lleva `rev` y sus
+       fixtures alimentan "Hoy".
    Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
@@ -67,7 +73,8 @@
     "de.cup": "DFB-Pokal (Alemania)",
     "worldcup": "Copa Mundial FIFA",
     "euro": "Eurocopa UEFA",
-    "conmebol.sudamericana": "CONMEBOL Sudamericana"
+    "conmebol.sudamericana": "CONMEBOL Sudamericana",
+    "conmebol.libertadores": "CONMEBOL Libertadores"
   };
 
   function compName(code) { return LEAGUES[code] || code; }
@@ -258,7 +265,8 @@
   /* Próximos partidos (fixtures sin resultado) de la temporada en curso.
      Carga liviana: lee solo los archivos de las temporadas recientes (no las 207).
      Incluye las competiciones que traen partidos por jugar de otra fuente
-     (p. ej. CONMEBOL Sudamericana, de ESPN, en data/espn-sudamericana/).
+     (p. ej. CONMEBOL Sudamericana y Libertadores, de ESPN, en
+     data/espn-sudamericana/ y data/espn-libertadores/).
      No persiste nada: es para la portada "Hoy". */
   var upcomingCache = null;
 
@@ -281,7 +289,7 @@
         manifest.forEach(function (e) {
           if (!e || typeof e.path !== "string") return;
           var src = e.source || "openfootball";
-          if (src === "espn-sudamericana") { jobs.push({ folder: src, entry: e }); return; }
+          if (src === "espn-sudamericana" || src === "espn-libertadores") { jobs.push({ folder: src, entry: e }); return; }
           if (src !== "openfootball") return;
           if (e.path.indexOf("2026-27/") === 0 || e.path.indexOf("2026/") === 0) {
             jobs.push({ folder: "openfootball", entry: e });

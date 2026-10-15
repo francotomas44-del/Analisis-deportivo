@@ -29,8 +29,16 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
   (`STATUS_FULL_TIME` + `STATUS_FINAL_PEN`) **y los cruces por jugar** sin marcador, que
   alimentan la portada **"Hoy"**. Su entrada del manifiesto lleva **`rev`** (hash del
   contenido) porque es la única fuente que cambia con el tiempo.
+- **ESPN — CONMEBOL Libertadores** (`source: "espn-libertadores"`) — también de la API
+  pública de **ESPN** por `scripts/build-espn-libertadores.ps1` (temporadas **2005–2026**),
+  guardada en `data/espn-libertadores/conmebol.libertadores.json`. Reemplaza a la antigua
+  entrada `sa-lib` de `openfootball-extra`: ese archivo juntaba los `*_copal.txt`
+  (Libertadores) **y** los `*_copas.txt` (Sudamericana) del repositorio openfootball bajo un
+  mismo código "Copa Libertadores", con lo que el historial quedaba contaminado con partidos
+  de la Sudamericana. Igual que la Sudamericana, incluye jugados (`STATUS_FULL_TIME` +
+  `STATUS_FINAL_PEN`) y cruces por jugar, y su entrada lleva **`rev`**.
 
-## Cobertura (304 archivos · ~73 MB · 6 fuentes + tarjetas)
+## Cobertura (304 archivos · ~73 MB · 7 fuentes + tarjetas)
 
 Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 
@@ -40,16 +48,17 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `arg-espn` | 25 | 9.506 |
 | `espn-season` | 21 | 2.790 |
 | `espn-history` | 21 | 65.277 |
-| `openfootball-extra` | 33 | 30.437 |
-| `espn-sudamericana` | 1 | 2.293 |
-| **Total** | **304** | **162.318** |
+| `openfootball-extra` | 32 | 27.639 |
+| `espn-sudamericana` | 1 | 2.296 |
+| `espn-libertadores` | 1 | 3.200 |
+| **Total** | **304** | **162.723** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈157.400 partidos**, **≈2.130 equipos/selecciones** y
+la app queda con **≈158.200 partidos**, **≈2.130 equipos/selecciones** y
 **101 competiciones**.
 
 Cobertura por tipo:
@@ -59,7 +68,7 @@ Cobertura por tipo:
   - **Eurocopa UEFA** — ediciones disponibles (2020, 2024, 2028).
 - **Clubes (internacional)**
   - **UEFA Champions League**, **CAF Champions League** y **CONCACAF Champions Cup**.
-  - **Copa Libertadores** y **CONMEBOL Sudamericana** (esta última, de ESPN, 2005 → 2026).
+  - **Copa Libertadores** y **CONMEBOL Sudamericana** (ambas de ESPN, 2005 → 2026).
 - **Ligas nacionales — primera división**
   - **Europa** (2010-11 → 2026-27, según disponibilidad): Inglaterra, España, Alemania,
     Italia, Francia, Países Bajos, Portugal, Austria, Bélgica, Suiza, Grecia, Turquía,
@@ -100,6 +109,8 @@ powershell -ExecutionPolicy Bypass -File scripts\build-espn-season.ps1
 powershell -ExecutionPolicy Bypass -File scripts\build-cards.ps1
 # 6) CONMEBOL Sudamericana (ESPN; openfootball no la publica)
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-sudamericana.ps1
+# 7) CONMEBOL Libertadores (ESPN; reemplaza la antigua entrada sa-lib de openfootball-extra)
+powershell -ExecutionPolicy Bypass -File scripts\build-espn-libertadores.ps1
 ```
 
 Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re)genera

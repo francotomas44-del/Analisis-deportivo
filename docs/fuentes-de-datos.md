@@ -17,7 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930**, ligas europeas y **competiciones nuevas** (`openfootball-extra`): MLS, CONCACAF, CAF, Brasil (A/B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita y ligas de África | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`, historial 2005–2026) + temporada en curso en vivo | No |
+| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`) y **CONMEBOL Libertadores** (`data/espn-libertadores/`), ambas con historial 2005–2026 + temporada en curso en vivo | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -61,11 +61,12 @@ amplió con dos pasos reproducibles:
   tramo anterior al primer partido que ya tenía cada liga (21 ligas/competiciones,
   **65.277 partidos**), guardado en `data/espn-history/<código>.json`.
 - **Competiciones nuevas (`openfootball-extra`)** — `scripts/build-openfootball-extra.ps1`
-  descarga de openfootball (misma licencia de dominio público) 33 competiciones que la base
+  descarga de openfootball (misma licencia de dominio público) 32 competiciones que la base
   no traía —**MLS**, **CONCACAF Champions Cup**, **CAF Champions League**, Brasil (Serie A
   y B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia
   Saudita y ligas de **Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda,
-  Zambia, Zimbabue y Sudáfrica**— (**30.437 partidos**), en `data/openfootball-extra/<slug>.json`.
+  Zambia, Zimbabue y Sudáfrica**— (**27.639 partidos**), en `data/openfootball-extra/<slug>.json`.
+  (Antes incluía también la carpeta `copa-libertadores/`, hoy reemplazada por ESPN.)
 - **CONMEBOL Sudamericana (`espn-sudamericana`)** — openfootball no la publica, así que
   `scripts/build-espn-sudamericana.ps1` baja de ESPN las **22 temporadas 2005–2026** a
   `data/espn-sudamericana/conmebol.sudamericana.json`: **2.293 partidos jugados**
@@ -78,9 +79,16 @@ amplió con dos pasos reproducibles:
   Como esta copa **sí cambia** (suma resultados y cruces a medida que se juega), su entrada
   del manifiesto lleva una **`rev`** (hash del contenido) que la app usa como query (`?v=rev`)
   para refrescar el archivo: el resto de `data/` es inmutable y se cachea de forma agresiva.
+- **CONMEBOL Libertadores (`espn-libertadores`)** — tampoco está en openfootball (su carpeta
+  `copa-libertadores/` mezclaba Libertadores y Sudamericana), así que
+  `scripts/build-espn-libertadores.ps1` baja de ESPN las temporadas **2005–2026** a
+  `data/espn-libertadores/conmebol.libertadores.json`: **3.196 partidos jugados** + los
+  cruces por jugar, con la misma mecánica de alias (`scripts/espn-libertadores-team-map.json`,
+  que además reutiliza los del archivo de la Sudamericana) y de **`rev`** que la Sudamericana.
+  Antes de este paso se quitó la entrada `sa-lib` de `scripts/openfootball-extra.json`.
 
 En total, la base queda con **304 archivos** (≈73 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈157.400 partidos**, **≈2.130 equipos** y
+entre fuentes y unificar variantes de nombre, **≈158.200 partidos**, **≈2.130 equipos** y
 **101 competiciones**. Ver `docs/base-historica.md`.
 
 ---

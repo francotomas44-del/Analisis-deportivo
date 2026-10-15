@@ -1505,11 +1505,6 @@
         "source":  "openfootball-extra"
     },
     {
-        "path":  "sa-lib.json",
-        "code":  "Copa Libertadores",
-        "source":  "openfootball-extra"
-    },
-    {
         "path":  "sa-py.json",
         "code":  "Primera División (Paraguay)",
         "source":  "openfootball-extra"
@@ -1629,5 +1624,11 @@
         "code":  "conmebol.sudamericana",
         "source":  "espn-sudamericana",
         "rev":  "171a3004e088"
+    },
+    {
+        "path":  "conmebol.libertadores.json",
+        "code":  "conmebol.libertadores",
+        "source":  "espn-libertadores",
+        "rev":  "e134c4e3af42"
     }
 ]
