@@ -28,6 +28,8 @@ param(
 #   CONMEBOL) y los mapas de alias de las copas: asi un club que ya existe
 #   (p. ej. "Universidad Catolica (CHI)") NO queda partido en dos equipos. Si
 #   un equipo no se reconoce se conserva el nombre de ESPN (equipo nuevo).
+#   Ademas se aplica espn-southamerica-team-map.json: los nombres canonicos
+#   propios de estas ligas (equipos que ESPN nombra distinto por temporada).
 # - El archivo cambia en cada corrida (suma resultados y cruces), asi que su
 #   entrada del manifiesto lleva `rev` (hash) y la app lo refresca con ?v=rev.
 #
@@ -67,6 +69,11 @@ $saMap = Read-TeamAlias (Join-Path $PSScriptRoot "espn-sudamericana-team-map.jso
 foreach ($k in $saMap.Keys) { $alias[$k] = $saMap[$k] }
 $libMap = Read-TeamAlias (Join-Path $PSScriptRoot "espn-libertadores-team-map.json")
 foreach ($k in $libMap.Keys) { $alias[$k] = $libMap[$k] }
+# Nombres canonicos propios de estas ligas: equipos que ESPN nombra distinto segun
+# la temporada (p. ej. "Union Wanderers" en 2020 = "Santiago Wanderers"). Se leen
+# al final para que tengan prioridad sobre los mapas de las copas.
+$saLeagueMap = Read-TeamAlias (Join-Path $PSScriptRoot "espn-southamerica-team-map.json")
+foreach ($k in $saLeagueMap.Keys) { $alias[$k] = $saLeagueMap[$k] }
 $utf8 = New-Object System.Text.UTF8Encoding($false)
 
 Write-Host "Indice de la base (openfootball + arg-espn + openfootball-extra + copas CONMEBOL)..."

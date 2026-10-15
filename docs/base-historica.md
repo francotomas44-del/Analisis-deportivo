@@ -67,15 +67,19 @@ partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈188.500 partidos**, **≈2.190 equipos/selecciones** y
+la app queda con **≈188.500 partidos**, **≈2.180 equipos/selecciones** y
 **106 competiciones**.
 
-**Variantes de nombre brasileñas.** Las fuentes escriben al mismo club de dos formas
+**Variantes de nombre.** Las fuentes escriben al mismo club de dos formas
 distintas (`Flamengo RJ` / `CR Flamengo`, `Botafogo RJ` / `Botafogo FR`, `Atlético Mineiro` /
 `CA Mineiro`, …). La normalización genérica de `canonicalName()` (quita FC/SC/…) no siempre los
-colapsa, así que el club quedaba partido en dos equipos. `js/store.js` incluye ahora una tabla
-curada (`TEAM_ALIAS`, 19 clubes brasileños) y `canonicalMap()` elige como **nombre
-superviviente** el del club con **más partidos**.
+colapsa, así que el club quedaba partido en dos equipos. `js/store.js` incluye una tabla
+curada (`TEAM_ALIAS`: 19 clubes brasileños y 2 sudamericanos partidos entre su liga y las
+copas) y `canonicalMap()` elige como **nombre superviviente** el que no lleva paréntesis y,
+a igualdad, el del club con **más partidos**. Los clubes que ESPN nombra distinto según la
+temporada dentro de una misma liga se corrigen en el origen, con
+`scripts/espn-southamerica-team-map.json` (p. ej. `Unión Wanderers` 2020 = `Santiago
+Wanderers (CHI)`, `Melipilla` 2021 = `Deportes Melipilla`, `El Vigia` = `Atlético Vigía`).
 
 Cobertura por tipo:
 

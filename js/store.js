@@ -57,7 +57,12 @@
      clave canónica compartida). Se verificó que no fusiona clubes distintos
      (América Mineiro ≠ Atlético Mineiro, Botafogo-SP ≠ Botafogo-RJ, Fortaleza FC
      de Colombia ≠ Fortaleza CE de Brasil, Grêmio Barueri ≠ Grêmio Porto Alegre).
-     Son 19 clubes brasileños cuyo historial quedaba partido entre dos nombres. */
+
+     - Los 19 primeros son clubes brasileños cuyo historial quedaba partido entre
+       dos nombres.
+     - Los 2 últimos son clubes sudamericanos partidos entre su liga nueva y las
+       copas CONMEBOL (cada fuente los nombra distinto). Los demás casos de esas
+       ligas se corrigen en el origen, con scripts/espn-southamerica-team-map.json. */
   var TEAM_ALIAS = {
     "flamengo rj": "flamengo", "cr flamengo": "flamengo",
     "botafogo rj": "botafogo", "botafogo fr": "botafogo",
@@ -77,7 +82,11 @@
     "athletico paranaense": "athletico paranaense", "ca paranaense": "athletico paranaense",
     "sport recife pe": "sport recife", "sc recife": "sport recife",
     "bahia ba": "bahia", "ec bahia": "bahia",
-    "red bull bragantino": "bragantino", "rb bragantino": "bragantino"
+    "red bull bragantino": "bragantino", "rb bragantino": "bragantino",
+    // Perú: ESPN "Melgar" (2014-) y las copas "FBC Melgar (PER)" (2005-2013).
+    "melgar": "FBC Melgar (PER)",
+    // Venezuela: ESPN "CD Lara" (2009-2013) y "Deportivo Lara" (2014-).
+    "cd lara": "Deportivo Lara"
   };
 
   /* Nombre en minúsculas, sin acentos y con espacios normalizados. Se usa solo
