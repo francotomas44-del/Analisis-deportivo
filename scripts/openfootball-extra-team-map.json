@@ -1,0 +1,39 @@
+{
+    "at-hist":  {
+                    "Austria W":  "Austria Wien",
+                    "Austria S":  "RB Salzburg",
+                    "Austria K":  "SK Austria Klagenfurt",
+                    "Salzburg":  "RB Salzburg",
+                    "SV Salzburg":  "RB Salzburg",
+                    "Austria Salzburg":  "RB Salzburg",
+                    "FC Red Bull Salzburg":  "RB Salzburg",
+                    "GAK":  "Grazer AK",
+                    "GAK 1902":  "Grazer AK",
+                    "LASK":  "LASK Linz",
+                    "BW Linz":  "FC Blau Weiß Linz",
+                    "Tirol":  "FC Tirol Innsbruck",
+                    "Wattens":  "WSG Tirol",
+                    "Admira M":  "FC Admira Wacker",
+                    "Admira Mödling":  "FC Admira Wacker",
+                    "A.W. Mödling":  "FC Admira Wacker",
+                    "Admira/Wacker Mödling":  "FC Admira Wacker",
+                    "SW Bregenz":  "Schwarz-Weiß Bregenz",
+                    "Leoben":  "DSV Leoben",
+                    "Kärnten":  "FC Karnten",
+                    "FC Kärnten":  "FC Karnten",
+                    "Anger":  "Anger",
+                    "Schwarzach":  "Schwarzach",
+                    "Weißkirchen":  "Weißkirchen"
+                },
+    "de-hist":  {
+                    "B\u0027schweig":  "Eintracht Braunschweig",
+                    "K\u0027lautern":  "1. FC Kaiserslautern",
+                    "Meidericher":  "MSV Duisburg",
+                    "Münster":  "Preußen Münster",
+                    "Neunkirchen":  "Borussia Neunkirchen",
+                    "S\u0027brücken":  "1. FC Saarbrücken"
+                },
+    "af-zw":  {
+                    "Scottland FC":  "Scottland FC"
+                }
+}

@@ -8,7 +8,7 @@
                         "id":  "espn:747402",
                         "date":  "2025-11-08",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "Grazer AK",
                         "score":  {
                                       "ft":  [
@@ -74,7 +74,7 @@
                         "date":  "2025-11-22",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "FC Blau Weiß Linz",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  2,
@@ -138,7 +138,7 @@
                         "id":  "espn:747415",
                         "date":  "2025-11-29",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "WSG Tirol",
                         "score":  {
                                       "ft":  [
@@ -243,7 +243,7 @@
                         "date":  "2025-12-07",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "Wolfsberger AC",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  2,
@@ -333,7 +333,7 @@
                         "id":  "espn:747428",
                         "date":  "2025-12-14",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "Sturm Graz",
                         "score":  {
                                       "ft":  [
@@ -347,7 +347,7 @@
                         "date":  "2026-02-06",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "RB Salzburg",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  0,
@@ -477,7 +477,7 @@
                         "date":  "2026-02-21",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "SCR Altach",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  2,
@@ -541,7 +541,7 @@
                         "id":  "espn:747453",
                         "date":  "2026-03-01",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "LASK Linz",
                         "score":  {
                                       "ft":  [
@@ -633,7 +633,7 @@
                         "date":  "2026-03-08",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "SV Ried",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  0,
@@ -723,7 +723,7 @@
                         "id":  "espn:401863960",
                         "date":  "2026-03-15",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "Sturm Graz",
                         "score":  {
                                       "ft":  [
@@ -789,7 +789,7 @@
                         "date":  "2026-03-22",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "TSV Hartberg",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  0,
@@ -841,7 +841,7 @@
                         "date":  "2026-04-05",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "LASK Linz",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  4,
@@ -970,7 +970,7 @@
                         "id":  "espn:401864022",
                         "date":  "2026-04-19",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "RB Salzburg",
                         "score":  {
                                       "ft":  [
@@ -1036,7 +1036,7 @@
                         "date":  "2026-04-22",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "RB Salzburg",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  3,
@@ -1114,7 +1114,7 @@
                         "date":  "2026-04-26",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "Sturm Graz",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  1,
@@ -1152,7 +1152,7 @@
                         "id":  "espn:401864039",
                         "date":  "2026-05-03",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "TSV Hartberg",
                         "score":  {
                                       "ft":  [
@@ -1295,7 +1295,7 @@
                         "id":  "espn:401864053",
                         "date":  "2026-05-17",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "LASK Linz",
                         "score":  {
                                       "ft":  [
@@ -1387,7 +1387,7 @@
                         "date":  "2026-08-02",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "Wolfsberger AC",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  3,
@@ -1451,7 +1451,7 @@
                         "id":  "espn:401881810",
                         "date":  "2026-08-09",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "LASK Linz",
                         "score":  {
                                       "ft":  [
@@ -1504,7 +1504,7 @@
                         "date":  "2026-08-16",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "TSV Hartberg",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  0,
@@ -1621,7 +1621,7 @@
                         "date":  "2026-08-30",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "RB Salzburg",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  4,
@@ -1646,7 +1646,7 @@
                         "id":  "espn:401881799",
                         "date":  "2026-09-02",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "WSG Tirol",
                         "score":  {
                                       "ft":  [
@@ -1685,7 +1685,7 @@
                         "id":  "espn:401881788",
                         "date":  "2026-09-13",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "Austria Lustenau",
                         "score":  {
                                       "ft":  [
@@ -1738,7 +1738,7 @@
                         "date":  "2026-09-19",
                         "competition":  "Bundesliga (Austria)",
                         "team1":  "Grazer AK",
-                        "team2":  "Austria",
+                        "team2":  "Austria Wien",
                         "score":  {
                                       "ft":  [
                                                  2,
@@ -1815,7 +1815,7 @@
                         "id":  "espn:401881777",
                         "date":  "2026-10-10",
                         "competition":  "Bundesliga (Austria)",
-                        "team1":  "Austria",
+                        "team1":  "Austria Wien",
                         "team2":  "Sturm Graz",
                         "score":  {
                                       "ft":  [

@@ -65,7 +65,7 @@ amplió con dos pasos reproducibles:
   no traía —**MLS**, **CONCACAF Champions Cup**, **CAF Champions League**, Brasil (Serie A
   y B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia
   Saudita y ligas de **Nigeria, Ghana, Kenia, Malaui, Ruanda, Senegal, Tanzania, Uganda,
-  Zambia, Zimbabue y Sudáfrica**— (**27.639 partidos**), en `data/openfootball-extra/<slug>.json`.
+  Zambia, Zimbabue y Sudáfrica**— (**27.582 partidos**), en `data/openfootball-extra/<slug>.json`.
   (Antes incluía también la carpeta `copa-libertadores/`, hoy reemplazada por ESPN.)
 - **CONMEBOL Sudamericana (`espn-sudamericana`)** — openfootball no la publica, así que
   `scripts/build-espn-sudamericana.ps1` baja de ESPN las **22 temporadas 2005–2026** a
@@ -95,7 +95,7 @@ amplió con dos pasos reproducibles:
   Reutiliza los alias de las copas y lleva **`rev`**, igual que las dos copas.
 
 En total, la base queda con **309 archivos** (≈93 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈188.500 partidos**, **≈2.180 equipos** y
+entre fuentes y unificar variantes de nombre, **≈188.400 partidos**, **≈2.060 equipos** y
 **106 competiciones**. Ver `docs/base-historica.md`.
 
 ---

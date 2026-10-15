@@ -18,7 +18,7 @@ honesta: para cada partido se calcula la predicción usando **únicamente la inf
 
 El backtesting usa **acumuladores incrementales** por equipo, matemáticamente equivalentes a
 `stats.teamStats` sobre el prefijo de partidos (verificado a precisión de máquina). Así el recorrido es
-**O(n)** en vez de O(n²) y todo el dataset (≈188.500 partidos) se procesa en unos pocos segundos.
+**O(n)** en vez de O(n²) y todo el dataset (≈188.400 partidos) se procesa en unos pocos segundos.
 
 ## Opciones
 

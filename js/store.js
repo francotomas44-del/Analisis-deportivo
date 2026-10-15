@@ -60,9 +60,11 @@
 
      - Los 19 primeros son clubes brasileños cuyo historial quedaba partido entre
        dos nombres.
-     - Los 2 últimos son clubes sudamericanos partidos entre su liga nueva y las
+     - Los 2 siguientes son clubes sudamericanos partidos entre su liga nueva y las
        copas CONMEBOL (cada fuente los nombra distinto). Los demás casos de esas
-       ligas se corrigen en el origen, con scripts/espn-southamerica-team-map.json. */
+       ligas se corrigen en el origen, con scripts/espn-southamerica-team-map.json.
+     - Los 6 siguientes son alemanes y los 5 últimos austríacos: el mismo club
+       escrito distinto según la fuente (año de fundación, país, renombres). */
   var TEAM_ALIAS = {
     "flamengo rj": "flamengo", "cr flamengo": "flamengo",
     "botafogo rj": "botafogo", "botafogo fr": "botafogo",
@@ -86,7 +88,21 @@
     // Perú: ESPN "Melgar" (2014-) y las copas "FBC Melgar (PER)" (2005-2013).
     "melgar": "FBC Melgar (PER)",
     // Venezuela: ESPN "CD Lara" (2009-2013) y "Deportivo Lara" (2014-).
-    "cd lara": "Deportivo Lara"
+    "cd lara": "Deportivo Lara",
+    // Alemanes: unas fuentes agregan el año de fundación ("Bayer 04") y otras no;
+    // y las de ESPN pueden sumarle el país ("(GER)").
+    "bayer 04 leverkusen": "Bayer Leverkusen",
+    "bayer 04 leverkusen (ger)": "Bayer Leverkusen",
+    "borussia monchengladbach": "Bor. Mönchengladbach",
+    "spvgg greuther furth 1903": "SpVgg Greuther Fürth",
+    "vfl bochum 1848": "VfL Bochum",
+    "fc st. pauli 1910": "FC St. Pauli",
+    // Austríacos: mismo club renombrado entre fuentes o temporadas.
+    "lask linz": "LASK",
+    "wsg wattens": "WSG Tirol",
+    "sc magna wiener neustadt": "1. Wiener Neustädter SC",
+    "fc trenkwalder admira": "FC Admira Wacker",
+    "fc red bull salzburg (aut)": "RB Salzburg"
   };
 
   /* Nombre en minúsculas, sin acentos y con espacios normalizados. Se usa solo

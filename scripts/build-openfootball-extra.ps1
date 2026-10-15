@@ -32,6 +32,9 @@ $manPath = Join-Path $Root "data\manifest.json"
 $manifest = Get-Content $manPath -Raw -Encoding UTF8 | ConvertFrom-Json
 $config = Get-Content (Join-Path $PSScriptRoot "openfootball-extra.json") -Raw -Encoding UTF8 | ConvertFrom-Json
 $alias = Read-TeamAlias (Join-Path $PSScriptRoot "espn-team-alias.json")
+$teamMapPath = Join-Path $PSScriptRoot "openfootball-extra-team-map.json"
+$teamMap = $null
+if (Test-Path $teamMapPath) { $teamMap = Get-Content $teamMapPath -Raw -Encoding UTF8 | ConvertFrom-Json }
 $utf8 = New-Object System.Text.UTF8Encoding($false)
 
 $outDir = Join-Path $Root "data\openfootball-extra"
@@ -120,7 +123,13 @@ function Parse-FootballTxt([string]$text) {
     if ($curY -eq 0) { continue }
     $clean = $t
     $clean = $clean -replace '\s+@\s+.*$', ' '
-    $clean = $clean -replace '\s{2,}\(\s*[^)]*\)\s*$', ' '
+    # Anotacion de goleadores: puede quedar SIN cerrar (se corta y continua en la
+    # linea siguiente) o llevar solo UN espacio antes del parentesis; solo se
+    # elimina cuando el parentesis alcanza el final de la linea (asi no se toca un
+    # nombre con parentesis en medio) y se respeta el apendice de anios de algunos
+    # clubes historicos ("Accrington FC (1878-1896)").
+    $clean = $clean -replace '\s+\([^)]*$', ' '
+    $clean = $clean -replace '\s+\((?!\d{4}-\d{4}\))\s*[^)]*\)\s*$', ' '
     $clean = $clean -replace '\[[^\]]*\]', ' '
     $clean = $clean.Trim()
     $ht = $null; $away = $null; $hg = 0; $ag = 0
@@ -164,6 +173,21 @@ function Resolve-NameExtra([string]$nm, [string]$code, $Index, $alias, $addedLis
   return $null
 }
 
+function Get-MapTarget($map, [string]$slug, [string]$name) {
+  # Mapa curado por slug (scripts/openfootball-extra-team-map.json). Fuerza el
+  # nombre EXACTO de la base para abreviaturas que el resolutor no reconoce o
+  # asigna mal (p. ej. "Meidericher" -> "MSV Duisburg", "Austria W" -> "Austria
+  # Wien"). Si no hay entrada, devuelve $null y se usa el resolutor normal.
+  if (-not $map -or -not $slug -or -not $name) { return $null }
+  $s = $map.PSObject.Properties[$slug]
+  if (-not $s) { return $null }
+  $p = $s.Value.PSObject.Properties[$name]
+  if (-not $p) { return $null }
+  $t = [string]$p.Value
+  if (-not $t) { return $null }
+  return $t
+}
+
 Write-Host "Indice de la base..."
 $Index = New-BaseIndex $Root $manifest
 $extraRes = @{}
@@ -203,8 +227,10 @@ foreach ($cfg in $config) {
     $parsed = Parse-FootballTxt $raw
     foreach ($mm in $parsed) {
       $acc.events++
-      $hb = Resolve-NameExtra $mm.home $acc.leagueCode $Index $alias $acc.added
-      $ab = Resolve-NameExtra $mm.away $acc.leagueCode $Index $alias $acc.added
+      $hb = Get-MapTarget $teamMap $slug $mm.home
+      if (-not $hb) { $hb = Resolve-NameExtra $mm.home $acc.leagueCode $Index $alias $acc.added }
+      $ab = Get-MapTarget $teamMap $slug $mm.away
+      if (-not $ab) { $ab = Resolve-NameExtra $mm.away $acc.leagueCode $Index $alias $acc.added }
       if (-not $hb -or -not $ab) { $acc.skipped++; continue }
       $k1 = Get-TeamKey $hb; $k2 = Get-TeamKey $ab
       $kk = "$k1|$k2"

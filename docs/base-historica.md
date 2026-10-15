@@ -56,30 +56,39 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `arg-espn` | 25 | 9.506 |
 | `espn-season` | 21 | 2.790 |
 | `espn-history` | 21 | 65.277 |
-| `openfootball-extra` | 32 | 27.639 |
+| `openfootball-extra` | 32 | 27.582 |
 | `espn-sudamericana` | 1 | 2.296 |
 | `espn-libertadores` | 1 | 3.200 |
 | `espn-southamerica` | 5 | 30.631 |
-| **Total** | **309** | **193.354** |
+| **Total** | **309** | **193.297** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈188.500 partidos**, **≈2.180 equipos/selecciones** y
+la app queda con **≈188.400 partidos**, **≈2.060 equipos/selecciones** y
 **106 competiciones**.
 
 **Variantes de nombre.** Las fuentes escriben al mismo club de dos formas
 distintas (`Flamengo RJ` / `CR Flamengo`, `Botafogo RJ` / `Botafogo FR`, `Atlético Mineiro` /
 `CA Mineiro`, …). La normalización genérica de `canonicalName()` (quita FC/SC/…) no siempre los
 colapsa, así que el club quedaba partido en dos equipos. `js/store.js` incluye una tabla
-curada (`TEAM_ALIAS`: 19 clubes brasileños y 2 sudamericanos partidos entre su liga y las
-copas) y `canonicalMap()` elige como **nombre superviviente** el que no lleva paréntesis y,
+curada (`TEAM_ALIAS`: 19 clubes brasileños, 2 sudamericanos, 6 alemanes y 5 austríacos
+partidos entre su liga y las copas) y `canonicalMap()` elige como **nombre superviviente** el que no lleva paréntesis y,
 a igualdad, el del club con **más partidos**. Los clubes que ESPN nombra distinto según la
 temporada dentro de una misma liga se corrigen en el origen, con
 `scripts/espn-southamerica-team-map.json` (p. ej. `Unión Wanderers` 2020 = `Santiago
 Wanderers (CHI)`, `Melipilla` 2021 = `Deportes Melipilla`, `El Vigia` = `Atlético Vigía`).
+
+**Colisiones club / selección.** Cuando un club y una selección nacional comparten
+exactamente el mismo nombre, la base los fusionaba en un solo equipo. Se corrigieron en el
+origen: ESPN llamaba `Austria` al **FK Austria Wien** (`data/espn-season/at.1.json`) y
+`Peru` al **AC Perugia** de la Serie A 2000-2004 (`data/espn-history/it.1.json`); y el
+resolutor de nombres degradaba el club zimbabuense **Scottland FC** (así, con dos «t») a
+`Scotland` (`data/openfootball-extra/af-zw.json`). Los alias de origen
+(`scripts/espn-team-alias.json`, `scripts/openfootball-extra-team-map.json`) evitan que
+vuelvan a ocurrir en las próximas descargas.
 
 Cobertura por tipo:
 
