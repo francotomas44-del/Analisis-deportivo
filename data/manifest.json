@@ -1660,5 +1660,29 @@
         "code":  "ven.1",
         "source":  "espn-southamerica",
         "rev":  "a0acb50ac1a4"
+    },
+    {
+        "path":  "conmebol.america.json",
+        "code":  "conmebol.america",
+        "source":  "espn-cups",
+        "rev":  "b72c719a21e4"
+    },
+    {
+        "path":  "fifa.worldq.conmebol.json",
+        "code":  "fifa.worldq.conmebol",
+        "source":  "espn-cups",
+        "rev":  "82751252cee4"
+    },
+    {
+        "path":  "uefa.europa.json",
+        "code":  "uefa.europa",
+        "source":  "espn-cups",
+        "rev":  "118bef106e6c"
+    },
+    {
+        "path":  "uefa.europa.conf.json",
+        "code":  "uefa.europa.conf",
+        "source":  "espn-cups",
+        "rev":  "d54ae474ccc4"
     }
 ]

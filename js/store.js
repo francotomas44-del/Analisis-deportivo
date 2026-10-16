@@ -69,7 +69,10 @@
        temporada (sobre todo desde 2020-21, cuando pasó a usar el nombre "largo",
        con ciudad o sufijo legal): el historial del mismo club quedaba partido en
        dos. Verificado por fuentes/competiciones (temporadas complementarias).
-     - Los 13 últimos separan el mismo club por sigla, año de fundación o país. */
+     - Los 13 últimos separan el mismo club por sigla, año de fundación o país.
+     Las copas nuevas (espn-cups) se corrigen en el origen con
+     scripts/espn-cups-team-map.json (17 alias, dos de ellos falsos positivos del
+     resolutor difuso) y las selecciones con el mapa de país del propio generador. */
   var TEAM_ALIAS = {
     "flamengo rj": "flamengo", "cr flamengo": "flamengo",
     "botafogo rj": "botafogo", "botafogo fr": "botafogo",

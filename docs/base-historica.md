@@ -45,8 +45,20 @@ históricos reales, descargada de fuentes libres y confiables, lista para analiz
   Reutiliza los alias de las copas para no partir clubes, incluye los jugados
   (`STATUS_FULL_TIME` + `STATUS_FINAL_PEN`) **y los cruces por jugar**, y su entrada lleva
   **`rev`**.
+- **ESPN — copas y selecciones nuevas** (`source: "espn-cups"`) — cuatro competiciones que
+  la base no traía: **Copa América** (`conmebol.america`, 2001 → hoy), **Eliminatorias
+  Mundial CONMEBOL** (`fifa.worldq.conmebol`, 2003 → hoy), **UEFA Europa League**
+  (`uefa.europa`, 2009 → hoy) y **UEFA Conference League** (`uefa.europa.conf`, 2021 → hoy).
+  De la API pública de **ESPN** por `scripts/build-espn-cups.ps1`, guardadas en
+  `data/espn-cups/<código>.json` (~2,2 MB). Incluyen los jugados (`STATUS_FULL_TIME` +
+  `STATUS_FINAL_PEN`) **y los cruces por jugar** (alimentan la portada "Hoy"), y su entrada
+  lleva **`rev`**. De las dos copas europeas se guarda **solo la fase principal**: las rondas
+  previas (`qualifying`, `preliminary`, `play-off round`, `play-offs`, `first round`) se
+  descartan con una lista negra sobre `season.slug` (`scripts/espn-cups.json`, campo
+  `phaseExclude`). Las dos competiciones de selecciones usan un mapa de alias propio
+  (vacío salvo `Venezuela`; ver más abajo).
 
-## Cobertura (309 archivos · ~93 MB · 8 fuentes + tarjetas)
+## Cobertura (313 archivos · ~93 MB · 9 fuentes + tarjetas)
 
 Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 
@@ -60,15 +72,19 @@ Reparto de partidos por fuente (crudo, antes de deduplicar entre fuentes):
 | `espn-sudamericana` | 1 | 2.296 |
 | `espn-libertadores` | 1 | 3.200 |
 | `espn-southamerica` | 5 | 30.630 |
-| **Total** | **309** | **193.295** |
+| `espn-cups` | 4 | 3.917 |
+| **Total** | **313** | **197.212** |
 
 Además, **22 archivos de tarjetas** (`source: "cards"`, `data/cards/`, ≈1,7 MB) **no agregan
 partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por equipo (≈60.600
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **≈188.424 partidos**, **≈2.030 equipos/selecciones** y
-**106 competiciones**.
+la app queda con **192.179 partidos**, **2.089 equipos/selecciones** y
+**110 competiciones** (los 3.917 crudos de `espn-cups` entran como 3.754 jugados; los
+**162 por jugar** —72 de la Europa League y 90 de la Conference— los carga aparte
+`AD.dataset.loadUpcoming` para la portada "Hoy", y un partido se descarta por repetido
+dentro de la propia fuente).
 
 **Variantes de nombre.** Las fuentes escriben al mismo club de dos formas
 distintas (`Flamengo RJ` / `CR Flamengo`, `Botafogo RJ` / `Botafogo FR`, `Atlético Mineiro` /
@@ -83,6 +99,16 @@ a igualdad, el del club con **más partidos**. El alias se aplica también sin e
 ESPN nombra distinto según la temporada dentro de una misma liga se corrigen en el origen,
 con `scripts/espn-southamerica-team-map.json` (p. ej. `Unión Wanderers` 2020 = `Santiago
 Wanderers (CHI)`, `Melipilla` 2021 = `Deportes Melipilla`, `El Vigia` = `Atlético Vigía`).
+
+**Alias de las copas nuevas (`scripts/espn-cups-team-map.json`).** `espn-cups` reutiliza
+`scripts/espn-team-alias.json` y añade un mapa propio con **17 entradas** escritas con el
+nombre **exacto** de la base: variantes que el resolutor difuso no acertaba (`Apoel Nicosia`
+→ `APOEL Nikosia (CYP)`, `Dynamo Kyiv` → `Dinamo Kiev (UKR)`, `Sparta Prague` → `AC Sparta
+Praha (CZE)`, `CFR Cluj-Napoca` → `CFR Cluj (ROU)`, …) y **dos falsos positivos** de la regla
+de prefijos que apuntaban a un club equivocado: `Lillestrom` → `Lille OSC` y `Riga FC` →
+`Skonto Riga` (quedan como `Lillestrøm` y `Riga FC`). El índice de resolución es el
+**ampliado** (incluye `espn-history` y `espn-season`), así que los clubes que ya existían con
+otro nombre **no** se recrean.
 
 **Colisiones club / selección.** Cuando un club y una selección nacional comparten
 exactamente el mismo nombre, la base los fusionaba en un solo equipo. Se corrigieron en el
@@ -107,6 +133,13 @@ entre países** que la app fusiona por nombre (`CD Nacional` Portugal/Uruguay/Pa
 `River Plate` Argentina/Uruguay, `Llaneros` Colombia/Venezuela): requiere desambiguar en el
 origen con el sufijo `(PAÍS)`.
 
+Al sumar `espn-cups` aparecieron **tres casos más**, ya tapados con alias: `Lillestrom` →
+`Lille OSC` y `Riga FC` → `Skonto Riga` (los dos falsos positivos, arriba) y la **selección
+`Venezuela`** → el club `Atlético Venezuela` — la base **no tenía** la selección (nunca jugó
+un Mundial) y su único equipo venezolano era ese club de liga, al que el resolutor difuso
+asignaba los 35 partidos de la Copa América. Las competiciones de selecciones usan ahora su
+propio mapa (`$aliasNations` en `scripts/build-espn-cups.ps1`: `venezuela` → `Venezuela`).
+
 **Marcadores inválidos (ESPN).** Cuando ESPN no tiene el resultado de un partido
 devuelve `score: -1` para el equipo sin dato (no `null`). Los generadores solo
 comprobaban que el marcador fuera un entero, así que el `-1` pasaba y dejaba
@@ -120,16 +153,21 @@ se sanean al cargar.
 **Procedencia por partido.** Cada partido guarda su `source`. Antes el cargador
 etiquetaba todos los partidos como `openfootball`; ahora cada fila conserva la
 `source` de su archivo del manifiesto (`espn-history`, `espn-season`,
-`espn-southamerica`, `openfootball-extra`, `arg-espn`, etc.).
+`espn-southamerica`, `espn-sudamericana`, `espn-libertadores`, `espn-cups`,
+`openfootball-extra`, `arg-espn`, etc.).
 
 Cobertura por tipo:
 
 - **Selecciones nacionales**
   - **Copa Mundial FIFA** — todas las ediciones (1930 → 2026).
   - **Eurocopa UEFA** — ediciones disponibles (2020, 2024, 2028).
+  - **Copa América** (2001 → 2024) y **Eliminatorias Mundial CONMEBOL** (2003 → 2025),
+    ambas de ESPN (`espn-cups`).
 - **Clubes (internacional)**
   - **UEFA Champions League**, **CAF Champions League** y **CONCACAF Champions Cup**.
   - **Copa Libertadores** y **CONMEBOL Sudamericana** (ambas de ESPN, 2005 → 2026).
+  - **UEFA Europa League** (2009 → 2026) y **UEFA Conference League** (2021 → 2026), de
+    ESPN (`espn-cups`), **solo la fase principal** (sin rondas previas).
 - **Ligas nacionales — primera división**
   - **Europa** (2010-11 → 2026-27, según disponibilidad): Inglaterra, España, Alemania,
     Italia, Francia, Países Bajos, Portugal, Austria, Bélgica, Suiza, Grecia, Turquía,
@@ -174,15 +212,18 @@ powershell -ExecutionPolicy Bypass -File scripts\build-espn-sudamericana.ps1
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-libertadores.ps1
 # 8) Sudamérica doméstica: Chile, Uruguay, Perú, Bolivia y Venezuela (ESPN)
 powershell -ExecutionPolicy Bypass -File scripts\build-espn-southamerica.ps1
+# 9) Copas y selecciones nuevas: Copa América, Eliminatorias CONMEBOL, Europa y Conference (ESPN)
+powershell -ExecutionPolicy Bypass -File scripts\build-espn-cups.ps1
 ```
 
 Cada script descarga su fuente, escribe sus archivos bajo `data/<source>/` y (re)genera
 `data/manifest.json`, que es lo que lee la app (`js/dataset.js`). Es reproducible: la
 fuente queda identificada en cada paso. `scripts/openfootball-extra.json` lista las
-competiciones del paso 3 y `scripts/espn-leagues.json` las del paso 2.
+competiciones del paso 3, `scripts/espn-leagues.json` las del paso 2 y
+`scripts/espn-cups.json` las del paso 9.
 
-> Solo una corrida a la vez: los pasos 2, 3, 6, 7 y 8 reescriben `data/manifest.json`; correrlos
-> en paralelo deja el manifiesto inconsistente.
+> Solo una corrida a la vez: los pasos 2, 3, 6, 7, 8 y 9 reescriben `data/manifest.json`;
+> correrlos en paralelo deja el manifiesto inconsistente.
 
 ## Límites (honestidad estadística)
 

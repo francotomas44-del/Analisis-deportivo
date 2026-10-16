@@ -17,7 +17,7 @@ ya están integradas en la app y cuáles requieren una **API key**.
 | **OpenLigaDB** | No | Fair use | ✅ `*` | Bundesliga 1/2 y más ligas alemanas, partidos detallados, temporadas históricas | No |
 | **openfootball** (JSON en GitHub) | No | Límite de GitHub | ✅ `*` | Mundiales desde **1930**, ligas europeas y **competiciones nuevas** (`openfootball-extra`): MLS, CONCACAF, CAF, Brasil (A/B, Copa do Brasil), Colombia, Ecuador, Paraguay, Costa Rica, Kazajistán, Israel, Arabia Saudita y ligas de África | No |
 | **football-data.co.uk** (CSV) | No | — | ❌ sin CORS | Histórico + **árbitro** + córners + tarjetas + cuotas | Sí |
-| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`), **CONMEBOL Libertadores** (`data/espn-libertadores/`) y **Sudamérica doméstica** (`data/espn-southamerica/`: Chile, Uruguay, Perú, Bolivia y Venezuela), todas con historial 2005–2026 + temporada en curso en vivo | No |
+| **ESPN** (Liga Argentina + resto) | No | — | ✅ `*` | Liga Profesional Argentina (**historial 2001 y 2003–2026**, `data/arg-espn/`) + **historia previa** (`espn-history`) y **temporada en curso** (`espn-season`) de 21 divisiones/competiciones + **CONMEBOL Sudamericana** (`data/espn-sudamericana/`), **CONMEBOL Libertadores** (`data/espn-libertadores/`), **Sudamérica doméstica** (`data/espn-southamerica/`: Chile, Uruguay, Perú, Bolivia y Venezuela) y **copas y selecciones** (`data/espn-cups/`: Copa América, Eliminatorias CONMEBOL, Europa League y Conference League), todas con historial 2005–2026 + temporada en curso en vivo | No |
 
 En la app están en la pestaña **Importar**:
 
@@ -55,7 +55,7 @@ Profesional Argentina se arma desde la API pública de **ESPN**:
 ### Base histórica ampliada (actualizada)
 
 Además del paquete original de openfootball y de la Liga Argentina, la base integrada se
-amplió con dos pasos reproducibles:
+amplió con varios pasos reproducibles:
 
 - **Historia previa (`espn-history`)** — `scripts/build-espn-history.ps1` baja de ESPN el
   tramo anterior al primer partido que ya tenía cada liga (21 ligas/competiciones,
@@ -94,9 +94,21 @@ amplió con dos pasos reproducibles:
   `data/espn-southamerica/<código>.json`: **≈30.600 partidos** y **≈76 equipos nuevos**.
   Reutiliza los alias de las copas y lleva **`rev`**, igual que las dos copas.
 
-En total, la base queda con **309 archivos** (≈93 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **≈188.424 partidos**, **≈2.030 equipos** y
-**106 competiciones**. Ver `docs/base-historica.md`.
+- **Copas y selecciones nuevas (`espn-cups`)** — cuatro competiciones que la base no traía:
+  **Copa América** (`conmebol.america`, 2001 → 2024), **Eliminatorias Mundial CONMEBOL**
+  (`fifa.worldq.conmebol`, 2003 → 2025), **UEFA Europa League** (`uefa.europa`, 2009 → 2026)
+  y **UEFA Conference League** (`uefa.europa.conf`, 2021 → 2026). `scripts/build-espn-cups.ps1`
+  baja de ESPN **3.917 partidos crudos** a `data/espn-cups/<código>.json` (~2,2 MB): los
+  jugados + los cruces por jugar (portada "Hoy"), con **`rev`**. De las dos copas europeas se
+  guarda **solo la fase principal**, descartando las rondas previas por `season.slug` (campo
+  `phaseExclude` de `scripts/espn-cups.json`). Los clubes se resuelven contra el índice
+  ampliado (incluye `espn-history` y `espn-season`) + `scripts/espn-cups-team-map.json`
+  (**17 alias**); las dos competiciones de selecciones usan un mapa de país propio
+  (`venezuela` → `Venezuela`), porque la base **no** aplica ahí el alias de clubes.
+
+En total, la base queda con **313 archivos** (≈93 MB) y, tras deduplicar los solapamientos
+entre fuentes y unificar variantes de nombre, **192.179 partidos**, **2.089 equipos** y
+**110 competiciones**. Ver `docs/base-historica.md`.
 
 ---
 

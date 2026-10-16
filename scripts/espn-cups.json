@@ -1,0 +1,6 @@
+[
+  { "code": "conmebol.america", "slug": "conmebol.america", "name": "Copa América", "national": true },
+  { "code": "fifa.worldq.conmebol", "slug": "fifa.worldq.conmebol", "name": "Eliminatorias Mundial (CONMEBOL)", "national": true },
+  { "code": "uefa.europa", "slug": "uefa.europa", "name": "UEFA Europa League", "phaseExclude": "qualif|prelimin|first-round|^play-?offs?$|^play-off-round$" },
+  { "code": "uefa.europa.conf", "slug": "uefa.europa.conf", "name": "UEFA Conference League", "phaseExclude": "qualif|prelimin|first-round|^play-?offs?$|^play-off-round$" }
+]

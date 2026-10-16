@@ -34,6 +34,13 @@
       (sus clubes aparecían SOLO en las copas CONMEBOL). De la API pública de
       ESPN (2005..hoy), por scripts/build-espn-southamerica.ps1. Lleva `rev` y
       sus cruces por jugar alimentan la portada "Hoy".
+    - espn-cups: competiciones que la base no traía y que sí son importantes:
+      Copa América, Eliminatorias Mundial CONMEBOL, UEFA Europa League y UEFA
+      Conference League (data/espn-cups/<código>.json), de la API pública de
+      ESPN (Copa América 2001..hoy, Eliminatorias 2003..hoy, Europa League
+      2009..hoy, Conference League 2021..hoy), por scripts/build-espn-cups.ps1.
+      De las copas europeas se guarda la FASE PRINCIPAL (se descartan las rondas
+      previas). Lleva `rev` y sus cruces por jugar alimentan la portada "Hoy".
     Los solapamientos entre fuentes se deduplican al cargar (ver dedupeRows).
    No requiere API key y no envía nada a servidores externos (los archivos son locales).
 
@@ -85,7 +92,11 @@
     "worldcup": "Copa Mundial FIFA",
     "euro": "Eurocopa UEFA",
     "conmebol.sudamericana": "CONMEBOL Sudamericana",
-    "conmebol.libertadores": "CONMEBOL Libertadores"
+    "conmebol.libertadores": "CONMEBOL Libertadores",
+    "conmebol.america": "Copa América",
+    "fifa.worldq.conmebol": "Eliminatorias Mundial (CONMEBOL)",
+    "uefa.europa": "UEFA Europa League",
+    "uefa.europa.conf": "UEFA Conference League"
   };
 
   function compName(code) { return LEAGUES[code] || code; }
@@ -300,7 +311,7 @@
         manifest.forEach(function (e) {
           if (!e || typeof e.path !== "string") return;
           var src = e.source || "openfootball";
-          if (src === "espn-sudamericana" || src === "espn-libertadores" || src === "espn-southamerica") { jobs.push({ folder: src, entry: e }); return; }
+          if (src === "espn-sudamericana" || src === "espn-libertadores" || src === "espn-southamerica" || src === "espn-cups") { jobs.push({ folder: src, entry: e }); return; }
           if (src !== "openfootball") return;
           if (e.path.indexOf("2026-27/") === 0 || e.path.indexOf("2026/") === 0) {
             jobs.push({ folder: "openfootball", entry: e });
