@@ -249,8 +249,10 @@ resolvió mal, quedaron **partidos fantasma** (el rival correcto, pero el club e
 Los archivos ya están corregidos en origen y `rev` fuerza su reimportación; además
 `AD.store.repairPhantoms()` retira los fantasmas en instalaciones viejas. La regla es
 segura: solo borra una fila si en **la misma fecha** el club correcto jugó contra **el mismo
-rival** en la misma competición (imposible para dos clubes de la misma liga). Es idempotente
-y corre al iniciar y al terminar cada puesta al día.
+rival** en la misma competición (imposible para dos clubes de la misma liga). Compara por
+**nombre canónico** (la misma agrupación que `unifyTeams`), no por id: así también funciona
+durante un sync, cuando el import crea equipos "variante" que todavía no se fusionaron.
+Es idempotente y corre al iniciar y al terminar cada puesta al día.
 
 | Temporadas | Fuente decía | Es en realidad | Se guardó como |
 |---|---|---|---|

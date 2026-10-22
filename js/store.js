@@ -294,30 +294,46 @@
   ];
 
   function repairPhantoms() {
-    var byName = {}, i;
-    for (i = 0; i < state.teams.length; i++) byName[state.teams[i].name] = state.teams[i];
+    /* Se compara por nombre canónico y no por id de equipo: durante un sync,
+       importBulk puede crear un equipo "variante" para un nombre que la base
+       ya tenía canonizado (todavía no corrió unifyTeams), y entonces el mismo
+       rival tiene dos ids. La agrupación canónica es la misma que usa
+       unifyTeams, así que la reparación es inmune a esos ids transitorios. */
+    var canonById = {}, idsByCanon = {}, i;
+    for (i = 0; i < state.teams.length; i++) {
+      var t0 = state.teams[i];
+      var c0 = canonicalName(t0.name) || t0.name;
+      canonById[t0.id] = c0;
+      (idsByCanon[c0] = idsByCanon[c0] || []).push(t0.id);
+    }
+    function canonOf(id) { return canonById[id] || id; }
+    function idsOf(name) { return idsByCanon[canonicalName(name) || name] || []; }
+
     var removed = 0;
     PHANTOM_FIXES.forEach(function (fix) {
-      var r = byName[fix.right];
+      var rid = {};
+      idsOf(fix.right).forEach(function (id) { rid[id] = true; });
       var wid = {};
-      (fix.wrong || []).forEach(function (n) { if (byName[n]) wid[byName[n].id] = true; });
-      if (!r || !Object.keys(wid).length) return;
+      (fix.wrong || []).forEach(function (n) {
+        idsOf(n).forEach(function (id) { wid[id] = true; });
+      });
+      if (!Object.keys(rid).length || !Object.keys(wid).length) return;
       var real = {};
       state.matches.forEach(function (m) {
         if (!m.date || m.date < fix.from || m.date > fix.to) return;
         if (!fix.comp.test(m.competition || "")) return;
-        if (m.homeId === r.id) real[m.date + "|" + m.awayId] = true;
-        else if (m.awayId === r.id) real[m.date + "|" + m.homeId] = true;
+        if (wid[m.homeId] || wid[m.awayId]) return; // el rival correcto no es el club equivocado
+        if (rid[m.homeId] && !rid[m.awayId]) real[m.date + "|" + canonOf(m.awayId)] = true;
+        else if (rid[m.awayId] && !rid[m.homeId]) real[m.date + "|" + canonOf(m.homeId)] = true;
       });
       if (!Object.keys(real).length) return;
       state.matches = state.matches.filter(function (m) {
         if (!m.date || m.date < fix.from || m.date > fix.to) return true;
         if (!fix.comp.test(m.competition || "")) return true;
         var opp = null;
-        if (wid[m.homeId]) opp = m.awayId;
-        else if (wid[m.awayId]) opp = m.homeId;
+        if (wid[m.homeId] !== wid[m.awayId]) opp = wid[m.homeId] ? m.awayId : m.homeId;
         if (!opp) return true;
-        if (real[m.date + "|" + opp]) { removed++; return false; }
+        if (real[m.date + "|" + canonOf(opp)]) { removed++; return false; }
         return true;
       });
     });
