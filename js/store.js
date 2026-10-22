@@ -275,6 +275,7 @@
       if (map[p.awayId]) p.awayId = map[p.awayId];
     });
     state.teams = state.teams.filter(function (t) { return !idsToRemove[t.id]; });
+    canonIndex = null;
 
     saveNow();
     return { merged: merged, removedMatches: removedMatches, teamsAfter: state.teams.length, matchesAfter: state.matches.length };
@@ -283,6 +284,7 @@
   /* ---------- carga / guardado ---------- */
   function init() {
     return window.AD.storage.load().then(function (data) {
+      canonIndex = null;
       if (data) {
         state.teams = Array.isArray(data.teams) ? data.teams : [];
         state.competitions = Array.isArray(data.competitions) ? data.competitions : [];
@@ -325,6 +327,7 @@
 
   function reset() {
     state.teams = [];
+    canonIndex = null;
     state.competitions = [];
     state.referees = [];
     state.matches = [];
@@ -335,6 +338,7 @@
   /* Reemplaza todo el contenido (para restaurar una copia de seguridad). */
   function replaceState(data) {
     if (!data || typeof data !== "object") return Promise.resolve(false);
+    canonIndex = null;
     state.teams = Array.isArray(data.teams) ? data.teams : [];
     state.competitions = Array.isArray(data.competitions) ? data.competitions : [];
     state.referees = Array.isArray(data.referees) ? data.referees : [];
@@ -360,6 +364,21 @@
 
   function getTeam(id) { return find(state.teams, function (t) { return t.id === id; }); }
   function getTeamByName(name) { return find(state.teams, function (t) { return norm(t.name) === norm(name); }); }
+
+  /* Índice por nombre canónico: permite resolver los nombres que traen los
+     fixtures de ESPN ("Kairat Almaty") al equipo de la base ("FK Kairat"). */
+  var canonIndex = null;
+  function canonicalIndex() {
+    if (canonIndex) return canonIndex;
+    var idx = {};
+    for (var i = 0; i < state.teams.length; i++) {
+      var k = canonicalName(state.teams[i].name);
+      if (k && !(k in idx)) idx[k] = state.teams[i];
+    }
+    canonIndex = idx;
+    return idx;
+  }
+
   function getCompetition(id) { return find(state.competitions, function (c) { return c.id === id; }); }
   function getReferee(id) { return find(state.referees, function (r) { return r.id === id; }); }
 
@@ -403,10 +422,20 @@
     t = { id: uid(), name: String(name).trim(), league: league || "", formedYear: formedYear || null, external: {} };
     if (source != null && extId != null) t.external[source] = extId;
     state.teams.push(t);
+    canonIndex = null;
     return t;
   }
 
-  function findTeamByName(name) { return getTeamByName(name); }
+  /* Busca un equipo por nombre. Primero exacto; si no, por nombre canónico:
+     "Kairat Almaty" cae en "FK Kairat" y "SL Benfica (POR)" en "Benfica". */
+  function findTeamByName(name) {
+    var t = getTeamByName(name);
+    if (t) return t;
+    var k = canonicalName(name);
+    if (!k) return null;
+    var idx = canonicalIndex();
+    return (Object.prototype.hasOwnProperty.call(idx, k) ? idx[k] : null);
+  }
 
   function ensureCompetition(name, code) {
     if (!name && !code) return null;
@@ -441,6 +470,7 @@
 
   function removeTeam(id) {
     state.teams = state.teams.filter(function (t) { return t.id !== id; });
+    canonIndex = null;
     state.matches = state.matches.filter(function (m) { return m.homeId !== id && m.awayId !== id; });
     save();
   }
@@ -658,6 +688,7 @@
       }));
       added++;
     }
+    if (teamsAdded) canonIndex = null;
     saveNow();
     return { added: added, teamsAdded: teamsAdded, teams: state.teams.length, matches: state.matches.length };
   }
@@ -704,6 +735,7 @@
       ["Amarillo SC", "Liga Demo"], ["Negro Athletic", "Liga Demo"], ["Blanco Rovers", "Liga Demo"]
     ];
     state.teams = names.map(function (n) { return { id: uid(), name: n[0], league: n[1], formedYear: null, external: {} }; });
+    canonIndex = null;
     state.competitions = []; state.referees = []; state.predictions = [];
     var comp = ensureCompetition("Liga Demo");
     var refs = ["Juan Pérez", "María Gómez", "Luis Fernández"].map(function (n) { return ensureReferee(n); });

@@ -690,7 +690,7 @@
 
     var items = shown.map(function (d) {
       var f = d.f;
-      var ht = S.getTeamByName(resolveTeamName(f.home)), at = S.getTeamByName(resolveTeamName(f.away));
+      var ht = S.findTeamByName(resolveTeamName(f.home)), at = S.findTeamByName(resolveTeamName(f.away));
       var p = null;
       if (ht && at) { try { p = predict(ht.id, at.id, f.competition); } catch (e) { p = null; } }
       return { f: f, ht: ht, at: at, p: p, key: d.key };

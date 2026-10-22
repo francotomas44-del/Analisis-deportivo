@@ -135,6 +135,12 @@ registro con el manifiesto: descarga **solo los que faltan** y los fusiona sin d
 cuando la copia nueva lo trae. También se puede forzar desde **Datos → Buscar datos nuevos**.
 Los partidos con el mismo club en las dos puntas (error de una fuente) se descartan al importar.
 
+**Nombres de los partidos futuros.** Los fixtures que llegan de ESPN traen el nombre del
+evento (`Kairat Almaty`, `SL Benfica (POR)`), que no siempre es el nombre guardado en la base
+(`FK Kairat`, `Benfica`). La portada los resuelve con `canonicalName()` (`AD.store.findTeamByName`):
+busca el nombre exacto y, si no está, el canónico. Así todos los partidos de "Hoy" tienen
+pronóstico aunque el rótulo de la fuente sea distinto.
+
 ---
 
 ## 2. Requieren **API key** (hay que registrarse)
