@@ -111,6 +111,23 @@ cada liga:
 > accesible de forma directa. Se usa el nombre completo **"Gimnasia y Esgrima de
 > Mendoza"** en pantalla.
 
+### Detalle por partido: alineaciones y estadísticas (ESPN)
+
+- **Fuente:** `https://site.api.espn.com/apis/site/v2/sports/soccer/<liga>/summary?event=<id>`,
+  consultada **al abrir el panel de un partido**. Gratis, sin clave y con CORS.
+- **Qué se muestra:** alineaciones (titulares, suplentes, formación y cambios), **estadísticas por
+  jugador**, **minuto a minuto** (goles, tarjetas, cambios, VAR) y **estadísticas de equipo**.
+- **No se redistribuye ni se guarda en el proyecto:** se pide en vivo desde el navegador y se
+  cachea **localmente** por minutos (45 s si el partido se juega, 5 min antes, 10 min después).
+  Nunca se sube al repositorio ni al manifiesto de datos.
+- **Escudos:** el panel muestra las **iniciales** del equipo, no los escudos que devuelve la API.
+  Se mantiene la regla de §1: la app no muestra crestas ni logos oficiales.
+- **Condiciones:** las mismas de ESPN (uso **nominativo**, fuente visible en el panel:
+  «ESPN · actualizado HH:MM»).
+- **Límite honesto:** ESPN no publica árbitro, rating del jugador ni xG en ese endpoint, y la
+  cobertura de alineaciones históricas varía por competición. Cuando no hay datos, el panel lo
+  dice.
+
 ## 3. Fuentes opcionales (importación manual)
 
 Futbolityx **no** llama automáticamente al resto de estas fuentes ni incluye sus

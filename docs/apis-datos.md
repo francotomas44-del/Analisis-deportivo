@@ -20,7 +20,7 @@ Este documento es la base para el **Data Collector** del proyecto (sección 7 de
 | **API-Football vía RapidAPI** | `https://api-football-v1.p.rapidapi.com/v3` | `x-rapidapi-key` + host | 100 req/día | Igual que arriba | Igual | Igual | ✅ (RapidAPI habilita navegador) |
 | **OpenLigaDB** | `https://api.openligadb.de` | Ninguna | No publica límite | Solo fútbol alemán | Fases recientes | ❌ | ✅ |
 | **TheSportsDB** | `https://www.thesportsdb.com/api/v1/json/{key}` | Key en la URL (`123` = gratis) | 30 req/min + **tope de resultados por consulta** | 617 ligas (crowd-sourced) | Parcial | ❌ | ✅ |
-| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Por temporada (probado: arg.1 desde 2001) | ❌ | ✅ **(base de la Liga Argentina: historial 2001 y 2003–2026 descargado + temporada en curso en vivo)** |
+| **ESPN (no oficial)** | `https://site.api.espn.com/apis/site/v2/sports/soccer/{liga}/scoreboard` | Ninguna | No documentado | Muchas competiciones | Por temporada (probado: arg.1 desde 2001) | ❌ | ✅ **(base de la Liga Argentina: historial 2001 y 2003–2026 descargado + temporada en curso en vivo; alineaciones y stats por jugador con `summary?event=`, ver §6)** |
 
 ¹ **CORS** = permite llamar la API directamente desde el navegador (crítico para un proyecto *full frontend*).
 
@@ -41,6 +41,7 @@ Este documento es la base para el **Data Collector** del proyecto (sección 7 de
 | `thesportsdb.com/api/v1/json/3/lookup_all_teams.php?id=4328` | ✅ HTTP 200 |
 | `raw.githubusercontent.com/openfootball/...` | ✅ HTTP 200 |
 | `api.football-data.org/v4/competitions` | ❌ `Failed to fetch` (CORS) |
+| `site.api.espn.com/.../summary?event=<id>` | ✅ HTTP 200 (alineaciones + stats por jugador) |
 
 ---
 
@@ -82,3 +83,37 @@ Para "cruces históricos" y modelos estadísticos, los datasets abiertos rinden 
 ## 5. Recordatorio honesto
 
 Ninguna API gratuita cubre "todos los partidos y árbitros del mundo desde el nacimiento de cada equipo". La cobertura completa solo existe en proveedores pagos con licencia. El sistema debe registrar **qué fuente, con qué cobertura**, respalda cada dato, y bajar la confianza cuando falten datos — tal como exige el `Readme.md`.
+
+---
+
+## 6. Detalle por partido: alineaciones y estadísticas de jugadores (ESPN)
+
+Verificado el 22/10/2026 desde el navegador (sin clave y con CORS abierto).
+
+```
+GET https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/summary?event={id}
+```
+
+Qué devuelve (caso probado: Everton–Chelsea, `eng.1`):
+
+| Bloque | Contenido |
+|---|---|
+| `rosters[]` | 11 titulares + 9 suplentes por equipo: `athlete{id,name}`, `jersey`, `position`, `starter`, `active`, `formationPlace`, `subbedIn/Out` y **14 estadísticas por jugador** (`totalGoals`, `goalAssists`, `totalShots`, `shotsOnTarget`, `saves`, `goalsConceded`, `foulsCommitted`, `foulsSuffered`, `yellowCards`, `redCards`, `ownGoals`…). También `formation`. |
+| `keyEvents[]` | Minuto a minuto: goles, penales, tarjetas, cambios y VAR (con `clock.displayValue`, `participants[]` y `team`). |
+| `boxscore.teams[].statistics[]` | 28 estadísticas de equipo (posesión, tiros, tiros al arco, córners, faltas, pases, precisión…). |
+| `gameInfo` | Sede y asistencia. |
+| `header.competitions[0]` | Marcador, estado (`STATUS_IN_PROGRESS`, `STATUS_FULL_TIME`, `STATUS_SCHEDULED`…), reloj y ganador. |
+
+**Lo que NO trae:** árbitro (`officials` no viene en `scoreboard` ni en `summary`/`header`), rating del jugador y xG. Para árbitros habría que recurrir a API-Football (100 req/día, con clave y proxy) u otro proveedor pago.
+
+Notas operativas:
+
+- El `scoreboard` **no** incluye `rosters`: hace falta **una petición por partido**.
+- Payload crudo: ~414 KB (partido jugado) / ~191 KB (programado). Recortado a lo que usa la app: **~9–13 KB**.
+- En un partido `STATUS_SCHEDULED` las alineaciones vienen **vacías**; se publican cerca del inicio (≈1 h antes) y se van completando durante el partido.
+- La cobertura histórica de alineaciones **varía por competición**: en `arg.1` hay desde 2005; en Bundesliga 2000 no hay. Regla de la app: se pide "si ESPN lo tiene".
+- Solo se puede pedir directo si el partido de la base trae `externalId = "espn:<id>"`. Para los que vienen de openfootball (sin id) la app busca el evento en el `scoreboard` del día (ventana de ±1 día) y empareja por nombre de equipo. Esa búsqueda acierta ~95 % de los casos; si no, lo dice.
+
+**Implementación en la app:** `js/live.js` (`AD.live`) pide el `summary` al abrir el detalle del partido, lo recorta, lo cachea en `localStorage` (45 s si está en juego, 5 min si no empezó, 10 min si terminó) y refresca solo cada minuto mientras el partido está en vivo y el panel abierto. No se guarda nada en el repositorio: es dato efímero, se descarta solo.
+
+**Fuentes descartadas para esto:** API-Football (100 req/día + clave expuesta en el cliente), Highlightly y Sportmonks (pago).

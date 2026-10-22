@@ -129,7 +129,10 @@
         competition: m.competition ? String(m.competition) : comp,
         code: code || "",
         home: String(m.team1).trim(),
-        away: String(m.team2).trim()
+        away: String(m.team2).trim(),
+        /* Las fuentes ESPN traen el id del evento: con eso el detalle del partido
+           (alineaciones y stats) se pide directo, sin buscarlo por nombre. */
+        externalId: m.id != null ? String(m.id) : null
       });
     }
     return out;

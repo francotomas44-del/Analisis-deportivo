@@ -52,6 +52,22 @@ Profesional Argentina se arma desde la API pública de **ESPN**:
   de la base local.
 - Condiciones de uso: **ESPN**.
 
+### Alineaciones y estadísticas por partido (en vivo, sin descarga)
+
+El detalle de cada partido se pide **bajo demanda** a ESPN, al abrir el panel del partido, con
+`site.api.espn.com/apis/site/v2/sports/soccer/<liga>/summary?event=<id>`:
+
+- Trae **alineaciones** (11 titulares + suplentes, con formación y cambios), **estadísticas por
+  jugador** (goles, asistencias, tiros, atajadas, tarjetas…), **minuto a minuto** (goles, penales,
+  tarjetas, cambios, VAR) y **28 estadísticas de equipo**.
+- No requiere clave y permite CORS, así que se llama directo desde el navegador.
+- **No** se guarda en el repositorio ni en el manifiesto: es dato efímero. Se cachea en el navegador
+  con un TTL corto (45 s en juego, 5 min antes, 10 min después) y se refresca solo mientras el
+  partido está en vivo.
+- Los partidos de las fuentes ESPN se abren por su `id`; los de openfootball, buscando el evento del
+  día por nombre de equipo. La cobertura histórica de alineaciones depende de ESPN.
+- Código: `js/live.js` (`AD.live`). Detalle técnico en [`apis-datos.md`](apis-datos.md#6-detalle-por-partido-alineaciones-y-estadísticas-de-jugadores-espn).
+
 ### Base histórica ampliada (actualizada)
 
 Además del paquete original de openfootball y de la Liga Argentina, la base integrada se

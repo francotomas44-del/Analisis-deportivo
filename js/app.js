@@ -202,6 +202,9 @@
       var an = a ? a.name : "?";
       var cor = (m.homeCorners != null && m.awayCorners != null) ? (m.homeCorners + " - " + m.awayCorners) : "—";
       var tar = (m.homeCards != null && m.awayCards != null) ? (m.homeCards + " - " + m.awayCards) : "—";
+      var liveBtn = (window.AD.live && window.AD.live.canShowMatch && window.AD.live.canShowMatch(m))
+        ? '<button class="btn btn-mini btn-ghost" data-action="live-match" data-id="' + m.id + '">Jugadores</button> '
+        : "";
       return "<tr>" +
         "<td>" + esc(m.date || "—") + "<br><span class='muted'>" + esc(m.competition || "") + "</span></td>" +
         "<td>" + esc(hn) + "</td>" +
@@ -209,7 +212,7 @@
         "<td>" + esc(an) + "</td>" +
         "<td>" + cor + "</td>" +
         "<td>" + tar + "</td>" +
-        '<td><button class="btn btn-mini btn-danger-ghost" data-action="del-match" data-id="' + m.id + '">Eliminar</button></td>' +
+        '<td>' + liveBtn + '<button class="btn btn-mini btn-danger-ghost" data-action="del-match" data-id="' + m.id + '">Eliminar</button></td>' +
         "</tr>";
     }).join("");
 

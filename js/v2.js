@@ -416,7 +416,8 @@
         code: "ar.1",
         home: String(home),
         away: String(away),
-        live: true
+        live: true,
+        externalId: ev.id != null ? ("espn:" + ev.id) : null
       });
     }
     return out;
@@ -786,8 +787,13 @@
         "</div>";
     }
 
+    var liveBtn = (window.AD.live && window.AD.live.slugForCode(f.code))
+      ? '<button class="btn btn-ghost btn-mini" type="button" data-fx="live" data-i="' + i + '">Alineaciones</button>'
+      : "";
+
     var actions = '<div class="fx-actions">' +
       '<button class="btn btn-primary btn-mini" type="button" data-fx="analizar" data-i="' + i + '">Analizar completo</button>' +
+      liveBtn +
       '<button class="btn btn-secondary btn-mini" type="button" data-fx="compartir" data-i="' + i + '">Compartir</button>' +
       '<button class="btn btn-ghost btn-mini" type="button" data-fx="imagen" data-i="' + i + '">Imagen</button>' +
       "</div>";
@@ -803,6 +809,16 @@
     if (action === "analizar") analyzeTeams(it);
     else if (action === "compartir") shareFixture(it);
     else if (action === "imagen") downloadCard(it);
+    else if (action === "live" && window.AD.live) {
+      window.AD.live.open({
+        slug: window.AD.live.slugForCode(it.f.code),
+        eventId: it.f.externalId ? String(it.f.externalId).replace(/^espn:/, "") : null,
+        date: it.f.date,
+        home: it.f.home,
+        away: it.f.away,
+        competition: it.f.competition
+      });
+    }
   }
 
   function analyzeTeams(it) {
@@ -1044,7 +1060,8 @@
     toggleMode: toggleMode,
     applyMode: applyMode,
     brand: BRAND,
-    teamDisplayName: dispName
+    teamDisplayName: dispName,
+    whenText: whenText
   };
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);

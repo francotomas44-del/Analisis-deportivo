@@ -66,12 +66,44 @@ Los partidos de **Hoy** se muestran con la hora convertida a la zona horaria del
 - El subtítulo de la portada indica la zona activa (ej. `horarios en Argentina (GMT-03:00)`).
 - La elección se guarda en el navegador (`localStorage`, junto al modo simple/avanzado).
 
+## Alineaciones y estadísticas en vivo (por partido)
+
+Cada tarjeta de **Hoy** (y cada partido del historial que tenga ficha en ESPN) suma el botón
+**Alineaciones**. Abre un panel con **lo que ESPN publica para ese partido**:
+
+- **Alineaciones**: 11 titulares y suplentes de cada equipo, con dorsal, posición en castellano,
+  formación y quién entró/salió. Al tocar un jugador se despliegan **sus estadísticas** (goles,
+  asistencias, tiros, atajadas, faltas, tarjetas).
+- **Minuto a minuto**: goles, penales, tarjetas, cambios y VAR, con el minuto y el equipo.
+- **Estadísticas**: comparación de equipo (posesión, tiros, tiros al arco, córners, faltas, pases,
+  precisión…).
+
+Cómo funciona y qué límites tiene:
+
+- Los datos se piden **bajo demanda**, al abrir el partido, a la API pública de ESPN
+  (`summary?event=<id>`): gratis, sin clave y con CORS abierto. **No** se guardan en el repositorio
+  (son datos efímeros que cambian minuto a minuto); se cachean en el navegador **45 s** si el
+  partido está en juego, **5 min** si todavía no empezó y **10 min** si terminó. Mientras el panel
+  está abierto y el partido se juega, se **refresca solo cada minuto**.
+- **Alineaciones vacías antes del partido:** ESPN las publica cerca del inicio (≈1 h antes). El
+  panel lo explica y avisa que aparecerán solas.
+- **Cobertura**: depende de ESPN. Ligas de Europa y América y copas internacionales sí; en el
+  historial, las alineaciones existen desde fechas distintas en cada competición (en Argentina
+  desde 2005; en algunas ligas europeas no hay para partidos viejos). Si no hay datos, el panel lo
+  dice en vez de inventarlos.
+- **No trae** árbitro, rating del jugador ni xG: ESPN no los publica en ese endpoint.
+- Los partidos de las fuentes ESPN se abren directo por su `id`; para los de openfootball (sin id)
+  la app busca el evento del día en el calendario de ESPN y empareja por nombre de equipo.
+
 ## Cómo está hecho (sin dependencias nuevas)
 
 - `js/dataset.js`: nueva `loadUpcoming()` — lee solo los archivos de la temporada en curso y
   devuelve los partidos **sin resultado** (fixtures futuros). No inventa nada.
 - `js/v2.js`: capa pública. Portada "Hoy", motor de pronóstico (reutiliza `AD.stats`),
   compartir, modo simple/avanzado, marca y registro del service worker.
+- `js/live.js`: detalle del partido — pide el `summary` de ESPN, lo **recorta a ~12 KB**, lo cachea
+  y dibuja alineaciones, minuto a minuto y estadísticas. También agrega el botón **Jugadores** en la
+  tabla de partidos del historial.
 - `css/v2.css`: estilos de tarjetas, barras, onboarding, móvil y modo simple/avanzado.
 - `sw.js` + `manifest.webmanifest`: PWA (instalable, offline para el shell).
 - `js/app.js`: cambios mínimos (la portada por defecto es `hoy` y se avisa a `AD.v2`).
@@ -167,8 +199,9 @@ Cambiá `name`/`claim` y cambia en toda la interfaz (header, título, footer, te
 
 - **Dominio propio** y reserva de la marca "Futbolityx".
 - **i18n** (español/inglés y más).
-- **Datos "vivos"**: la **Liga Argentina** ya usa datos en vivo (ESPN); para el resto, el
-  pronóstico sale de la base histórica empaquetada, así que para reflejar la jornada real haría
-  falta un build precomputado (GitHub Actions) o más fuentes en vivo.
+- **Datos "vivos"**: la **Liga Argentina** y el **detalle de cada partido** (alineaciones, minuto a
+  minuto y estadísticas) ya usan datos en vivo de ESPN; para el resto, el pronóstico sale de la
+  base histórica empaquetada, así que para reflejar la jornada real haría falta un build
+  precomputado (GitHub Actions) o más fuentes en vivo.
 - **Retención**: favoritos, "mi equipo", avisos.
 - **Repositorio**: renombrado a `Futbolityx` (hecho) para que la URL coincida con la marca.
