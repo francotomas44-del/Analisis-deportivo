@@ -1252,7 +1252,8 @@
     {
         "path":  "es.1.json",
         "code":  "es.1",
-        "source":  "espn-history"
+        "source":  "espn-history",
+        "rev":  "ed824c202688"
     },
     {
         "path":  "de.1.json",
@@ -1322,7 +1323,8 @@
     {
         "path":  "br.1.json",
         "code":  "br.1",
-        "source":  "espn-history"
+        "source":  "espn-history",
+        "rev":  "001113bfa45d"
     },
     {
         "path":  "cn.1.json",
@@ -1482,12 +1484,14 @@
     {
         "path":  "sa-br1.json",
         "code":  "Brasileirão (Brasil)",
-        "source":  "openfootball-extra"
+        "source":  "openfootball-extra",
+        "rev":  "93999bfc4757"
     },
     {
         "path":  "sa-br2.json",
         "code":  "Brasileirão Série B (Brasil)",
-        "source":  "openfootball-extra"
+        "source":  "openfootball-extra",
+        "rev":  "3a4e79380a74"
     },
     {
         "path":  "sa-brcup.json",

@@ -134,7 +134,7 @@ amplió con varios pasos reproducibles:
   (`venezuela` → `Venezuela`), porque la base **no** aplica ahí el alias de clubes.
 
 En total, la base queda con **313 archivos** (≈93 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **192.193 partidos**, **2.089 equipos** y
+entre fuentes y unificar variantes de nombre, **192.202 partidos**, **2.089 equipos** y
 **110 competiciones**. Ver `docs/base-historica.md`.
 
 **Puesta al día automática.** La base se importa una sola vez por instalación (IndexedDB).

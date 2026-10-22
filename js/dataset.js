@@ -296,13 +296,14 @@
         return loadCards(res.manifest).then(function (cardMap) {
           var cardsApplied = applyCards(res.rows, cardMap);
           var out = window.AD.store.importBulk(dedupeRows(res.rows.filter(function (r) { return !isSelfMatch(r); })), "openfootball");
+          window.AD.store.repairPhantoms();
           writeImported(res.imported);
           loading = false;
           return {
             inserted: out.added,
             teamsAdded: out.teamsAdded,
             totalTeams: out.teams,
-            totalMatches: out.matches,
+            totalMatches: window.AD.store.state.matches.length,
             totalComps: window.AD.store.state.competitions.length,
             files: res.files,
             filesFailed: res.failed,
@@ -524,6 +525,7 @@
           return prep.then(function (cardMap) {
             if (cardMap) applyCards(merged.rows, cardMap);
             var out = S.importBulk(merged.rows, "openfootball");
+            S.repairPhantoms();
             if (merged.adopted || merged.filled) S.saveNow();
             writeImported(imported);
             loading = false;

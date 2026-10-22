@@ -80,7 +80,7 @@ partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **192.193 partidos**, **2.089 equipos/selecciones** y
+la app queda con **192.202 partidos**, **2.089 equipos/selecciones** y
 **110 competiciones** (los 3.917 crudos de `espn-cups` entran como 3.754 jugados; los
 **162 por jugar** —72 de la Europa League y 90 de la Conference— los carga aparte
 `AD.dataset.loadUpcoming` para la portada "Hoy", y un partido se descarta por repetido
@@ -241,3 +241,27 @@ competiciones del paso 3, `scripts/espn-leagues.json` las del paso 2 y
   dos grafías). La app **fusiona** las variantes que comparten nombre canónico
   (`unifyTeams`) y **descarta** los partidos repetidos entre fuentes.
 - Los datos son de **resultados** (marcadores), no de eventos minuto a minuto.
+
+## Correcciones de nombres (fantasmas)
+
+Un mismo nombre puede designar a dos clubes según la temporada. Cuando el importador lo
+resolvió mal, quedaron **partidos fantasma** (el rival correcto, pero el club equivocado).
+Los archivos ya están corregidos en origen y `rev` fuerza su reimportación; además
+`AD.store.repairPhantoms()` retira los fantasmas en instalaciones viejas. La regla es
+segura: solo borra una fila si en **la misma fecha** el club correcto jugó contra **el mismo
+rival** en la misma competición (imposible para dos clubes de la misma liga). Es idempotente
+y corre al iniciar y al terminar cada puesta al día.
+
+| Temporadas | Fuente decía | Es en realidad | Se guardó como |
+|---|---|---|---|
+| 2006, 2007 y 2018 (Série A) | `CA Paranaense` | **Paraná** (ESPN id 3453) | Athletico Paranaense |
+| 2019 y 2020 (Série B) | `CA Paranaense` / `Paraná Clube` | **Paraná** | Athletico Paranaense |
+| 2023 y 2024 (Série A) | `CA Paranaense` | **Athletico Paranaense** (nombre oficial) | correcto (alias) |
+| 2000-2011 (LaLiga) | `Deportivo` | **Deportivo La Coruña** (ESPN id 90) | el equipo de Alavés (Vitoria) |
+
+Verificación: se comparó **cada** fila con el `id` de evento de ESPN (94/94 de Paraná y
+398/398 de Deportivo). `CA Paranaense` en 2023/2024 sigue siendo Athletico, por eso el
+alias de la app (`js/store.js`) se mantiene y la corrección es por año en los datos.
+Los builders (`scripts/espn-team-alias.json` y `scripts/openfootball-extra-team-map.json`)
+incorporan la resolución para que una regeneración no reintroduzca el error.
+

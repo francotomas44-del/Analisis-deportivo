@@ -281,6 +281,50 @@
     return { merged: merged, removedMatches: removedMatches, teamsAfter: state.teams.length, matchesAfter: state.matches.length };
   }
 
+  /* ---------- reparación de partidos fantasma ----------
+     Dos nombres que la fuente usa para un club y que el importador guardó como
+     otro club. Las filas ya corregidas vienen en los datos actuales; acá se
+     retira la fila equivocada cuando en la misma fecha el club correcto jugó
+     contra el mismo rival (no puede repetirse en la misma liga, así que la
+     regla no toca partidos legítimos). Idempotente: si no hay fantasmas, no
+     hace nada. Los casos y la verificación están en docs/base-historica.md. */
+  var PHANTOM_FIXES = [
+    { wrong: ["Deportivo Alavés", "CD Alavés"], right: "Deportivo La Coruña", from: "2000-01-01", to: "2012-12-31", comp: /LaLiga/i },
+    { wrong: ["Athletico Paranaense"], right: "Paraná", from: "2006-01-01", to: "2021-12-31", comp: /Brasileir/i }
+  ];
+
+  function repairPhantoms() {
+    var byName = {}, i;
+    for (i = 0; i < state.teams.length; i++) byName[state.teams[i].name] = state.teams[i];
+    var removed = 0;
+    PHANTOM_FIXES.forEach(function (fix) {
+      var r = byName[fix.right];
+      var wid = {};
+      (fix.wrong || []).forEach(function (n) { if (byName[n]) wid[byName[n].id] = true; });
+      if (!r || !Object.keys(wid).length) return;
+      var real = {};
+      state.matches.forEach(function (m) {
+        if (!m.date || m.date < fix.from || m.date > fix.to) return;
+        if (!fix.comp.test(m.competition || "")) return;
+        if (m.homeId === r.id) real[m.date + "|" + m.awayId] = true;
+        else if (m.awayId === r.id) real[m.date + "|" + m.homeId] = true;
+      });
+      if (!Object.keys(real).length) return;
+      state.matches = state.matches.filter(function (m) {
+        if (!m.date || m.date < fix.from || m.date > fix.to) return true;
+        if (!fix.comp.test(m.competition || "")) return true;
+        var opp = null;
+        if (wid[m.homeId]) opp = m.awayId;
+        else if (wid[m.awayId]) opp = m.homeId;
+        if (!opp) return true;
+        if (real[m.date + "|" + opp]) { removed++; return false; }
+        return true;
+      });
+    });
+    if (removed) saveNow();
+    return removed;
+  }
+
   /* ---------- carga / guardado ---------- */
   function init() {
     return window.AD.storage.load().then(function (data) {
@@ -797,6 +841,7 @@
     canonicalName: canonicalName,
     canonicalMap: canonicalMap,
     unifyTeams: unifyTeams,
+    repairPhantoms: repairPhantoms,
     getCompetition: getCompetition,
     getReferee: getReferee,
     ensureTeam: ensureTeam,

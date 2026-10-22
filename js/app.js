@@ -1653,6 +1653,9 @@
     S.init().then(function () {
       // Migración (tras la validación): fusiona variantes de nombre del mismo club.
       if (ST.config.unifyTeams && S.state.matches.length) S.unifyTeams({ dedupe: true });
+      // Retira partidos guardados con un nombre de club mal resuelto en el origen
+      // (Deportivo La Coruña como Alavés; Paraná como Athletico). Idempotente.
+      if (S.repairPhantoms) S.repairPhantoms();
       refreshAll();
       updateSaveIndicator();
       // Primera vez (base vacía): cargar automáticamente la base histórica integrada.
@@ -1666,6 +1669,7 @@
               setBaseStatus("No se pudieron leer los datos guardados. Recargá la página para reintentar.");
             } else {
               if (ST.config.unifyTeams && S.state.matches.length) S.unifyTeams({ dedupe: true });
+              if (S.repairPhantoms) S.repairPhantoms();
               refreshAll();
               updateSaveIndicator();
             }

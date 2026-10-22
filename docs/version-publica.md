@@ -12,7 +12,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 | **Base al día** | La base se importaba una sola vez | Las competiciones y partidos nuevos llegan **solos** a las instalaciones existentes (automático al abrir + botón "Buscar datos nuevos" en Datos) |
 | **Nombres de equipo** | Los nombres de ESPN no siempre coincidían con la base ("Kairat Almaty" vs "FK Kairat") | Se resuelven por **nombre canónico**: ningún partido de "Hoy" queda sin pronóstico por el nombre |
 | **Partidos terminados** | Seguían en "Hoy" como si faltaran jugar | Se retiran al pitazo final (se consulta el estado real a ESPN) y, sin dato, a las ≈2 h 05; los análisis guardados no se tocan |
-| **Base ampliada** | ~31 competiciones / ~49.000 partidos | **110 competiciones / 192.193 partidos**: historia previa desde ESPN (`espn-history`, 65.276) + competiciones nuevas de openfootball (`openfootball-extra`, 27.582: MLS, CONCACAF, CAF, Brasil, Colombia, Ecuador, Paraguay, Asia y África) + **CONMEBOL Sudamericana y Libertadores** desde ESPN (2.293 + 3.196) + **primeras divisiones de Chile, Uruguay, Perú, Bolivia y Venezuela** desde ESPN (30.630) + **Copa América, Eliminatorias CONMEBOL, Europa League y Conference League** desde ESPN (`espn-cups`, 3.917) |
+| **Base ampliada** | ~31 competiciones / ~49.000 partidos | **110 competiciones / 192.202 partidos**: historia previa desde ESPN (`espn-history`, 65.276) + competiciones nuevas de openfootball (`openfootball-extra`, 27.582: MLS, CONCACAF, CAF, Brasil, Colombia, Ecuador, Paraguay, Asia y África) + **CONMEBOL Sudamericana y Libertadores** desde ESPN (2.293 + 3.196) + **primeras divisiones de Chile, Uruguay, Perú, Bolivia y Venezuela** desde ESPN (30.630) + **Copa América, Eliminatorias CONMEBOL, Europa League y Conference League** desde ESPN (`espn-cups`, 3.917) |
 | **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | **Historial completo 2001 y 2003–2026 desde ESPN** (9.505 partidos, descargado) + temporada en curso en vivo, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
 | **Lenguaje** | Jerga al frente | Frases claras: "Gana X", "Goles esperados", "Marcador probable" |
@@ -78,6 +78,25 @@ mientras la página está abierta, sin recargar.
 - La consulta de estado es **anónima y no bloquea la app**: si falla, todo sigue funcionando con la
   regla por tiempo. Solo se hace para los partidos que están por terminar (entre 1 h 40 y 3 h desde
   el inicio), identificados por el **id de ESPN** o, en partidos de openfootball, por nombre y horario.
+
+## Corrección de datos: clubes con el mismo nombre
+
+Dos clubes pueden compartir el nombre que usa una fuente según la temporada. Eso dejó
+**partidos fantasma** en instalaciones viejas (el rival correcto, pero el club equivocado):
+
+| Temporadas | La fuente decía | Es en realidad | Se había guardado como |
+|---|---|---|---|
+| 2006, 2007 y 2018 (Brasileirão) | `CA Paranaense` | **Paraná** | Athletico Paranaense |
+| 2019 y 2020 (Série B) | `CA Paranaense` / `Paraná Clube` | **Paraná** | Athletico Paranaense |
+| 2023 y 2024 (Brasileirão) | `CA Paranaense` | **Athletico Paranaense** | correcto |
+| 2000-2011 (LaLiga) | `Deportivo` | **Deportivo La Coruña** | el equipo de Alavés (Vitoria) |
+
+Se verificó **cada** partido contra el `id` de evento de ESPN (94/94 de Paraná y 398/398 de
+Deportivo), se corrigieron los archivos y su `rev` fuerza la reimportación. En instalaciones
+existentes, `repairPhantoms` retira el partido equivocado solo si en la misma fecha el club
+correcto jugó contra el mismo rival (imposible para dos clubes de la misma liga), así que no
+toca partidos legítimos. Es idempotente y corre al abrir y al terminar cada actualización.
+Los **análisis guardados** de cada usuario no se modifican.
 
 ## Horarios por país
 
