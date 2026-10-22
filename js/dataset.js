@@ -173,6 +173,29 @@
      filas coincide con la identidad de equipo que arma importBulk. */
   function normName(s) { return String(s == null ? "" : s).trim().toLowerCase(); }
 
+  /* ---------- registro de archivos importados ----------
+     La base se importa una sola vez por instalación. Para que una instalación
+     vieja reciba lo que se agregue después (competiciones, temporadas o datos
+     corregidos) sin volver a bajar todo, se anota qué archivos ya entraron en
+     `localStorage` y sync() completa solo lo que falta. */
+  var FILES_KEY = "futbolityx:base:files";
+
+  function entryKey(e) {
+    return (e.source || "openfootball") + "|" + e.path + "|" + (e.rev || "");
+  }
+
+  function readImported() {
+    try {
+      var raw = localStorage.getItem(FILES_KEY);
+      var o = raw ? JSON.parse(raw) : null;
+      return (o && typeof o === "object" && !Array.isArray(o)) ? o : {};
+    } catch (e) { return {}; }
+  }
+
+  function writeImported(map) {
+    try { localStorage.setItem(FILES_KEY, JSON.stringify(map)); } catch (e) {}
+  }
+
   /* Quita el mismo partido cuando dos fuentes se solapan (p. ej. openfootball y ESPN
      cubren la misma liga/temporada). Criterio: fecha + local + visitante normalizados.
      Si hay dos copias, se conserva la que trae `externalId` (más trazable). */
@@ -246,6 +269,7 @@
           .sort(function (a, b) { return (a.path < b.path ? -1 : 1); });
         var rows = [];
         var done = 0, failed = 0;
+        var imported = {};   /* archivos que sí se leyeron (para no repetirlos) */
         var chain = Promise.resolve();
 
         files.forEach(function (entry) {
@@ -256,6 +280,7 @@
               .then(function (p) {
                 var c = convert(p, comp);
                 for (var i = 0; i < c.length; i++) { c[i].source = entry.source; rows.push(c[i]); }
+                imported[entryKey(entry)] = 1;
               })
               .catch(function () { failed++; })
               .then(function () {
@@ -265,12 +290,13 @@
           });
         });
 
-        return chain.then(function () { return { rows: rows, failed: failed, files: files.length, manifest: manifest }; });
+        return chain.then(function () { return { rows: rows, failed: failed, files: files.length, manifest: manifest, imported: imported }; });
       })
       .then(function (res) {
         return loadCards(res.manifest).then(function (cardMap) {
           var cardsApplied = applyCards(res.rows, cardMap);
-          var out = window.AD.store.importBulk(dedupeRows(res.rows), "openfootball");
+          var out = window.AD.store.importBulk(dedupeRows(res.rows.filter(function (r) { return !isSelfMatch(r); })), "openfootball");
+          writeImported(res.imported);
           loading = false;
           return {
             inserted: out.added,
@@ -348,8 +374,177 @@
       });
   }
 
+  /* ---------- puesta al día de una base ya importada ----------
+     La base se importa una sola vez por instalación (load()). Si después se
+     agregan archivos al manifiesto —una competición nueva, una temporada más,
+     datos corregidos—, esa instalación no los vería nunca. sync() compara el
+     registro local (FILES_KEY) con el manifiesto y baja solo lo que falta,
+     sin borrar nada:
+       - los partidos que ya están no se duplican (fecha + equipos canónicos);
+       - si la copia nueva trae un id de ESPN que la vieja no tenía, se lo
+         adopta (así el detalle de jugadores queda disponible también ahí);
+       - si la copia nueva trae tarjetas/córners y la vieja no, se completan. */
+  var canonCache = {};
+  function canonCached(name) {
+    var k = normName(name);
+    if (!(k in canonCache)) {
+      var S = window.AD.store;
+      canonCache[k] = (S && S.canonicalName) ? S.canonicalName(name) : normName(name);
+    }
+    return canonCache[k];
+  }
+
+  function rowKey(r) {
+    return (r.date || "") + "|" + canonCached(r.home) + "|" + canonCached(r.away);
+  }
+
+  /* Un partido con el mismo club en las dos puntas es un error de la fuente
+     (p. ej. "Deportivo" resuelto como "Deportivo Alavés"): no se importa. */
+  function isSelfMatch(r) {
+    return !!r && canonCached(r.home) === canonCached(r.away);
+  }
+
+  /* Índice de lo que ya está guardado, por la misma clave que usa el dedupe. */
+  function indexExisting() {
+    var S = window.AD.store;
+    var names = {}, out = {}, i;
+    for (i = 0; i < S.state.teams.length; i++) names[S.state.teams[i].id] = S.state.teams[i].name;
+    for (i = 0; i < S.state.matches.length; i++) {
+      var m = S.state.matches[i];
+      var k = (m.date || "") + "|" + canonCached(names[m.homeId] || "") + "|" + canonCached(names[m.awayId] || "");
+      if (!out[k]) out[k] = m;
+    }
+    return out;
+  }
+
+  function fillMissing(prev, row) {
+    var pairs = [["homeCorners", "awayCorners"], ["homeCards", "awayCards"],
+      ["homeYellow", "awayYellow"], ["homeRed", "awayRed"]];
+    var n = 0;
+    for (var i = 0; i < pairs.length; i++) {
+      var a = pairs[i][0], b = pairs[i][1];
+      if (prev[a] == null && prev[b] == null && row[a] != null && row[b] != null) {
+        prev[a] = row[a]; prev[b] = row[b]; n++;
+      }
+    }
+    return n;
+  }
+
+  /* Mezcla las filas nuevas con lo ya guardado: ni duplica ni pisa datos. */
+  function syncMerge(rows, existing) {
+    var out = [], at = {}, adopted = 0, filled = 0;
+    for (var i = 0; i < rows.length; i++) {
+      var row = rows[i];
+      if (!row || !row.home || !row.away) continue;
+      if (isSelfMatch(row)) continue;
+      var k = rowKey(row);
+
+      var prev = existing[k];
+      if (prev) {
+        if (row.externalId && !prev.externalId) { prev.externalId = String(row.externalId); adopted++; }
+        filled += fillMissing(prev, row);
+        continue;
+      }
+
+      if (k in at) {
+        /* Dos copias del mismo partido entre los archivos nuevos: gana la que
+           trae id de ESPN (más trazable y habilita el detalle). */
+        var cur = out[at[k]];
+        if (!cur.externalId && row.externalId) out[at[k]] = row;
+        continue;
+      }
+      at[k] = out.length;
+      out.push(row);
+    }
+    return { rows: out, adopted: adopted, filled: filled };
+  }
+
+  /* Devuelve { checked, pending, added, teamsAdded, adopted, filled, failed }. */
+  function sync(onProgress) {
+    if (loading) return Promise.resolve({ busy: true, pending: 0, added: 0, teamsAdded: 0, adopted: 0, filled: 0 });
+    loading = true;
+
+    var S = window.AD.store;
+    var imported = readImported();
+
+    return fetch(MANIFEST, { cache: "no-store" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("No se encontró data/manifest.json (HTTP " + r.status + ").");
+        return r.json();
+      })
+      .then(function (manifest) {
+        if (!Array.isArray(manifest) || !manifest.length) throw new Error("El manifiesto de la base está vacío.");
+
+        /* Sin partidos guardados no hay nada que completar: la base completa la
+           importa load(). Se olvida el registro para que esa importación se
+           anote entera (p. ej. después de "Borrar todo"). */
+        if (!S.state.matches.length) {
+          writeImported({});
+          loading = false;
+          return { checked: 0, pending: 0, added: 0, teamsAdded: 0, adopted: 0, filled: 0, empty: true };
+        }
+
+        var dataFiles = manifest.filter(function (e) {
+          return e && typeof e.path === "string" && e.source !== "cards";
+        });
+        var pending = dataFiles.filter(function (e) { return !imported[entryKey(e)]; });
+        if (!pending.length) {
+          loading = false;
+          return { checked: dataFiles.length, pending: 0, added: 0, teamsAdded: 0, adopted: 0, filled: 0 };
+        }
+
+        var existing = indexExisting();
+        var rows = [];
+        var done = 0, failed = 0;
+        var chain = Promise.resolve();
+
+        pending.forEach(function (entry) {
+          chain = chain.then(function () {
+            return fetch(dataURL(entry.source, entry), { cache: "force-cache" })
+              .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+              .then(function (p) {
+                var c = convert(p, compName(entry.code));
+                for (var i = 0; i < c.length; i++) { c[i].source = entry.source; rows.push(c[i]); }
+                imported[entryKey(entry)] = 1;
+              })
+              .catch(function () { failed++; })
+              .then(function () {
+                done++;
+                if (typeof onProgress === "function") onProgress(done, pending.length, rows.length);
+              });
+          });
+        });
+
+        return chain.then(function () {
+          var merged = syncMerge(rows, existing);
+          /* Las tarjetas/córners se guardan por id de ESPN: si entran partidos
+             nuevos, se aplican igual que en la carga completa para que dos
+             instalaciones no queden con coberturas distintas. */
+          var prep = merged.rows.length ? loadCards(manifest) : Promise.resolve(null);
+          return prep.then(function (cardMap) {
+            if (cardMap) applyCards(merged.rows, cardMap);
+            var out = S.importBulk(merged.rows, "openfootball");
+            if (merged.adopted || merged.filled) S.saveNow();
+            writeImported(imported);
+            loading = false;
+            return {
+              checked: dataFiles.length,
+              pending: pending.length,
+              added: out.added,
+              teamsAdded: out.teamsAdded,
+              adopted: merged.adopted,
+              filled: merged.filled,
+              failed: failed
+            };
+          });
+        });
+      })
+      .catch(function (e) { loading = false; throw e; });
+  }
+
   window.AD.dataset = {
     load: load,
+    sync: sync,
     loadUpcoming: loadUpcoming,
     convert: convert,
     convertFixtures: convertFixtures,

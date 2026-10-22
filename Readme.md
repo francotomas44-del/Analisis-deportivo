@@ -184,6 +184,7 @@ El proyecto podrá desarrollarse progresivamente mediante los siguientes módulo
 - **News Engine (Contexto):** análisis fundamental — últimas noticias del partido y de cada equipo desde la API pública de ESPN (en español), con enlace de búsqueda en Google News; se incluye en el informe.
 - **Cards Engine (tarjetas):** base de tarjetas amarillas y rojas (y córners) por partido y equipo, construida desde el detalle público de ESPN (`scripts/build-cards.ps1` → `data/cards/`); el análisis estima amarillas y rojas por separado y la pestaña Equipos muestra el promedio por partido.
 - **Live Engine (alineaciones):** al abrir un partido se piden a ESPN sus alineaciones, estadísticas por jugador, minuto a minuto y estadísticas de equipo (`js/live.js`); se cachean con TTL corto y se refrescan solas mientras el partido está en juego.
+- **Data Updater (base al día):** la base histórica se importa una sola vez; al abrir, la app compara el manifiesto con lo ya guardado y descarga **solo lo nuevo** (una competición o temporada agregada después), sin duplicar ni borrar (`AD.dataset.sync`, registro `futbolityx:base:files`). También manual en **Datos → Buscar datos nuevos**.
 - **Confidence Engine:** evaluación de incertidumbre y fiabilidad de las predicciones.
 - **Reporting Engine:** generación de informes comprensibles y estructurados.
 - **Evaluation Engine:** seguimiento del rendimiento histórico de los modelos y detección de errores.

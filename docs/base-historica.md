@@ -80,7 +80,7 @@ partidos**: enriquecen los ya existentes con **amarillas, rojas y córners** por
 partidos cubiertos). Se unen por `id` de ESPN al cargar. Ver [`tarjetas.md`](tarjetas.md).
 
 Tras **deduplicar** los solapamientos entre fuentes y **fusionar variantes de nombre**,
-la app queda con **192.179 partidos**, **2.089 equipos/selecciones** y
+la app queda con **192.193 partidos**, **2.089 equipos/selecciones** y
 **110 competiciones** (los 3.917 crudos de `espn-cups` entran como 3.754 jugados; los
 **162 por jugar** —72 de la Europa League y 90 de la Conference— los carga aparte
 `AD.dataset.loadUpcoming` para la portada "Hoy", y un partido se descarta por repetido
@@ -189,6 +189,11 @@ Cada dato es real; nada se inventa.
 2. **Manual:** botón **«Cargar base»** en la barra superior (o el botón del primer uso,
    «Cargar partidos y empezar»). Reemplaza los datos actuales (pide confirmación).
 3. Una vez cargada, se guarda **en el navegador (IndexedDB)** y persiste entre sesiones.
+4. **Puesta al día:** al abrir, si el manifiesto trae archivos que esa instalación no tiene
+   (una competición o temporada agregada después, o datos corregidos con otra `rev`), la app
+   los descarga y fusiona **sin borrar nada** y sin duplicar partidos: se apoya en el registro
+   `futbolityx:base:files` (`localStorage`) y en la clave fecha + equipos canónicos. También se
+   puede forzar desde **Datos → Buscar datos nuevos**.
 
 > Usá siempre `http://localhost:8766/` (ver `docs/persistencia.md`). El almacenamiento del
 > navegador depende del **origen**: `file://`, `localhost` y `127.0.0.1` guardan por separado.

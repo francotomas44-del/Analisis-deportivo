@@ -123,8 +123,17 @@ amplió con varios pasos reproducibles:
   (`venezuela` → `Venezuela`), porque la base **no** aplica ahí el alias de clubes.
 
 En total, la base queda con **313 archivos** (≈93 MB) y, tras deduplicar los solapamientos
-entre fuentes y unificar variantes de nombre, **192.179 partidos**, **2.089 equipos** y
+entre fuentes y unificar variantes de nombre, **192.193 partidos**, **2.089 equipos** y
 **110 competiciones**. Ver `docs/base-historica.md`.
+
+**Puesta al día automática.** La base se importa una sola vez por instalación (IndexedDB).
+Para que las instalaciones que ya la tienen reciban lo que se agregue después —una competición
+nueva como la Conference League, una temporada más o datos corregidos— la app guarda en
+`localStorage` (`futbolityx:base:files`) qué archivos entraron y, al abrir, compara ese
+registro con el manifiesto: descarga **solo los que faltan** y los fusiona sin duplicar
+(fecha + equipos canónicos), conservando lo guardado y adoptando el `externalId` de ESPN
+cuando la copia nueva lo trae. También se puede forzar desde **Datos → Buscar datos nuevos**.
+Los partidos con el mismo club en las dos puntas (error de una fuente) se descartan al importar.
 
 ---
 

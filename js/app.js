@@ -1310,6 +1310,7 @@
 
   function setBackupStatus(msg) { var el = $("backup-status"); if (el) el.textContent = msg; }
   function setBaseStatus(msg) { var el = $("base-status"); if (el) el.textContent = msg; }
+  function setSyncStatus(msg) { var el = $("sync-status"); if (el) el.textContent = msg; }
 
   function setOverlay(show, title, msg, frac) {
     var ov = $("base-overlay");
@@ -1358,6 +1359,42 @@
     }).then(function (x) {
       btns.forEach(function (b) { b.disabled = false; });
       return x;
+    });
+  }
+
+  /* Puesta al día de la base (sin borrar nada): baja solo los archivos nuevos
+     del manifiesto. Se ejecuta sola al abrir y también desde "Datos". */
+  var syncingBase = false;
+  function syncBase(manual) {
+    if (syncingBase || !DS.sync) return Promise.resolve(null);
+    syncingBase = true;
+    var report = function (msg) { setBaseStatus(msg); setSyncStatus(msg); };
+    if (manual) report("Buscando datos nuevos…");
+
+    return DS.sync(function (done, total, n) {
+      report("Actualizando la base: " + done + " de " + total + " archivos · " + n.toLocaleString("es") + " partidos…");
+    }).then(function (res) {
+      syncingBase = false;
+      if (!res) return null;
+      if (!res.pending) {
+        if (manual) report("La base está al día: " + S.state.competitions.length + " competiciones, " +
+          S.state.matches.length.toLocaleString("es") + " partidos.");
+        return res;
+      }
+      if (res.teamsAdded && ST.config.unifyTeams) S.unifyTeams({ dedupe: true });
+      refreshAll();
+      updateSaveIndicator();
+      var parts = [];
+      if (res.added) parts.push(res.added.toLocaleString("es") + " partidos nuevos");
+      if (res.teamsAdded) parts.push(res.teamsAdded.toLocaleString("es") + " equipos");
+      if (res.adopted) parts.push(res.adopted.toLocaleString("es") + " con ficha de ESPN");
+      report("Base actualizada" + (parts.length ? ": " + parts.join(", ") : "") + " · " +
+        S.state.competitions.length + " competiciones, " + S.state.matches.length.toLocaleString("es") + " partidos.");
+      return res;
+    }).catch(function (e) {
+      syncingBase = false;
+      if (manual) report("No se pudo actualizar la base: " + (e && e.message ? e.message : e));
+      return null;
     });
   }
 
@@ -1598,6 +1635,8 @@
     var btr = $("bt-recency");
     if (btr) btr.addEventListener("input", function () { $("bt-recency-out").textContent = (btr.value || 0) + "%"; });
 
+    if ($("btn-sync-base")) $("btn-sync-base").addEventListener("click", function () { syncBase(true); });
+
     $("btn-wipe").addEventListener("click", function () {
       if (!confirm("¿Borrar TODOS los equipos, partidos y predicciones?")) return;
       S.reset();
@@ -1634,6 +1673,11 @@
         } else {
           loadBase(true);
         }
+      } else {
+        /* Ya hay base guardada: revisar si el manifiesto trae archivos nuevos
+           (competiciones, temporadas o datos corregidos). Es silencioso y no
+           borra nada; se espera un momento para no competir con el primer pintado. */
+        setTimeout(function () { syncBase(false); }, 1200);
       }
     });
     showView("hoy");
