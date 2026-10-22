@@ -29,12 +29,13 @@ En la app están en la pestaña **Importar**:
 ### Portada "Hoy": partidos terminados
 
 "Hoy" se arma con los partidos por jugar de la base empaquetada. Como esos archivos se
-regeneran por lotes, un partido puede seguir en el archivo después del pitazo final: la app
-lo **retira de la portada** cuando pasó la duración máxima habitual (**≈2 h 05** desde el
-inicio) y vuelve a revisar cada 30 s mientras la vista está abierta. No borra nada: el partido
-queda en **Partidos** y los **análisis guardados** siguen en **Mis predicciones**. En eliminatorias
-con alargue la ventana puede quedar corta: la tarjeta se retira antes del final, pero el panel en
-vivo abierto sigue funcionando.
+regeneran por lotes, un partido puede seguir en el archivo después del pitazo final. Para los
+partidos de la ventana de cierre (entre 1 h 40 y 3 h desde el inicio) la app consulta el
+**estado real a ESPN**: una petición por competición y día, como máximo cada 2 minutos, que
+devuelve todos los partidos de esa jornada. Si el partido figura como terminado (`FT`) la
+tarjeta se retira en el acto; si sigue en juego (alargue/penales) se mantiene. Si ESPN no
+responde, se usa la duración máxima habitual (**≈2 h 05**) y un tope de 3 h. No se borra nada:
+el partido queda en **Partidos** y los **análisis guardados** siguen en **Mis predicciones**.
 
 ### Liga Profesional Argentina (historial + portada "Hoy")
 

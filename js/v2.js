@@ -580,21 +580,193 @@
   }
 
   /* ===== Partidos que ya terminaron ========================== */
-  /* "Hoy" muestra solo partidos que todavía no terminaron. Pasada la duración
-     máxima habitual de un partido (90' + descanso + tiempo añadido) la tarjeta
-     se retira sola. Los análisis guardados no se tocan: siguen disponibles en
-     "Mis predicciones" y en el historial. */
-  var MATCH_LEN_MS = 125 * 60000; /* ≈2 h 05: 90' + 15' de descanso + tiempo añadido */
+  /* "Hoy" muestra solo partidos que todavía no terminaron. Para los partidos
+     de la ventana de cierre se consulta el estado real a ESPN (una petición
+     por competición y día, cada 2 minutos): si ya terminó (FT) la tarjeta se
+     retira en el acto y, si sigue en juego (alargue/penales), se mantiene
+     hasta un tope de 3 h. Sin dato de ESPN se usa la duración máxima habitual
+     (≈2 h 05). Los análisis guardados no se tocan: siguen en "Mis
+     predicciones" y en el historial. */
+  var MATCH_LEN_MS = 125 * 60000;  /* ≈2 h 05: 90' + 15' de descanso + añadido */
+  var MATCH_HARD_MS = 180 * 60000; /* tope: 3 h (alargue + penales + demoras) */
+  var ESPN_CHECK_FROM = 100 * 60000; /* se empieza a consultar a los 100' */
+  var ESPN_BOARD_TTL = 120000;
+
+  var liveState = {};   /* partido -> { state, ts } (pre/in/post) */
+  var boardCache = {};  /* "liga|AAAAMMDD" -> { ts, events } */
+  var boardFetch = {};  /* "liga|AAAAMMDD" -> true mientras descarga */
+
+  function fixtureKey(f) {
+    return f.externalId ? String(f.externalId)
+      : (f.code + "|" + f.date + "|" + f.home + "|" + f.away);
+  }
+
+  function boardKey(f, kind) {
+    var slug = window.AD.live && window.AD.live.slugForCode ? window.AD.live.slugForCode(f.code) : null;
+    var k = kickoff(f);
+    if (!slug || !k || !k.ms) return "";
+    /* ESPN agrupa por día de Nueva York; los partidos de madrugada (hora UTC)
+       pueden caer en el día anterior. Se guarda también el día UTC. */
+    var day = kind === "utc"
+      ? new Date(k.ms).toISOString().slice(0, 10)
+      : dateKeyInTz(k.ms, "America/New_York");
+    return slug + "|" + day.replace(/-/g, "");
+  }
+
+  function stateFor(f, now) {
+    var rec = liveState[fixtureKey(f)];
+    if (!rec) return null;
+    if (rec.state === "post") return "post"; /* terminal: ya terminó */
+    return (now - rec.ts) < 300000 ? rec.state : null;
+  }
 
   function isOver(f, now) {
     var k = kickoff(f);
-    return !!(k && k.ms) && now >= k.ms + MATCH_LEN_MS;
+    if (!k || !k.ms) return false;
+    if (now - k.ms >= MATCH_HARD_MS) return true;
+    var st = stateFor(f, now);
+    if (st === "post") return true;   /* pitazo final confirmado por ESPN */
+    if (st === "in" || st === "pre") return false; /* sigue en juego o demorado */
+    return now - k.ms >= MATCH_LEN_MS; /* sin dato: regla por tiempo */
   }
 
   function overCount(all, now) {
     var n = 0;
     for (var i = 0; i < all.length; i++) if (isOver(all[i], now)) n++;
     return n;
+  }
+
+  /* ---- estado real en ESPN (solo para la ventana de cierre) ---- */
+  function foldName(s) {
+    return String(s == null ? "" : s)
+      .replace(/\([^)]*\)/g, " ")
+      .replace(/ø/g, "o").replace(/ł/g, "l").replace(/đ/g, "d")
+      .replace(/ß/g, "ss").replace(/æ/g, "ae").replace(/œ/g, "oe").replace(/ı/g, "i")
+      .toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9]+/g, " ").trim();
+  }
+  var NAME_SKIP = { fc: 1, cf: 1, ac: 1, afc: 1, sc: 1, sk: 1, sl: 1, sv: 1, cd: 1,
+    ca: 1, cr: 1, cs: 1, club: 1, calcio: 1, de: 1, del: 1, la: 1, las: 1, los: 1,
+    el: 1, real: 1, fk: 1, bk: 1, if: 1, ifk: 1, kaa: 1, rsc: 1, rc: 1, ud: 1, sd: 1,
+    se: 1, ad: 1, as: 1, ss: 1, tsv: 1, vfl: 1, vfb: 1, spvgg: 1 };
+  function nameTokens(s) {
+    return foldName(s).split(" ").filter(function (t) {
+      return t && !NAME_SKIP[t] && !/^\d+$/.test(t);
+    });
+  }
+  function nameScore(a, b) {
+    var A = nameTokens(a), B = nameTokens(b);
+    if (!A.length || !B.length) return 0;
+    if (A.join(" ") === B.join(" ")) return 2;
+    var small = A.length <= B.length ? A : B, big = A.length <= B.length ? B : A;
+    if (small.every(function (t) { return big.indexOf(t) !== -1; })) return 2;
+    if (A[0] === B[0]) return 1;
+    if (A[0].length >= 5 && B[0].length >= 5) {
+      var pre = 0, n = Math.min(A[0].length, B[0].length);
+      while (pre < n && A[0].charAt(pre) === B[0].charAt(pre)) pre++;
+      if (pre >= 6) return 1;
+    }
+    return 0;
+  }
+
+  function parseBoard(p) {
+    var out = [], evs = p && p.events;
+    if (!Array.isArray(evs)) return out;
+    evs.forEach(function (ev) {
+      var comp = ev.competitions && ev.competitions[0];
+      if (!comp) return;
+      var home = "", away = "";
+      (comp.competitors || []).forEach(function (c) {
+        var nm = c.team && (c.team.displayName || c.team.name);
+        if (c.homeAway === "home") home = nm || "";
+        else if (c.homeAway === "away") away = nm || "";
+      });
+      var st = ev.status && ev.status.type ? ev.status.type.state : "";
+      var ms = Date.parse(ev.date || "");
+      if (home && away && st) {
+        out.push({ id: ev.id != null ? String(ev.id) : "", home: home, away: away,
+          state: st, ms: isNaN(ms) ? null : ms });
+      }
+    });
+    return out;
+  }
+
+  function findEvent(f, events) {
+    /* Las fuentes ESPN traen el id del evento: es la vía exacta. */
+    var m = /^espn:(\d+)$/.exec(String(f.externalId == null ? "" : f.externalId));
+    if (m) {
+      for (var i = 0; i < events.length; i++) if (events[i].id === m[1]) return events[i];
+      return null;
+    }
+    /* openfootball: nombre parecido y mismo horario (±10 min). */
+    var k = kickoff(f);
+    if (!k || !k.ms) return null;
+    var best = null, bestScore = 0;
+    events.forEach(function (ev) {
+      if (ev.ms == null || Math.abs(ev.ms - k.ms) > 10 * 60000) return;
+      var sc = nameScore(f.home, ev.home) + nameScore(f.away, ev.away);
+      if (sc > bestScore) { bestScore = sc; best = ev; }
+    });
+    return bestScore >= 3 ? best : null;
+  }
+
+  function applyBoard(key, events, now) {
+    var fallback = {};
+    (cache.fixtures || []).forEach(function (f) {
+      var k = kickoff(f);
+      if (!k || !k.ms) return;
+      var el = now - k.ms;
+      if (el < ESPN_CHECK_FROM || el >= MATCH_HARD_MS) return;
+      if (boardKey(f, "et") !== key && boardKey(f, "utc") !== key) return;
+      var ev = findEvent(f, events);
+      if (!ev) {
+        /* Partido de madrugada: ESPN pudo agruparlo en el día siguiente. */
+        if (f.externalId && new Date(k.ms).getUTCHours() < 4) fallback[boardKey(f, "utc")] = true;
+        return;
+      }
+      var fk = fixtureKey(f), rec = liveState[fk];
+      if (rec && rec.state === ev.state) { rec.ts = now; return; }
+      liveState[fk] = { state: ev.state, ts: now };
+    });
+    Object.keys(fallback).forEach(function (k2) { if (k2) fetchBoard(k2, now); });
+    /* Se vuelve a pintar si el conjunto de partidos terminados cambió: al
+       confirmarse el pitazo final (se retira) o al refrescar un estado viejo
+       que seguía "en juego" (se mantiene). */
+    if (isActive() && overCount(cache.fixtures, Date.now()) !== cache.ended) renderList();
+  }
+
+  function fetchBoard(key, now) {
+    var c = boardCache[key];
+    if (c && (now - c.ts) < ESPN_BOARD_TTL) return;
+    if (boardFetch[key]) return;
+    var parts = key.split("|");
+    var url = "https://site.api.espn.com/apis/site/v2/sports/soccer/" + parts[0] +
+      "/scoreboard?dates=" + parts[1];
+    boardFetch[key] = true;
+    fetch(url, { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (p) {
+        var events = parseBoard(p);
+        boardCache[key] = { ts: Date.now(), events: events };
+        applyBoard(key, events, Date.now());
+      })
+      .catch(function () { /* sin conexión: queda la regla por tiempo */ })
+      .then(function () { boardFetch[key] = null; });
+  }
+
+  function refreshStatuses(now) {
+    if (!window.AD.live || !window.AD.live.slugForCode || !cache.fixtures) return;
+    var all = cache.fixtures, seen = {};
+    for (var i = 0; i < all.length; i++) {
+      var f = all[i], k = kickoff(f);
+      if (!k || !k.ms) continue;
+      var el = now - k.ms;
+      if (el < ESPN_CHECK_FROM || el >= MATCH_HARD_MS) continue;
+      var key = boardKey(f, "et");
+      if (!key || seen[key]) continue;
+      seen[key] = true;
+      fetchBoard(key, now);
+    }
   }
 
   /* Mientras la portada está abierta, revisa si algún partido terminó y vuelve
@@ -604,7 +776,9 @@
     if (retireTimer) return;
     retireTimer = setInterval(function () {
       if (!isActive() || !cache.fixtures || !cache.fixtures.length) return;
-      if (overCount(cache.fixtures, Date.now()) === cache.ended) return;
+      var now = Date.now();
+      refreshStatuses(now);
+      if (overCount(cache.fixtures, now) === cache.ended) return;
       renderList();
     }, 30000);
     /* Al volver a la pestaña, actualiza enseguida (los navegadores frenan los
@@ -699,6 +873,7 @@
     /* Los partidos terminados dejan de mostrarse en la portada. */
     var fixtures = all.filter(function (f) { return !isOver(f, now); });
     cache.ended = overCount(all, now);
+    refreshStatuses(now);
     var sub = $("hoy-sub");
 
     if (!fixtures.length) {
