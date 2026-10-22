@@ -267,3 +267,8 @@ alias de la app (`js/store.js`) se mantiene y la corrección es por año en los 
 Los builders (`scripts/espn-team-alias.json` y `scripts/openfootball-extra-team-map.json`)
 incorporan la resolución para que una regeneración no reintroduzca el error.
 
+Verificado también el **camino de actualización**: se cargó una instalación nueva con la
+base anterior al arreglo (192.193 partidos, 879/603/198/12) y luego se sirvió la base nueva;
+el sync retiró los 557 fantasmas en la misma pasada y quedó en 192.202 partidos, 488 de
+Alavés, 437 de Athletico, 603 de Deportivo y 182 de Paraná, sin recargar.
+
