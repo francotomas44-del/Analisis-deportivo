@@ -478,6 +478,7 @@
   var view = { model: null, tab: "lineups" };
   var loadSeq = 0;
   var timer = null;
+  var lastFocus = null;
 
   function ensureModal() {
     if ($("live-modal")) return;
@@ -531,6 +532,7 @@
   function openModal() {
     var d = $("live-modal");
     if (!d) return;
+    lastFocus = document.activeElement;
     d.classList.add("is-on");
     d.setAttribute("aria-hidden", "false");
     document.documentElement.style.overflow = "hidden";
@@ -546,6 +548,9 @@
     var d = $("live-modal");
     if (d) { d.classList.remove("is-on"); d.setAttribute("aria-hidden", "true"); }
     document.documentElement.style.overflow = "";
+    /* Devolver el foco al botón que abrió el panel (accesibilidad con teclado). */
+    if (lastFocus && lastFocus.focus) { try { lastFocus.focus(); } catch (e) {} }
+    lastFocus = null;
   }
 
   function stopTimer() {

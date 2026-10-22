@@ -341,7 +341,7 @@
     var head = '<div class="panel">' +
       '<div class="result-head">' +
       '<div><div class="teams-line">' + esc(hn) + '<span class="vs">vs</span>' + esc(an) + "</div>" +
-      '<div class="muted">Generado: ' + esc(new Date(r.input.generatedAt).toLocaleString()) + "</div></div>" +
+      '<div class="muted">Generado: ' + esc(new Date(r.input.generatedAt).toLocaleString("es-AR", { hour12: false })) + "</div></div>" +
       '<div><span class="badge ' + badgeClass(r.confidence.label) + '">Confianza ' + r.confidence.label + " · " + r.confidence.score.toFixed(0) + "/100</span></div>" +
       "</div>" +
       '<div class="kv">' +
@@ -1188,7 +1188,7 @@
     L.push("Partido: " + p.homeName + " (local) vs " + p.awayName + " (visitante)");
     L.push("Fecha del partido: " + (p.kickoff || "no especificada"));
     if (p.input && p.input.competition) L.push("Competición: " + p.input.competition);
-    L.push("Predicción registrada: " + new Date(p.createdAt).toLocaleString());
+    L.push("Predicción registrada: " + new Date(p.createdAt).toLocaleString("es-AR", { hour12: false }));
     L.push("");
     L.push("1. DATOS EXACTOS CONOCIDOS (categoría A)");
     L.push("   - Partidos considerados por equipo y promedios de goles (ver base).");
@@ -1295,7 +1295,7 @@
     }).join("");
   }
 
-  function fmtTime(d) { return d.toLocaleTimeString(); }
+  function fmtTime(d) { return d.toLocaleTimeString("es-AR", { hour12: false }); }
 
   function updateSaveIndicator() {
     var el = $("save-indicator");
