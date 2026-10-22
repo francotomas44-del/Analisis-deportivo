@@ -73,6 +73,7 @@
     possessionPct: "Posesión",
     totalShots: "Tiros",
     shotsOnTarget: "Tiros al arco",
+    expectedGoals: "Goles esperados (ESPN)",
     wonCorners: "Córners",
     foulsCommitted: "Faltas",
     offsides: "Fueras de juego",
@@ -309,6 +310,11 @@
       .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
   }
 
+  /* Ficha recortada, para el motor de análisis en vivo (livehoy.js). */
+  function fetchModel(slug, id) {
+    return fetchSummary(slug, id).then(function (s) { return trim(s, slug, id); });
+  }
+
   function trimPlayer(p) {
     var a = p.athlete || {};
     var out = {
@@ -362,6 +368,15 @@
     return String(raw || "");
   }
 
+  /* Jugadas del minuto a minuto que sirven para el análisis en vivo (tiros con
+     ubicación, córners, faltas, fueras de juego y cambios). */
+  var PLAY_KEEP = {
+    "goal": 1, "own-goal": 1,
+    "shot-on-target": 1, "shot-off-target": 1, "shot-blocked": 1,
+    "penalty---scored": 1, "penalty---missed": 1, "penalty-kick": 1,
+    "corner-awarded": 1, "foul": 1, "offside": 1, "substitution": 1
+  };
+
   function trim(summary, slug, id) {
     var s = summary || {};
     var hc = (s.header && s.header.competitions && s.header.competitions[0]) || {};
@@ -385,7 +400,8 @@
       teams: [],
       lineups: [],
       stats: [],
-      events: []
+      events: [],
+      plays: []
     };
 
     if (s.gameInfo) {
@@ -469,6 +485,32 @@
       });
     }
     model.events.reverse(); /* lo más reciente arriba */
+
+    /* Jugadas con ubicación: permiten estimar xG por zona, remates al área y
+       la presión de los últimos minutos sin depender de texto libre. */
+    var plays = [], comm = s.commentary || [];
+    for (i = 0; i < comm.length; i++) {
+      var cp = comm[i] && comm[i].play;
+      if (!cp || !cp.type || !PLAY_KEEP[cp.type.type]) continue;
+      var pside = "";
+      if (cp.team && cp.team.displayName) {
+        var ptm = teamByName[norm(cp.team.displayName)];
+        if (ptm) pside = ptm.side;
+      }
+      var row = { t: cp.type.type, s: pside, c: (cp.clock && cp.clock.displayValue) || "" };
+      if (cp.fieldPositionX != null) row.x = Number(cp.fieldPositionX);
+      if (cp.fieldPositionY != null) row.y = Number(cp.fieldPositionY);
+      if (cp.fieldPosition2X != null) row.x2 = Number(cp.fieldPosition2X);
+      if (cp.fieldPosition2Y != null) row.y2 = Number(cp.fieldPosition2Y);
+      if (cp.scoringPlay || cp.type.type === "goal") row.g = 1;
+      if (cp.shootout) row.so = 1;   /* tanda: no cuenta como gol ni xG del partido */
+      if (cp.participants && cp.participants[0] && cp.participants[0].athlete) {
+        row.n = cp.participants[0].athlete.displayName || "";
+      }
+      if (cp.text) row.txt = String(cp.text).slice(0, 180);
+      plays.push(row);
+    }
+    model.plays = plays;
 
     return model;
   }
@@ -705,6 +747,12 @@
     view.model = m;
     /* "Alineaciones" siempre está: si todavía no se publicaron, ahí se explica. */
     var tabs = [["lineups", "Alineaciones"]];
+    /* El análisis en vivo lo aporta livehoy si ya tiene datos de este partido. */
+    var analysis = "";
+    if (window.AD.livehoy && window.AD.livehoy.htmlFor) {
+      try { analysis = window.AD.livehoy.htmlFor(m.slug, m.id); } catch (e) { analysis = ""; }
+    }
+    if (analysis) tabs.push(["analysis", "Análisis en vivo"]);
     if (m.events.length) tabs.push(["events", "Minuto a minuto"]);
     if (hasTeamStats(m)) tabs.push(["stats", "Estadísticas"]);
 
@@ -738,6 +786,10 @@
 
     if (view.tab === "events") { host.innerHTML = eventsHTML(m); return; }
     if (view.tab === "stats") { host.innerHTML = statsHTML(m); return; }
+    if (view.tab === "analysis" && window.AD.livehoy && window.AD.livehoy.htmlFor) {
+      host.innerHTML = window.AD.livehoy.htmlFor(m.slug, m.id) || "";
+      return;
+    }
     host.innerHTML = lineupsHTML(m);
   }
 
@@ -1001,7 +1053,7 @@
       away: ctx.away || "",
       competition: ctx.competition || ""
     };
-    view = { model: null, tab: "lineups" };
+    view = { model: null, tab: ctx.tab || "lineups" };
     loadSeq++;
     if ($("live-tabs")) $("live-tabs").innerHTML = "";
     if ($("live-body")) $("live-body").innerHTML = '<div class="live-empty">Cargando alineaciones…</div>';
@@ -1097,6 +1149,8 @@
     canShowMatch: canShowMatch,
     contextForMatch: contextForMatch,
     slugForCode: slugForCode,
+    resolveEvent: resolveEvent,
+    fetchModel: fetchModel,
     close: close
   };
 })();

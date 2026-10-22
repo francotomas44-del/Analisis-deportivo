@@ -912,12 +912,20 @@
 
     if (!ctx) ctx = buildContext();
 
-    var items = shown.map(function (d) {
+    var items = shown.map(function (d, i) {
       var f = d.f;
       var ht = S.findTeamByName(resolveTeamName(f.home)), at = S.findTeamByName(resolveTeamName(f.away));
       var p = null;
       if (ht && at) { try { p = predict(ht.id, at.id, f.competition); } catch (e) { p = null; } }
-      return { f: f, ht: ht, at: at, p: p, key: d.key };
+      var slug = (window.AD.live && window.AD.live.slugForCode) ? window.AD.live.slugForCode(f.code) : null;
+      var em = /^espn:(\d+)$/.exec(String(f.externalId == null ? "" : f.externalId));
+      var act = !!(slug && d.ms && window.AD.livehoy &&
+        window.AD.livehoy.isCandidate({ slug: slug, ms: d.ms }, now));
+      return {
+        f: f, ht: ht, at: at, p: p, key: d.key,
+        fk: fixtureKey(f), domId: "fxl" + i,
+        slug: slug, ms: d.ms, id: em ? em[1] : null, act: act
+      };
     });
 
     if (sub) {
@@ -966,6 +974,14 @@
     listEl.querySelectorAll("[data-fx]").forEach(function (btn) {
       btn.addEventListener("click", function () { onCardAction(btn, items); });
     });
+
+    /* Análisis en vivo de los partidos en juego o que empiezan dentro de 1 h.
+       livehoy se encarga de consultar, recalcular y repintar solo esa parte. */
+    if (window.AD.livehoy) {
+      try {
+        window.AD.livehoy.start(items.filter(function (it) { return it.act; }));
+      } catch (e) { /* nunca debe romper la portada */ }
+    }
   }
 
   function cardHTML(it, i) {
@@ -973,14 +989,14 @@
     var when = whenText(f);
 
     var head = '<div class="fx-top"><span class="fx-comp">' + esc(f.competition) + "</span>" +
-      '<span class="fx-when">' + esc(when) + "</span></div>";
+      '<span class="fx-when" data-fkwhen="1">' + esc(when) + "</span></div>";
 
     var teams = '<div class="fx-teams">' +
       '<div class="fx-team home"><span class="fx-name">' + esc(dispName(f.home)) + "</span>" +
-        (p ? '<span class="fx-tag">' + pct1(p.hw) + "%</span>" : "") + "</div>" +
+        (p ? '<span class="fx-tag" data-fktag="h">' + pct1(p.hw) + "%</span>" : "") + "</div>" +
       '<div class="fx-vs">VS</div>' +
       '<div class="fx-team away"><span class="fx-name">' + esc(dispName(f.away)) + "</span>" +
-        (p ? '<span class="fx-tag">' + pct1(p.aw) + "%</span>" : "") + "</div>" +
+        (p ? '<span class="fx-tag" data-fktag="a">' + pct1(p.aw) + "%</span>" : "") + "</div>" +
       "</div>";
 
     var body;
@@ -1022,7 +1038,13 @@
       '<button class="btn btn-ghost btn-mini" type="button" data-fx="imagen" data-i="' + i + '">Imagen</button>' +
       "</div>";
 
-    return '<article class="fx' + (p ? "" : " fx--nodata") + '">' + head + teams + body + actions + "</article>";
+    var liveHost = it.act
+      ? '<div class="fxl" data-fkl="' + esc(it.domId) + '"><div class="fxl-load">' +
+        '<span class="fxl-dot"></span>Consultando el partido en ESPN…</div></div>'
+      : "";
+
+    return '<article class="fx' + (p ? "" : " fx--nodata") + '" data-fk="' + esc(it.domId) + '">' +
+      head + teams + '<div class="fx-static-body">' + body + "</div>" + liveHost + actions + "</article>";
   }
 
   function onCardAction(btn, items) {
@@ -1278,10 +1300,19 @@
     registerSW();
   }
 
+  /* Un partido que ESPN da por terminado: se retira de la portada en el acto
+     (sin esperar a la ventana de cierre por tiempo). */
+  function matchEnded(key) {
+    if (!key) return;
+    liveState[key] = { state: "post", ts: Date.now() };
+    if (isActive()) renderList();
+  }
+
   window.AD.v2 = {
     onShowView: onShowView,
     onDataChanged: onDataChanged,
     renderHoy: renderHoy,
+    matchEnded: matchEnded,
     toggleMode: toggleMode,
     applyMode: applyMode,
     brand: BRAND,

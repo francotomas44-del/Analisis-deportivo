@@ -12,6 +12,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 | **Base al día** | La base se importaba una sola vez | Las competiciones y partidos nuevos llegan **solos** a las instalaciones existentes (automático al abrir + botón "Buscar datos nuevos" en Datos) |
 | **Nombres de equipo** | Los nombres de ESPN no siempre coincidían con la base ("Kairat Almaty" vs "FK Kairat") | Se resuelven por **nombre canónico**: ningún partido de "Hoy" queda sin pronóstico por el nombre |
 | **Partidos terminados** | Seguían en "Hoy" como si faltaran jugar | Se retiran al pitazo final (se consulta el estado real a ESPN) y, sin dato, a las ≈2 h 05; los análisis guardados no se tocan |
+| **Partidos en vivo** | Solo el pronóstico previo | Las tarjetas de los partidos **en juego o que empiezan en la próxima hora** muestran **estadísticas en vivo** (posesión, tiros, xG estimado, córners, tarjetas, atajadas), **probabilidades recalculadas** y un **detalle** con minuto a minuto y mercados |
 | **Base ampliada** | ~31 competiciones / ~49.000 partidos | **110 competiciones / 192.202 partidos**: historia previa desde ESPN (`espn-history`, 65.276) + competiciones nuevas de openfootball (`openfootball-extra`, 27.582: MLS, CONCACAF, CAF, Brasil, Colombia, Ecuador, Paraguay, Asia y África) + **CONMEBOL Sudamericana y Libertadores** desde ESPN (2.293 + 3.196) + **primeras divisiones de Chile, Uruguay, Perú, Bolivia y Venezuela** desde ESPN (30.630) + **Copa América, Eliminatorias CONMEBOL, Europa League y Conference League** desde ESPN (`espn-cups`, 3.917) |
 | **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | **Historial completo 2001 y 2003–2026 desde ESPN** (9.505 partidos, descargado) + temporada en curso en vivo, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
@@ -78,6 +79,34 @@ mientras la página está abierta, sin recargar.
 - La consulta de estado es **anónima y no bloquea la app**: si falla, todo sigue funcionando con la
   regla por tiempo. Solo se hace para los partidos que están por terminar (entre 1 h 40 y 3 h desde
   el inicio), identificados por el **id de ESPN** o, en partidos de openfootball, por nombre y horario.
+
+## Análisis en vivo en "Hoy"
+
+Las tarjetas de los partidos **en juego** o que **empiezan dentro de la próxima hora** ahora
+muestran un bloque en vivo que se actualiza solo:
+
+- **Marcador y minuto**, posesión, tiros, tiros al arco, **xG estimado**, remates al área,
+  córners, faltas, tarjetas y atajadas.
+- Una **lectura corta** (quién genera más peligro, expulsiones, presión de los últimos 10 minutos,
+  arquero con más atajadas) y los **últimos 3 eventos**.
+- **Probabilidades 1X2 recalculadas** con el marcador y el minuto, con la variación en puntos
+  respecto del pronóstico previo. También se calculan próximo gol, más de 2,5 goles y ambos marcan.
+- Botón **Detalle**: abre la pestaña **"Análisis en vivo"** con el minuto a minuto, todas las
+  estadísticas, arqueros, presión, historial y mercados.
+- Antes de empezar: **cuenta regresiva**, estado de las alineaciones e **historial** entre ambos.
+
+**Cada cuánto:** 40 segundos en juego y 2 minutos antes de empezar; se pausa con la pestaña
+oculta o fuera de "Hoy" y se retoma al volver. No requiere clave ni backend: usa la API pública
+de ESPN, la misma del detalle del partido.
+
+> **El xG es estimado.** ESPN no publica xG oficial por equipo, así que la app lo calcula sumando
+> el valor de cada remate según su ubicación, distancia, ángulo, si fue de cabeza, bloqueado o
+> penal. Se muestra siempre como **"xG estimado"**; no es un dato oficial. Para xG oficial haría
+> falta una API con clave paga (Sportmonks, API-Football, football-data.org) y, en una web
+> estática, un backend que oculte la clave. Detalle técnico en
+> [`analisis-en-vivo.md`](analisis-en-vivo.md).
+
+Los **análisis guardados** de cada usuario no se modifican cuando un partido se retira de "Hoy".
 
 ## Corrección de datos: clubes con el mismo nombre
 

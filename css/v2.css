@@ -233,6 +233,259 @@ body.simple [data-adv] { display: none !important; }
 }
 .fx-stats b { color: var(--text); }
 
+/* ---------- Análisis en vivo dentro de la tarjeta de "Hoy" ---------- */
+.fx.has-live .fx-static-body { display: none; }
+
+.fxl {
+  margin-top: 0.7rem;
+  padding-top: 0.65rem;
+  border-top: 1px dashed var(--border-soft);
+}
+.fxl-load {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+  padding: 0.15rem 0;
+}
+.fxl-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: fxlPulse 1.4s ease-out infinite;
+}
+@keyframes fxlPulse {
+  0% { box-shadow: 0 0 0 0 rgba(60, 220, 150, 0.45); }
+  70% { box-shadow: 0 0 0 7px rgba(60, 220, 150, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(60, 220, 150, 0); }
+}
+
+.fxl-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.55rem;
+}
+.fxl-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  background: rgba(255, 86, 86, 0.13);
+  color: #ff9d9d;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.fxl-pill i {
+  width: 0.42rem;
+  height: 0.42rem;
+  border-radius: 50%;
+  background: #ff5656;
+  animation: fxlLive 1.6s ease-out infinite;
+}
+@keyframes fxlLive {
+  0% { box-shadow: 0 0 0 0 rgba(255, 86, 86, 0.6); }
+  70% { box-shadow: 0 0 0 6px rgba(255, 86, 86, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(255, 86, 86, 0); }
+}
+.fxl-pill.is-pre { background: var(--panel-2); color: var(--muted); }
+.fxl-pill.is-post { background: var(--panel-2); color: var(--text); }
+.fxl-score {
+  margin-left: auto;
+  font-size: 1.32rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+}
+.fxl-score i { font-style: normal; color: var(--muted); margin: 0 0.22rem; font-weight: 600; }
+.fxl-upd { font-size: 0.68rem; color: var(--muted); white-space: nowrap; }
+
+.fxl-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.32rem;
+  font-weight: 800;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #ff9d9d;
+}
+.fxl-inline i {
+  width: 0.42rem;
+  height: 0.42rem;
+  border-radius: 50%;
+  background: #ff5656;
+  animation: fxlLive 1.6s ease-out infinite;
+}
+.fxl-inline.is-pre { color: var(--muted); }
+
+.fxl-bar { margin-top: 0.6rem; }
+.fxl-legend { gap: 0.7rem; }
+.fxl-legend b { color: var(--text); }
+.fxl-legend em {
+  font-style: normal;
+  font-size: 0.68rem;
+  font-weight: 700;
+  margin-left: 0.18rem;
+}
+.fxl-legend em.up { color: var(--accent); }
+.fxl-legend em.down { color: var(--danger); }
+
+.fxl-stats {
+  display: grid;
+  gap: 0.26rem;
+  margin-top: 0.6rem;
+}
+@media (min-width: 760px) {
+  .fxl-stats { grid-template-columns: 1fr 1fr; gap: 0.26rem 1.4rem; }
+}
+.fxl-stat {
+  display: grid;
+  grid-template-columns: 3rem 1fr 3rem;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+}
+.fxl-stat .v {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.fxl-stat .v.a { text-align: right; }
+.fxl-stat .l {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.16rem;
+  font-size: 0.68rem;
+  color: var(--muted);
+  text-align: center;
+}
+.fxl-stat .l i {
+  display: block;
+  width: 100%;
+  height: 4px;
+  border-radius: 99px;
+  background: var(--panel-2);
+  overflow: hidden;
+}
+.fxl-stat .l i s {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), var(--home));
+  border-radius: inherit;
+  transition: width 0.4s ease;
+}
+
+.fxl-read {
+  margin: 0.6rem 0 0;
+  font-size: 0.79rem;
+  line-height: 1.5;
+  color: var(--text);
+  opacity: 0.92;
+}
+.fxl-events {
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+  margin-top: 0.45rem;
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+.fxl-ev b { color: var(--text); font-weight: 700; margin-right: 0.15rem; }
+
+.fxl-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-top: 0.55rem;
+  font-size: 0.66rem;
+  color: var(--muted);
+}
+.fxl-foot button {
+  background: none;
+  border: 0;
+  padding: 0.1rem 0.15rem;
+  color: var(--accent);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.fxl-foot button:hover { text-decoration: underline; }
+
+.fxl-pre-row {
+  margin-top: 0.35rem;
+  font-size: 0.77rem;
+  color: var(--muted);
+}
+.fxl-pre-row b { color: var(--text); margin-right: 0.25rem; }
+
+/* Detalle en el panel del partido */
+.lh-top {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.7rem;
+}
+.lh-score { font-size: 0.95rem; color: var(--muted); }
+.lh-score b { color: var(--text); font-size: 1.05rem; margin: 0 0.2rem; }
+.lh-h {
+  margin: 1.1rem 0 0.45rem;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+.lh-note { margin: 0.55rem 0 0; font-size: 0.72rem; line-height: 1.5; color: var(--muted); }
+.lh-keepers { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+.lh-markets { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.5rem; }
+.lh-keeper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--border-soft);
+  border-radius: 10px;
+  font-size: 0.78rem;
+}
+.lh-keeper b { font-size: 0.8rem; }
+.lh-keeper span { color: var(--muted); font-size: 0.74rem; }
+.lh-h2h { display: flex; flex-direction: column; gap: 0.22rem; }
+.lh-h2h-row {
+  display: grid;
+  grid-template-columns: 5.4rem 1.4rem 3rem 1fr;
+  gap: 0.45rem;
+  align-items: center;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.lh-res {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 0.7rem;
+  text-align: center;
+  border-radius: 5px;
+  background: var(--panel-2);
+  padding: 0.05rem 0;
+}
+.lh-G { color: #04140d; background: var(--accent); }
+.lh-P { color: #ffb3b3; background: rgba(255, 86, 86, 0.16); }
+.lh-E { color: #3a2a00; background: var(--draw); }
+
+@media (max-width: 520px) {
+  .lh-keepers { grid-template-columns: 1fr; }
+  .lh-markets { grid-template-columns: 1fr; }
+  .fxl-stat { grid-template-columns: 2.5rem 1fr 2.5rem; }
+}
+
 .badge {
   display: inline-block;
   padding: 0.12rem 0.55rem;

@@ -79,6 +79,50 @@ El detalle de cada partido se pide **bajo demanda** a ESPN, al abrir el panel de
   día por nombre de equipo. La cobertura histórica de alineaciones depende de ESPN.
 - Código: `js/live.js` (`AD.live`). Detalle técnico en [`apis-datos.md`](apis-datos.md#6-detalle-por-partido-alineaciones-y-estadísticas-de-jugadores-espn).
 
+### Análisis en vivo en la portada "Hoy"
+
+Las tarjetas de **Hoy** de los partidos **en juego** o que **empiezan dentro de la próxima hora**
+muestran un bloque de análisis que se actualiza solo. No requiere clave ni backend: usa la misma
+ficha pública de ESPN (`summary?event=<id>`, CORS) que el detalle del partido.
+
+- **Cuándo consulta:** partidos empezados hace menos de 3 h y partidos que arrancan en ≤ 60 min.
+  Se priorizan los que ya están en juego (hasta 12) y se reservan hasta 8 lugares para los
+  próximos; el total simultáneo se limita a 20. Se consultan como máximo **3 fichas a la vez**.
+- **Cada cuánto:** **40 s** en juego, **2 min** antes de empezar y **60 s** si la hora de inicio ya
+  pasó y ESPN todavía no lo dio por comenzado. Se **pausa** con la pestaña oculta o fuera de
+  "Hoy" y se reanuda al volver. Los errores se reintentan con espera creciente (15 s → 5 min).
+- **Qué muestra la tarjeta:** minuto y marcador; posesión, tiros, tiros al arco, **xG estimado**,
+  remates dentro del área, córners, faltas, tarjetas y atajadas; lectura corta; últimos 3 eventos;
+  probabilidades 1X2 **recalculadas** con su variación en puntos respecto del pronóstico previo.
+  Antes de empezar: cuenta regresiva, estado de las alineaciones e historial entre ambos equipos.
+- **Detalle:** el botón **Detalle** abre el panel del partido en la pestaña **"Análisis en vivo"**,
+  con el minuto a minuto, estadísticas completas, arqueros, presión de los últimos 10 minutos,
+  historial y **mercados en vivo** (próximo gol, más de 2,5 goles y ambos marcan).
+
+**xG estimado (no es un dato oficial).** ESPN no publica xG por equipo, solo el de algunos
+jugadores. La app lo estima sumando el valor de **cada remate** según:
+la posición `fieldPositionX/Y` (0–100, arco en x=100, siempre desde el ataque del equipo),
+la distancia y el ángulo al arco (7,32 m), si fue **cabeza** (×0,78), si fue **bloqueado**
+(×0,7), si fue **ángulo difícil** (×0,6) y si fue **penal** (0,78). Los goles de juego abierto
+llegan como tipo `goal` y también suman. Se muestra siempre como **"xG estimado"**.
+
+**Modelo en juego.** Es un Poisson sobre los goles que faltan:
+- la fuerza previa del partido (`lh`/`la`) se escala por el tiempo restante, con descuento y un
+  empuje final;
+- se corrige por el xG generado hasta el momento, con suavizado y atenuación (el xG temprano es
+  ruido);
+- se ajusta por **expulsiones** (0,74 por roja propia, 1,16 por roja rival) y por el marcador;
+- se aplica un **piso de goles restantes** para no cerrar de más un partido parejo en los minutos
+  finales;
+- de la distribución se obtienen 1X2, próximo gol, más/menos 2,5 y ambos marcan.
+- En **tanda de penales** el 1X2 se considera cerrado en empate y no se recalculan goles.
+
+**Límites:** el xG es una estimación transparente (no un proveedor oficial); si ESPN no publica
+la jugada con ubicación, se usa un valor por tiros al arco/tiros totales. Los proveedores con xG
+oficial (Sportmonks, API-Football, football-data.org) requieren una **clave paga**; en una web
+estática quedaría visible, así que no se incluyen. Código: `js/livehoy.js` (`AD.livehoy`).
+Detalle técnico en [`analisis-en-vivo.md`](analisis-en-vivo.md).
+
 ### Base histórica ampliada (actualizada)
 
 Además del paquete original de openfootball y de la Liga Argentina, la base integrada se
