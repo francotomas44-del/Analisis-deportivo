@@ -579,6 +579,43 @@
     return !!v && v.classList.contains("is-active");
   }
 
+  /* ===== Partidos que ya terminaron ========================== */
+  /* "Hoy" muestra solo partidos que todavía no terminaron. Pasada la duración
+     máxima habitual de un partido (90' + descanso + tiempo añadido) la tarjeta
+     se retira sola. Los análisis guardados no se tocan: siguen disponibles en
+     "Mis predicciones" y en el historial. */
+  var MATCH_LEN_MS = 125 * 60000; /* ≈2 h 05: 90' + 15' de descanso + tiempo añadido */
+
+  function isOver(f, now) {
+    var k = kickoff(f);
+    return !!(k && k.ms) && now >= k.ms + MATCH_LEN_MS;
+  }
+
+  function overCount(all, now) {
+    var n = 0;
+    for (var i = 0; i < all.length; i++) if (isOver(all[i], now)) n++;
+    return n;
+  }
+
+  /* Mientras la portada está abierta, revisa si algún partido terminó y vuelve
+     a pintar la lista (así la tarjeta desaparece sin recargar la página). */
+  var retireTimer = null;
+  function watchRetired() {
+    if (retireTimer) return;
+    retireTimer = setInterval(function () {
+      if (!isActive() || !cache.fixtures || !cache.fixtures.length) return;
+      if (overCount(cache.fixtures, Date.now()) === cache.ended) return;
+      renderList();
+    }, 30000);
+    /* Al volver a la pestaña, actualiza enseguida (los navegadores frenan los
+       temporizadores en segundo plano). */
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState !== "visible" || !isActive()) return;
+      if (!cache.fixtures || !cache.fixtures.length) return;
+      renderList();
+    });
+  }
+
   function onShowView() { renderHoy(); }
 
   function onDataChanged() {
@@ -594,7 +631,7 @@
 
     host.innerHTML =
       '<div class="hoy-head">' +
-        '<div><h2 class="hoy-title" data-tip="Partidos próximos con su pronóstico 1X2 (local, empate, visita), marcador más probable y nivel de confianza.">Partidos y pronósticos</h2>' +
+        '<div><h2 class="hoy-title" data-tip="Partidos próximos con su pronóstico 1X2 (local, empate, visita), marcador más probable y nivel de confianza. Los partidos se retiran solos al terminar.">Partidos y pronósticos</h2>' +
         '<p class="muted" id="hoy-sub">Cargando próximos partidos…</p></div>' +
       "</div>" +
       '<div id="hoy-list">' + skeleton(4) + "</div>";
@@ -657,17 +694,29 @@
   function renderList() {
     var listEl = $("hoy-list");
     if (!listEl) return;
-    var fixtures = cache.fixtures || [];
+    var all = cache.fixtures || [];
+    var now = Date.now();
+    /* Los partidos terminados dejan de mostrarse en la portada. */
+    var fixtures = all.filter(function (f) { return !isOver(f, now); });
+    cache.ended = overCount(all, now);
     var sub = $("hoy-sub");
 
     if (!fixtures.length) {
-      if (sub) sub.textContent = "No hay partidos próximos en la base.";
-      listEl.innerHTML = '<div class="panel"><p class="muted">La base no incluye partidos futuros. ' +
-        "Podés analizar cualquier cruce desde <strong>Analizar</strong>.</p></div>";
+      if (sub) sub.textContent = "No hay partidos por jugar en este momento.";
+      listEl.innerHTML = '<div class="panel"><p class="muted">' +
+        (all.length
+          ? "Ya terminaron los partidos que había en la base. Los resultados están en <strong>Partidos</strong>."
+          : "La base no incluye partidos futuros. Podés analizar cualquier cruce desde <strong>Analizar</strong>.") +
+        "</p></div>";
       return;
     }
 
     var filter = cache.filter || "";
+    /* Si la competición elegida ya no tiene partidos por jugar, vuelve a "Todas". */
+    if (filter && !fixtures.some(function (f) { return f.competition === filter; })) {
+      filter = "";
+      cache.filter = "";
+    }
     var filtered = filter ? fixtures.filter(function (f) { return f.competition === filter; }) : fixtures;
 
     refreshDayKeys();
@@ -1048,6 +1097,7 @@
     applyMode();
     refreshDayKeys();
     buildCountrySelect();
+    watchRetired();
     var btn = $("btn-mode");
     if (btn) btn.addEventListener("click", toggleMode);
     registerSW();

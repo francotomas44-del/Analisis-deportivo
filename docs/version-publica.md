@@ -11,6 +11,7 @@ vuelve **atractiva y entendible para cualquiera**, sin romper nada de lo que ya 
 | **Datos nuevos** | Solo partidos jugados | Se detectan los **partidos futuros** de la base (openfootball 2026-27) y se pronostican |
 | **Base al día** | La base se importaba una sola vez | Las competiciones y partidos nuevos llegan **solos** a las instalaciones existentes (automático al abrir + botón "Buscar datos nuevos" en Datos) |
 | **Nombres de equipo** | Los nombres de ESPN no siempre coincidían con la base ("Kairat Almaty" vs "FK Kairat") | Se resuelven por **nombre canónico**: ningún partido de "Hoy" queda sin pronóstico por el nombre |
+| **Partidos terminados** | Seguían en "Hoy" como si faltaran jugar | Se retiran solos al terminar (≈2 h 05 desde el inicio) y la lista se actualiza sin recargar; los análisis guardados no se tocan |
 | **Base ampliada** | ~31 competiciones / ~49.000 partidos | **110 competiciones / 192.193 partidos**: historia previa desde ESPN (`espn-history`, 65.276) + competiciones nuevas de openfootball (`openfootball-extra`, 27.582: MLS, CONCACAF, CAF, Brasil, Colombia, Ecuador, Paraguay, Asia y África) + **CONMEBOL Sudamericana y Libertadores** desde ESPN (2.293 + 3.196) + **primeras divisiones de Chile, Uruguay, Perú, Bolivia y Venezuela** desde ESPN (30.630) + **Copa América, Eliminatorias CONMEBOL, Europa League y Conference League** desde ESPN (`espn-cups`, 3.917) |
 | **Liga Argentina** | No aparecía en "Hoy" (openfootball no tiene la temporada 2026) | **Historial completo 2001 y 2003–2026 desde ESPN** (9.505 partidos, descargado) + temporada en curso en vivo, con la misma tarjeta y pronóstico (se puede desactivar) |
 | **Menú** | 10 pestañas técnicas | **Modo simple (6 pestañas)** + **modo avanzado** con un clic |
@@ -55,6 +56,21 @@ desde la **API pública de ESPN** (gratis, sin clave, con CORS):
 > sirve *LilaX* (`ole.lilax.io`) por JavaScript y **no son accesibles desde el
 > navegador** (bloqueo CORS; el HTML no trae los datos). No es viable en una app
 > 100 % frontend, por lo que se usa ESPN.
+
+## Partidos que ya terminaron
+
+La portada **Hoy** muestra solo partidos que todavía no terminaron. Cada tarjeta se retira sola
+cuando pasó la duración máxima habitual de un partido (**≈2 h 05** desde el inicio: 90 minutos,
+15 de descanso, el tiempo añadido y un margen por demoras). La lista se revisa cada 30 segundos, así que el partido
+desaparece mientras la página está abierta, sin recargar.
+
+- La regla usa el **horario real del partido** ya convertido a la zona del país elegido. Los partidos
+  sin hora exacta en la fuente no se ocultan por tiempo (se van al cambiar el día).
+- **No se borra nada**: el partido sigue en **Partidos** con su resultado cuando la base se actualiza,
+  y los **análisis guardados** de cada usuario siguen en **Mis predicciones** (pendientes o cerrados).
+- Un partido con **alargue y penales** (eliminatorias) puede durar más que la ventana; en ese caso la
+  tarjeta se retira antes del pitazo final. Si el panel en vivo ya está abierto, sigue actualizándose
+  igual; el análisis guardado no se pierde.
 
 ## Horarios por país
 

@@ -710,7 +710,9 @@
       resultDate: null
     };
     state.predictions.push(pred);
-    save();
+    /* Los análisis se guardan al instante: si el usuario cierra la pestaña
+       justo después, no se pierde nada. */
+    saveNow();
     return pred;
   }
 
@@ -719,13 +721,13 @@
     if (!p) return null;
     p.result = { homeGoals: Number(result.homeGoals), awayGoals: Number(result.awayGoals) };
     p.resultDate = result.date || new Date().toISOString().slice(0, 10);
-    save();
+    saveNow();
     return p;
   }
 
   function removePrediction(id) {
     state.predictions = state.predictions.filter(function (p) { return p.id !== id; });
-    save();
+    saveNow();
   }
 
   /* ---------- datos de ejemplo ---------- */

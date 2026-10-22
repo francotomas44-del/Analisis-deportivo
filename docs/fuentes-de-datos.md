@@ -26,6 +26,16 @@ En la app están en la pestaña **Importar**:
 - openfootball: cualquier URL de JSON de `github.com/openfootball/...`
 - CSV de football-data.co.uk: se descarga el archivo y se sube con **"Subir archivo"**.
 
+### Portada "Hoy": partidos terminados
+
+"Hoy" se arma con los partidos por jugar de la base empaquetada. Como esos archivos se
+regeneran por lotes, un partido puede seguir en el archivo después del pitazo final: la app
+lo **retira de la portada** cuando pasó la duración máxima habitual (**≈2 h 05** desde el
+inicio) y vuelve a revisar cada 30 s mientras la vista está abierta. No borra nada: el partido
+queda en **Partidos** y los **análisis guardados** siguen en **Mis predicciones**. En eliminatorias
+con alargue la ventana puede quedar corta: la tarjeta se retira antes del final, pero el panel en
+vivo abierto sigue funcionando.
+
 ### Liga Profesional Argentina (historial + portada "Hoy")
 
 La base de openfootball solo trae **3 temporadas** argentinas, así que la Liga
