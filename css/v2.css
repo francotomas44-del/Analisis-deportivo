@@ -986,6 +986,7 @@ body.simple [data-adv] { display: none !important; }
 
 /* ---------- Móvil ---------- */
 @media (max-width: 720px) {
+  html, body { overflow-x: hidden; }
   .tabs {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
