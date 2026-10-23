@@ -552,7 +552,7 @@
     state.running++;
     it._busy = true;
     resolveId(it).then(function (id) {
-      if (!id) throw new Error("ESPN todavía no tiene la ficha");
+      if (!id) throw new Error("Todavía no hay ficha de este partido");
       return window.AD.live.fetchModel(it.slug, id).then(function (m) {
         it.espnId = String(id);
         var rec = {
@@ -696,15 +696,15 @@
   function inner(it, rec, a) {
     if (!a) {
       if (rec && rec.err) {
-        return '<div class="fxl-load">Sin datos en vivo por ahora · se reintenta solo.</div>';
+        return '<div class="fxl-load">Datos aún no disponibles</div>';
       }
-      return '<div class="fxl-load"><span class="fxl-dot"></span>Consultando el partido en ESPN…</div>';
+      return '<div class="fxl-load"><span class="fxl-dot"></span>Actualizando datos…</div>';
     }
     if (a.post) {
       return '<div class="fxl-top"><span class="fxl-pill is-post">Finalizado</span>' +
         '<span class="fxl-score">' + a.sh + '<i>:</i>' + a.sa + "</span>" +
         '<span class="fxl-upd">' + esc(ago(rec.at)) + "</span></div>" +
-        '<div class="fxl-foot"><span>Resultado final confirmado por ESPN</span></div>';
+        '<div class="fxl-foot"><span>Datos actualizados</span></div>';
     }
     if (a.live) return liveInner(it, rec, a);
     return preInner(it, a);
@@ -760,7 +760,7 @@
       out.push('<div class="fxl-events">' + evs.join("") + "</div>");
     }
 
-    out.push('<div class="fxl-foot"><span>xG estimado por zona del remate · ESPN</span>' +
+    out.push('<div class="fxl-foot"><span>Datos actualizados</span>' +
       '<button type="button" data-fxl-detail="' + esc(it.domId) + '">Detalle</button></div>');
     return out.join("");
   }
@@ -778,7 +778,7 @@
         " · " + lh + "-" + la + "</div>");
     }
     if (a.read && a.read.length) out.push('<p class="fxl-read">' + esc(a.read.join(" ")) + "</p>");
-    out.push('<div class="fxl-foot"><span>Datos: ESPN · se actualiza cada 2 min</span>' +
+    out.push('<div class="fxl-foot"><span>Datos actualizados</span>' +
       '<button type="button" data-fxl-detail="' + esc(it.domId) + '">Detalle</button></div>');
     return out.join("");
   }
@@ -825,7 +825,7 @@
           ? '<span class="fxl-pill is-post">Finalizado</span>'
           : '<span class="fxl-pill is-pre">Empieza en ' + esc(countdown(it.ms)) + "</span>") +
       '<span class="lh-score">' + esc(it.f.home) + " <b>" + a.sh + " : " + a.sa + "</b> " + esc(it.f.away) + "</span>" +
-      '<span class="fxl-upd">' + esc(ago(rec.at)) + "</span>" +
+      '<span class="fxl-upd">Datos actualizados · ' + esc(ago(rec.at)) + "</span>" +
     "</div>");
 
     var p = a.probs;
@@ -921,8 +921,7 @@
     }
 
     out.push('<p class="lh-note">xG estimado: se suma el valor de cada remate según su ubicación, ' +
-      "tipo de remate y si fue bloqueado (ESPN no publica xG oficial por equipo). " +
-      "Datos: API pública de ESPN.</p>");
+      "tipo de remate y si fue bloqueado. Es una estimación, no un dato oficial.</p>");
     return '<div class="lh">' + out.join("") + "</div>";
   }
 

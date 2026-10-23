@@ -506,8 +506,8 @@
     }
 
     // contexto (análisis fundamental): se completa de forma asíncrona
-    var contextoPanel = '<div class="panel"><h2 data-tip="Noticias del cruce y de cada equipo (ESPN). Es contexto cualitativo: no modifica el modelo.">Contexto (análisis fundamental)</h2>' +
-      '<p class="muted">Últimas noticias por equipo y del cruce, desde la API pública de ESPN (en español). Google News no es consultable desde el navegador (CORS): cada bloque incluye un enlace de búsqueda.</p>' +
+    var contextoPanel = '<div class="panel"><h2 data-tip="Noticias del cruce y de cada equipo (medios públicos). Es contexto cualitativo: no modifica el modelo.">Contexto (análisis fundamental)</h2>' +
+      '<p class="muted">Últimas noticias por equipo y del cruce, desde una API pública de noticias (en español). Google News no es consultable desde el navegador (CORS): cada bloque incluye un enlace de búsqueda.</p>' +
       '<p style="margin:.4rem 0"><button id="btn-contexto-refresh" class="btn btn-mini" type="button">Actualizar noticias</button></p>' +
       '<div id="contexto-cuerpo"><p class="muted">Cargando noticias…</p></div></div>';
 
@@ -719,7 +719,7 @@
     return new Date(t).toLocaleDateString("es", { day: "2-digit", month: "short", year: "numeric" });
   }
   function newsItemHtml(n) {
-    var meta = esc(n.source || "ESPN") + (n.date ? " · " + esc(newsDate(n.date)) : "");
+    var meta = esc(n.source || "Prensa") + (n.date ? " · " + esc(newsDate(n.date)) : "");
     var title = n.url
       ? '<a href="' + esc(n.url) + '" target="_blank" rel="noopener">' + esc(n.title) + "</a>"
       : esc(n.title);
@@ -1228,7 +1228,7 @@
           L.push("       · " + n.title + (n.detail ? " — " + n.detail : "") + (n.date ? " (" + String(n.date).slice(0, 10) + ")" : ""));
         });
       });
-      L.push("   - Fuente: ESPN. Los enlaces se ven en pantalla (pestaña Analizar).");
+      L.push("   - Fuente: medios públicos. Los enlaces se ven en pantalla (pestaña Analizar).");
     } else {
       L.push("   - No disponible: las noticias se cargan en la pestaña Analizar; si guardaste la predicción antes de que cargaran, no quedaron registradas.");
     }
@@ -1387,7 +1387,7 @@
       var parts = [];
       if (res.added) parts.push(res.added.toLocaleString("es") + " partidos nuevos");
       if (res.teamsAdded) parts.push(res.teamsAdded.toLocaleString("es") + " equipos");
-      if (res.adopted) parts.push(res.adopted.toLocaleString("es") + " con ficha de ESPN");
+      if (res.adopted) parts.push(res.adopted.toLocaleString("es") + " con ficha de la API pública");
       report("Base actualizada" + (parts.length ? ": " + parts.join(", ") : "") + " · " +
         S.state.competitions.length + " competiciones, " + S.state.matches.length.toLocaleString("es") + " partidos.");
       return res;

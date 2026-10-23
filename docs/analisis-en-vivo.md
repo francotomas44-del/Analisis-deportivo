@@ -179,6 +179,10 @@ En `js/v2.js`, cada tarjeta de "Hoy" lleva:
 
 El bloque se repinta por partes (host `.fxl`, píldora de estado y tags de probabilidad) y el clic
 de **Detalle** es delegado a `document`, así no se pierden listeners al actualizar.
+La interfaz no muestra el nombre del proveedor: el pie de la tarjeta y la cabecera del detalle
+indican **“Datos actualizados”** cuando el modelo está disponible, y **“Datos aún no disponibles”**
+si la consulta falla o todavía no hay ficha. Mientras se consulta, el bloque dice
+**“Actualizando datos…”**.
 Cuando ESPN confirma el final, `livehoy` llama a `AD.v2.matchEnded(fk)`: la tarjeta se retira y la lista se rellena
 con el siguiente partido. Los análisis guardados del usuario no se tocan.
 
@@ -193,7 +197,7 @@ Estilos en `css/v2.css` (`.fxl*`, `.lh-*`), con estadísticas en 2 columnas en p
 
 - Las peticiones son anónimas y directas a ESPN; no se envía nada del usuario.
 - No hay claves en el código ni en el repositorio.
-- Si ESPN no responde, la tarjeta muestra "Sin datos en vivo por ahora" y reintenta; el
+- Si la API pública no responde, la tarjeta muestra "Datos aún no disponibles" y reintenta; el
   pronóstico previo y el resto de la app siguen funcionando.
 - El xG es una estimación por ubicación: no reemplaza un proveedor oficial. Para xG oficial haría
   falta una API con clave (Sportmonks, API-Football, football-data.org) y, en una web estática,
@@ -211,6 +215,9 @@ Estilos en `css/v2.css` (`.fxl*`, `.lh-*`), con estadísticas en 2 columnas en p
 - Modo previo inyectado con un partido real de ESPN: cuenta regresiva, alineaciones, historial.
 - Penal revisado: `penalty---scored`, x≈88,5, xG 0,78; roja a los 3' reflejada.
 - Goles de juego abierto (`goal`) incluidos en el xG (Monaco 3-0: 1,6 vs 2,0).
+- Estados de disponibilidad: “Datos actualizados” en tarjeta previa, detalle y modal;
+  “Datos aún no disponibles” con una ficha inexistente (HTTP 404); sin menciones de ESPN
+  en el bloque en vivo.
 - Sin desbordes horizontales; tarjeta en vivo ≈546 px de alto en escritorio (2 columnas de
   estadísticas), contra 651 px con una sola columna.
 - `node --check` en `livehoy.js`, `live.js`, `v2.js` y `sw.js`.

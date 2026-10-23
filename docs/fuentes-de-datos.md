@@ -123,6 +123,10 @@ oficial (Sportmonks, API-Football, football-data.org) requieren una **clave paga
 estática quedaría visible, así que no se incluyen. Código: `js/livehoy.js` (`AD.livehoy`).
 Detalle técnico en [`analisis-en-vivo.md`](analisis-en-vivo.md).
 
+La interfaz no repite el nombre del proveedor: muestra el estado del dato
+(**"Datos actualizados"** o **"Datos aún no disponibles"**) y, en la sección de fuentes y noticias,
+lo describe como **API pública**. La atribución detallada queda en [`atribuciones.md`](atribuciones.md).
+
 ### Base histórica ampliada (actualizada)
 
 Además del paquete original de openfootball y de la Liga Argentina, la base integrada se

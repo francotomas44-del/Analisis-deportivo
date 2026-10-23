@@ -110,7 +110,7 @@
       detail: truncate(a.description || "", 200),
       date: a.published || a.date || "",
       url: webHref(a),
-      source: "ESPN",
+      source: "Prensa",
       teams: teamCats(a)
     };
   }
@@ -122,7 +122,7 @@
       detail: truncate(c.description || img.caption || "", 200),
       date: c.date || "",
       url: (c.link && c.link.web) || "",
-      source: "ESPN",
+      source: "Prensa",
       teams: []
     };
   }
@@ -227,7 +227,7 @@
         match: matchItems,
         ok: (homeItems.length > 0 || awayItems.length > 0 || matchItems.length > 0),
         fetchedAt: new Date().toISOString(),
-        sources: ["ESPN"]
+        sources: ["Prensa"]
       };
     });
   }

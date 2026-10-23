@@ -945,7 +945,7 @@
           (prefs.arLive !== false ? " checked" : "") +
         "> Liga Argentina (en vivo)</span></label>" +
       "</div>");
-    if (anyLive) parts.push('<p class="hoy-src">Liga Profesional (Argentina) en vivo · fuente: ESPN</p>');
+    if (anyLive) parts.push('<p class="hoy-src">Liga Profesional (Argentina) en vivo · datos actualizados</p>');
 
     var lastDay = null;
     items.forEach(function (it, i) {
@@ -1040,7 +1040,7 @@
 
     var liveHost = it.act
       ? '<div class="fxl" data-fkl="' + esc(it.domId) + '"><div class="fxl-load">' +
-        '<span class="fxl-dot"></span>Consultando el partido en ESPN…</div></div>'
+        '<span class="fxl-dot"></span>Actualizando datos…</div></div>'
       : "";
 
     return '<article class="fx' + (p ? "" : " fx--nodata") + '" data-fk="' + esc(it.domId) + '">' +

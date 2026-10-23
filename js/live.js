@@ -73,7 +73,7 @@
     possessionPct: "Posesión",
     totalShots: "Tiros",
     shotsOnTarget: "Tiros al arco",
-    expectedGoals: "Goles esperados (ESPN)",
+    expectedGoals: "Goles esperados",
     wonCorners: "Córners",
     foulsCommitted: "Faltas",
     offsides: "Fueras de juego",
@@ -533,7 +533,7 @@
       '<div class="live-sheet" role="dialog" aria-modal="true" aria-labelledby="live-title" tabindex="-1">' +
         '<div class="live-head">' +
           '<div class="live-top">' +
-            '<span class="live-kicker">Partido · datos de ESPN</span>' +
+            '<span class="live-kicker">Partido</span>' +
             '<button class="live-x" type="button" data-live-close="1" aria-label="Cerrar">✕</button>' +
           "</div>" +
           '<h2 class="live-title" id="live-title">Partido</h2>' +
@@ -661,7 +661,7 @@
     var f = $("live-foot");
     if (!f) return;
     if (on) {
-      f.innerHTML = '<span class="live-loading">Consultando a ESPN…</span>';
+      f.innerHTML = '<span class="live-loading">Actualizando datos…</span>';
     }
   }
 
@@ -796,7 +796,7 @@
   function migrateNote(m) {
     return '<div class="live-empty">' +
       "<strong>Todavía no hay alineaciones publicadas.</strong>" +
-      "<p>ESPN suele publicarlas cerca del inicio del partido (alrededor de una hora antes). " +
+      "<p>Se publican cerca del inicio del partido (alrededor de una hora antes). " +
       "Cuando estén, aparecen acá automáticamente" + (m.date ? " (" + esc(whenText(m.date)) + ")" : "") + ".</p>" +
       "</div>";
   }
@@ -918,7 +918,7 @@
         "</li>");
     }
     out.push("</ul>");
-    out.push('<p class="live-hint">Más reciente primero · fuente: ESPN</p>');
+    out.push('<p class="live-hint">Más reciente primero</p>');
     return out.join("");
   }
 
@@ -1003,7 +1003,7 @@
     f.innerHTML =
       '<div class="live-meta">' +
         '<span class="live-pill ' + st.cls + '">' + esc(st.text) + "</span>" +
-        '<span class="live-src">ESPN · actualizado ' + hhmm(m.ts) + (extra ? extra : "") + note + "</span>" +
+        '<span class="live-src">Datos actualizados · ' + hhmm(m.ts) + (extra ? extra : "") + note + "</span>" +
       "</div>" +
       '<button type="button" class="btn btn-mini btn-ghost" data-live-reload="1">Actualizar</button>';
   }
@@ -1017,15 +1017,15 @@
     if ($("live-body")) {
       $("live-body").innerHTML = '<div class="live-empty">' +
         (future
-          ? "<strong>ESPN todavía no tiene la ficha de este partido.</strong>" +
-            "<p>Las fichas se publican cuando se acerca la fecha. Volvé a probar el día del partido.</p>"
-          : "<strong>No encontramos este partido en ESPN.</strong>" +
-            "<p>Puede que no esté en su catálogo. Los partidos de las ligas con cobertura " +
+          ? "<strong>Los datos de este partido todavía no están disponibles.</strong>" +
+            "<p>Se publican cuando se acerca la fecha. Volvé a probar el día del partido.</p>"
+          : "<strong>No encontramos este partido.</strong>" +
+            "<p>Puede que no esté en el catálogo de datos. Los partidos de las ligas con cobertura " +
             "(Europa, América y copas internacionales) sí suelen aparecer.</p>") +
         '<button type="button" class="btn btn-mini btn-ghost" data-live-reload="1">Volver a buscar</button>' +
         "</div>";
     }
-    if ($("live-foot")) $("live-foot").innerHTML = '<span class="live-src">Fuente: ESPN</span>';
+    if ($("live-foot")) $("live-foot").innerHTML = '<span class="live-src">Datos aún no disponibles</span>';
   }
 
   function renderError(err) {
@@ -1038,7 +1038,7 @@
         '<button type="button" class="btn btn-mini btn-ghost" data-live-reload="1">Reintentar</button>' +
         "</div>";
     }
-    if ($("live-foot")) $("live-foot").innerHTML = '<span class="live-src">Fuente: ESPN</span>';
+    if ($("live-foot")) $("live-foot").innerHTML = '<span class="live-src">Datos aún no disponibles</span>';
   }
 
   /* ---------- API pública ---------- */

@@ -91,6 +91,8 @@ muestran un bloque en vivo que se actualiza solo:
   arquero con más atajadas) y los **últimos 3 eventos**.
 - **Probabilidades 1X2 recalculadas** con el marcador y el minuto, con la variación en puntos
   respecto del pronóstico previo. También se calculan próximo gol, más de 2,5 goles y ambos marcan.
+- La tarjeta indica **“Datos actualizados”** cuando la información está disponible y
+  **“Datos aún no disponibles”** si todavía no llegó o la consulta falla.
 - Botón **Detalle**: abre la pestaña **"Análisis en vivo"** con el minuto a minuto, todas las
   estadísticas, arqueros, presión, historial y mercados.
 - Antes de empezar: **cuenta regresiva**, estado de las alineaciones e **historial** entre ambos.
